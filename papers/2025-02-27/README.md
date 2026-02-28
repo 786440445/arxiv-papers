@@ -74,8 +74,8 @@
 
 **Authors**: Hoan My Tran, Xin Wang, Wanying Ge, Xuechen Liu, Junichi Yamagishi  
 **Categories**: eess.AS, cs.SD, cs.CR  
-**Link**: https://arxiv.org/abs/2502.22255  
-**PDF**: https://arxiv.org/pdf/2502.22255.pdf  
+**Link**: https://arxiv.org/abs/2602.22658  
+**PDF**: https://arxiv.org/pdf/2602.22658.pdf  
 **Submitted**: 26 February 2025
 
 **Abstract (EN)**:

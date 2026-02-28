@@ -128,6 +128,7 @@ class ArxivMonitor:
 
         # 更新总README
         self.update_main_readme()
+        self.update_root_readme()  # 同步更新根目录README
 
         logger.info(f"Saved {len(papers)} papers to {date_dir}")
 
@@ -285,3 +286,32 @@ def main():
 
 if __name__ == '__main__':
     main()
+    def update_root_readme(self):
+        """更新项目根目录的 README.md"""
+        root_readme = Path('README.md')
+        if not root_readme.exists():
+            return
+
+        dates = sorted([d.name for d in self.output_dir.iterdir()
+                       if d.is_dir() and d.name[0].isdigit()], reverse=True)
+
+        content = "# arXiv Papers: Speech, Audio, Music\n\n"
+        content += "每日跟踪 arXiv 语音、音频、音乐相关论文。\n\n"
+
+        if dates:
+            latest = dates[0]
+            count = len(list((self.output_dir / latest).glob('*.json')))
+            content += f"## Latest\n\n- **{latest}**: [{count} papers](papers/latest/) (cs.SD, eess.AS, cs.LG, cs.AI)\n\n"
+
+        content += "## All Dates\n\n"
+        content += "| Date | Papers | View |\n"
+        content += "|------|--------|------|\n"
+
+        for date in dates[:30]:
+            count = len(list((self.output_dir / date).glob('*.json')))
+            content += f"| {date} | {count} | [📖](papers/{date}/) |\n"
+
+        with open(root_readme, 'w', encoding='utf-8') as f:
+            f.write(content)
+
+        logger.info(f"Updated root README.md")

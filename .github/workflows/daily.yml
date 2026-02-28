@@ -44,3 +44,5 @@ jobs:
         else
           echo "No new papers today"
         fi
+
+    # 注意：Feishu通知需要在本地运行 monitor 时触发，Actions 不支持

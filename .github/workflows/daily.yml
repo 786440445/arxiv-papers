@@ -1,0 +1,46 @@
+name: Daily arXiv Monitor
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 02:00 UTC = 北京时间 10:00
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        ssh-key: ${{ secrets.DEPLOY_KEY }}  # 如果使用SSH key
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run monitor
+      env:
+        # 如果使用SSH key，确保密钥已添加到secrets
+        GIT_SSH_COMMAND: 'ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no'
+      run: |
+        python arxiv_monitor.py
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        if git status --porcelain | grep -q '^'; then
+          git add .
+          git commit -m "Automated daily update: $(date +%Y-%m-%d)" || echo "No changes"
+          git push origin main
+        else
+          echo "No new papers today"
+        fi

@@ -1,0 +1,48 @@
+# arXiv监控配置
+arxiv:
+  # 监控的arXiv分类（最新论文的RSS）
+  categories:
+    - cs.SD      # Sound
+    - eess.AS    # Audio & Speech
+    - cs.LG      # Machine Learning
+    - cs.AI      # Artificial Intelligence
+
+  # 关键词过滤（大小写不敏感）
+  keywords:
+    include:
+      - speech
+      - audio
+      - music
+      - voice
+      - sound
+      - singing
+      - instrument
+      - Mel
+      - representation
+      - self-supervised
+
+    exclude:
+      - "text-to-speech"
+      - "speech recognition"
+
+  # 历史记录文件（本地）
+  seen_file: ".seen_papers.json"
+
+# GitHub配置
+github:
+  repo_url: "git@github.com:786440445/arxiv-papers.git"
+  use_ssh: true
+  branch: "main"
+  layout: "date"
+  commit_template: "Daily arXiv update: {date} ({count} papers)"
+
+# Feishu通知
+feishu:
+  target_type: "self"  # 发送给当前用户
+  format: "summary"
+  include_abstract: false
+
+# 日志
+logging:
+  level: "INFO"
+  file: "arxiv_monitor.log"

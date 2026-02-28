@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.02334v2",
+  "title": "VQ-Style: Disentangling Style and Content in Motion with Residual Quantized Representations",
+  "authors": "Fatemeh Zargarbashi, Dhruv Agrawal, Jakob Buhmann, Martin Guay, Stelian Coros, Robert W. Sumner",
+  "summary": "arXiv:2602.02334v2 Announce Type: replace-cross \nAbstract: Human motion data is inherently rich and complex, containing both semantic content and subtle stylistic features that are challenging to model. We propose a novel method for effective disentanglement of the style and content in human motion data to facilitate style transfer. Our approach is guided by the insight that content corresponds to coarse motion attributes while style captures the finer, expressive details. To model this hierarchy, we employ Residual Vector Quantized Variational Autoencoders (RVQ-VAEs) to learn a coarse-to-fine representation of motion. We further enhance the disentanglement by integrating codebook learning with contrastive learning and a novel information leakage loss to organize the content and the style across different codebooks. We harness this disentangled representation using our simple and effective inference-time technique Quantized Code Swapping, which enables motion style transfer without requiring any fine-tuning for unseen styles. Our framework demonstrates strong versatility across multiple inference applications, including style transfer, style removal, and motion blending.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.02334",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.02334v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570915"
+}

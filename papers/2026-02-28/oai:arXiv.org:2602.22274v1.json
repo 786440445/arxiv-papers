@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22274v1",
+  "title": "Positional-aware Spatio-Temporal Network for Large-Scale Traffic Prediction",
+  "authors": "Runfei Chen",
+  "summary": "arXiv:2602.22274v1 Announce Type: cross \nAbstract: Traffic flow forecasting has emerged as an indispensable mission for daily life, which is required to utilize the spatiotemporal relationship between each location within a time period under a graph structure to predict future flow. However, the large travel demand for broader geographical areas and longer time spans requires models to distinguish each node clearly and possess a holistic view of the history, which has been paid less attention to in prior works. Furthermore, increasing sizes of data hinder the deployment of most models in real application environments. To this end, in this paper, we propose a lightweight Positional-aware Spatio-Temporal Network (PASTN) to effectively capture both temporal and spatial complexities in an end-to-end manner. PASTN introduces positional-aware embeddings to separate each node's representation, while also utilizing a temporal attention module to improve the long-range perception of current models. Extensive experiments verify the effectiveness and efficiency of PASTN across datasets of various scales (county, megalopolis and state). Further analysis demonstrates the efficacy of newly introduced modules either.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22274",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22274v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.569954"
+}

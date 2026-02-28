@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22279v1",
+  "title": "Learning to reconstruct from saturated data: audio declipping and high-dynamic range imaging",
+  "authors": "Victor Sechaud, Laurent Jacques, Patrice Abry, Juli\\'an Tachella",
+  "summary": "arXiv:2602.22279v1 Announce Type: cross \nAbstract: Learning based methods are now ubiquitous for solving inverse problems, but their deployment in real-world applications is often hindered by the lack of ground truth references for training. Recent self-supervised learning strategies offer a promising alternative, avoiding the need for ground truth. However, most existing methods are limited to linear inverse problems. This work extends self-supervised learning to the non-linear problem of recovering audio and images from clipped measurements, by assuming that the signal distribution is approximately invariant to changes in amplitude. We provide sufficient conditions for learning to reconstruct from saturated signals alone and a self-supervised loss that can be used to train reconstruction networks. Experiments on both audio and image data show that the proposed approach is almost as effective as fully supervised approaches, despite relying solely on clipped measurements for training.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22279",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22279v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.569959"
+}

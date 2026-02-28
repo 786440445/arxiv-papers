@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.23135v1",
+  "title": "DyGnROLE: Modeling Asymmetry in Dynamic Graphs with Node-Role-Oriented Latent Encoding",
+  "authors": "Tyler Bonnet, Marek Rei",
+  "summary": "arXiv:2602.23135v1 Announce Type: cross \nAbstract: Real-world dynamic graphs are often directed, with source and destination nodes exhibiting asymmetrical behavioral patterns and temporal dynamics. However, existing dynamic graph architectures largely rely on shared parameters for processing source and destination nodes, with limited or no systematic role-aware modeling. We propose DyGnROLE (Dynamic Graph Node-Role-Oriented Latent Encoding), a transformer-based architecture that explicitly disentangles source and destination representations. By using separate embedding vocabularies and role-semantic positional encodings, the model captures the distinct structural and temporal contexts unique to each role. Critical to the effectiveness of these specialized embeddings in low-label regimes is a self-supervised pretraining objective we introduce: Temporal Contrastive Link Prediction (TCLP). The pretraining uses the full unlabeled interaction history to encode informative structural biases, enabling the model to learn role-specific representations without requiring annotated data. Evaluation on future edge classification demonstrates that DyGnROLE substantially outperforms a diverse set of state-of-the-art baselines, establishing role-aware modeling as an effective strategy for dynamic graph learning.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.23135",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.23135v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570447"
+}

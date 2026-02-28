@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22873v1",
+  "title": "Learning Tangent Bundles and Characteristic Classes with Autoencoder Atlases",
+  "authors": "Eduardo Paluzo-Hidalgo, Yuichi Ike",
+  "summary": "arXiv:2602.22873v1 Announce Type: cross \nAbstract: We introduce a theoretical framework that connects multi-chart autoencoders in manifold learning with the classical theory of vector bundles and characteristic classes. Rather than viewing autoencoders as producing a single global Euclidean embedding, we treat a collection of locally trained encoder-decoder pairs as a learned atlas on a manifold. We show that any reconstruction-consistent autoencoder atlas canonically defines transition maps satisfying the cocycle condition, and that linearising these transition maps yields a vector bundle coinciding with the tangent bundle when the latent dimension matches the intrinsic dimension of the manifold. This construction provides direct access to differential-topological invariants of the data. In particular, we show that the first Stiefel-Whitney class can be computed from the signs of the Jacobians of learned transition maps, yielding an algorithmic criterion for detecting orientability. We also show that non-trivial characteristic classes provide obstructions to single-chart representations, and that the minimum number of autoencoder charts is determined by the good cover structure of the manifold. Finally, we apply our methodology to low-dimensional orientable and non-orientable manifolds, as well as to a non-orientable high-dimensional image dataset.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22873",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22873v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570365"
+}

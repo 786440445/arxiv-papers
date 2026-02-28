@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.12553v2",
+  "title": "Is This Just Fantasy? Language Model Representations Reflect Human Judgments of Event Plausibility",
+  "authors": "Michael A. Lepori, Jennifer Hu, Ishita Dasgupta, Roma Patel, Thomas Serre, Ellie Pavlick",
+  "summary": "arXiv:2507.12553v2 Announce Type: replace-cross \nAbstract: Language models (LMs) are used for a diverse range of tasks, from question answering to writing fantastical stories. In order to reliably accomplish these tasks, LMs must be able to discern the modal category of a sentence (i.e., whether it describes something that is possible, impossible, completely nonsensical, etc.). However, recent studies have called into question the ability of LMs to categorize sentences according to modality (Michaelov et al., 2025; Kauf et al., 2023). In this work, we identify linear representations that discriminate between modal categories within a variety of LMs, or modal difference vectors. Analysis of modal difference vectors reveals that LMs have access to more reliable modal categorization judgments than previously reported. Furthermore, we find that modal difference vectors emerge in a consistent order as models become more competent (i.e., through training steps, layers, and parameter count). Notably, we find that modal difference vectors identified within LM activations can be used to model fine-grained human categorization behavior. This potentially provides a novel view into how human participants distinguish between modal categories, which we explore by correlating projections along modal difference vectors with human participants' ratings of interpretable features. In summary, we derive new insights into LM modal categorization using techniques from mechanistic interpretability, with the potential to inform our understanding of modal categorization in humans.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2507.12553",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.12553v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570741"
+}

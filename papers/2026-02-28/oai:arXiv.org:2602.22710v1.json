@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22710v1",
+  "title": "Same Words, Different Judgments: Modality Effects on Preference Alignment",
+  "authors": "Aaron Broukhim, Nadir Weibel, Eshin Jolly",
+  "summary": "arXiv:2602.22710v1 Announce Type: cross \nAbstract: Preference-based reinforcement learning (PbRL) is the dominant framework for aligning AI systems to human preferences, but its application to speech remains underexplored. We present a controlled cross-modal study of human and synthetic preference annotations, comparing text and audio evaluations of identical semantic content across 100 prompts. Audio preferences prove as reliable as text, with inter-rater agreement reaching good levels (ICC(2,k) $\\approx$ .80) at $\\sim$9 raters -- the first ICC-based reliability characterization in the preference annotation literature for either modality. However, modality reshapes how people judge: audio raters exhibit narrower decision thresholds, reduced length bias, and more user-oriented evaluation criteria, with near-chance cross-modality agreement. Synthetic ratings further align with human judgments and predict inter-rater agreement, supporting their use both for triaging ambiguous pairs and as full replacements for human annotations.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22710",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22710v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570278"
+}

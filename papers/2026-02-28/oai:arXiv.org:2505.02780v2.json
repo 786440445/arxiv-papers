@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.02780v2",
+  "title": "Beyond the Monitor: Mixed Reality Visualization and Multimodal AI for Enhanced Digital Pathology Workflow",
+  "authors": "Jai Prakash Veerla, Partha Sai Guttikonda, Helen H. Shang, Mohammad Sadegh Nasr, Cesar Torres, Jacob M. Luber",
+  "summary": "arXiv:2505.02780v2 Announce Type: replace-cross \nAbstract: Pathologists diagnose cancer using gigapixel whole-slide images (WSIs), but the current digital workflow is fragmented. These multiscale datasets often exceed 100,000 x 100,000 pixels, yet standard 2D monitors restrict the field of view. This disparity forces constant panning and zooming, which increases cognitive load and disrupts diagnostic momentum. We introduce PathVis, a mixed-reality platform for Apple Vision Pro that unifies this ecosystem into a single immersive environment. PathVis replaces indirect mouse navigation with embodied interaction, utilizing eye gaze, natural hand gestures, and voice commands to explore gigapixel data. The system integrates multimodal AI agents to support computer-aided diagnosis: a content-based image retrieval engine spatially displays similar patient cases for side-by-side prognostic comparison, while a conversational assistant provides real-time interpretation. By merging immersive visualization with integrated AI capabilities, PathVis shows promise in streamlining diagnostic workflows and mitigating the burden of context switching. This paper presents the system architecture and a preliminary qualitative evaluation demonstrating the platform's feasibility. The PathVis source code and a demo video are publicly available at: https://github.com/jaiprakash1824/Path_Vis.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2505.02780",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.02780v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570717"
+}

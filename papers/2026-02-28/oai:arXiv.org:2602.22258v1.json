@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22258v1",
+  "title": "Poisoned Acoustics",
+  "authors": "Harrison Dahme",
+  "summary": "arXiv:2602.22258v1 Announce Type: cross \nAbstract: Training-data poisoning attacks can induce targeted, undetectable failure in deep neural networks by corrupting a vanishingly small fraction of training labels. We demonstrate this on acoustic vehicle classification using the MELAUDIS urban intersection dataset (approx. 9,600 audio clips, 6 classes): a compact 2-D convolutional neural network (CNN) trained on log-mel spectrograms achieves 95.7% Attack Success Rate (ASR) -- the fraction of target-class test samples misclassified under the attack -- on a Truck-to-Car label-flipping attack at just p=0.5% corruption (48 records), with zero detectable change in aggregate accuracy (87.6% baseline; 95% CI: 88-100%, n=3 seeds). We prove this stealth is structural: the maximum accuracy drop from a complete targeted attack is bounded above by the minority class fraction (beta). For real-world class imbalances (Truck approx. 3%), this bound falls below training-run noise, making aggregate accuracy monitoring provably insufficient regardless of architecture or attack method. A companion backdoor trigger attack reveals a novel trigger-dominance collapse: when the target class is a dataset minority, the spectrogram patch trigger becomes functionally redundant--clean ASR equals triggered ASR, and the attack degenerates to pure label flipping. We formalize the ML training pipeline as an attack surface and propose a trust-minimized defense combining content-addressed artifact hashing, Merkle-tree dataset commitment, and post-quantum digital signatures (ML-DSA-65/CRYSTALS-Dilithium3, NIST FIPS 204) for cryptographically verifiable data provenance.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22258",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22258v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.569944"
+}

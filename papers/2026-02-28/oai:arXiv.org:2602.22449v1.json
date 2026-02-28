@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22449v1",
+  "title": "A Fusion of context-aware based BanglaBERT and Two-Layer Stacked LSTM Framework for Multi-Label Cyberbullying Detection",
+  "authors": "Mirza Raquib, Asif Pervez Polok, Kedar Nath Biswas, Rahat Uddin Azad, Saydul Akbar Murad, Nick Rahimi",
+  "summary": "arXiv:2602.22449v1 Announce Type: cross \nAbstract: Cyberbullying has become a serious and growing concern in todays virtual world. When left unnoticed, it can have adverse consequences for social and mental health. Researchers have explored various types of cyberbullying, but most approaches use single-label classification, assuming that each comment contains only one type of abuse. In reality, a single comment may include overlapping forms such as threats, hate speech, and harassment. Therefore, multilabel detection is both realistic and essential. However, multilabel cyberbullying detection has received limited attention, especially in low-resource languages like Bangla, where robust pre-trained models are scarce. Developing a generalized model with moderate accuracy remains challenging. Transformers offer strong contextual understanding but may miss sequential dependencies, while LSTM models capture temporal flow but lack semantic depth. To address these limitations, we propose a fusion architecture that combines BanglaBERT-Large with a two-layer stacked LSTM. We analyze their behavior to jointly model context and sequence. The model is fine-tuned and evaluated on a publicly available multilabel Bangla cyberbullying dataset covering cyberbully, sexual harassment, threat, and spam. We apply different sampling strategies to address class imbalance. Evaluation uses multiple metrics, including accuracy, precision, recall, F1-score, Hamming loss, Cohens kappa, and AUC-ROC. We employ 5-fold cross-validation to assess the generalization of the architecture.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22449",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22449v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570089"
+}

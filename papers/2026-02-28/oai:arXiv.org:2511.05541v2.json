@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.05541v2",
+  "title": "Temporal Sparse Autoencoders: Leveraging the Sequential Nature of Language for Interpretability",
+  "authors": "Usha Bhalla, Alex Oesterling, Claudio Mayrink Verdun, Himabindu Lakkaraju, Flavio P. Calmon",
+  "summary": "arXiv:2511.05541v2 Announce Type: replace-cross \nAbstract: Translating the internal representations and computations of models into concepts that humans can understand is a key goal of interpretability. While recent dictionary learning methods such as Sparse Autoencoders (SAEs) provide a promising route to discover human-interpretable features, they often only recover token-specific, noisy, or highly local concepts. We argue that this limitation stems from neglecting the temporal structure of language, where semantic content typically evolves smoothly over sequences. Building on this insight, we introduce Temporal Sparse Autoencoders (T-SAEs), which incorporate a novel contrastive loss encouraging consistent activations of high-level features over adjacent tokens. This simple yet powerful modification enables SAEs to disentangle semantic from syntactic features in a self-supervised manner. Across multiple datasets and models, T-SAEs recover smoother, more coherent semantic concepts without sacrificing reconstruction quality. Strikingly, they exhibit clear semantic structure despite being trained without explicit semantic signal, offering a new pathway for unsupervised interpretability in language models.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2511.05541",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.05541v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570839"
+}

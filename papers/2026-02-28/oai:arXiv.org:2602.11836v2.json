@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.11836v2",
+  "title": "ULTRA:Urdu Language Transformer-based Recommendation Architecture",
+  "authors": "Alishbah Bashir, Fatima Qaiser, Ijaz Hussain",
+  "summary": "arXiv:2602.11836v2 Announce Type: replace-cross \nAbstract: Urdu, as a low-resource language, lacks effective semantic content recommendation systems, particularly in the domain of personalized news retrieval. Existing approaches largely rely on lexical matching or language-agnostic techniques, which struggle to capture semantic intent and perform poorly under varying query lengths and information needs. This limitation results in reduced relevance and adaptability in Urdu content recommendation. We propose ULTRA (Urdu Language Transformer-based Recommendation Architecture),an adaptive semantic recommendation framework designed to address these challenges. ULTRA introduces a dual-embedding architecture with a query-length aware routing mechanism that dynamically distinguishes between short, intent-focused queries and longer, context-rich queries. Based on a threshold-driven decision process, user queries are routed to specialized semantic pipelines optimized for either title/headline-level or full-content/document level representations, ensuring appropriate semantic granularity during retrieval. The proposed system leverages transformer-based embeddings and optimized pooling strategies to move beyond surface-level keyword matching and enable context-aware similarity search. Extensive experiments conducted on a large-scale Urdu news corpus demonstrate that the proposed architecture consistently improves recommendation relevance across diverse query types. Results show gains in precision above 90% compared to single-pipeline baselines, highlighting the effectiveness of query-adaptive semantic alignment for low-resource languages. The findings establish ULTRA as a robust and generalizable content recommendation architecture, offering practical design insights for semantic retrieval systems in low-resource language settings.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.11836",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.11836v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570924"
+}

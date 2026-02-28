@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22367v1",
+  "title": "Learning geometry-dependent lead-field operators for forward ECG modeling",
+  "authors": "Arsenii Dokuchaev, Francesca Bonizzoni, Stefano Pagani, Francesco Regazzoni, Simone Pezzuto",
+  "summary": "arXiv:2602.22367v1 Announce Type: cross \nAbstract: Modern forward electrocardiogram (ECG) computational models rely on an accurate representation of the torso domain. The lead-field method enables fast ECG simulations while preserving full geometric fidelity. Achieving high anatomical accuracy in torso representation is, however, challenging in clinical practice, as imaging protocols are typically focused on the heart and often do not include the entire torso. In addition, the computational cost of the lead-field method scales linearly with the number of electrodes, limiting its applicability in high-density recording settings. To date, no existing approach simultaneously achieves high anatomical fidelity, low data requirements and computational efficiency. In this work, we propose a shape-informed surrogate model of the lead-field operator that serves as a drop-in replacement for the full-order model in forward ECG simulations. The proposed framework consists of two components: a geometry-encoding module that maps anatomical shapes into a low-dimensional latent space, and a geometry-conditioned neural surrogate that predicts lead-field gradients from spatial coordinates, electrode positions and latent codes. The proposed method achieves high accuracy in approximating lead fields both within the torso (mean angular error 5{\\deg}) and inside the heart, resulting in highly accurate ECG simulations (relative mean squared error <2.5%. The surrogate consistently outperforms the widely used pseudo lead-field approximation while preserving negligible inference cost. Owing to its compact latent representation, the method does not require a fully detailed torso segmentation and can therefore be deployed in data-limited settings while preserving high-fidelity ECG simulations.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22367",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22367v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570032"
+}

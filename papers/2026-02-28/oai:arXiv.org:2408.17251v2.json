@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2408.17251v2",
+  "title": "Abstracted Gaussian Prototypes for True One-Shot Concept Learning",
+  "authors": "Chelsea Zou, Kenneth J. Kurtz",
+  "summary": "arXiv:2408.17251v2 Announce Type: replace-cross \nAbstract: We introduce a cluster-based generative image segmentation framework to encode higher-level representations of visual concepts based on one-shot learning inspired by the Omniglot Challenge. The inferred parameters of each component of a Gaussian Mixture Model (GMM) represent a distinct topological subpart of a visual concept. Sampling new data from these parameters generates augmented subparts to build a more robust prototype for each concept, i.e., the Abstracted Gaussian Prototype (AGP). This framework addresses one-shot classification tasks using a cognitively-inspired similarity metric and addresses one-shot generative tasks through a novel AGP-VAE pipeline employing variational autoencoders (VAEs) to generate new class variants. Results from human judges reveal that the generative pipeline produces novel examples and classes of visual concepts that are broadly indistinguishable from those made by humans. The proposed framework leads to impressive, but not state-of-the-art, classification accuracy; thus, the contribution is two-fold: 1) the system is low in theoretical and computational complexity yet achieves the standard of 'true' one-shot learning by operating in a fully standalone manner unlike existing approaches that draw heavily on pre-training or knowledge engineering; and 2) in contrast with existing neural network approaches, the AGP approach addresses the importance of broad task capability emphasized in the Omniglot challenge (successful performance on classification and generative tasks). These two points are critical in advancing our understanding of how learning and reasoning systems can produce viable, robust, and flexible concepts based on literally no more than a single example.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2408.17251",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2408.17251v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570657"
+}

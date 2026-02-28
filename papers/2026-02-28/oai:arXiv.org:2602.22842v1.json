@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22842v1",
+  "title": "The AI Research Assistant: Promise, Peril, and a Proof of Concept",
+  "authors": "Tan Bui-Thanh",
+  "summary": "arXiv:2602.22842v1 Announce Type: new \nAbstract: Can artificial intelligence truly contribute to creative mathematical research, or does it merely automate routine calculations while introducing risks of error? We provide empirical evidence through a detailed case study: the discovery of novel error representations and bounds for Hermite quadrature rules via systematic human-AI collaboration.\n  Working with multiple AI assistants, we extended results beyond what manual work achieved, formulating and proving several theorems with AI assistance. The collaboration revealed both remarkable capabilities and critical limitations. AI excelled at algebraic manipulation, systematic proof exploration, literature synthesis, and LaTeX preparation. However, every step required rigorous human verification, mathematical intuition for problem formulation, and strategic direction.\n  We document the complete research workflow with unusual transparency, revealing patterns in successful human-AI mathematical collaboration and identifying failure modes researchers must anticipate. Our experience suggests that, when used with appropriate skepticism and verification protocols, AI tools can meaningfully accelerate mathematical discovery while demanding careful human oversight and deep domain expertise.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22842",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22842v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.569680"
+}

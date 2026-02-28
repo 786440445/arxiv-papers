@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22231v1",
+  "title": "FM-RME: Foundation Model Empowered Radio Map Estimation",
+  "authors": "Dong Yang, Yue Wang, Songyang Zhang, Yingshu Li, Zhipeng Cai, Zhi Tian",
+  "summary": "arXiv:2602.22231v1 Announce Type: cross \nAbstract: Traditional radio map estimation (RME) techniques fail to capture multi-dimensional and dynamic characteristics of complex spectrum environments. Recent data-driven methods achieve accurate RME in spatial domain, but ignore physical prior knowledge of radio propagation, limiting data efficiency especially in multi-dimensional scenarios. To overcome such limitations, we propose a new foundation model, characterized by self-supervised pre-training on diverse data for zero-shot generalization, enabling multi-dimensional radio map estimation (FM-RME). Specifically, FM-RME builds an effective synergy of two core components: a geometry-aware feature extraction module that encodes physical propagation symmetries, i.e., translation and rotation invariance, as inductive bias, and an attention-based neural network that learns long-range correlations across the spatial-temporal-spectral domains. A masked self-supervised multi-dimensional pre-training strategy is further developed to learn generalizable spectrum representations across diverse wireless environments. Once pre-trained, FM-RME supports zero-shot inference for multi-dimensional RME, including spatial, temporal, and spectral estimation, without scenario-specific retraining. Simulation results verify that FM-RME exhibits desired learning performance across diverse datasets and zero-shot generalization capabilities beyond existing RME methods.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22231",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22231v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.569896"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.20723v2",
+  "title": "Modality-Guided Mixture of Graph Experts with Entropy-Triggered Routing for Multimodal Recommendation",
+  "authors": "Ji Dai, Quan Fang, Dengsheng Cai",
+  "summary": "arXiv:2602.20723v2 Announce Type: replace \nAbstract: Multimodal recommendation enhances ranking by integrating user-item interactions with item content, which is particularly effective under sparse feedback and long-tail distributions. However, multimodal signals are inherently heterogeneous and can conflict in specific contexts, making effective fusion both crucial and challenging. Existing approaches often rely on shared fusion pathways, leading to entangled representations and modality imbalance. To address these issues, we propose MAGNET, a Modality-Guided Mixture of Adaptive Graph Experts Network with Progressive Entropy-Triggered Routing for Multimodal Recommendation, designed to enhance controllability, stability, and interpretability in multimodal fusion. MAGNET couples interaction-conditioned expert routing with structure-aware graph augmentation, so that both what to fuse and how to fuse are explicitly controlled and interpretable. At the representation level, a dual-view graph learning module augments the interaction graph with content-induced edges, improving coverage for sparse and long-tail items while preserving collaborative structure via parallel encoding and lightweight fusion. At the fusion level, MAGNET employs structured experts with explicit modality roles-dominant, balanced, and complementary-enabling a more interpretable and adaptive combination of behavioral, visual, and textual cues. To further stabilize sparse routing and prevent expert collapse, we introduce a two-stage entropy-weighting mechanism that monitors routing entropy. This mechanism automatically transitions training from an early coverage-oriented regime to a later specialization-oriented regime, progressively balancing expert utilization and routing confidence. Extensive experiments on public benchmarks demonstrate consistent improvements over strong baselines.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.20723",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.20723v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570636"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22469v1",
+  "title": "Beyond Dominant Patches: Spatial Credit Redistribution For Grounded Vision-Language Models",
+  "authors": "Niamul Hassan Samin, Md Arifur Rahman, Abdullah Ibne Hanif, Juena Ahmed Noshin, Md Ashikur Rahman",
+  "summary": "arXiv:2602.22469v1 Announce Type: cross \nAbstract: Vision-language models (VLMs) frequently hallucinate objects absent from the input image. We trace this failure to spatial credit collapse: activation credit concentrating on sparse visual patches in early transformer layers, which suppresses contextual evidence and increases reliance on language priors. We introduce Spatial Credit Redistribution (SCR), a training-free inference-time intervention that redistributes hidden-state activation from high-attention source patches to their context, guided by low-entropy inputs. We evaluate six model families (Chameleon, LLaVA, and Qwen, including both Qwen-VL and Qwen2-VL) at scales of 7B, 13B, and 30B, on POPE and CHAIR benchmarks. SCR reduces hallucination by ~4.7-6.0 percentage points on POPE-Adversarial, cuts CHAIR-s by 3.7-5.2 percentage points (42-51 percent relative), and CHAIR-i by 2.7-4.4 percentage points (44-58 percent relative), and preserves CIDEr within 0.8 percentage points. Gains are largest for low-entropy inputs, consistent with the theoretical framework. SCR incurs only 43-56 ms overhead (small models: +43-46 ms; large models: +54-56 ms), roughly 3-6 times lower than OPERA and VCD and 1.3-1.7 times lower than OVCD (+72 ms), while Pareto-dominating all three on both hallucination rate and CIDEr, making it practical for real-time settings. A controlled ablation confirms that attention-guided source selection is essential: replacing it with uniform random selection reduces hallucination rate gains from ~4.7-6.0 percentage points to only ~2.6-3.4 percentage points, pointing to credit-collapse as the key driver.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22469",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22469v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570106"
+}

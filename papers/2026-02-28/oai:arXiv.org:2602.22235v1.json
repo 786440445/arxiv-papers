@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22235v1",
+  "title": "Unsupervised Denoising of Diffusion-Weighted Images with Bias and Variance Corrected Noise Modeling",
+  "authors": "Jine Xie, Zhicheng Zhang, Yunwei Chen, Yanqiu Feng, Xinyuan Zhang",
+  "summary": "arXiv:2602.22235v1 Announce Type: cross \nAbstract: Diffusion magnetic resonance imaging (dMRI) plays a vital role in both clinical diagnostics and neuroscience research. However, its inherently low signal-to-noise ratio (SNR), especially under high diffusion weighting, significantly degrades image quality and impairs downstream analysis. Recent self-supervised and unsupervised denoising methods offer a practical solution by enhancing image quality without requiring clean references. However, most of these methods do not explicitly account for the non-Gaussian noise characteristics commonly present in dMRI magnitude data during the supervised learning process, potentially leading to systematic bias and heteroscedastic variance, particularly under low-SNR conditions. To overcome this limitation, we introduce noise-corrected training objectives that explicitly model Rician statistics. Specifically, we propose two alternative loss functions: one derived from the first-order moment to remove mean bias, and another from the second-order moment to correct squared-signal bias. Both losses include adaptive weighting to account for variance heterogeneity and can be used without changing the network architecture. These objectives are instantiated in an image-specific, unsupervised Deep Image Prior (DIP) framework. Comprehensive experiments on simulated and in-vivo dMRI show that the proposed losses effectively reduce Rician bias and suppress noise fluctuations, yielding higher image quality and more reliable diffusion metrics than state-of-the-art denoising baselines. These results underscore the importance of bias- and variance-aware noise modeling for robust dMRI analysis under low-SNR conditions.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2602.22235",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22235v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.569901"
+}

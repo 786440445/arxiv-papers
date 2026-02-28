@@ -38,7 +38,8 @@ class ArxivMonitor:
         """加载已处理的论文ID"""
         if self.seen_file.exists():
             try:
-                return set(json.load(open(self.seen_file, 'r', encoding='utf-8')))
+                with open(self.seen_file, 'r', encoding='utf-8') as f:
+                    return set(json.load(f))
             except Exception as e:
                 logger.warning(f"Failed to load seen file: {e}")
                 return set()
@@ -47,7 +48,8 @@ class ArxivMonitor:
     def save_seen(self):
         """保存已处理ID"""
         self.seen_file.parent.mkdir(parents=True, exist_ok=True)
-        json.dump(list(self.seen_ids), open(self.seen_file, 'w', indent=2, ensure_ascii=False))
+        with open(self.seen_file, 'w', encoding='utf-8') as f:
+            json.dump(list(self.seen_ids), f, indent=2, ensure_ascii=False)
 
     def fetch_rss(self, category):
         """从arXiv RSS获取论文"""
@@ -122,7 +124,8 @@ class ArxivMonitor:
         # 保存单篇JSON
         for p in papers:
             json_path = date_dir / f"{p['id']}.json"
-            json.dump(p, open(json_path, 'w', indent=2, ensure_ascii=False))
+            with open(json_path, 'w', encoding='utf-8') as f:
+                json.dump(p, f, indent=2, ensure_ascii=False)
 
         # 生成README.md
         readme = self.generate_readme(papers, date_str)
@@ -212,9 +215,9 @@ class ArxivMonitor:
                 return False
 
             # 添加文件
-            subprocess.run(['git', 'add', 'papers/'], check=True, cwd='.')
-            subprocess.run(['git', 'add', '.seen_papers.json'], check=True, cwd='.')
-            subprocess.run(['git', 'add', 'README.md'], check=True, cwd='.')
+            subprocess.run(['git', 'add', 'papers/'], check=True, cwd=str(self.output_dir.parent))
+            subprocess.run(['git', 'add', '.seen_papers.json'], check=True, cwd=str(self.output_dir.parent))
+            subprocess.run(['git', 'add', 'README.md'], check=True, cwd=str(self.output_dir.parent))
 
             # 提交
             commit_msg = self.config['github']['commit_template'].format(

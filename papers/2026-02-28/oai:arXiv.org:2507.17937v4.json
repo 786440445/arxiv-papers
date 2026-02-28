@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.17937v4",
+  "title": "Bob's Confetti: Phonetic Memorization Attacks in Music and Video Generation",
+  "authors": "Jaechul Roh, Zachary Novack, Yuefeng Peng, Niloofar Mireshghallah, Taylor Berg-Kirkpatrick, Amir Houmansadr",
+  "summary": "arXiv:2507.17937v4 Announce Type: replace-cross \nAbstract: Generative AI systems for music and video commonly use text-based filters to prevent regurgitation of copyrighted material. We expose a significant vulnerability in this approach by introducing Adversarial PhoneTic Prompting (APT), a novel attack that bypasses these safeguards by exploiting phonetic memorization--the tendency of models to bind sub-lexical acoustic patterns (phonemes, rhyme, stress, cadence) to memorized copyrighted content. APT replaces iconic lyrics with homophonic but semantically unrelated alternatives (e.g., \"mom's spaghetti\" becomes \"Bob's confetti\"), preserving phonetic structure while evading lexical filters. We evaluate APT on leading lyrics-to-song models (Suno, YuE) across English and Korean songs spanning rap, pop, and K-pop. APT achieves 91% average similarity to copyrighted originals, versus 13.7% for random lyrics and 42.2% for semantic paraphrases. Embedding analysis confirms the mechanism: YuE's text encoder treats APT-modified lyrics as near-identical to originals (cosine similarity 0.90) while Sentence-BERT semantic similarity drops to 0.71, showing the model encodes phonetic structure over meaning. This vulnerability extends cross-modally--Veo 3 reconstructs visual scenes from original music videos when prompted with APT lyrics alone, despite no visual cues in the prompt. We further show that phonetic-semantic defense signatures fail, as APT prompts exhibit higher semantic similarity than benign paraphrases. Our findings reveal that sub-lexical acoustic structure acts as a cross-modal retrieval key, rendering current copyright filters systematically vulnerable. Demo examples are available at https://jrohsc.github.io/music_attack/.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2507.17937",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.17937v4.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570757"
+}

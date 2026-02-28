@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.18231v3",
+  "title": "Rethinking Cross-Modal Fine-Tuning: Optimizing the Interaction between Feature Alignment and Target Fitting",
+  "authors": "Trong Khiem Tran, Manh Cuong Dao, Phi Le Nguyen, Thao Nguyen Truong, Trong Nghia Hoang",
+  "summary": "arXiv:2601.18231v3 Announce Type: replace-cross \nAbstract: Adapting pre-trained models to unseen feature modalities has become increasingly important due to the growing need for cross-disciplinary knowledge integration. A key challenge here is how to align the representation of new modalities with the most relevant parts of the pre-trained model's representation space to enable accurate knowledge transfer. This requires combining feature alignment with target fine-tuning, but uncalibrated combinations can exacerbate misalignment between the source and target feature-label structures and reduce target generalization. Existing work, however, lacks a theoretical understanding of this critical interaction between feature alignment and target fitting. To bridge this gap, we develop a principled framework that establishes a provable generalization bound on the target error, which explains the interaction between feature alignment and target fitting through a novel concept of feature-label distortion. This bound offers actionable insights into how this interaction should be optimized for practical algorithm design. The resulting approach achieves significantly improved performance over state-of-the-art methods across a wide range of benchmark datasets.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2601.18231",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.18231v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570901"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.19792v2",
+  "title": "Types of Relations: Defining Analogies with Category Theory",
+  "authors": "Claire Ott, Frank J\\\"akel",
+  "summary": "arXiv:2505.19792v2 Announce Type: replace \nAbstract: In order to behave intelligently both humans and machines have to represent their knowledge adequately for how it is used. Humans often use analogies to transfer their knowledge to new domains, or help others with this transfer via explanations. Hence, an important question is: What representation can be used to construct, find, and evaluate analogies? In this paper, we study features of a domain that are important for constructing analogies. We do so by formalizing knowledge domains as categories. We use the well-known example of the analogy between the solar system and the hydrogen atom to demonstrate how to construct domain categories. We also show how functors, pullbacks, and pushouts can be used to define an analogy, describe its core and a corresponding blend of the underlying domains.",
+  "published": "Sat, 28 Feb 2026 00:00:00 -0500",
+  "link": "https://arxiv.org/abs/2505.19792",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.19792v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-02-28T17:35:25.570571"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2010.01388v2",
+  "title": "Online Neural Networks for Change-Point Detection",
+  "authors": "Mikhail Hushchyn, Kenenbek Arzymatov, Denis Derkach",
+  "summary": "arXiv:2010.01388v2 Announce Type: replace \nAbstract: Moments when a time series changes its behavior are called change points. Occurrence of change point implies that the state of the system is altered and its timely detection might help to prevent unwanted consequences. In this paper, we present two change-point detection approaches based on neural networks and online learning. These algorithms demonstrate linear computational complexity and are suitable for change-point detection in large time series. We compare them with the best known algorithms on various synthetic and real world data sets. Experiments show that the proposed methods outperform known approaches. We also prove the convergence of the algorithms to the optimal solutions and describe conditions rendering current approach more powerful than offline one.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2010.01388",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2010.01388v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019202"
+}

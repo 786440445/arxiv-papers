@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07471v1",
+  "title": "Towards Lightweight Adaptation of Speech Enhancement Models in Real-World Environments",
+  "authors": "Longbiao Cheng, Shih-Chii Liu",
+  "summary": "arXiv:2603.07471v1 Announce Type: cross \nAbstract: Recent studies have shown that post-deployment adaptation can improve the robustness of speech enhancement models in unseen noise conditions. However, existing methods often incur prohibitive computational and memory costs, limiting their suitability for on-device deployment. In this work, we investigate model adaptation in realistic settings with dynamic acoustic scene changes and propose a lightweight framework that augments a frozen backbone with low-rank adapters updated via self-supervised training. Experiments on sequential scene evaluations spanning 111 environments across 37 noise types and three signal-to-noise ratio ranges, including the challenging [-8, 0] dB range, show that our method updates fewer than 1% of the base model's parameters while achieving an average 1.51 dB SI-SDR improvement within only 20 updates per scene. Compared to state-of-the-art approaches, our framework achieves competitive or superior perceptual quality with smoother and more stable convergence, demonstrating its practicality for lightweight on-device adaptation of speech enhancement models under real-world acoustic conditions.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07471",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07471v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074426"
+}

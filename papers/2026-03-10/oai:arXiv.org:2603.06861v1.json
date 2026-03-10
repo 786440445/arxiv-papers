@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06861v1",
+  "title": "IGLU: The Integrated Gaussian Linear Unit Activation Function",
+  "authors": "Mingi Kang, Zai Yang, Jeova Farias Sales Rocha Neto",
+  "summary": "arXiv:2603.06861v1 Announce Type: new \nAbstract: Activation functions are fundamental to deep neural networks, governing gradient flow, optimization stability, and representational capacity. Within historic deep architectures, while ReLU has been the dominant choice for the activation function, modern transformer-based models increasingly are adopting smoother alternatives such as GELU and other self-gated alternatives. Despite their empirical success, the mathematical relationships among these functions and the principles underlying their effectiveness remains only partially understood. We introduce IGLU, a parametric activation function derived as a scale mixture of GELU gates under a half-normal mixing distribution. This derivation yields a closed-form expression whose gating component is exactly the Cauchy CDF, providing a principled one-parameter family that continuously interpolates between identity-like and ReLU-like behavior via a single sharpness parameter $\\sigma$. Unlike GELU's Gaussian gate, IGLU's heavy-tailed Cauchy gate decays polynomially in the negative tail, guaranteeing non-zero gradients for all finite inputs and offering greater robustness to vanishing gradients. We further introduce IGLU-Approx, a computationally efficient rational approximation of IGLU expressed entirely in terms of ReLU operations that eliminates transcendental function evaluation. Through evaluations on CIFAR-10, CIFAR-100, and WikiText-103 across ResNet-20, ViT-Tiny, and GPT-2 Small, IGLU achieves competitive or superior performance on both vision and language datasets against ReLU and GELU baselines, with IGLU-Approx recovering this performance at substantially reduced computational cost. In particular, we show that employing a heavy-tailed gate leads to considerable performance gains in heavily imbalanced classification datasets.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06861",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06861v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017486"
+}

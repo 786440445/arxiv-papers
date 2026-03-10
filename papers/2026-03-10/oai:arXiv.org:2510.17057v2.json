@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.17057v2",
+  "title": "The Ends Justify the Thoughts: RL-Induced Motivated Reasoning in LLM CoTs",
+  "authors": "Nikolaus Howe, Micah Carroll",
+  "summary": "arXiv:2510.17057v2 Announce Type: replace \nAbstract: Chain-of-Thought (CoT) monitoring has emerged as a compelling method for detecting harmful behaviors such as reward hacking for reasoning models, under the assumption that models' reasoning processes are informative of such behaviors. In practice, LLM training often produces unintended behaviors due to imperfect reward signals, leading models to develop misaligned tendencies. A common corrective approach is to apply post-hoc instructions to avoid problematic behaviors, but what happens to the model's reasoning process when these instructions conflict with learned behaviors? We investigate this question in simple settings and find that models engage in systematic motivated reasoning -- generating plausible-sounding justifications for violating their instructions while downplaying potential harms or contradictions. Concerningly, we find that as motivated reasoning becomes more prevalent over the course of training, an 8B-parameter CoT monitor is increasingly fooled by the motivated reasoning, being persuaded to judge the answer as following the constitution, despite correctly identifying the answer as contradicting the constitution when not provided with the model's reasoning trace. While we find that large frontier reasoning models closely track human ability in detecting motivated reasoning, this should not give us too much solace, as frontier model developers rely on smaller models for monitoring due to their low latency and deployment costs. Our results underscore the necessity for further research into the emergence and detection of motivated reasoning in model evaluation and oversight. Code for this paper is available at https://github.com/nikihowe/motivated-reasoning. WARNING: some examples in this paper may be upsetting.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.17057",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.17057v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019595"
+}

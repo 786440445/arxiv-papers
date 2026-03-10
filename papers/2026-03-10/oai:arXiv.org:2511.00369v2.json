@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.00369v2",
+  "title": "Balancing Interpretability and Performance in Motor Imagery EEG Classification: A Comparative Study of ANFIS-FBCSP-PSO and EEGNet",
+  "authors": "Farjana Aktar, Mohd Ruhul Ameen, Akif Islam, Md Ekramul Hamid",
+  "summary": "arXiv:2511.00369v2 Announce Type: replace \nAbstract: Achieving both accurate and interpretable classification of motor-imagery EEG remains a key challenge in brain-computer interface (BCI) research. In this paper, we compare a transparent fuzzy-reasoning approach (ANFIS-FBCSP-PSO) with a well-known deep-learning benchmark (EEGNet) using the publicly available BCI Competition IV-2a dataset. The ANFIS pipeline combines filter-bank common spatial pattern feature extraction with fuzzy IF-THEN rules optimized via particle-swarm optimization, while EEGNet learns hierarchical spatial-temporal representations directly from raw EEG data. In within-subject experiments, the fuzzy-neural model performed better (68.58% +/- 13.76% accuracy, kappa = 58.04% +/- 18.43), while in cross-subject (LOSO) tests, the deep model exhibited stronger generalization (68.20% +/- 12.13% accuracy, kappa = 57.33% +/- 16.22). The study therefore provides practical guidance for selecting MI-BCI systems according to the design goal: interpretability or robustness across users. Future investigations into transformer-based and hybrid neuro-symbolic frameworks are expected to further advance transparent EEG decoding.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.00369",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.00369v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019632"
+}

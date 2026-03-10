@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06676v1",
+  "title": "XAI and Few-shot-based Hybrid Classification Model for Plant Leaf Disease Prognosis",
+  "authors": "Diana Susan Joseph, Pranav M Pawar, Raja Muthalagu, Mithun Mukharjee",
+  "summary": "arXiv:2603.06676v1 Announce Type: cross \nAbstract: Performing a timely and accurate identification of crop diseases is vital to maintain agricultural productivity and food security. The current work presents a hybrid few-shot learning model that integrates Explainable Artificial Intelligence (XAI) and Few-Shot Learning (FSL) to address the challenge of identifying and classifying the stages of disease of the diseases of maize, rice, and wheat leaves under limited annotated data conditions. The proposed model integrates Siamese and Prototypical Networks within an episodic training paradigm to effectively learn discriminative disease features from a few examples. To ensure model transparency and trustworthiness, Gradient-weighted Class Activation Mapping (Grad-CAM) is employed for visualizing key decision regions in the leaf images, offering interpretable insights into the classification process. Experimental evaluations on custom few-shot datasets developed in the study prove that the model consistently achieves high accuracy, precision, recall, and F1-scores, frequently exceeding 92% across various disease stages. Comparative analyses against baseline FSL models further confirm the superior performance and explainability of the proposed approach. The framework offers a promising solution for real-world, data-constrained agricultural disease monitoring applications.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06676",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06676v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018499"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07299v1",
+  "title": "Spectral Discovery of Continuous Symmetries via Generalized Fourier Transforms",
+  "authors": "Pavan Karjol, Kumar Shubham, Prathosh AP",
+  "summary": "arXiv:2603.07299v1 Announce Type: new \nAbstract: Continuous symmetries are fundamental to many scientific and learning problems, yet they are often unknown a priori. Existing symmetry discovery approaches typically search directly in the space of transformation generators or rely on learned augmentation schemes. We propose a fundamentally different perspective based on spectral structure.\n  We introduce a framework for discovering continuous one-parameter subgroups using the Generalized Fourier Transform (GFT). Our central observation is that invariance to a subgroup induces structured sparsity in the spectral decomposition of a function across irreducible representations. Instead of optimizing over generators, we detect symmetries by identifying this induced sparsity pattern in the spectral domain.\n  We develop symmetry detection procedures on maximal tori, where the GFT reduces to multi-dimensional Fourier analysis through their irreducible representations. Across structured tasks, including the double pendulum and top quark tagging, we demonstrate that spectral sparsity reliably reveals one-parameter symmetries. These results position spectral analysis as a principled and interpretable alternative to generator-based symmetry discovery.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07299",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07299v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017703"
+}

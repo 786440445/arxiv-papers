@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.16945v2",
+  "title": "DroFiT: A Lightweight Band-fused Frequency Attention Toward Real-time UAV Speech Enhancement",
+  "authors": "Jeongmin Lee, Chanhong Jeon, Hyungjoo Seo, Taewook Kang",
+  "summary": "arXiv:2509.16945v2 Announce Type: replace-cross \nAbstract: This paper proposes DroFiT (Drone Frequency lightweight Transformer for speech enhancement, a single microphone speech enhancement network for severe drone self-noise. DroFit integrates a frequency-wise Transformer with a full/sub-band hybrid encoder-decoder and a TCN back-end for memory-efficient streaming. A learnable skip-and-gate fusion with a combined spectral-temporal loss further refines reconstruction. The model is trained on VoiceBank-DEMAND mixed with recorded drone noise (-5 to -25 dB SNR) and evaluate using standard speech enhancement metrics and computational efficiency. Experimental results show that DroFiT achieves competitive enhancement performance while significantly reducing computational and memory demands, paving the way for real-time processing on resource-constrained UAV platforms. Audio demo samples are available on our demo page.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.16945",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.16945v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074522"
+}

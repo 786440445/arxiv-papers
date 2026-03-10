@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.15895v2",
+  "title": "Understand Then Memory: A Cognitive Gist-Driven RAG Framework with Global Semantic Diffusion",
+  "authors": "Pengcheng Zhou, Haochen Li, Zhiqiang Nie, JiaLe Chen, Qing Gong, Weizhen Zhang, Chun Yu",
+  "summary": "arXiv:2602.15895v2 Announce Type: replace-cross \nAbstract: Retrieval-Augmented Generation (RAG) effectively mitigates hallucinations in LLMs by incorporating external knowledge. However, the inherent discrete representation of text in existing frameworks often results in a loss of semantic integrity, leading to retrieval deviations. Inspired by the human episodic memory mechanism, we propose CogitoRAG, a RAG framework that simulates human cognitive memory processes. The core of this framework lies in the extraction and evolution of the Semantic Gist. During the offline indexing stage, CogitoRAG first deduces unstructured corpora into gist memory corpora, which are then transformed into a multi-dimensional knowledge graph integrating entities, relational facts, and memory nodes. In the online retrieval stage, the framework handles complex queries via Query Decomposition Module that breaks them into comprehensive sub-queries, mimicking the cognitive decomposition humans employ for complex information. Subsequently, Entity Diffusion Module performs associative retrieval across the graph, guided by structural relevance and an entity-frequency reward mechanism. Furthermore, we propose the CogniRank algorithm, which precisely reranks candidate passages by fusing diffusion-derived scores with semantic similarity. The final evidence is delivered to the generator in a passage-memory pairing format, providing high-density information support. Experimental results across five mainstream QA benchmarks and multi-task generation on GraphBench demonstrate that CogitoRAG significantly outperforms state-of-the-art RAG methods, showcasing superior capabilities in complex knowledge integration and reasoning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.15895",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.15895v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076383"
+}

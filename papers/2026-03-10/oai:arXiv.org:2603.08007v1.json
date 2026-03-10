@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08007v1",
+  "title": "ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation",
+  "authors": "Haoyu Tong, Xiangyu Dong, Xiaoguang Ma, Haoran Zhao, Yaoming Zhou, Chenghao Lin",
+  "summary": "arXiv:2603.08007v1 Announce Type: cross \nAbstract: Existing aerial Vision-Language Navigation (VLN) methods predominantly adopt a detection-and-planning pipeline, which converts open-vocabulary detections into discrete textual scene graphs. These approaches are plagued by inadequate spatial reasoning capabilities and inherent linguistic ambiguities. To address these bottlenecks, we propose a Visual-Spatial Reasoning (ViSA) enhanced framework for aerial VLN. Specifically, a triple-phase collaborative architecture is designed to leverage structured visual prompting, enabling Vision-Language Models (VLMs) to perform direct reasoning on image planes without the need for additional training or complex intermediate representations. Comprehensive evaluations on the CityNav benchmark demonstrate that the ViSA-enhanced VLN achieves a 70.3\\% improvement in success rate compared to the fully trained state-of-the-art (SOTA) method, elucidating its great potential as a backbone for aerial VLN systems.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08007",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08007v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074847"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07545v1",
+  "title": "DreamSAC: Learning Hamiltonian World Models via Symmetry Exploration",
+  "authors": "Jinzhou Tang, Fan Feng, Minghao Fu, Wenjun Lin, Biwei Huang, Keze Wang",
+  "summary": "arXiv:2603.07545v1 Announce Type: cross \nAbstract: Learned world models excel at interpolative generalization but fail at extrapolative generalization to novel physical properties. This limitation arises because they learn statistical correlations rather than the environment's underlying generative rules, such as physical invariances and conservation laws. We argue that learning these invariances is key to robust extrapolation. To achieve this, we first introduce \\textbf{Symmetry Exploration}, an unsupervised exploration strategy where an agent is intrinsically motivated by a Hamiltonian-based curiosity bonus to actively probe and challenge its understanding of conservation laws, thereby collecting physically informative data. Second, we design a Hamiltonian-based world model that learns from the collected data, using a novel self-supervised contrastive objective to identify the invariant physical state from raw, view-dependent pixel observations. Our framework, \\textbf{DreamSAC}, trained on this actively curated data, significantly outperforms state-of-the-art baselines in 3D physics simulations on tasks requiring extrapolation.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07545",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07545v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018741"
+}

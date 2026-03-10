@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07753v1",
+  "title": "Uncertainty-Gated Generative Modeling",
+  "authors": "Xingrui Gu, Haixi Zhang",
+  "summary": "arXiv:2603.07753v1 Announce Type: new \nAbstract: Financial time-series forecasting is a high-stakes problem where regime shifts and shocks make point-accurate yet overconfident models dangerous. We propose Uncertainty-Gated Generative Modeling (UGGM), which treats uncertainty as an internal control signal that gates (i) representation via gated reparameterization, (ii) propagation via similarity and confidence routing, and (iii) generation via uncertainty-controlled predictive distributions, together with uncertainty-driven regularization and calibration to curb miscalibration. Instantiated on Weak Innovation AutoEncoder (WIAE-GPF), our UG-WIAE-GPF significantly improves risk-sensitive forecasting, delivering a 63.5\\% MSE reduction on NYISO (0.3508 $\\rightarrow$ 0.1281), with improved robustness under shock intervals (mSE: 0.2739 $\\rightarrow$ 0.1748).",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07753",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07753v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017948"
+}

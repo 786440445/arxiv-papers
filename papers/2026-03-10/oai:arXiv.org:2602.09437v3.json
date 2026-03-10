@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.09437v3",
+  "title": "Diffusion-Guided Pretraining for Brain Graph Foundation Models",
+  "authors": "Xinxu Wei, Rong Zhou, Lifang He, Yu Zhang",
+  "summary": "arXiv:2602.09437v3 Announce Type: replace \nAbstract: With the growing interest in foundation models for brain signals, graph-based pretraining has emerged as a promising paradigm for learning transferable representations from connectome data. However, existing contrastive and masked autoencoder methods typically rely on naive random dropping or masking for augmentation, which is ill-suited for brain graphs and hypergraphs as it disrupts semantically meaningful connectivity patterns. Moreover, commonly used graph-level readout and reconstruction schemes fail to capture global structural information, limiting the robustness of learned representations. In this work, we propose a unified diffusion-based pretraining framework that addresses both limitations. First, diffusion is designed to guide structure-aware dropping and masking strategies, preserving brain graph semantics while maintaining effective pretraining diversity. Second, diffusion enables topology-aware graph-level readout and node-level global reconstruction by allowing graph embeddings and masked nodes to aggregate information from globally related regions. Extensive experiments across multiple neuroimaging datasets with over 25,000 subjects and 60,000 scans involving various mental disorders and brain atlases demonstrate consistent performance improvements.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.09437",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.09437v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019836"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06602v1",
+  "title": "Khatri-Rao Clustering for Data Summarization",
+  "authors": "Martino Ciaperoni, Collin Leiber, Aristides Gionis, Heikki Mannila",
+  "summary": "arXiv:2603.06602v1 Announce Type: new \nAbstract: As datasets continue to grow in size and complexity, finding succinct yet accurate data summaries poses a key challenge. Centroid-based clustering, a widely adopted approach to address this challenge, finds informative summaries of datasets in terms of few prototypes, each representing a cluster in the data. Despite their wide adoption, the resulting data summaries often contain redundancies, limiting their effectiveness particularly in datasets characterized by a large number of underlying clusters. To overcome this limitation, we introduce the Khatri-Rao clustering paradigm that extends traditional centroid-based clustering to produce more succinct but equally accurate data summaries by postulating that centroids arise from the interaction of two or more succinct sets of protocentroids.\n  We study two central approaches to centroid-based clustering, namely the well-established k-Means algorithm and the increasingly popular topic of deep clustering, under the lens of the Khatri-Rao paradigm. To this end, we introduce the Khatri-Rao k-Means algorithm and the Khatri-Rao deep clustering framework. Extensive experiments show that Khatri-Rao k-Means can strike a more favorable trade-off between succinctness and accuracy in data summarization than standard k-Means. Leveraging representation learning, the Khatri-Rao deep clustering framework offers even greater benefits, reducing even more the size of data summaries given by deep clustering while preserving their accuracy.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06602",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06602v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017161"
+}

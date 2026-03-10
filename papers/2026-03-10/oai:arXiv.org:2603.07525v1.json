@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07525v1",
+  "title": "Generative prediction of laser-induced rocket ignition with dynamic latent space representations",
+  "authors": "Tony Zahtila, Ettore Saetta, Murray Cutforth, Davy Brouzet, Diego Rossinelli, Gianluca Iaccarino",
+  "summary": "arXiv:2603.07525v1 Announce Type: new \nAbstract: Accurate and predictive scale-resolving simulations of laser-ignited rocket engines are highly time-consuming because the problem includes turbulent fuel-oxidizer mixing dynamics, laser-induced energy deposition, and high-speed flame growth. This is conflated with the large design space primarily corresponding to the laser operating conditions and target location. To enable rapid exploration and uncertainty quantification, we propose a data-driven surrogate modeling approach that combines convolutional autoencoders (cAEs) with neural ordinary differential equations (neural ODEs). The present target application of an ML-based surrogate model to leading-edge multi-physics turbulence simulation is part of a paradigm shift in the deployment of surrogate models towards increasing real-world complexity. Sequentially, the cAE spatially compresses high-dimensional flow fields into a low-dimensional latent space, wherein the system's temporal dynamics are learned via neural ODEs. Once trained, the model generates fast spatiotemporal predictions from initial conditions and specified operating inputs. By learning a surrogate to replace the entirety of the time-evolving simulation, the cost of predicting an ignition trial is reduced by several orders of magnitude, allowing efficient exploration of the input parameter space. Further, as the current framework yields a spatiotemporal field prediction, appraisal of the model output's physical grounding is more tractable. This approach marks a significant step toward real-time digital twins for laser-ignited rocket combustors and represents surrogate modeling in a complex system context.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07525",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07525v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017875"
+}

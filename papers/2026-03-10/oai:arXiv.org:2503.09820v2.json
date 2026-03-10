@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2503.09820v2",
+  "title": "ViLAM: Distilling Vision-Language Reasoning into Attention Maps for Social Robot Navigation",
+  "authors": "Mohamed Elnoor, Kasun Weerakoon, Gershom Seneviratne, Jing Liang, Vignesh Rajagopal, Dinesh Manocha",
+  "summary": "arXiv:2503.09820v2 Announce Type: replace-cross \nAbstract: We introduce ViLAM, a novel method for distilling vision-language reasoning from large Vision-Language Models (VLMs) into spatial attention maps for socially compliant robot navigation. Unlike traditional methods that rely on expert demonstrations or human-annotated datasets, ViLAM performs knowledge distillation and fine-tuning at the intermediate layer representation (attention) level by aligning attention maps from a pretrained vision-action model with socially guided attention maps derived from a large VLM. These distilled attention maps highlight key navigational regions in a scene and serve as socially informed spatial cost maps for motion planning. To achieve this, we introduce a novel attention-level distillation loss that fuses knowledge from both sources, generating augmented attention maps with enhanced social awareness. These refined attention maps are then used as a traversability costmap within a socially aware local planner for navigation. We validate our approach through real-world experiments on a Husky wheeled robot, and demonstrate 14.2% - 50% improvements in success rate over existing methods.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2503.09820",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2503.09820v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.075784"
+}

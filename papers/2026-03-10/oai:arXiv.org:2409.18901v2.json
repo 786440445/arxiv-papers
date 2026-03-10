@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2409.18901v2",
+  "title": "Improving Visual Object Tracking through Visual Prompting",
+  "authors": "Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin",
+  "summary": "arXiv:2409.18901v2 Announce Type: replace-cross \nAbstract: Learning a discriminative model that distinguishes the specified target from surrounding distractors across frames is essential for generic object tracking (GOT). Dynamic adaptation of target representation against distractors remains challenging because prevailing trackers exhibit limited discriminative capability. To address this issue, we present a new visual prompting mechanism for generic object tracking, termed PiVOT. PiVOT introduces mechanisms that leverage the pretrained foundation model (CLIP) to automatically generate and refine visual prompts online, thereby enabling the tracker to suppress distractors through contrastive guidance. To transfer contrastive knowledge from the foundation model to the tracker, PiVOT automatically propagates this knowledge online and dynamically generates and updates visual prompts. Specifically, it proposes a prompt initialization mechanism that produces an initial visual prompt highlighting potential target locations. The foundation model is then used to refine the prompt based on appearance similarities between candidate objects and reference templates across potential targets. After refinement, the visual prompt better highlights potential target locations and reduces irrelevant prompt information. With the proposed prompting mechanism, the tracker can generate instance-aware feature maps guided by the visual prompts, which are incrementally and automatically updated during tracking, thereby effectively suppressing distractors. Extensive experiments across multiple benchmarks indicate that PiVOT, with the proposed prompting mechanism, can suppress distracting objects and improve tracking performance.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2409.18901",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2409.18901v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.075681"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.04594v2",
+  "title": "GraphProp: Training the Graph Foundation Models using Graph Properties",
+  "authors": "Ziheng Sun, Qi Feng, Lehao Lin, Chris Ding, Jicong Fan",
+  "summary": "arXiv:2508.04594v2 Announce Type: replace \nAbstract: This work focuses on training graph foundation models (GFMs) that have strong generalization ability in graph-level tasks such as graph classification. Effective GFM training requires capturing information consistent across different domains. We discover that graph structures provide more consistent cross-domain information compared to node features and graph labels. However, traditional GFMs primarily focus on transferring node features from various domains into a unified representation space but often lack structural cross-domain generalization. To address this, we introduce GraphProp, which emphasizes structural generalization. The training process of GraphProp consists of two main phases. First, we train a structural GFM by predicting graph invariants. Since graph invariants are properties of graphs that depend only on the abstract structure, not on particular labellings or drawings of the graph, this structural GFM has a strong ability to capture the abstract structural information and provide discriminative graph representations comparable across diverse domains. In the second phase, we use the representations given by the structural GFM as positional encodings to train a comprehensive GFM. This phase utilizes domain-specific node attributes and graph labels to further improve cross-domain node feature generalization. Our experiments demonstrate that GraphProp significantly outperforms the competitors in supervised learning and few-shot learning, especially in handling graphs without node attributes.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.04594",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.04594v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019512"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07567v1",
+  "title": "Revisiting the LiRA Membership Inference Attack Under Realistic Assumptions",
+  "authors": "Najeeb Jebreel, Mona Khalil, David S\\'anchez, Josep Domingo-Ferrer",
+  "summary": "arXiv:2603.07567v1 Announce Type: cross \nAbstract: Membership inference attacks (MIAs) have become the standard tool for evaluating privacy leakage in machine learning (ML). Among them, the Likelihood-Ratio Attack (LiRA) is widely regarded as the state of the art when sufficient shadow models are available. However, prior evaluations have often overstated the effectiveness of LiRA by attacking models overconfident on their training samples, calibrating thresholds on target data, assuming balanced membership priors, and/or overlooking attack reproducibility. We re-evaluate LiRA under a realistic protocol that (i) trains models using anti-overfitting (AOF) and transfer learning (TL), when applicable, to reduce overconfidence as in production models; (ii) calibrates decision thresholds using shadow models and data rather than target data; (iii) measures positive predictive value (PPV, or precision) under shadow-based thresholds and skewed membership priors (pi <= 10%); and (iv) quantifies per-sample membership reproducibility across different seeds and training variations. We find that AOF significantly weakens LiRA, while TL further reduces attack effectiveness while improving model accuracy. Under shadow-based thresholds and skewed priors, LiRA's PPV often drops substantially, especially under AOF or AOF+TL. We also find that thresholded vulnerable sets at extremely low FPR show poor reproducibility across runs, while likelihood-ratio rankings are more stable. These results suggest that LiRA, and likely weaker MIAs, are less effective than previously suggested under realistic conditions, and that reliable privacy auditing requires evaluation protocols that reflect practical training practices, feasible attacker assumptions, and reproducibility considerations. Code is available at https://github.com/najeebjebreel/lira_analysis.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07567",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07567v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018756"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.02748v2",
+  "title": "iGVLM: Dynamic Instruction-Guided Vision Encoding for Question-Aware Multimodal Understanding",
+  "authors": "Hanpeng Liu, Yaqian Li, Zidan Wang, Shuoxi Zhang, Zihao Bo, Rinyoichi Takezoe, Kaiwen Long, Kun He",
+  "summary": "arXiv:2603.02748v2 Announce Type: replace-cross \nAbstract: Despite the success of Large Vision--Language Models (LVLMs), most existing architectures suffer from a representation bottleneck: they rely on static, instruction-agnostic vision encoders whose visual representations are utilized in an invariant manner across different textual tasks. This rigidity hinders fine-grained reasoning where task-specific visual cues are critical. To address this issue, we propose iGVLM, a general framework for instruction-guided visual modulation. iGVLM introduces a decoupled dual-branch architecture: a frozen representation branch that preserves task-agnostic visual representations learned during pre-training, and a dynamic conditioning branch that performs affine feature modulation via Adaptive Layer Normalization (AdaLN). This design enables a smooth transition from general-purpose perception to instruction-aware reasoning while maintaining the structural integrity and stability of pre-trained visual priors. Beyond standard benchmarks, we introduce MM4, a controlled diagnostic probe for quantifying logical consistency under multi-query, multi-instruction settings. Extensive results show that iGVLM consistently enhances instruction sensitivity across diverse language backbones, offering a plug-and-play paradigm for bridging passive perception and active reasoning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.02748",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.02748v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076480"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08377v1",
+  "title": "Beyond the Markovian Assumption: Robust Optimization via Fractional Weyl Integrals in Imbalanced Data",
+  "authors": "Gustavo A. Dorrego",
+  "summary": "arXiv:2603.08377v1 Announce Type: new \nAbstract: Standard Gradient Descent and its modern variants assume local, Markovian weight updates, making them highly susceptible to noise and overfitting. This limitation becomes critically severe in extremely imbalanced datasets such as financial fraud detection where dominant class gradients systematically overwrite the subtle signals of the minority class. In this paper, we introduce a novel optimization algorithm grounded in Fractional Calculus. By isolating the core memory engine of the generalized fractional derivative, the Weighted Fractional Weyl Integral, we replace the instantaneous gradient with a dynamically weighted historical sequence. This fractional memory operator acts as a natural regularizer. Empirical evaluations demonstrate that our method prevents overfitting in medical diagnostics and achieves an approximately 40 percent improvement in PR-AUC over classical optimizers in financial fraud detection, establishing a robust bridge between pure fractional topology and applied Machine Learning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08377",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08377v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018228"
+}

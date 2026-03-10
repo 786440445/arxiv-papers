@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2409.08687v4",
+  "title": "xTED: Cross-Domain Adaptation via Diffusion-Based Trajectory Editing",
+  "authors": "Haoyi Niu, Qimao Chen, Tenglong Liu, Jianxiong Li, Guyue Zhou, Yi Zhang, Jianming Hu, Xianyuan Zhan",
+  "summary": "arXiv:2409.08687v4 Announce Type: replace-cross \nAbstract: Reusing pre-collected data from different domains is an appealing solution for decision-making tasks, especially when data in the target domain are limited. Existing cross-domain policy transfer methods mostly aim at learning domain correspondences or corrections to facilitate policy learning, such as learning task/domain-specific discriminators, representations, or policies. This design philosophy often results in heavy model architectures or task/domain-specific modeling, lacking flexibility. This reality makes us wonder: can we directly bridge the domain gaps universally at the data level, instead of relying on complex downstream cross-domain policy transfer procedures? In this study, we propose the Cross-Domain Trajectory EDiting (xTED) framework that employs a specially designed diffusion model for cross-domain trajectory adaptation. Our proposed model architecture effectively captures the intricate dependencies among states, actions, and rewards, as well as the dynamics patterns within target data. Edited by adding noises and denoising with the pre-trained diffusion model, source domain trajectories can be transformed to align with target domain properties while preserving original semantic information. This process effectively corrects underlying domain gaps, enhancing state realism and dynamics reliability in source data, and allowing flexible integration with various single-domain and cross-domain downstream policy learning methods. Despite its simplicity, xTED demonstrates superior performance in extensive simulation and real-robot experiments.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2409.08687",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2409.08687v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.020017"
+}

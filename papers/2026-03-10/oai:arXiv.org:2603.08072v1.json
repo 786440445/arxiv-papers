@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08072v1",
+  "title": "Hybrid Quantum Neural Network for Multivariate Clinical Time Series Forecasting",
+  "authors": "Irene Iele, Floriano Caprio, Paolo Soda, Matteo Tortora",
+  "summary": "arXiv:2603.08072v1 Announce Type: new \nAbstract: Forecasting physiological signals can support proactive monitoring and timely clinical intervention by anticipating critical changes in patient status. In this work, we address multivariate multi-horizon forecasting of physiological time series by jointly predicting heart rate, oxygen saturation, pulse rate, and respiratory rate at forecasting horizons of 15, 30, and 60 seconds. We propose a hybrid quantum-classical architecture that integrates a Variational Quantum Circuit (VQC) within a recurrent neural backbone. A GRU encoder summarizes the historical observation window into a latent representation, which is then projected into quantum angles used to parameterize the VQC. The quantum layer acts as a learnable non-linear feature mixer, modeling cross-variable interactions before the final prediction stage. We evaluate the proposed approach on the BIDMC PPG and Respiration dataset under a Leave-One-Patient-Out protocol. The results show competitive accuracy compared with classical and deep learning baselines, together with greater robustness to noise and missing inputs. These findings suggest that hybrid quantum layers can provide useful inductive biases for physiological time series forecasting in small-cohort clinical settings.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08072",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08072v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018083"
+}

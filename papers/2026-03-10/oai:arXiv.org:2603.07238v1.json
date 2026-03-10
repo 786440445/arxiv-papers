@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07238v1",
+  "title": "Scaling Self-Supervised Speech Models Uncovers Deep Linguistic Relationships: Evidence from the Pacific Cluster",
+  "authors": "Minu Kim, Hoirin Kim, David R. Mortensen",
+  "summary": "arXiv:2603.07238v1 Announce Type: cross \nAbstract: Similarities between language representations derived from Self-Supervised Speech Models (S3Ms) have been observed to primarily reflect geographic proximity or surface typological similarities driven by recent expansion or contact, potentially missing deeper genealogical signals. We investigate how scaling linguistic coverage of an S3M-based language identification system from 126 to 4,017 languages influences this topology. Our results reveal a non-linear effect: while phylogenetic recovery remains stagnant up to the 1K scale, the 4K model displays a dramatic qualitative shift, resolving both clear lineages and complex, long-term linguistic contact. Notably, our analysis reveals the emergence of a robust macro-cluster in the Pacific (comprising Papuan, Oceanic, and Australian languages) and investigates its latent drivers. We find that the 4K model utilizes a more concentrated encoding that captures shared, robust acoustic signatures such as global energy dynamics. These findings suggest that massive S3Ms can internalize multiple layers of language history, providing a promising perspective for computational phylogenetics and the study of language contact.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07238",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07238v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-10T22:20:28.345576"
+}

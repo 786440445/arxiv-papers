@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07116v1",
+  "title": "aCAPTCHA: Verifying That an Entity Is a Capable Agent via Asymmetric Hardness",
+  "authors": "Zuyao Xu, Xiang Li, Fubin Wu, Yuqi Qiu, Lu Sun, FaSheng Miao",
+  "summary": "arXiv:2603.07116v1 Announce Type: cross \nAbstract: As autonomous AI agents increasingly populate the Internet, a novel security challenge arises: \"Is this entity an AI agent?\" It is a new entity-type verification problem with no established solution. We formalize the problem through a three-class entity taxonomy (Human, Script, Agent) based on a verifiable agentic capability vector  (action, reasoning, and memory). A timing threshold t exploits the asymmetric hardness between human cognition and AI processing to separate the three classes. We define the Agentic Capability Verification Problem (ACVP) through three necessity primitives, each testing one capability dimension. Building on this foundation, we introduce aCAPTCHA (Agent CAPTCHA), a time-constrained security game for agent admission whose security rests on ACVP hardness under t. We instantiate aCAPTCHA through time-bounded natural-language understanding as a multi-round HTTP verification protocol, and evaluate it with preliminary agent trials that validate the protocol's soundness and completeness. aCAPTCHA provides a composable, infrastructure-free admission gate for any service where entity-type verification is required.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07116",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07116v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074333"
+}

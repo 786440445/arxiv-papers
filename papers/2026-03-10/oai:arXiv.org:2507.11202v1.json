@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.11202v1",
+  "title": "A Robust Incomplete Multimodal Low-Rank Adaptation Approach for Emotion Recognition",
+  "authors": "Xinkui Zhao, Jinsong Shu, Yangyang Wu, Guanjie Cheng, Zihe Liu, Naibo Wang, Shuiguang Deng, Zhongle Xie, Jianwei Yin",
+  "summary": "arXiv:2507.11202v1 Announce Type: cross \nAbstract: Multimodal Emotion Recognition (MER) often encounters incomplete multimodality in practical applications due to sensor failures or privacy protection requirements. While existing methods attempt to address various incomplete multimodal scenarios by balancing the training of each modality combination through additional gradients, these approaches face a critical limitation: training gradients from different modality combinations conflict with each other, ultimately degrading the performance of the final prediction model. In this paper, we propose a unimodal decoupled dynamic low-rank adaptation method based on modality combinations, named MCULoRA, which is a novel framework for the parameter-efficient training of incomplete multimodal learning models. MCULoRA consists of two key modules, modality combination aware low-rank adaptation (MCLA) and dynamic parameter fine-tuning (DPFT). The MCLA module effectively decouples the shared information from the distinct characteristics of individual modality combinations. The DPFT module adjusts the training ratio of modality combinations based on the separability of each modality's representation space, optimizing the learning efficiency across different modality combinations. Our extensive experimental evaluation in multiple benchmark datasets demonstrates that MCULoRA substantially outperforms previous incomplete multimodal learning approaches in downstream task accuracy.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2507.11202",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.11202v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073686"
+}

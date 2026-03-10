@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06626v1",
+  "title": "Grouter: Decoupling Routing from Representation for Accelerated MoE Training",
+  "authors": "Yuqi Xu, Rizhen Hu, Zihan Liu, Mou Sun, Kun Yuan",
+  "summary": "arXiv:2603.06626v1 Announce Type: new \nAbstract: Traditional Mixture-of-Experts (MoE) training typically proceeds without any structural priors, effectively requiring the model to simultaneously train expert weights while searching for an optimal routing policy within a vast combinatorial space. This entanglement often leads to sluggish convergence and training instabilities. This paper introduces Grouter, a preemptive routing method that by distilling high-quality structures from fully-trained MoE models and serving as a fixed router for target models. By decoupling structural optimization from weight updates, Grouter significantly accelerates both the speed and quality of model convergence. To ensure the framework's versatility, we also introduce expert folding to adapt Grouter across varying model configurations and expert tuning to rebalance workloads across different data distributions. Furthermore, by leveraging the structural priors provided by preemptive routing, we can implement targeted optimizations to further enhance training throughput. Experiments demonstrate that Grouter achieves superior performance and efficiency which boosts pre-training data utilization by 4.28x and achieves up to 33.5% throughput acceleration, establishing preemptive routing as a fundamental paradigm for scalable MoE training.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06626",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06626v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017265"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07039v1",
+  "title": "Self-Supervised Multi-Modal World Model with 4D Space-Time Embedding",
+  "authors": "Lance Legel, Qin Huang, Brandon Voelker, Daniel Neamati, Patrick Alan Johnson, Favyen Bastani, Jeff Rose, James Ryan Hennessy, Robert Guralnick, Douglas Soltis, Pamela Soltis, Shaowen Wang",
+  "summary": "arXiv:2603.07039v1 Announce Type: new \nAbstract: We present DeepEarth, a self-supervised multi-modal world model with Earth4D, a novel planetary-scale 4D space-time positional encoder. Earth4D extends 3D multi-resolution hash encoding to include time, efficiently scaling across the planet over centuries with sub-meter, sub-second precision. Multi-modal encoders (e.g. vision-language models) are fused with Earth4D embeddings and trained via masked reconstruction. We demonstrate Earth4D's expressive power by achieving state-of-the-art performance on an ecological forecasting benchmark. Earth4D with learnable hash probing surpasses a multi-modal foundation model pre-trained on substantially more data. Access open source code and download models at: https://github.com/legel/deepearth",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07039",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07039v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073312"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06814v1",
+  "title": "AI-Assisted Curation of Conference Scholarship: Compiling, Structuring, and Analyzing Two Decades of Presentations at the Society for Social Work and Research",
+  "authors": "Brian Perron, Bryan Victor, Zia Qi",
+  "summary": "arXiv:2603.06814v1 Announce Type: cross \nAbstract: Purpose: This study developed a comprehensive database of presentation abstracts from the Society for Social Work and Research (SSWR) Annual Conference and examined patterns in research methodology, authorship, collaboration, and institutional participation over two decades.\n  Method: Abstract metadata was compiled from the SSWR Confex conference management system for presentations from 2005 to 2026 using web scraping. A small language model (gpt-oss:20b) performed classification and extraction tasks on abstracts, including categorization of methodologies and parsing of author affiliations, with human review at each major stage to ensure accuracy.\n  Results: The database contains 23,793 presentations with 69,924 author records representing 20,779 unique researchers from 4,049 institutions across 93 countries. Annual conference presentations increased from 423 in 2005 to 1,935 in 2026, representing a compound annual growth rate of 7.5%. Quantitative methods predominated (61.1%), followed by qualitative approaches (23.4%), mixed methods (9.1%), and reviews (5.4%). The mean number of authors per presentation increased from 2.22 in 2005 to 3.31 in 2026. International participation grew from 4.5% to 13.5% of author affiliations over the observation period.\n  Discussion: Findings indicate substantial growth in SSWR conference participation, alongside increased collaboration and international engagement. The methodological distribution reveals continued quantitative predominance with growing qualitative representation. This database provides research infrastructure for systematic hypothesis testing about research priorities and disciplinary development over time, enabling analyses that inform both scholarship and conference planning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06814",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06814v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074165"
+}

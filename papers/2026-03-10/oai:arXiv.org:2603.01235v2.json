@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.01235v2",
+  "title": "Extended Empirical Validation of the Explainability Solution Space",
+  "authors": "Antoni Mestre, Manoli Albert, Miriam Gil, Vicente Pelechano",
+  "summary": "arXiv:2603.01235v2 Announce Type: replace \nAbstract: This technical report provides an extended validation of the Explainability Solution Space (ESS) through cross-domain evaluation. While initial validation focused on employee attrition prediction, this study introduces a heterogeneous intelligent urban resource allocation system to demonstrate the generality and domain-independence of the ESS framework. The second case study integrates tabular, temporal, and geospatial data under multi-stakeholder governance conditions. Explicit quantitative positioning of representative XAI families is provided for both contexts. Results confirm that ESS rankings are not domain-specific but adapt systematically to governance roles, risk profiles, and stakeholder configurations. The findings reinforce ESS as a generalizable operational decision-support instrument for explainable AI strategy design across socio-technical systems.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.01235",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.01235v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.075545"
+}

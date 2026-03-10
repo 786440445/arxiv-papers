@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07201v1",
+  "title": "A Dual-Graph Spatiotemporal GNN Surrogate for Nonlinear Response Prediction of Reinforced Concrete Beams under Four-Point Bending",
+  "authors": "Zhaoyang Ren, Qilin Li",
+  "summary": "arXiv:2603.07201v1 Announce Type: new \nAbstract: High-fidelity nonlinear finite-element (FE) simulations of reinforced-concrete (RC) structures are still costly, especially in parametric settings where loading positions vary. We develop a dual-graph spatiotemporal GNN surrogate to approximate the time histories of RC beams under four-point bending. To generate training data, we run a parametric Abaqus campaign that independently shifts the two loading blocks on a mesh-aligned grid and exports full-field responses at fixed normalized loading levels. The model rolls out autoregressively and jointly predicts nodal displacements, element wise von Mises stress, element-wise equivalent plastic strain (PEEQ), and the global vertical reaction force in a single multi-task setup. A key motivation is the peak loss introduced when element quantities are forced through node-based representations. We therefore couple node- and element-level dynamics using two recurrent graph branches: a node-level graph convolutional gated recurrent unit (GConvGRU) for kinematics and an element-level GConvGRU for history-dependent internal variables, with global force predicted through pooling on the element branch. In controlled ablations, removing the Element to Node to Element pathway improves peak-sensitive prediction in localized high-gradient stress/PEEQ regions without degrading global load displacement trends. After training, the surrogate produces full trajectories at a fraction of the cost of nonlinear FE, enabling faster parametric evaluation and design exploration.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07201",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07201v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017651"
+}

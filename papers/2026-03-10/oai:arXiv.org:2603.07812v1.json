@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07812v1",
+  "title": "Learning embeddings of non-linear PDEs: the Burgers' equation",
+  "authors": "Pedro Taranc\\'on-\\'Alvarez, Leonid Sarieddine, Pavlos Protopapas, Raul Jimenez",
+  "summary": "arXiv:2603.07812v1 Announce Type: cross \nAbstract: Embeddings provide low-dimensional representations that organize complex function spaces and support generalization. They provide a geometric representation that supports efficient retrieval, comparison, and generalization. In this work we generalize the concept to Physics Informed Neural Networks. We present a method to construct solution embedding spaces of nonlinear partial differential equations using a multi-head setup, and extract non-degenerate information from them using principal component analysis (PCA). We test this method by applying it to viscous Burgers' equation, which is solved simultaneously for a family of initial conditions and values of the viscosity. A shared network body learns a latent embedding of the solution space, while linear heads map this embedding to individual realizations. By enforcing orthogonality constraints on the heads, we obtain a principal-component decomposition of the latent space that is robust to training degeneracies and admits a direct physical interpretation. The obtained components for Burgers' equation exhibit rapid saturation, indicating that a small number of latent modes captures the dominant features of the dynamics.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07812",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07812v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018858"
+}

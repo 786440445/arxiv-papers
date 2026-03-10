@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07264v1",
+  "title": "Kinematics-Aware Latent World Models for Data-Efficient Autonomous Driving",
+  "authors": "Jiazhuo Li, Linjiang Cao, Qi Liu, Xi Xiong",
+  "summary": "arXiv:2603.07264v1 Announce Type: cross \nAbstract: Data-efficient learning remains a central challenge in autonomous driving due to the high cost and safety risks of large-scale real-world interaction. Although world-model-based reinforcement learning enables policy optimization through latent imagination, existing approaches often lack explicit mechanisms to encode spatial and kinematic structure essential for driving tasks. In this work, we build upon the Recurrent State-Space Model (RSSM) and propose a kinematics-aware latent world model framework for autonomous driving. Vehicle kinematic information is incorporated into the observation encoder to ground latent transitions in physically meaningful motion dynamics, while geometry-aware supervision regularizes the RSSM latent state to capture task-relevant spatial structure beyond pixel reconstruction. The resulting structured latent dynamics improve long-horizon imagination fidelity and stabilize policy optimization. Experiments in a driving simulation benchmark demonstrate consistent gains over both model-free and pixel-based world-model baselines in terms of sample efficiency and driving performance. Ablation studies further verify that the proposed design enhances spatial representation quality within the latent space. These results suggest that integrating kinematic grounding into RSSM-based world models provides a scalable and physically grounded paradigm for autonomous driving policy learning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07264",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07264v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074392"
+}

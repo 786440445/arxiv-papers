@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.01743v2",
+  "title": "Towards Efficient Federated Learning of Networked Mixture-of-Experts for Mobile Edge Computing",
+  "authors": "Song Gao, Songyang Zhang, Shusen Jing, Shuai Zhang, Xiangwei Zhou, Yue Wang, Zhipeng Cai",
+  "summary": "arXiv:2511.01743v2 Announce Type: replace \nAbstract: Recent advancements in large artificial intelligence models (LAMs) are driving significant innovations in mobile edge computing within next-generation wireless networks. However, the substantial demands for computational resources and larges-cale training data required to train LAMs conflict with the limited storage and computational capacity of edge devices, posing significant challenges to training and deploying LAMs at the edge. In this work, we introduce the Networked Mixture-of-Experts (NMoE) system, in which clients perform inference collaboratively by distributing tasks to suitable neighbors based on their expertise and aggregate the returned results. For training the NMoE, we propose a federated learning framework that integrates both supervised and self-supervised learning to balance personalization and generalization, while preserving communication efficiency and data privacy. We conduct extensive experiments to demonstrate the efficacy of the proposed NMoE system, providing insights for the NMoE training algorithms.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.01743",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.01743v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019637"
+}

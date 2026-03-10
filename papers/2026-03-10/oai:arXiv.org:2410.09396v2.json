@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2410.09396v2",
+  "title": "ExpGest: Expressive Speaker Generation Using Diffusion Model and Hybrid Audio-Text Guidance",
+  "authors": "Yongkang Cheng, Mingjiang Liang, Shaoli Huang, Gaoge Han, Jifeng Ning, Wei Liu",
+  "summary": "arXiv:2410.09396v2 Announce Type: replace \nAbstract: Existing gesture generation methods primarily focus on upper body gestures based on audio features, neglecting speech content, emotion, and locomotion. These limitations result in stiff, mechanical gestures that fail to convey the true meaning of audio content. We introduce ExpGest, a novel framework leveraging synchronized text and audio information to generate expressive full-body gestures. Unlike AdaIN or one-hot encoding methods, we design a noise emotion classifier for optimizing adversarial direction noise, avoiding melody distortion and guiding results towards specified emotions. Moreover, aligning semantic and gestures in the latent space provides better generalization capabilities. ExpGest, a diffusion model-based gesture generation framework, is the first attempt to offer mixed generation modes, including audio-driven gestures and text-shaped motion. Experiments show that our framework effectively learns from combined text-driven motion and audio-induced gesture datasets, and preliminary results demonstrate that ExpGest achieves more expressive, natural, and controllable global motion in speakers compared to state-of-the-art models.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2410.09396",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2410.09396v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074462"
+}

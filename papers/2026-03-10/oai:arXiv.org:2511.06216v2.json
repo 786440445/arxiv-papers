@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.06216v2",
+  "title": "Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks",
+  "authors": "Yanan Zhao, Feng Ji, Jingyang Dai, Jiaze Ma, Keyue Jiang, Kai Zhao, Wee Peng Tay",
+  "summary": "arXiv:2511.06216v2 Announce Type: replace \nAbstract: Graph contrastive learning (GCL) learns node and graph representations by contrasting multiple views of the same graph. Existing methods typically rely on fixed, handcrafted views-usually a local and a global perspective, which limits their ability to capture multi-scale structural patterns. We present an augmentation-free, multi-view GCL framework grounded in fractional-order continuous dynamics. By varying the fractional derivative order $\\alpha \\in (0,1]$, our encoders produce a continuous spectrum of views: small $\\alpha$ yields localized features, while large $\\alpha$ induces broader, global aggregation. We treat $\\alpha$ as a learnable parameter so the model can adapt diffusion scales to the data and automatically discover informative views. This principled approach generates diverse, complementary representations without manual augmentations. Extensive experiments on standard benchmarks demonstrate that our method produces more robust and expressive embeddings and outperforms state-of-the-art GCL baselines.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.06216",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.06216v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019654"
+}

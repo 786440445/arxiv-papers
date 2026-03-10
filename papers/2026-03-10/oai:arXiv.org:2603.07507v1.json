@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07507v1",
+  "title": "Online Continual Learning for Anomaly Detection in IoT under Data Distribution Shifts",
+  "authors": "Matea Marinova, Shashi Raj Pandey, Junya Shiraishi, Martin Voigt Vejling, Valentin Rakovic, Petar Popovski",
+  "summary": "arXiv:2603.07507v1 Announce Type: new \nAbstract: In this work, we present OCLADS, a novel communication framework with continual learning (CL) for Internet of Things (IoT) anomaly detection (AD) when operating in non-stationary environments. As the statistical properties of the observed data change with time, the on-device inference model becomes obsolete, which necessitates strategic model updating. OCLADS keeps track of data distribution shifts to timely update the on-device IoT AD model. To do so, OCLADS introduces two mechanisms during the interaction between the resource-constrained IoT device and an edge server (ES): i) an intelligent sample selection mechanism at the device for data transmission, and ii) a distribution-shift detection mechanism at the ES for model updating. Experimental results with TinyML demonstrate that our proposed framework achieves high inference accuracy while realizing a significantly smaller number of model updates compared to the baseline schemes.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07507",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07507v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017845"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.24254v2",
+  "title": "Rethinking Continual Learning with Progressive Neural Collapse",
+  "authors": "Zheng Wang, Wanhao Yu, Li Yang, Sen Lin",
+  "summary": "arXiv:2505.24254v2 Announce Type: replace \nAbstract: Continual Learning (CL) seeks to build an agent that can continuously learn a sequence of tasks, where a key challenge, namely Catastrophic Forgetting, persists due to the potential knowledge interference among different tasks. On the other hand, deep neural networks (DNNs) are shown to converge to a terminal state termed Neural Collapse during training, where all class prototypes geometrically form a static simplex equiangular tight frame (ETF). These maximally and equally separated class prototypes make the ETF an ideal target for model learning in CL to mitigate knowledge interference. Thus inspired, several studies have emerged very recently to leverage a fixed global ETF in CL, which however suffers from key drawbacks, such as impracticability and limited performance.To address these challenges and fully unlock the potential of ETF in CL, we propose Progressive Neural Collapse (ProNC), a novel framework that completely removes the need of a fixed global ETF in CL. Specifically, ProNC progressively expands the ETF target in a principled way by adding new class prototypes as vertices for new tasks, ensuring maximal separability across all encountered classes with minimal shifts from the previous ETF. We next develop a new CL framework by plugging ProNC into commonly used CL algorithm designs, where distillation is further leveraged to balance between target shifting for old classes and target aligning for new classes. Extensive experiments show that our approach significantly outperforms related baselines while maintaining superior flexibility, simplicity, and efficiency. Our code is available at https://github.com/Continue-Edge-AI-Lab/ProNC",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.24254",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.24254v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019436"
+}

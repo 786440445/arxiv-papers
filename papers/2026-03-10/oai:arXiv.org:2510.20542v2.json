@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.20542v2",
+  "title": "A Unified Framework for Zero-Shot Reinforcement Learning",
+  "authors": "Jacopo Di Ventura, Jan Felix Kleuker, Aske Plaat, Thomas Moerland",
+  "summary": "arXiv:2510.20542v2 Announce Type: replace \nAbstract: Zero-shot reinforcement learning (RL) has emerged as a setting for developing general agents, capable of solving downstream tasks without additional training or planning at test-time. While conventional RL optimizes policies for fixed rewards, zero-shot RL requires learning representations that enable immediate adaptation to arbitrary reward functions. As the field matures, the growing diversity of approaches demands a foundational framework reconciling different perspectives under a common unifying structure. In this work, we introduce a formal, unified framework for zero-shot RL, allowing for rigorous comparisons across methods. We propose a taxonomy organizing the algorithmic landscape along two levels: representation, distinguishing between compositional and direct methods based on their exploitation of action-value function decompositions; and learning paradigm, differentiating between reward-free and pseudo reward-free training. Additionally, we propose a unified view of existing error bounds, decomposing the total error into three primary contributing components: inference, reward, and approximation, serving as a foundation for more grounded comparisons of zero-shot methods.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.20542",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.20542v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019617"
+}

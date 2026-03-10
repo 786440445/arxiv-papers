@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07215v1",
+  "title": "Towards Objective Gastrointestinal Auscultation: Automated Segmentation and Annotation of Bowel Sound Patterns",
+  "authors": "Zahra Mansour, Verena Uslar, Dirk Weyhe, Danilo Hollosi, Nils Strodthoff",
+  "summary": "arXiv:2603.07215v1 Announce Type: new \nAbstract: Bowel sounds (BS) are typically momentary and have low amplitude, making them difficult to detect accurately through manual auscultation. This leads to significant variability in clinical assessment. Digital acoustic sensors allow the acquisition of high-quality BS and enable automated signal analysis, offering the potential to provide clinicians with both objective and quantitative feedback on bowel activity. This study presents an automated pipeline for bowel sound segmentation and classification using a wearable acoustic SonicGuard sensor. BS signals from 83 subjects were recorded using a SonicGuard sensor. Data from 40 subjects were manually annotated by clinical experts and used to train an automatic annotation algorithm, while the remaining subjects were used for further model evaluation. An energy-based event detection algorithm was developed to detect BS events. Detected sound segments were then classified into BS patterns using a pretrained Audio Spectrogram Transformer (AST) model. Model performance was evaluated separately for healthy individuals and patients. The best configuration used two specialized models, one trained on healthy subjects and one on patients, achieving (accuracy: 0.97, AUROC: 0.98) for healthy group and (accuracy: 0.96, AUROC: 0.98) for patient group. The auto-annotation method reduced manual labeling time by approximately 70%, and expert review showed that less than 12% of automatically detected segments required correction. The proposed automated segmentation and classification system enables quantitative assessment of bowel activity, providing clinicians with an objective diagnostic tool that may improve the diagnostic of gastrointestinal function and support the annotation of large-scale datasets.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07215",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07215v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074342"
+}

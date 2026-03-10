@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07602v1",
+  "title": "MetaSort: An Accelerated Approach for Non-uniform Compression and Few-shot Classification of Neural Spike Waveforms",
+  "authors": "Luca M. Meyer, Majid Zamani",
+  "summary": "arXiv:2603.07602v1 Announce Type: cross \nAbstract: Many previous works in spike sorting study spike classification and compression independently. In this paper, a novel algorithm is proposed called MetaSort to address these two problems. To deal with compression, a novel adaptive level crossing algorithm is proposed to approximate spike shapes with high fidelity. Meanwhile, the latent feature representation is used to handle the classification problem. Besides, to guarantee MetaSort is robust and discriminative, the geometric information of data is exploited simultaneously in the proposed framework by meta-transfer learning. Empirical experiments with in-vivo spike data demonstrate that MetaSort delivers promising performance, highlighting its potential and motivating continued development toward an ultra-low-power, on-chip implementation.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07602",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07602v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018787"
+}

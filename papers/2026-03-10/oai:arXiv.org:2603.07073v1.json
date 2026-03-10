@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07073v1",
+  "title": "Interpretable Maximum Margin Deep Anomaly Detection",
+  "authors": "Zhiji Yang, Mei Huang, Xinyu Li, Xianli Pan, Qi Wang, Jianhua Zhao",
+  "summary": "arXiv:2603.07073v1 Announce Type: new \nAbstract: Anomaly detection is a crucial machine-learning task with wide-ranging applications. Deep Support Vector Data Description (Deep SVDD) is a prominent deep one-class method, but it is vulnerable to hypersphere collapse, often relies on heuristic choices for hypersphere parameters, and provides limited interpretability. To address these issues, we propose Interpretable Maximum Margin Deep Anomaly Detection (IMD-AD), which leverages a small set of labeled anomalies and a maximum margin objective to stabilize training and improve discrimination. It is inherently resilient to hypersphere collapse. Furthermore, we prove an equivalence between hypersphere parameters and the network's final-layer weights, which allows the center and radius to be learned end-to-end as part of the model and yields intrinsic interpretability and visualizable outputs. We further develop an efficient training algorithm that jointly optimizes representation, margin, and final-layer parameters. Extensive experiments and ablation studies on image and tabular benchmarks demonstrate that IMD-AD empirically improves detection performance over several state-of-the-art baselines while providing interpretable decision diagnostics.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07073",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07073v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017604"
+}

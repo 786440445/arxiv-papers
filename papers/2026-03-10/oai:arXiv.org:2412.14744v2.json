@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2412.14744v2",
+  "title": "Finite Sample Bounds for Non-Parametric Regression: Optimal Sample Efficiency and Space Complexity",
+  "authors": "Davide Maran, Marcello Restelli",
+  "summary": "arXiv:2412.14744v2 Announce Type: replace \nAbstract: We address the problem of learning an unknown smooth function and its derivatives from noisy pointwise evaluations under the supremum norm. While classical nonparametric regression provides a strong theoretical foundation, traditional kernel-based estimators often incur high computational costs and memory requirements that scale with the sample size, limiting their utility in real-time applications such as reinforcement learning. To overcome these challenges, we propose a parametric approach based on a finite-dimensional representation that achieves minimax-optimal uniform convergence rates. Our method enables lightweight inference without storing all samples in memory. We provide sharp finite-sample bounds under sub-Gaussian noise, derive second-order Bernstein-type guarantees, and prove matching lower bounds, thereby confirming the optimality of our approach in both estimation error and memory efficiency.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2412.14744",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2412.14744v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019308"
+}

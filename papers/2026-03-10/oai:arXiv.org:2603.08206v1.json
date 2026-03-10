@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08206v1",
+  "title": "Distributional Regression with Tabular Foundation Models: Evaluating Probabilistic Predictions via Proper Scoring Rules",
+  "authors": "Jonas Landsgesell, Pascal Knoll",
+  "summary": "arXiv:2603.08206v1 Announce Type: new \nAbstract: Prior-Data Fitted Networks (PFNs), such as TabPFN and TabICL, have revolutionized tabular deep learning by leveraging in-context learning for tabular data.\n  These models are meant as foundation models for classification and regression settings and promise to greatly simplify deployment in practical settings because their performance is unprecedented (in terms of mean squared error or $R^2$, when measured on common benchmarks like TabArena or TALENT).\n  However, we see an important weakness of current benchmarks for the regression setting: the current benchmarks focus on evaluating win rates and performance using metrics like (root) mean squared error or $R^2$.\n  Therefore, these leaderboards (implicitly and explicitly) push researchers to optimize for machine learning pipelines which elicit a good mean value estimate.\n  The main problem is that this approach only evaluates a point estimate (namely the mean estimator which is the Bayes estimator associated with the mean squared error loss).\n  In this article we discuss the application of proper scoring rules for evaluating the goodness of probabilistic forecasts in distributional regression.\n  We also propose to enhance common machine learning benchmarks with metrics for probabilistic regression.\n  To improve the status quo and make the machine learning community aware of scoring rules for probabilistic regression, we advocate to use the continuous ranked probability score (CRPS) in benchmarks for probabilistic regression.\n  However, we also illustrate that the choice of the scoring rule changes the inductive bias of the trained model. We, therefore, advocate for finetuning or promptable tabular foundation models.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08206",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08206v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018162"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08578v1",
+  "title": "Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates",
+  "authors": "Ismail Lamaakal, Chaymae Yahyati, Khalid El Makkaoui, Ibrahim Ouahbi, Yassine Maleh",
+  "summary": "arXiv:2603.08578v1 Announce Type: new \nAbstract: Deployed machine learning systems face distribution drift, yet most monitoring pipelines stop at alarms and leave the response underspecified under labeling, compute, and latency constraints. We introduce Drift2Act, a drift-to-action controller that treats monitoring as constrained decision-making with explicit safety. Drift2Act combines a sensing layer that maps unlabeled monitoring signals to a belief over drift types with an active risk certificate that queries a small set of delayed labels from a recent window to produce an anytime-valid upper bound $U_t(\\delta)$ on current risk. The certificate gates operation: if $U_t(\\delta) \\le \\tau$, the controller selects low-cost actions (e.g., recalibration or test-time adaptation); if $U_t(\\delta) > \\tau$, it activates abstain/handoff and escalates to rollback or retraining under cooldowns. In a realistic streaming protocol with label delay and explicit intervention costs, Drift2Act achieves near-zero safety violations and fast recovery at moderate cost on WILDS Camelyon17, DomainNet, and a controlled synthetic drift stream, outperforming alarm-only monitoring, adapt-always adaptation, schedule-based retraining, selective prediction alone, and an ablation without certification. Overall, online risk certification enables reliable drift response and reframes monitoring as decision-making with safety.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08578",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08578v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018316"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07935v1",
+  "title": "Unsupervised Domain Adaptation for Audio Deepfake Detection with Modular Statistical Transformations",
+  "authors": "Urawee Thani, Gagandeep Singh, Priyanka Singh",
+  "summary": "arXiv:2603.07935v1 Announce Type: new \nAbstract: Audio deepfake detection systems trained on one dataset often fail when deployed on data from different sources due to distributional shifts in recording conditions, synthesis methods, and acoustic environments. We present a modular pipeline for unsupervised domain adaptation that combines pre-trained Wav2Vec 2.0 embeddings with statistical transformations to improve cross-domain generalization without requiring labeled target data. Our approach applies power transformation for feature normalization, ANOVA-based feature selection, joint PCA for domain-agnostic dimensionality reduction, and CORAL alignment to match source and target covariance structures before classification via logistic regression. We evaluate on two cross-domain transfer scenarios: ASVspoof 2019 LA to Fake-or-Real (FoR) and FoR to ASVspoof, achieving 62.7--63.6\\% accuracy with balanced performance across real and fake classes. Systematic ablation experiments reveal that feature selection (+3.5%) and CORAL alignment (+3.2%) provide the largest individual contributions, with the complete pipeline improving accuracy by 10.7% over baseline. While performance is modest compared to within-domain detection (94-96%), our pipeline offers transparency and modularity, making it suitable for deployment scenarios requiring interpretable decisions.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07935",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07935v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074380"
+}

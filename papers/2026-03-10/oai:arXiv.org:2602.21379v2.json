@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.21379v2",
+  "title": "MrBERT: Modern Multilingual Encoders via Vocabulary, Domain, and Dimensional Adaptation",
+  "authors": "Daniel Tamayo, I\\~naki Lacunza, Paula Rivera-Hidalgo, Severino Da Dalt, Javier Aula-Blasco, Aitor Gonzalez-Agirre, Marta Villegas",
+  "summary": "arXiv:2602.21379v2 Announce Type: replace-cross \nAbstract: We introduce MrBERT, a family of 150M-300M parameter encoders built on the ModernBERT architecture and pre-trained on 35 languages and code. Through targeted adaptation, this model family achieves state-of-the-art results on Catalan- and Spanish-specific tasks, while establishing robust performance across specialized biomedical and legal domains. To bridge the gap between research and production, we incorporate Matryoshka Representation Learning (MRL), enabling flexible vector sizing that significantly reduces inference and storage costs. Ultimately, the MrBERT family demonstrates that modern encoder architectures can be optimized for both localized linguistic excellence and efficient, high-stakes domain specialization. We open source the complete model family on Huggingface.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.21379",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.21379v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.020447"
+}

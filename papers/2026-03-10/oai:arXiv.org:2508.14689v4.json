@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.14689v4",
+  "title": "ECHO: Frequency-aware Hierarchical Encoding for Variable-length Signals",
+  "authors": "Yucong Zhang, Juan Liu, Ming Li",
+  "summary": "arXiv:2508.14689v4 Announce Type: replace \nAbstract: Pre-trained foundation models have demonstrated remarkable success in audio, vision and language, yet their potential for general machine signal modeling with arbitrary sampling rates-covering acoustic, vibration, and other industrial sensor data-remains under-explored. In this work, we propose a novel foundation model ECHO that integrates an advanced band-split architecture with frequency positional embeddings, enabling spectral localization across arbitrary sampling configurations. Moreover, the model incorporates sliding patches to support inputs of variable length without padding or cropping, producing a concise embedding that retains both temporal and spectral fidelity and naturally extends to streaming scenarios. We evaluate our method on various kinds of machine signal datasets, including previous DCASE task 2 challenges (2020-2025), and widely-used industrial signal corpora. Experimental results demonstrate consistent state-of-the-art performance in machine signal anomaly detection and fault classification, confirming the effectiveness and generalization capability of the proposed model. We open-sourced ECHO on https://github.com/yucongzh/ECHO.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.14689",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.14689v4.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074486"
+}

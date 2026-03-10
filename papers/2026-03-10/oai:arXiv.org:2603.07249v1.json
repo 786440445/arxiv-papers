@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07249v1",
+  "title": "LF2L: Loss Fusion Horizontal Federated Learning Across Heterogeneous Feature Spaces Using External Datasets Effectively: A Case Study in Second Primary Cancer Prediction",
+  "authors": "Chia-Fu Lin, Yi-Ju Tseng",
+  "summary": "arXiv:2603.07249v1 Announce Type: new \nAbstract: Second primary cancer (SPC), a new cancer in patients different from previously diagnosed, is a growing concern due to improved cancer survival rates. Early prediction of SPC is essential to enable timely clinical interventions. This study focuses on lung cancer survivors treated in Taiwanese hospitals, where the limited size and geographic scope of local datasets restrict the effectiveness and generalizability of traditional machine learning approaches. To address this, we incorporate external data from the publicly available US-based Surveillance, Epidemiology, and End Results (SEER) program, significantly increasing data diversity and scale. However, the integration of multi-source datasets presents challenges such as feature inconsistency and privacy constraints. Rather than naively merging data, we proposed a loss fusion horizontal federated learning (LF2L) framework that can enable effective cross-institutional collaboration while preserving institutional privacy by avoiding data sharing. Using both common and unique features and balancing their contributions through a shared loss mechanism, our method demonstrates substantial improvements in the prediction performance of SPC. Experiment results show statistically significant improvements in AUROC and AUPRC when compared to localized, horizontal federated, and centralized learning baselines. This highlights the importance of not only acquiring external data but also leveraging it effectively to enhance model performance in real-world clinical model development.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07249",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07249v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017688"
+}

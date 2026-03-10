@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07294v1",
+  "title": "MAviS: A Multimodal Conversational Assistant For Avian Species",
+  "authors": "Yevheniia Kryklyvets, Mohammed Irfan Kurpath, Sahal Shaji Mullappilly, Jinxing Zhou, Fahad Shabzan Khan, Rao Anwer, Salman Khan, Hisham Cholakkal",
+  "summary": "arXiv:2603.07294v1 Announce Type: cross \nAbstract: Fine-grained understanding and species-specific multimodal question answering are vital for advancing biodiversity conservation and ecological monitoring. However, existing multimodal large language models face challenges when it comes to specialized topics like avian species, making it harder to provide accurate and contextually relevant information in these areas. To address this limitation, we introduce the MAviS-Dataset, a large-scale multimodal avian species dataset that integrates image, audio, and text modalities for over 1,000 bird species, comprising both pretraining and instruction-tuning subsets enriched with structured question-answer pairs. Building on the MAviS-Dataset, we introduce MAviS-Chat, a multimodal LLM that supports audio, vision, and text and is designed for fine-grained species understanding, multimodal question answering, and scene-specific description generation. Finally, for quantitative evaluation, we present MAviS-Bench, a benchmark of over 25,000 QA pairs designed to assess avian species-specific perceptual and reasoning abilities across modalities. Experimental results show that MAviS-Chat outperforms the baseline MiniCPM-o-2.6 by a large margin, achieving state-of-the-art open-source results and demonstrating the effectiveness of our instruction-tuned MAviS-Dataset. Our findings highlight the necessity of domain-adaptive multimodal LLMs for ecological applications.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07294",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07294v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074402"
+}

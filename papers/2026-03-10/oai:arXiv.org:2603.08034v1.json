@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08034v1",
+  "title": "Solution to the 10th ABAW Expression Recognition Challenge: A Robust Multimodal Framework with Safe Cross-Attention and Modality Dropout",
+  "authors": "Jun Yu, Naixiang Zheng, Guoyuan Wang, Yunxiang Zhang, Lingsi Zhu, Jiaen Liang, Wei Huang, Shengping Liu",
+  "summary": "arXiv:2603.08034v1 Announce Type: cross \nAbstract: Emotion recognition in real-world environments is hindered by partial occlusions, missing modalities, and severe class imbalance. To address these issues, particularly for the Affective Behavior Analysis in-the-wild (ABAW) Expression challenge, we propose a multimodal framework that dynamically fuses visual and audio representations. Our approach uses a dual-branch Transformer architecture featuring a safe cross-attention mechanism and a modality dropout strategy. This design allows the network to rely on audio-based predictions when visual cues are absent. To mitigate the long-tail distribution of the Aff-Wild2 dataset, we apply focal loss optimization, combined with a sliding-window soft voting strategy to capture dynamic emotional transitions and reduce frame-level classification jitter. Experiments demonstrate that our framework effectively handles missing modalities and complex spatiotemporal dependencies, achieving an accuracy of 60.79% and an F1-score of 0.5029 on the Aff-Wild2 validation set.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08034",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08034v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074879"
+}

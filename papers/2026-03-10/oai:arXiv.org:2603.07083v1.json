@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07083v1",
+  "title": "Dreamer-CDP: Improving Reconstruction-free World Models Via Continuous Deterministic Representation Prediction",
+  "authors": "Michael Hauri, Friedemann Zenke",
+  "summary": "arXiv:2603.07083v1 Announce Type: new \nAbstract: Model-based reinforcement learning (MBRL) agents operating in high-dimensional observation spaces, such as Dreamer, rely on learning abstract representations for effective planning and control. Existing approaches typically employ reconstruction-based objectives in the observation space, which can render representations sensitive to task-irrelevant details. Recent alternatives trade reconstruction for auxiliary action prediction heads or view augmentation strategies, but perform worse in the Crafter environment than reconstruction-based methods. We close this gap between Dreamer and reconstruction-free models by introducing a JEPA-style predictor defined on continuous, deterministic representations. Our method matches Dreamer's performance on Crafter, demonstrating effective world model learning on this benchmark without reconstruction objectives.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07083",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07083v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017614"
+}

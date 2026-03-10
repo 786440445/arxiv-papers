@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.10822v2",
+  "title": "Distilled Circuits: A Mechanistic Study of Internal Restructuring in Knowledge Distillation",
+  "authors": "Reilly Haskins, Benjamin Adams",
+  "summary": "arXiv:2505.10822v2 Announce Type: replace \nAbstract: Knowledge distillation compresses a larger neural model (teacher) into smaller, faster student models by training them to match teacher outputs. However, the internal computational transformations that occur during this process remain poorly understood. We apply techniques from mechanistic interpretability to analyze how internal circuits, representations, and activation patterns differ between teachers and students. Focusing on GPT2 and its distilled counterpart DistilGPT2, and generalizing our findings to both bidirectional architectures and larger model pairs, we find that student models can reorganize, compress, and discard teacher components, often resulting in a stronger reliance on fewer individual components. To quantify functional alignment beyond output similarity, we introduce an alignment metric based on influence-weighted component similarity, validated across multiple tasks. Our findings reveal that while knowledge distillation preserves broad functional behaviors, it also causes significant shifts in internal computation, with important implications for the robustness and generalization capacity of distilled models.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.10822",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.10822v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019391"
+}

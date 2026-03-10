@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07285v1",
+  "title": "Fast and Flexible Audio Bandwidth Extension via Vocos",
+  "authors": "Yatharth Sharma",
+  "summary": "arXiv:2603.07285v1 Announce Type: cross \nAbstract: We propose a Vocos-based bandwidth extension model that enhances audio at 8-48 kHz by generating missing high-frequency content. Inputs are resampled to 48 kHz and processed by a neural vocoder backbone, enabling a single network to support arbitrary upsampling ratios. A lightweight Linkwitz-Riley-inspired refiner merges the original low band with the generated high frequencies via a smooth crossover. On validation, the model achieves competitive log-spectral distance while running at a real-time factor of 0.0001 on an NVIDIA A100 GPU and 0.0053 on an 8-core CPU, demonstrating practical, high-quality BWE at extreme throughput.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07285",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07285v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074421"
+}

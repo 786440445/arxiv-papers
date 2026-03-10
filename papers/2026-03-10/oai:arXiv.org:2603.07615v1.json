@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07615v1",
+  "title": "Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models",
+  "authors": "Jiajun He, Zongyu Guo, Zhaoyang Jia, Xiaoyi Zhang, Jiahao Li, Xiao Li, Bin Li, Jos\\'e Miguel Hern\\'andez-Lobato, Yan Lu",
+  "summary": "arXiv:2603.07615v1 Announce Type: new \nAbstract: Modern visual generative models acquire rich visual knowledge through large-scale training, yet existing visual representations (such as pixels, latents, or tokens) remain external to the model and cannot directly exploit this knowledge for compact storage or reuse. In this work, we introduce a new visual representation framework that encodes a signal as a function, which is parametrized by low-rank adaptations attached to a frozen visual generative model. Such implicit representations of visual signals, \\textit{e.g.}, an 81-frame video, can further be hashed into a single compact vector, achieving strong perceptual video compression at extremely low bitrates. Beyond basic compression, the functional nature of this representation enables inference-time scaling and control, allowing additional refinement on the compression performance. More broadly, as the implicit representations directly act as a function of the generation process, this suggests a unified framework bridging visual compression and generation.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07615",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07615v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017906"
+}

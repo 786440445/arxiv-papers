@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07054v1",
+  "title": "Bi-directional digital twin prototype anchoring with multi-periodicity learning for few-shot fault diagnosis",
+  "authors": "Pengcheng Xia, Zhichao Dong, Yixiang Huang, Chengjin Qin, Qun Chao, Chengliang Liu",
+  "summary": "arXiv:2603.07054v1 Announce Type: new \nAbstract: Intelligent fault diagnosis (IFD) has emerged as a powerful paradigm for ensuring the safety and reliability of industrial machinery. However, traditional IFD methods rely heavily on abundant labeled data for training, which is often difficult to obtain in practical industrial environments. Constructing a digital twin (DT) of the physical asset to obtain simulation data has therefore become a promising alternative. Nevertheless, existing DT-assisted diagnosis methods mainly transfer diagnostic knowledge through domain adaptation techniques, which still require a considerable amount of unlabeled data from the target asset. To address the challenges in few-shot scenarios where only extremely limited samples are available, a bi-directional DT prototype anchoring method with multi-periodicity learning is proposed. Specifically, a framework involving meta-training in the DT virtual space and test-time adaptation in the physical space is constructed for reliable few-shot model adaptation for the target asset. A bi-directional twin-domain prototype anchoring strategy with covariance-guided augmentation for adaptation is further developed to improve the robustness of prototype estimation. In addition, a multi-periodicity feature learning module is designed to capture the intrinsic periodic characteristics within current signals. A DT of an asynchronous motor is built based on finite element method, and experiments are conducted under multiple few-shot settings and three working conditions. Comparative and ablation studies demonstrate the superiority and effectiveness of the proposed method for few-shot fault diagnosis.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07054",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07054v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073323"
+}

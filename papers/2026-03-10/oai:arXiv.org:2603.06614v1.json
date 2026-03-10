@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06614v1",
+  "title": "Correlation Analysis of Generative Models",
+  "authors": "Zhengguo Li, Chaobing Zheng, Wei Wang",
+  "summary": "arXiv:2603.06614v1 Announce Type: new \nAbstract: Based on literature review about existing diffusion models and flow matching with a neural network to predict a predefined target from noisy data, a unified representation is first proposed for these models using two simple linear equations in this paper. Theoretical analysis of the proposed model is then presented. Our theoretical analysis shows that the correlation between the noisy data and the predicted target is sometimes weak in the existing diffusion models and flow matching. This might affect the prediction (or learning) process which plays a crucial role in all models.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06614",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06614v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017209"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07020v1",
+  "title": "RESCHED: Rethinking Flexible Job Shop Scheduling from a Transformer-based Architecture with Simplified States",
+  "authors": "Xiangjie Xiao, Cong Zhang, Wen Song, Zhiguang Cao",
+  "summary": "arXiv:2603.07020v1 Announce Type: new \nAbstract: Neural approaches to the Flexible Job Shop Scheduling Problem (FJSP), particularly those based on deep reinforcement learning (DRL), have gained growing attention in recent years. However, existing methods rely on complex feature-engineered state representations (i.e., often requiring more than 20 handcrafted features) and graph-biased neural architectures. To reduce modeling complexity and advance a more generalizable framework for FJSP, we introduce \\textsc{ReSched}, a minimalist DRL framework that rethinks both the scheduling formulation and model design. First, by revisiting the Markov Decision Process (MDP) formulation of FJSP, we condense the state space to just four essential features, eliminating historical dependencies through a subproblem-based perspective. Second, we employ Transformer blocks with dot-product attention, augmented by three lightweight but effective architectural modifications tailored to scheduling tasks. Extensive experiments show that \\textsc{ReSched} outperforms classical dispatching rules and state-of-the-art DRL methods on FJSP. Moreover, \\textsc{ReSched} also generalizes well to the Job Shop Scheduling Problem (JSSP) and the Flexible Flow Shop Scheduling Problem (FFSP), achieving competitive performance against neural baselines specifically designed for these variants.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07020",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07020v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017594"
+}

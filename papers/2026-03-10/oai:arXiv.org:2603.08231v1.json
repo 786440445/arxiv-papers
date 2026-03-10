@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08231v1",
+  "title": "Quantifying Cross-Lingual Transfer in Paralinguistic Speech Tasks",
+  "authors": "Pol Buitrago, Oriol Pareras, Federico Costa, Javier Hernando",
+  "summary": "arXiv:2603.08231v1 Announce Type: new \nAbstract: Paralinguistic speech tasks are often considered relatively language-agnostic, as they rely on extralinguistic acoustic cues rather than lexical content. However, prior studies report performance degradation under cross-lingual conditions, indicating non-negligible language dependence. Still, these studies typically focus on isolated language pairs or task-specific settings, limiting comparability and preventing a systematic assessment of task-level language dependence.\n  We introduce the Cross-Lingual Transfer Matrix (CLTM), a systematic method to quantify cross-lingual interactions between pairs of languages within a given task. We apply the CLTM to two paralinguistic tasks, gender identification and speaker verification, using a multilingual HuBERT-based encoder, to analyze how donor-language data affects target-language performance during fine-tuning. Our results reveal distinct transfer patterns across tasks and languages, reflecting systematic, language-dependent effects.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08231",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08231v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-10T22:20:28.345549"
+}

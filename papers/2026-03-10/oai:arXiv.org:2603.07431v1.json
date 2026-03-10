@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07431v1",
+  "title": "OrthoFormer: Instrumental Variable Estimation in Transformer Hidden States via Neural Control Functions",
+  "authors": "Charles Luo",
+  "summary": "arXiv:2603.07431v1 Announce Type: new \nAbstract: Transformer architectures excel at sequential modeling yet remain fundamentally limited by correlational learning - they capture spurious associations induced by latent confounders rather than invariant causal mechanisms. We identify this as an epistemological challenge: standard Transformers conflate static background factors (intrinsic identity, style, context) with dynamic causal flows (state evolution, mechanism), leading to catastrophic out-of-distribution failure. We propose OrthoFormer, a causally grounded architecture that embeds instrumental variable estimation directly into Transformer blocks via neural control functions. Our framework rests on four theoretical pillars: Structural Directionality (time-arrow enforcement), Representation Orthogonality (latent-noise separation), Causal Sparsity (Markov Blanket approximation), and End-to-End Consistency (gradient- detached stage separation). We prove that OrthoFormer achieves bias strictly less than OLS for any valid instrument lag, with residual bias decaying geometrically as O(\\r{ho}k ). We characterize the bias-variance-exogeneity trilemma inherent in self-instrumenting and identify the neural forbidden regression - where removing gradient detachment improves prediction loss while destroying causal validity. Experiments confirm all theoretical predictions. OrthoFormer represents a paradigm shift from correlational to causal sequence modeling, with implications for robustness, interpretability, and reliable decision-making under distribution shift.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07431",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07431v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017802"
+}

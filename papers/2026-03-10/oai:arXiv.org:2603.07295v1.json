@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07295v1",
+  "title": "A Cortically Inspired Architecture for Modular Perceptual AI",
+  "authors": "Prerna Luthra",
+  "summary": "arXiv:2603.07295v1 Announce Type: new \nAbstract: This paper bridges neuroscience and artificial intelligence to propose a cortically inspired blueprint for modular perceptual AI. While current monolithic models such as GPT-4V achieve impressive performance, they often struggle to explicitly support interpretability, compositional generalization, and adaptive robustness - hallmarks of human cognition. Drawing on neuroscientific models of cortical modularity, predictive processing, and cross-modal integration, we advocate decomposing perception into specialized, interacting modules. This architecture supports structured, human-inspired reasoning by making internal inference processes explicit through hierarchical predictive feedback loops and shared latent spaces. Our proof-of-concept study provides empirical evidence that modular decomposition yields more stable and inspectable representations. By grounding AI design in biologically validated principles, we move toward systems that not only perform well, but also support more transparent and human-aligned inference.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07295",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07295v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073370"
+}

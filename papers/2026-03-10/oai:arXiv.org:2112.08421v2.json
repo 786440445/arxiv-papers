@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2112.08421v2",
+  "title": "A White-Box SVM Framework and its Swarm-Based Optimization for Supervision of Toothed Milling Cutter through Characterization of Spindle Vibrations",
+  "authors": "Tejas Y. Deo, B. B. Deshmukh, Keshav H. Jatakar, Kamlesh M. Chhajed, S. S. Pardeshi, R. Jegadeeshwaran, Apoorva N. Khairnar, Hrushikesh S. Khade, A. D. Patange",
+  "summary": "arXiv:2112.08421v2 Announce Type: replace \nAbstract: In this paper, a white-Box support vector machine (SVM) framework and its swarm-based optimization is presented for supervision of toothed milling cutter through characterization of real-time spindle vibrations. The anomalous moments of vibration evolved due to in-process tool failures (i.e., flank and nose wear, crater and notch wear, edge fracture) have been investigated through time-domain response of acceleration and statistical features. The Recursive Feature Elimination with Cross-Validation (RFECV) with decision trees as the estimator has been implemented for feature selection. Further, the competence of standard SVM has been examined for tool health monitoring followed by its optimization through application of swarm based algorithms. The comparative analysis of performance of five meta-heuristic algorithms (Elephant Herding Optimization, Monarch Butterfly Optimization, Harris Hawks Optimization, Slime Mould Algorithm, and Moth Search Algorithm) has been carried out. The white-box approach has been presented considering global and local representation that provides insight into the performance of machine learning models in tool condition monitoring.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2112.08421",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2112.08421v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019207"
+}

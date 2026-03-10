@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06670v1",
+  "title": "calibfusion: Transformer-Based Differentiable Calibration for Radar-Camera Fusion Detection in Water-Surface Environments",
+  "authors": "Yuting Wan, Liguo Sun, Jiuwu Hao, Pin LV",
+  "summary": "arXiv:2603.06670v1 Announce Type: cross \nAbstract: Millimeter-wave (mmWave) Radar--Camera fusion improves perception under adverse illumination and weather, but its performance is sensitive to Radar--Camera extrinsic calibration: residual misalignment biases Radar-to-image projection and degrades cross-modal aggregation for downstream 2D detection. Existing calibration and auto-calibration methods are mainly developed for road and urban scenes with abundant structures and object constraints, whereas water-surface environments feature large textureless regions, sparse and intermittent targets, and wave-/specular-induced Radar clutter, which weakens explicit object-centric matching.\n  We propose CalibFusion, a calibration-conditioned Radar--Camera fusion detector that learns implicit extrinsic refinement end-to-end with the detection objective. CalibFusion builds a multi-frame persistence-aware Radar density representation with intensity weighting and Doppler-guided suppression of fast-varying clutter. A cross-modal transformer interaction module predicts a confidence-gated refinement of the initial extrinsics, which is integrated through a differentiable projection-and-splatting operator to generate calibration-conditioned image-plane Radar features.\n  Experiments on WaterScenes and FLOW show improved fusion-based 2D detection and robustness under synthetic miscalibration, supported by sensitivity analyses and qualitative Radar-to-image overlays. Results on nuScenes indicate that the refinement mechanism transfers beyond water-surface scenarios.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06670",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06670v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073911"
+}

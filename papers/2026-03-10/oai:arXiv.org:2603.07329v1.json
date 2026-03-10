@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07329v1",
+  "title": "The Third Ambition: Artificial Intelligence and the Science of Human Behavior",
+  "authors": "W. Russell Neuman, Chad Coleman",
+  "summary": "arXiv:2603.07329v1 Announce Type: new \nAbstract: Contemporary artificial intelligence research has been organized around two dominant ambitions: productivity, which treats AI systems as tools for accelerating work and economic output, and alignment, which focuses on ensuring that increasingly capable systems behave safely and in accordance with human values. This paper articulates and develops a third, emerging ambition: the use of large language models (LLMs) as scientific instruments for studying human behavior, culture, and moral reasoning. Trained on unprecedented volumes of human-produced text, LLMs encode large-scale regularities in how people argue, justify, narrate, and negotiate norms across social domains. We argue that these models can be understood as condensates of human symbolic behavior, compressed, generative representations that render patterns of collective discourse computationally accessible. The paper situates this third ambition within long-standing traditions of computational social science, content analysis, survey research, and comparative-historical inquiry, while clarifying the epistemic limits of treating model output as evidence. We distinguish between base models and fine-tuned systems, showing how alignment interventions can systematically reshape or obscure the cultural regularities learned during pretraining, and we identify instruct-only and modular adaptation regimes as pragmatic compromises for behavioral research. We review emerging methodological approaches including prompt-based experiments, synthetic population sampling, comparative-historical modeling, and ablation studies and show how each maps onto familiar social-scientific designs while operating at unprecedented scale.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07329",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07329v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073393"
+}

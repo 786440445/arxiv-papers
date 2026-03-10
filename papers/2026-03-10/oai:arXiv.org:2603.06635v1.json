@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06635v1",
+  "title": "Graph Property Inference in Small Language Models: Effects of Representation and Inference Strategy",
+  "authors": "Michal Podstawski",
+  "summary": "arXiv:2603.06635v1 Announce Type: new \nAbstract: Recent progress in language modeling has expanded the range of tasks that can be approached through natural language interfaces, including problems that require structured reasoning. However, it remains unclear how effectively limited-capacity language models can infer formal properties of relational structures when those structures are presented in textual form. Understanding the conditions under which structured reasoning succeeds or fails is essential for applying small models in graph-based domains.\n  We conduct a systematic study of graph-theoretic property inference in small instruction-tuned language models, isolating the roles of input representation and reasoning strategy. Across a diverse set of local and global graph metrics, we find that structural performance is highly sensitive to how relational information is organized. Representations that preserve neighborhood structure consistently improve estimation stability and ordinal consistency, while multi-branch reasoning yields the most reliable aggregate gains across configurations.\n  These results show that graph property inference in small language models depends critically on representational organization and inference design. Structural competence is therefore shaped not only by model scale, but by how relational information is encoded and how predictions are elicited. The findings identify practical levers for improving structured inference under constrained model capacity.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06635",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06635v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017280"
+}

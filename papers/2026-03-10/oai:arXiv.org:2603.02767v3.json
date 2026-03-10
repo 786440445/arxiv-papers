@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.02767v3",
+  "title": "ITO: Images and Texts as One via Synergizing Multiple Alignment and Training-Time Fusion",
+  "authors": "Hanpeng Liu, Yaqian Li, Zidan Wang, Shuoxi Zhang, Zonglin Zhao, Zihao Bo, Rinyoichi Takezoe, Kaiwen Long, Kun He",
+  "summary": "arXiv:2603.02767v3 Announce Type: replace-cross \nAbstract: Image-text contrastive pretraining has become a dominant paradigm for visual representation learning, yet existing methods often yield representations that remain partially organized by modality. We propose ITO, a framework addressing this limitation through two synergistic mechanisms. Multimodal multiple alignment enriches supervision by mining diverse image-text correspondences, while a lightweight training-time multimodal fusion module enforces structured cross-modal interaction. Crucially, the fusion module is discarded at inference, preserving the efficiency of standard dual-encoder architectures. Extensive experiments show that ITO consistently outperforms strong baselines across classification, retrieval, and multimodal benchmarks. Our analysis reveals that while multiple alignment drives discriminative power, training-time fusion acts as a critical structural regularizer -- eliminating the modality gap and stabilizing training dynamics to prevent the early saturation often observed in aggressive contrastive learning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.02767",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.02767v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076485"
+}

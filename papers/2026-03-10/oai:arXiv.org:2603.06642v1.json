@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06642v1",
+  "title": "SR-TTT: Surprisal-Aware Residual Test-Time Training",
+  "authors": "Swamynathan V P",
+  "summary": "arXiv:2603.06642v1 Announce Type: new \nAbstract: Test-Time Training (TTT) language models achieve theoretically infinite context windows with an O(1) memory footprint by replacing the standard exact-attention KV-cache with hidden state ``fast weights'' W_fast updated via self-supervised learning during inference. However, pure TTT architectures suffer catastrophic failures on exact-recall tasks (e.g., Needle-in-a-Haystack). Because the fast weights aggressively compress the context into an information bottleneck, highly surprising or unique tokens are rapidly overwritten and forgotten by subsequent token gradient updates. We introduce SR-TTT (Surprisal-Aware Residual Test-Time Training), which resolves this recall failure by augmenting the TTT backbone with a loss-gated sparse memory mechanism. By dynamically routing only incompressible, highly surprising tokens to a traditional exact-attention Residual Cache, SR-TTT preserves O(1) memory for low-entropy background context while utilizing exact attention exclusively for critical needles. Our complete implementation, training scripts, and pre-trained weights are open-source and available at: https://github.com/swamynathanvp/Surprisal-Aware-Residual-Test-Time-Training.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06642",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06642v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017295"
+}

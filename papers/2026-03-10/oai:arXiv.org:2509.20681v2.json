@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.20681v2",
+  "title": "Efficient Construction of Implicit Surface Models From a Single Image for Motion Generation",
+  "authors": "Wei-Teng Chu, Tianyi Zhang, Matthew Johnson-Roberson, Weiming Zhi",
+  "summary": "arXiv:2509.20681v2 Announce Type: replace-cross \nAbstract: Implicit representations have been widely applied in robotics for obstacle avoidance and path planning. In this paper, we explore the problem of constructing an implicit distance representation from a single image. Past methods for implicit surface reconstruction, such as NeuS and its variants generally require a large set of multi-view images as input, and require long training times. In this work, we propose Fast Image-to-Neural Surface (FINS), a lightweight framework that can reconstruct high-fidelity surfaces and SDF fields based on a single or a small set of images. FINS integrates a multi-resolution hash grid encoder with lightweight geometry and color heads, making the training via an approximate second-order optimizer highly efficient and capable of converging within a few seconds. Additionally, we achieve the construction of a neural surface requiring only a single RGB image, by leveraging pre-trained foundation models to estimate the geometry inherent in the image. Our experiments demonstrate that under the same conditions, our method outperforms state-of-the-art baselines in both convergence speed and accuracy on surface reconstruction and SDF field estimation. Moreover, we demonstrate the applicability of FINS for robot surface following tasks and show its scalability to a variety of benchmark datasets.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.20681",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.20681v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.075995"
+}

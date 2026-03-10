@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.01738v2",
+  "title": "MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention",
+  "authors": "Pedro M. P. Curvo, Jan-Willem van de Meent, Maksim Zhdanov",
+  "summary": "arXiv:2512.01738v2 Announce Type: replace \nAbstract: A key scalability challenge in neural solvers for industrial-scale physics simulations is efficiently capturing both fine-grained local interactions and long-range global dependencies across millions of spatial elements. We introduce the Multi-Scale Patch Transformer (MSPT), an architecture that combines local point attention within patches with global attention to coarse patch-level representations. To partition the input domain into spatially-coherent patches, we employ ball trees, which handle irregular geometries efficiently. This dual-scale design enables MSPT to scale to millions of points on a single GPU. We validate our method on standard PDE benchmarks (elasticity, plasticity, fluid dynamics, porous flow) and large-scale aerodynamic datasets (ShapeNet-Car, Ahmed-ML), achieving state-of-the-art accuracy with substantially lower memory footprint and computational cost.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.01738",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.01738v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019699"
+}

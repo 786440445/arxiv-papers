@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.02581v2",
+  "title": "Evolving Diffusion and Flow Matching Policies for Online Reinforcement Learning",
+  "authors": "Chubin Zhang, Zhenglin Wan, Feng Chen, Fuchao Yang, Lang Feng, Yaxin Zhou, Xingrui Yu, Yang You, Ivor Tsang, Bo An",
+  "summary": "arXiv:2512.02581v2 Announce Type: replace \nAbstract: Diffusion and flow matching policies offer expressive, multimodal action modeling, yet they are frequently unstable in online reinforcement learning (RL) due to intractable likelihoods and gradients propagating through long sampling chains. Conversely, tractable parameterizations such as Gaussians lack the expressiveness needed for complex control -- exposing a persistent tension between optimization stability and representational power. We address this tension with a key structural principle: decoupling optimization from generation. Building on this, we introduce GoRL (Generative Online Reinforcement Learning), an algorithm-agnostic framework that trains expressive policies from scratch by confining policy optimization to a tractable latent space while delegating action synthesis to a conditional generative decoder. Using a two-timescale alternating schedule and anchoring decoder refinement to a fixed prior, GoRL enables stable optimization while continuously expanding expressiveness. Empirically, GoRL consistently outperforms unimodal and generative baselines across diverse continuous-control tasks. Notably, on the challenging HopperStand task, it achieves episodic returns exceeding 870 -- more than $3\\times$ that of the strongest baseline -- demonstrating a practical path to policies that are both stable and highly expressive. Our code is publicly available at https://github.com/bennidict23/GoRL.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.02581",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.02581v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019715"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.04862v2",
+  "title": "Focus Then Listen: Exploring Plug-and-Play Audio Enhancer for Noise-Robust Large Audio Language Models",
+  "authors": "Han Yin, Yang Xiao, Younghoo Kwon, Ting Dang, Jung-Woo Choi",
+  "summary": "arXiv:2603.04862v2 Announce Type: replace \nAbstract: Large audio language models (LALMs) are a class of foundation models for audio understanding. Existing LALMs tend to degrade significantly in real-world noisy acoustic conditions where speech and non-speech sounds interfere. While noise-aware fine-tuning can improve robustness, it requires task-specific noisy data and expensive retraining, limiting scalability. To address this issue, we propose Focus-Then-Listen (FTL), a plug-and-play audio enhancer that improves LALMs' noise robustness. Specifically, FTL first separates the input waveform into speech and non-speech, and a modality router is applied to predict the target audio modality (e.g., speech) based on the user's instruction. Finally, a modality-aware fusion block generates a task-adaptive enhanced signal for improved downstream perception and reasoning. Experiments across multiple LALMs and tasks show that FTL improves performance across different noise levels without fine-tuning on LALMs.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.04862",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.04862v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074512"
+}

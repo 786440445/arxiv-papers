@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07348v1",
+  "title": "Learning Clinical Representations Under Systematic Distribution Shift",
+  "authors": "Yuanyun Zhang, Shi Li",
+  "summary": "arXiv:2603.07348v1 Announce Type: new \nAbstract: Clinical machine learning models are increasingly trained using large scale, multimodal foundation paradigms, yet deployment environments often differ systematically from the data generating settings used during training. Such shifts arise from heterogeneous measurement policies, documentation practices, and institutional workflows, leading to representation entanglement between physiologic signal and practice specific artifacts. In this work, we propose a practice invariant representation learning framework for multimodal clinical prediction. We model clinical observations as arising from latent physiologic factors and environment dependent processes, and introduce an objective that jointly optimizes predictive performance while suppressing environment predictive information in the learned embedding. Concretely, we combine supervised risk minimization with adversarial environment regularization and invariant risk penalties across hospitals. Across multiple longitudinal EHR prediction tasks and cross institution evaluations, our method improves out of distribution AUROC by up to 2 to 3 points relative to masked pretraining and standard supervised baselines, while maintaining in distribution performance and improving calibration. These results demonstrate that explicitly accounting for systematic distribution shift during representation learning yields more robust and transferable clinical models, highlighting the importance of structural invariance alongside architectural scale in healthcare AI.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07348",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07348v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017740"
+}

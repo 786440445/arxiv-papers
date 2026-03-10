@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08097v1",
+  "title": "PathBench: Speech Intelligibility Benchmark for Automatic Pathological Speech Assessment",
+  "authors": "Bence Mark Halpern, Thomas Tienkamp, Defne Abur, Tomoki Toda",
+  "summary": "arXiv:2603.08097v1 Announce Type: new \nAbstract: Automatic speech intelligibility assessment is crucial for monitoring speech disorders and therapy efficacy. However, existing methods are difficult to compare: research is fragmented across private datasets with inconsistent protocols. We introduce PathBench, a unified benchmark for pathological speech assessment using public datasets. We compare reference-free, reference-text, and reference-audio methods across three protocols (Matched Content, Extended, and Full) representing how a linguist (controlled stimuli) versus machine learning specialist (maximum data) would approach the same data. We establish benchmark baselines across six datasets, enabling systematic evaluation of future methodological advances, and introduce Dual-ASR Articulatory Precision (DArtP), achieving the highest average correlation among reference-free methods.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08097",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08097v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074390"
+}

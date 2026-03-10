@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07323v1",
+  "title": "Norm-Hierarchy Transitions in Representation Learning: When and Why Neural Networks Abandon Shortcuts",
+  "authors": "Truong Xuan Khanh, Truong Quynh Hoa",
+  "summary": "arXiv:2603.07323v1 Announce Type: new \nAbstract: Neural networks often rely on spurious shortcuts for many epochs before discovering structured representations. However, the mechanism governing when this transition occurs and whether its timing can be predicted remains unclear. Prior work shows that gradient descent converges to low norm solutions and that neural networks exhibit simplicity bias, but neither explains the timescale of the transition from shortcut features to structured representations.\n  We introduce the Norm-Hierarchy Transition (NHT) framework, which explains delayed representation learning as the slow traversal of a hierarchy of parameter norms during regularized optimization. When multiple interpolating solutions exist with different norms, weight decay gradually moves the model from high norm shortcut solutions toward lower norm structured representations. We derive a tight bound showing that the transition delay grows logarithmically with the ratio between shortcut and structured norms.\n  Experiments on modular arithmetic, CIFAR-10 with spurious features, CelebA, and Waterbirds support the predictions of the framework. The results suggest that grokking, shortcut learning, and delayed feature discovery arise from a common mechanism based on norm hierarchy traversal during training.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07323",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07323v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017729"
+}

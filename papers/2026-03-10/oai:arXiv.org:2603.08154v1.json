@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08154v1",
+  "title": "Soundscapes in Spectrograms: Pioneering Multilabel Classification for South Asian Sounds",
+  "authors": "Sudip Chakrabarty, Pappu Bishwas, Rajdeep Chatterjee, Tathagata Bandyopadhyay, Digonto Biswas, Bibek Howlader",
+  "summary": "arXiv:2603.08154v1 Announce Type: new \nAbstract: Environmental sound classification is a field of growing importance for urban monitoring and cultural soundscape analysis, especially within the acoustically rich environments of South Asia. These regions present a unique challenge as multiple natural, human, and cultural sounds often overlap, straining traditional methods that frequently rely on Mel Frequency Cepstral Coefficients (MFCC). This study introduces a novel spectrogram-based methodology with a superior ability to capture these complex auditory patterns. A Convolutional Neural Network (CNN) architecture is implemented to solve a demanding multilabel, multiclass classification problem on the SAS-KIIT dataset. To demonstrate robustness and comparability, the approach is also validated using the renowned UrbanSound8K dataset. The results confirm that the proposed spectrogram-based method significantly outperforms existing MFCC-based techniques, achieving higher classification accuracy across both datasets. This improvement lays the groundwork for more robust and accurate audio classification systems in real-world applications.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08154",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08154v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074394"
+}

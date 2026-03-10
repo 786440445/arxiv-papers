@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.02426v2",
+  "title": "Personalized Multi-Agent Average Reward TD-Learning via Joint Linear Approximation",
+  "authors": "Leo Muxing Wang, Pengkun Yang, Lili Su",
+  "summary": "arXiv:2603.02426v2 Announce Type: replace \nAbstract: We study personalized multi-agent average reward TD learning, in which a collection of agents interacts with different environments and jointly learns their respective value functions. We focus on the setting where there exists a shared linear representation, and the agents' optimal weights collectively lie in an unknown linear subspace. Inspired by the recent success of personalized federated learning (PFL), we study the convergence of cooperative single-timescale TD learning in which agents iteratively estimate the common subspace and local heads. We showed that this decomposition can filter out conflicting signals, effectively mitigating the negative impacts of ``misaligned'' signals, and achieving linear speedup. The main technical challenges lie in the heterogeneity, the Markovian sampling, and their intricate interplay in shaping error evolutions. Specifically, not only are the error dynamics of multiple variables closely interconnected, but there is also no direct contraction for the principal angle distance between the optimal subspace and the estimated subspace. We hope our analytical techniques can be useful to inspire research on deeper exploration into leveraging common structures. Experiments are provided to show the benefits of learning via a shared structure to the more general control problem.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.02426",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.02426v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019918"
+}

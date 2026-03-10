@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06774v1",
+  "title": "Gauge Freedom and Metric Dependence in Neural Representation Spaces",
+  "authors": "Jericho Cain",
+  "summary": "arXiv:2603.06774v1 Announce Type: new \nAbstract: Neural network representations are often analyzed as vectors in a fixed Euclidean space. However, their coordinates are not uniquely defined. If a hidden representation is transformed by an invertible linear map, the network function can be preserved by applying the inverse transformation to downstream weights. Representations are therefore defined only up to invertible linear transformations. We study neural representation spaces from this geometric viewpoint and treat them as vector spaces with a gauge freedom under the general linear group. Within this framework, commonly used similarity measures such as cosine similarity become metric-dependent quantities whose values can change under coordinate transformations that leave the model function unchanged. This provides a common interpretation for several observations in the literature, including cosine-similarity instability, anisotropy in embedding spaces, and the appeal of representation comparison methods such as SVCCA and CKA. Experiments on multilayer perceptrons and convolutional networks confirm that inserting invertible transformations into trained models can substantially distort cosine similarity and nearest-neighbor structure while leaving predictions unchanged. These results indicate that analysis of neural representations should focus either on quantities that are invariant under this gauge freedom or on explicitly chosen canonical coordinates.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06774",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06774v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017433"
+}

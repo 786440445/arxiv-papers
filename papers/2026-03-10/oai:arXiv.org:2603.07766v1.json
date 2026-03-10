@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07766v1",
+  "title": "QuadAI at SemEval-2026 Task 3: Ensemble Learning of Hybrid RoBERTa and LLMs for Dimensional Aspect-Based Sentiment Analysis",
+  "authors": "A. J. W. de Vink, Filippos Karolos Ventirozos, Natalia Amat-Lefort, Lifeng Han",
+  "summary": "arXiv:2603.07766v1 Announce Type: cross \nAbstract: We present our system for SemEval-2026 Task 3 on dimensional aspect-based sentiment regression. Our approach combines a hybrid RoBERTa encoder, which jointly predicts sentiment using regression and discretized classification heads, with large language models (LLMs) via prediction-level ensemble learning. The hybrid encoder improves prediction stability by combining continuous and discretized sentiment representations. We further explore in-context learning with LLMs and ridge-regression stacking to combine encoder and LLM predictions. Experimental results on the development set show that ensemble learning significantly improves performance over individual models, achieving substantial reductions in RMSE and improvements in correlation scores. Our findings demonstrate the complementary strengths of encoder-based and LLM-based approaches for dimensional sentiment analysis. Our development code and resources will be shared at https://github.com/aaronlifenghan/ABSentiment",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07766",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07766v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074709"
+}

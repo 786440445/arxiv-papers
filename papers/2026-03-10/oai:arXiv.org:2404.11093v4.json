@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2404.11093v4",
+  "title": "Simulating Non-Markovian Open Quantum Dynamics with Neural Quantum States",
+  "authors": "Long Cao, Liwei Ge, Daochi Zhang, Xiang Li, Yao Wang, Rui-Xue Xu, YiJing Yan, Xiao Zheng",
+  "summary": "arXiv:2404.11093v4 Announce Type: replace-cross \nAbstract: Reducing computational scaling for simulating non-Markovian dissipative dynamics using artificial neural networks is both a major focus and formidable challenge in open quantum systems. To enable neural quantum states (NQSs), we encode environmental memory in dissipatons (quasiparticles with characteristic lifetimes), yielding the dissipaton-embedded quantum master equation (DQME). The resulting NQS-DQME framework achieves compact representation of many-body correlations and non-Markovian memory. Benchmarking against numerically exact hierarchical equations of motion confirms NQS-DQME maintains comparable accuracy while enhancing scalability and interpretability. This methodology opens new paths to explore non-Markovian open quantum dynamics in previously intractable systems.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2404.11093",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2404.11093v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019988"
+}

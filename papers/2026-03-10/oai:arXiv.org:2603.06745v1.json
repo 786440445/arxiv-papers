@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06745v1",
+  "title": "Enhancing Instruction Following of LLMs via Activation Steering with Dynamic Rejection",
+  "authors": "Minjae Kang, Jaehyung Kim",
+  "summary": "arXiv:2603.06745v1 Announce Type: new \nAbstract: Large Language Models (LLMs), despite advances in instruction tuning, often fail to follow complex user instructions. Activation steering techniques aim to mitigate this by manipulating model internals, but have a potential risk of oversteering, where excessive emphasis on the instruction degrades task accuracy and overall text quality. To address this, we introduce DIRECTER (Dynamic rejection steering), a novel steering method that dynamically modulates steering strength by scaling the KV cache without extra dataset. DIRECTER couples steering with a plausibility-guided decoding loop, which adaptively adjusts steering strength at each step by comparing the steered output distribution to the original. If the steered output is deemed implausible, steering strength is progressively weakened. This strength modulation is guided by a lightweight, one-time attention sensitivity analysis that ranks layers by their influence on model representations. Extensive evaluations show that DIRECTER significantly enhances instruction-following capabilities across diverse benchmarks, improving accuracy by up to 6.5% over baselines without the common trade-offs in generation quality or task fidelity. The proposed dynamic, plausibility-guided control during activation steering further demonstrates its potential as a general mechanism for mitigating oversteering that is compatible with existing baselines.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06745",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06745v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017388"
+}

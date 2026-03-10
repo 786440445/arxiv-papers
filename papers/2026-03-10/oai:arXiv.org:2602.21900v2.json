@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.21900v2",
+  "title": "EmoOmni: Bridging Emotional Understanding and Expression in Omni-Modal LLMs",
+  "authors": "Wenjie Tian, Zhixian Zhao, Jingbin Hu, Huakang Chen, Haohe Liu, Binshen Mu, Lei Xie",
+  "summary": "arXiv:2602.21900v2 Announce Type: replace \nAbstract: The evolution of Omni-Modal Large Language Models~(Omni-LLMs) has revolutionized human--computer interaction, enabling unified audio-visual perception and speech response. However, existing Omni-LLMs struggle with complex real-world scenarios, often leading to superficial understanding and contextually mismatched emotional responses. This issue is further intensified by Omni-LLM's Thinker-Talker architectures, which are implicitly connected through hidden states, leading to the loss of emotional details. In this work, we present EmoOmni, a unified framework for accurate understanding and expression in multimodal emotional dialogue. At its core, we introduce the emotional Chain-of-Thought~(E-CoT), which enforces a reasoning from fine-grained multimodal perception to textual response. Moreover, we explicitly treat E-CoT as high-level emotional instructions that guide the talker, enabling accurate emotional expression. Complementing the model, we construct EmoOmniPipe to obtain the real-world annotated dialogue data and establish a benchmark, EmoOmniEval, to facilitate systematic assessment of multimodal emotional dialogue task. Experiments show that EmoOmni-7B achieves comparable performance with Qwen3Omni-30B-A3B-Thinking under the same talker.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.21900",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.21900v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074500"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06669v1",
+  "title": "Hybrid Orchestration of Edge AI and Microservices via Graph-based Self-Imitation Learning",
+  "authors": "Chen Yang, Jin Zheng, Yang Zhuolin, Lai Pan, Zhang Xiao, Hu Menglan, Yin Haiyan",
+  "summary": "arXiv:2603.06669v1 Announce Type: cross \nAbstract: Modern edge AI applications increasingly rely on microservice architectures that integrate both AI services and conventional microservices into complex request chains with stringent latency requirements. Effectively orchestrating these heterogeneous services is crucial for ensuring low-latency performance, yet remains challenging due to their diverse resource demands and strong operational interdependencies under resource-constrained edge environments. In particular, frequent interactions between services tightly couple deployment and routing decisions, yet existing approaches optimize them in isolation, leading to fundamentally inadequate system performance.In this paper, we propose SIL-GPO, a reinforcement learning framework that optimizes hybrid orchestration for edge AI microservice systems. SIL-GPO formulates the orchestration problem as a sequential decision-making task and leverages graph attention networks to encode service topologies and routing dependencies within the agent state representation. Moreover, SIL-GPO integrates a self-imitation learning strategy into proximal policy optimization, enabling the agent to prioritize and reuse high-reward trajectories. This guides policy updates towards globally promising solutions that standard RL often fails to discover under sparse rewards and large combinatorial action spaces. We conduct extensive experiments on trace-driven edge AI workloads, demonstrating that SIL-GPO significantly reduces end-to-end service latency and enhances resource utilization compared to state-of-the-art heuristic, metaheuristic, and deep RL baselines. Our framework offers a unified and scalable solution for efficient orchestration of AI services and microservices in the edge, paving the way for low-latency, high-performance edge AI deployments.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06669",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06669v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073906"
+}

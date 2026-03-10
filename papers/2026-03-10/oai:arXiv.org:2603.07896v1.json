@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07896v1",
+  "title": "SMGI: A Structural Theory of General Artificial Intelligence",
+  "authors": "Aomar Osmani",
+  "summary": "arXiv:2603.07896v1 Announce Type: cross \nAbstract: We introduce SMGI, a structural theory of general artificial intelligence, and recast the foundational problem of learning from the optimization of hypotheses within fixed environments to the controlled evolution of the learning interface itself. We formalize the Structural Model of General Intelligence (SMGI) via a typed meta-model $\\theta = (r,\\mathcal H,\\Pi,\\mathcal L,\\mathcal E,\\mathcal M)$ that treats representational maps, hypothesis spaces, structural priors, multi-regime evaluators, and memory operators as explicitly typed, dynamic components. By enforcing a strict mathematical separation between this structural ontology ($\\theta$) and its induced behavioral semantics ($T_\\theta$), we define general artificial intelligence as a class of admissible coupled dynamics $(\\theta, T_\\theta)$ satisfying four obligations: structural closure under typed transformations, dynamical stability under certified evolution, bounded statistical capacity, and evaluative invariance across regime shifts. We prove a structural generalization bound that links sequential PAC-Bayes analysis and Lyapunov stability, providing sufficient conditions for capacity control and bounded drift under admissible task transformations. Furthermore, we establish a strict structural inclusion theorem demonstrating that classical empirical risk minimization, reinforcement learning, program-prior models (Solomonoff-style), and modern frontier agentic pipelines operate as structurally restricted instances of SMGI.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07896",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07896v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018899"
+}

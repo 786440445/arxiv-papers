@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07222v1",
+  "title": "VINO: Video-driven Invariance for Non-contextual Objects via Structural Prior Guided De-contextualization",
+  "authors": "Seul-Ki Yeom, Marcel Simon, Eunbin Lee, Tae-Ho Kim",
+  "summary": "arXiv:2603.07222v1 Announce Type: cross \nAbstract: Self-supervised learning (SSL) has made rapid progress, yet learned features often over-rely on contextual shortcuts-background textures and co-occurrence statistics. While video provides rich temporal variation, dense in-the-wild streams with strong ego-motion create a co-occurrence trap: foreground objects and background context move coherently, encouraging representations to collapse into scene encoders.\n  To address this, we propose VINO (Video-driven Invariance for Non-Contextual Objects), a teacher-student framework that learns robust image encoders from dense video by imposing a structural information bottleneck. Using a class-agnostic structural prior solely to generate views-not as semantic pseudo-labels-VINO forms an asymmetric distillation problem. The teacher predicts from a foreground-union view with the background suppressed, while the student observes object-conditioned scene views that retain surrounding context but remove competing instances. Matching these targets via masked distillation makes background cues unreliable, pushing the representation toward object-centric invariances. We further enforce temporal object permanence via teacher-anchored cross-time distillation over track-matched objects, and stabilize part-to-whole consistency with mask-guided local views.\n  Through attention visualization and unsupervised object discovery on PASCAL VOC, we demonstrate that VINO effectively disentangles foreground from background. Pretrained on the dense Walking Tours Venice video, VINO achieves 34.8 CorLoc, yielding highly focused, shape-biased representations that substantially outperform prior dense-video and motion-guided SSL baselines.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07222",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07222v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074370"
+}

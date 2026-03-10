@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.23785v2",
+  "title": "CountFormer: A Transformer Framework for Learning Visual Repetition and Structure in Class-Agnostic Object Counting",
+  "authors": "Md Tanvir Hossain, Akif Islam, Mohd Ruhul Ameen",
+  "summary": "arXiv:2510.23785v2 Announce Type: replace-cross \nAbstract: Humans can often count unfamiliar objects by observing visual repetition and composition, rather than relying only on object categories. However, many exemplar-free counting models struggle in such situations and may overcount when objects contain symmetric components, repeated substructures, or partial occlusion. We introduce CountFormer, a controlled adaptation of a density-regression framework inspired by CounTR, where the image encoder is replaced with the self-supervised vision foundation model DINOv2. The resulting transformer features are combined with explicit two-dimensional positional embeddings and decoded by a lightweight convolutional network to produce a density map whose integral gives the final count. Our goal is not to propose a new counting architecture, but to study whether foundation-based representations improve structural consistency under a strictly exemplar-free setting. On FSC-147, CountFormer achieves competitive performance under the official benchmark (MAE 19.06, RMSE 118.45). Qualitative analysis suggests fewer part-level overcounting errors for some structurally complex objects, while overall error remains broadly consistent with prior approaches. Sensitivity analysis shows that evaluation metrics are strongly affected by a small number of extreme high-density scenes. Overall, the results highlight the role of representation quality in exemplar-free object counting.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.23785",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.23785v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076090"
+}

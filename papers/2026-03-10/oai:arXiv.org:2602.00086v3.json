@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.00086v3",
+  "title": "Impact of LLMs news Sentiment Analysis on Stock Price Movement Prediction",
+  "authors": "Walid Siala (SnT, University of Luxembourg, Luxembourg), Ahmed Khanfir (RIADI, ENSI, University of Manouba, Tunisia, SnT, University of Luxembourg, Luxembourg), Mike Papadakis (SnT, University of Luxembourg, Luxembourg)",
+  "summary": "arXiv:2602.00086v3 Announce Type: replace-cross \nAbstract: This paper addresses stock price movement prediction by leveraging LLM-based news sentiment analysis. Earlier works have largely focused on proposing and assessing sentiment analysis models and stock movement prediction methods, however, separately. Although promising results have been achieved, a clear and in-depth understanding of the benefit of the news sentiment to this task, as well as a comprehensive assessment of different architecture types in this context, is still lacking. Herein, we conduct an evaluation study that compares 3 different LLMs, namely, DeBERTa, RoBERTa and FinBERT, for sentiment-driven stock prediction. Our results suggest that DeBERTa outperforms the other two models with an accuracy of 75% and that an ensemble model that combines the three models can increase the accuracy to about 80%. Also, we see that sentiment news features can benefit (slightly) some stock market prediction models, i.e., LSTM-, PatchTST- and tPatchGNN-based classifiers and PatchTST- and TimesNet-based regression tasks models.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.00086",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.00086v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076296"
+}

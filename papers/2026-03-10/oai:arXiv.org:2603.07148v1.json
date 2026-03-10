@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07148v1",
+  "title": "Agentic Planning with Reasoning for Image Styling via Offline RL",
+  "authors": "Subhojyoti Mukherjee, Stefano Petrangeli, Branislav Kveton, Trung Bui, Franck Dernoncourt, Arko Mukherjee",
+  "summary": "arXiv:2603.07148v1 Announce Type: new \nAbstract: Direct prompt-based editing often fails on complex transformations because vague and subjective prompts often require nuanced understanding of what should be changed in the image. Our core intuition is that leveraging compositional image editing tools rather than direct prompting profits from structured agent-level planning with explicit reasoning, leading to better results. This structured planning framework enables efficient offline RL post-training on quality-scored trajectories to improve performance. We present a tool-based agentic RL post-training framework that addresses this through structured planning with chain-of-thought reasoning. Our key contributions include: (1) A tool-based agentic planning methodology that combines a compositional library of orthogonal primitive transformations, structured context representation, and explicit per-step reasoning to decompose complex styling into interpretable tool sequences. (2) A synthetic data generation pipeline producing three large-scale datasets (each $\\sim$10K trajectories) with reasoning chains, plans, and quality scores, as no existing datasets provide such supervision. Our datasets and code are publicly available at the HuggingFace repository. (3) Offline RL training methods for learning planners with reasoning as our core algorithmic contributions, which consistently improve over the Edit-Only baseline in visual quality and instruction following. (4) Comprehensive evaluation across 4B and 8B parameter Qwen3-VL models showing that our methods outperform other baselines in the majority of compositional tasks, validated by human evaluations.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07148",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07148v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017629"
+}

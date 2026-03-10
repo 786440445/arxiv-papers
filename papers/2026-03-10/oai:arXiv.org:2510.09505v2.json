@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.09505v2",
+  "title": "Spatially-Augmented Sequence-to-Sequence Neural Diarization for Meetings",
+  "authors": "Li Li, Ming Cheng, Juan Liu, Ming Li",
+  "summary": "arXiv:2510.09505v2 Announce Type: replace \nAbstract: This paper proposes a Spatially-Augmented Sequence-to-Sequence Neural Diarization (SA-S2SND) framework, which integrates direction-of-arrival (DOA) cues estimated by SRP-DNN into the S2SND backbone. A two-stage training strategy is adopted: the model is first trained with single-channel audio and DOA features, and then further optimized with multi-channel inputs under DOA guidance. In addition, a simulated DOA generation scheme is introduced to alleviate dependence on matched multi-channel corpora. On the AliMeeting dataset, SA-S2SND consistently outperform the S2SND baseline, achieving a 7.4% relative DER reduction in the offline mode and over 19% improvement when combined with channel attention. These results demonstrate that spatial cues are highly complementary to cross-channel modeling, yielding good performance in both online and offline settings.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.09505",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.09505v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-10T22:20:28.345644"
+}

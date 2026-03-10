@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07743v1",
+  "title": "Hide and Find: A Distributed Adversarial Attack on Federated Graph Learning",
+  "authors": "Jinshan Liu, Ken Li, Jiazhe Wei, Bin Shi, Bo Dong",
+  "summary": "arXiv:2603.07743v1 Announce Type: new \nAbstract: Federated Graph Learning (FedGL) is vulnerable to malicious attacks, yet developing a truly effective and stealthy attack method remains a significant challenge. Existing attack methods suffer from low attack success rates, high computational costs, and are easily identified and smoothed by defense algorithms. To address these challenges, we propose \\textbf{FedShift}, a novel two-stage \"Hide and Find\" distributed adversarial attack. In the first stage, before FedGL begins, we inject a learnable and hidden \"shifter\" into part of the training data, which subtly pushes poisoned graph representations toward a target class's decision boundary without crossing it, ensuring attack stealthiness during training. In the second stage, after FedGL is complete, we leverage the global model information and use the hidden shifter as an optimization starting point to efficiently find the adversarial perturbations. During the final attack, we aggregate these perturbations from multiple malicious clients to form the final effective adversarial sample and trigger the attack. Extensive experiments on six large-scale datasets demonstrate that our method achieves the highest attack effectiveness compared to existing advanced attack methods. In particular, our attack can effectively evade 3 mainstream robust federated learning defense algorithms and converges with a time cost reduction of over 90\\%, highlighting its exceptional stealthiness, robustness, and efficiency.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07743",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07743v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017943"
+}

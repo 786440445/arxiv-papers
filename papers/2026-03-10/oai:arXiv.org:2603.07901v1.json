@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07901v1",
+  "title": "NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving",
+  "authors": "Ximeng Tao, Pardis Taghavi, Dimitar Filev, Reza Langari, Gaurav Pandey",
+  "summary": "arXiv:2603.07901v1 Announce Type: cross \nAbstract: Vision-language models (VLMs) have emerged as a promising direction for end-to-end autonomous driving (AD) by jointly modeling visual observations, driving context, and language-based reasoning. However, existing VLM-based systems face a trade-off between high-level reasoning and motion planning: large models offer strong semantic understanding but are costly to adapt for precise control, whereas small VLM models can be fine-tuned efficiently but often exhibit weaker reasoning. We propose NaviDriveVLM, a decoupled framework that separates reasoning from action generation using a large-scale Navigator and a lightweight trainable Driver. This design preserves reasoning ability, reduces training cost, and provides an explicit interpretable intermediate representation for downstream planning. Experiments on the nuScenes benchmark show that NaviDriveVLM outperforms large VLM baselines in end-to-end motion planning.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07901",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07901v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018910"
+}

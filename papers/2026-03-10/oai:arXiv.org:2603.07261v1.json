@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07261v1",
+  "title": "Turning Time Series into Algebraic Equations: Symbolic Machine Learning for Interpretable Modeling of Chaotic Time Series",
+  "authors": "Madhurima Panja, Grace Younes, Tanujit Chakraborty",
+  "summary": "arXiv:2603.07261v1 Announce Type: new \nAbstract: Chaotic time series are notoriously difficult to forecast. Small uncertainties in initial conditions amplify rapidly, while strong nonlinearities and regime dependent variability constrain predictability. Although modern deep learning often delivers strong short horizon accuracy, its black box nature limits scientific insight and practical trust in settings where understanding the underlying dynamics matters. To address this gap, we propose two complementary symbolic forecasters that learn explicit, interpretable algebraic equations from chaotic time series data. Symbolic Neural Forecaster (SyNF) adapts a neural network based equation learning architecture to the forecasting setting, enabling fully differentiable discovery of compact and interpretable algebraic relations. The Symbolic Tree Forecaster (SyTF) builds on evolutionary symbolic regression to search directly over equation structures under a principled accuracy complexity trade off. We evaluate both approaches in a rolling window nowcasting setting with one step ahead forecasting using several accuracy metrics and compare against a broad suite of baselines spanning classical statistical models, tree ensembles, and modern deep learning architectures. Numerical experiments cover a benchmark of 132 low dimensional chaotic attractors and two real world chaotic time series, namely weekly dengue incidence in San Juan and the Nino 3.4 sea surface temperature index. Across datasets, symbolic forecasters achieve competitive one step ahead accuracy while providing transparent equations that reveal salient aspects of the underlying dynamics.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07261",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07261v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017692"
+}

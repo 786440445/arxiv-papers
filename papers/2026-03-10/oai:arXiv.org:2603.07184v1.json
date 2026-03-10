@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07184v1",
+  "title": "From State Changes to Creative Decisions: Documenting and Interpreting Traces Across Creative Domains",
+  "authors": "Xiaohan Peng, Sotiris Piliouras, Carl Abou Saada Nujaim",
+  "summary": "arXiv:2603.07184v1 Announce Type: cross \nAbstract: Analyzing creative activity traces requires capturing activity at appropriate granularity and interpreting it in ways that reflect the structure of creative practice. However, existing approaches record state changes without preserving the intent or relationships that define higher-level creative moves. This decoupling manifests differently across domains: GenAI tools lose non-linear exploration structure, visualization authoring obscures representational intent, and programmatic environments flatten interaction boundaries. We present three complementary approaches: a node-based interface for stateful GenAI artifact management, a vocabulary of visual cues as higher-level creative moves in visualization authoring, and a programming model that embeds semantic histories directly into interaction state.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07184",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07184v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074354"
+}

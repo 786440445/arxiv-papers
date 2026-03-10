@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08426v1",
+  "title": "Grow, Assess, Compress: Adaptive Backbone Scaling for Memory-Efficient Class Incremental Learning",
+  "authors": "Adrian Garcia-Casta\\~neda, Jon Irureta, Jon Imaz, Aizea Lojo",
+  "summary": "arXiv:2603.08426v1 Announce Type: new \nAbstract: Class Incremental Learning (CIL) poses a fundamental challenge: maintaining a balance between the plasticity required to learn new tasks and the stability needed to prevent catastrophic forgetting. While expansion-based methods effectively mitigate forgetting by adding task-specific parameters, they suffer from uncontrolled architectural growth and memory overhead. In this paper, we propose a novel dynamic scaling framework that adaptively manages model capacity through a cyclic \"GRow, Assess, ComprEss\" (GRACE) strategy. Crucially, we supplement backbone expansion with a novel saturation assessment phase that evaluates the utilization of the model's capacity. This assessment allows the framework to make informed decisions to either expand the architecture or compress the backbones into a streamlined representation, preventing parameter explosion. Experimental results demonstrate that our approach achieves state-of-the-art performance across multiple CIL benchmarks, while reducing memory footprint by up to a 73% compared to purely expansionist models.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08426",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08426v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.018254"
+}

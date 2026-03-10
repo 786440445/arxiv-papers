@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.04865v2",
+  "title": "The First Environmental Sound Deepfake Detection Challenge: Benchmarking Robustness, Evaluation, and Insights",
+  "authors": "Han Yin, Yang Xiao, Rohan Kumar Das, Jisheng Bai, Ting Dang",
+  "summary": "arXiv:2603.04865v2 Announce Type: replace \nAbstract: Recent progress in audio generation has made it increasingly easy to create highly realistic environmental soundscapes, which can be misused to produce deceptive content, such as fake alarms, gunshots, and crowd sounds, raising concerns for public safety and trust. While deepfake detection for speech and singing voice has been extensively studied, environmental sound deepfake detection (ESDD) remains underexplored. To advance ESDD, the first edition of the ESDD challenge was launched, attracting 97 registered teams and receiving 1,748 valid submissions. This paper presents the task formulation, dataset construction, evaluation protocols, baseline systems, and key insights from the challenge results. Furthermore, we analyze common architectural choices and training strategies among top-performing systems. Finally, we discuss potential future research directions for ESDD, outlining key opportunities and open problems to guide subsequent studies in this field.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.04865",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.04865v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074517"
+}

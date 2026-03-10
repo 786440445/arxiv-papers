@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.19525v2",
+  "title": "Shortcut Invariance: Targeted Jacobian Regularization in Disentangled Latent Space",
+  "authors": "Shivam Pal, Sakshi Varshney, Piyush Rai",
+  "summary": "arXiv:2511.19525v2 Announce Type: replace \nAbstract: Deep neural networks are prone to learning shortcuts, spurious correlations present in the training data that undermine out-of-distribution (OOD) generalization. Most prior work mitigates shortcut learning through input-space reweighting, either relying on explicit shortcut labels or inferring shortcut structure from heuristics such as per-sample loss. Moreover, these approaches typically assume the presence of some shortcut-conflicting examples in the training set, an assumption that is often violated in practice, particularly in medical imaging where data is aggregated across institutions with different acquisition protocols.\n  We propose a latent-space method that views shortcut learning as over-reliance on shortcut-aligned axes. In a disentangled latent space, we identify candidate shortcut-aligned axes via their strong correlation with labels and reduce classifier reliance on them by injecting targeted anisotropic noise during training. Unlike prior latent-space based approaches that remove, project out, or adversarially suppress shortcut features, our method preserves the full representation and instead impose functional invariance by regularizing the classifier's sensitivity along those axes.\n  We show that injecting anisotropic noise induces targeted Jacobian and curvature regularization, effectively flattening the decision boundary along shortcut axes while leaving core feature dimensions largely unaffected. Our method achieves state-of-the-art OOD performance across standard shortcut-learning benchmarks without requiring shortcut labels or shortcut-conflicting samples.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.19525",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.19525v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019684"
+}

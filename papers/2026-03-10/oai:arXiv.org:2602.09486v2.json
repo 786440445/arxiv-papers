@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.09486v2",
+  "title": "Listen to the Layers: Mitigating Hallucinations with Inter-Layer Disagreement",
+  "authors": "Koduvayur Subbalakshmi, Sabbir Hossain Ujjal, Venkata Krishna Teja Mangichetty, Nastaran Jamalipour Soofi",
+  "summary": "arXiv:2602.09486v2 Announce Type: replace-cross \nAbstract: Pretrained Large Language Models (LLMs) are prone to generating fluent yet factually incorrect text-a phenomenon known as hallucinations, undermining their reliability and utility in downstream tasks. We hypothesize that a generated text span's factuality is correlated with its representational instability across the model's internal layers. Based on this, we propose the CoCoA (Confusion and Consistency Aware) decoder, a novel, training-free decoding algorithm that mitigates hallucinations at inference time by listening to these signals in the middle layers. We propose two metrics to quantify this instability in the middle layers and use it to penalize outputs that exhibit high internal confusion, thereby steering the model towards more internally consistent and factually grounded outputs. We further propose a self-information gated variant, CoCoA-SIG, that dynamically modulates this penalty to selectively target high-surprise, unstable generations. Extensive experiments on diverse tasks, including question-answering, summarization, mathematical reasoning and code generation, demonstrate that CoCoA significantly improves factual correctness across multiple model families (e.g., Llama-3, Qwen-2.5, Mistral). By leveraging model-intrinsic signals, CoCoA offers an effective and broadly applicable method for enhancing the trustworthiness of LLMs at inference time, without requiring any model retraining.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.09486",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.09486v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076341"
+}

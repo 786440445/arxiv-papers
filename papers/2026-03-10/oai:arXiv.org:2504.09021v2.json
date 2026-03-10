@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2504.09021v2",
+  "title": "A Champion-level Vision-based Reinforcement Learning Agent for Competitive Racing in Gran Turismo 7",
+  "authors": "Hojoon Lee, Takuma Seno, Jun Jet Tai, Kaushik Subramanian, Kenta Kawamoto, Peter Stone, Peter R. Wurman",
+  "summary": "arXiv:2504.09021v2 Announce Type: replace \nAbstract: Deep reinforcement learning has achieved superhuman racing performance in high-fidelity simulators like Gran Turismo 7 (GT7). It typically utilizes global features that require instrumentation external to a car, such as precise localization of agents and opponents, limiting real-world applicability. To address this limitation, we introduce a vision-based autonomous racing agent that relies solely on ego-centric camera views and onboard sensor data, eliminating the need for precise localization during inference. This agent employs an asymmetric actor-critic framework: the actor uses a recurrent neural network with the sensor data local to the car to retain track layouts and opponent positions, while the critic accesses the global features during training. Evaluated in GT7, our agent consistently outperforms GT7's built-drivers. To our knowledge, this work presents the first vision-based autonomous racing agent to demonstrate champion-level performance in competitive racing scenarios.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2504.09021",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2504.09021v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019375"
+}

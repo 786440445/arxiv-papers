@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.21289v2",
+  "title": "TimeSliver : Symbolic-Linear Decomposition for Explainable Time Series Classification",
+  "authors": "Akash Pandey, Payal Mohapatra, Wei Chen, Qi Zhu, Sinan Keten",
+  "summary": "arXiv:2601.21289v2 Announce Type: replace \nAbstract: Identifying the extent to which every temporal segment influences a model's predictions is essential for explaining model decisions and increasing transparency. While post-hoc explainable methods based on gradients and feature-based attributions have been popular, they suffer from reference state sensitivity and struggle to generalize across time-series datasets, as they treat time points independently and ignore sequential dependencies. Another perspective on explainable time-series classification is through interpretable components of the model, for instance, leveraging self-attention mechanisms to estimate temporal attribution; however, recent findings indicate that these attention weights often fail to provide faithful measures of temporal importance. In this work, we advance this perspective and present a novel explainability-driven deep learning framework, TimeSliver, which jointly utilizes raw time-series data and its symbolic abstraction to construct a representation that maintains the original temporal structure. Each element in this representation linearly encodes the contribution of each temporal segment to the final prediction, allowing us to assign a meaningful importance score to every time point. For time-series classification, TimeSliver outperforms other temporal attribution methods by 11% on 7 distinct synthetic and real-world multivariate time-series datasets. TimeSliver also achieves predictive performance within 2% of state-of-the-art baselines across 26 UEA benchmark datasets, positioning it as a strong and explainable framework for general time-series classification.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.21289",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.21289v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019786"
+}

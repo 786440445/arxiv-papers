@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.04213v3",
+  "title": "Enhancing Speaker Verification with w2v-BERT 2.0 and Knowledge Distillation guided Structured Pruning",
+  "authors": "Ze Li, Ming Cheng, Ming Li",
+  "summary": "arXiv:2510.04213v3 Announce Type: replace-cross \nAbstract: Large-scale self-supervised Pre-Trained Models (PTMs) have shown significant improvements in the speaker verification (SV) task by providing rich feature representations. In this paper, we utilize w2v-BERT 2.0, a model with approximately 600 million parameters trained on 4.5 million hours of unlabeled data across 143 languages, for the SV task. The MFA structure with Layer Adapter is employed to process the multi-layer feature outputs from the PTM and extract speaker embeddings. Additionally, we incorporate LoRA for efficient fine-tuning. Our model achieves state-of-the-art results with 0.12% and 0.55% EER on the Vox1-O and Vox1-H test sets, respectively. Furthermore, we apply knowledge distillation guided structured pruning, reducing the model size by 80% while achieving only a 0.04% EER degradation. Source code and models are released at https://github.com/ZXHY-82/w2v-BERT-2.0_SV.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.04213",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.04213v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074531"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08046v1",
+  "title": "WhispEar: A Bi-directional Framework for Scaling Whispered Speech Conversion via Pseudo-Parallel Whisper Generation",
+  "authors": "Zihao Fang, Yingda Shen, Zifan Guan, Tongtong Song, Zhenyi Liu, Zhizheng Wu",
+  "summary": "arXiv:2603.08046v1 Announce Type: new \nAbstract: Whispered speech lacks vocal fold vibration and fundamental frequency, resulting in degraded acoustic cues and making whisper-to-normal (W2N) conversion challenging, especially with limited parallel data. We propose WhispEar, a bidirectional framework based on unified semantic representations that capture speaking-mode-invariant information shared by whispered and normal speech. The framework contains both W2N and normal-to-whisper (N2W) models. Notably, the N2W model enables zero-shot pseudo-parallel whisper generation from abundant normal speech, allowing scalable data augmentation for W2N training. Increasing generated data consistently improves performance. We also release the largest bilingual (Chinese-English) whispered-normal parallel corpus to date. Experiments demonstrate that WhispEar outperforms strong baselines and benefits significantly from scalable pseudo-parallel data.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08046",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08046v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074385"
+}

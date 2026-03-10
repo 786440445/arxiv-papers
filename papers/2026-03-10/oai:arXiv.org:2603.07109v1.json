@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07109v1",
+  "title": "Vision Language Models Cannot Reason About Physical Transformation",
+  "authors": "Dezhi Luo, Yijiang Li, Maijunxian Wang, Tianwei Zhao, Bingyang Wang, Siheng Wang, Pinyuan Feng, Pooyan Rahmanzadehgervi, Ziqiao Ma, Hokin Deng",
+  "summary": "arXiv:2603.07109v1 Announce Type: new \nAbstract: Understanding physical transformations is fundamental for reasoning in dynamic environments. While Vision Language Models (VLMs) show promise in embodied applications, whether they genuinely understand physical transformations remains unclear. We introduce ConservationBench evaluating conservation -- whether physical quantities remain invariant under transformations. Spanning four properties with paired conserving/non-conserving scenarios, we generate 23,040 questions across 112 VLMs. Results reveal systematic failure: performance remains near chance with improvements on conservation tasks accompanied by drops on controls. Control experiments show strong textual priors favoring invariance, yet models perform worse with visual content. Neither temporal resolution, prompting, nor curated sampling helps. These findings show that current VLMs fail to maintain transformation-invariant representations of physical properties across dynamic scenes.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07109",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07109v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073343"
+}

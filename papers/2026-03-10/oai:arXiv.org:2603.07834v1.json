@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07834v1",
+  "title": "AI Misuse in Education Is a Measurement Problem: Toward a Learning Visibility Framework",
+  "authors": "Eduardo Davalos, Yike Zhang",
+  "summary": "arXiv:2603.07834v1 Announce Type: cross \nAbstract: The rapid integration of conversational AI systems into educational settings has intensified ethical concerns about academic integrity, fairness, and students' cognitive development. Institutional responses have largely centered on AI detection tools and restrictive policies, yet such approaches have proven unreliable and ethically contentious. This paper reframes AI misuse in education not primarily as a detection problem, but as a measurement problem rooted in the loss of visibility into the learning process. When AI enters the assessment loop, educators often retain access to final outputs but lose valuable insight into how those outputs were produced. Drawing on research in cognitive offloading, learning analytics, and multimodal timeline reconstruction, we propose the Learning Visibility Framework, grounded in three principles: clear specification and modeling of acceptable AI use, recognition of learning processes as assessable evidence alongside outcomes, and the establishment of transparent timelines of student activity. Rather than promoting surveillance, the framework emphasizes transparency and shared evidence as foundations for ethical AI integration in classroom settings. By shifting focus from adversarial detection toward process visibility, this work offers a principled pathway for aligning AI use with educational values while preserving trust and transparency between students and educators",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07834",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07834v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074747"
+}

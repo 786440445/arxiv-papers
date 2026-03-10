@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06618v1",
+  "title": "Distilling and Adapting: A Topology-Aware Framework for Zero-Shot Interaction Prediction in Multiplex Biological Networks",
+  "authors": "Alana Deng, Sugitha Janarthanan, Yan Sun, Zihao Jing, Pingzhao Hu",
+  "summary": "arXiv:2603.06618v1 Announce Type: new \nAbstract: Multiplex Biological Networks (MBNs), which represent multiple interaction types between entities, are crucial for understanding complex biological systems. Yet, existing methods often inadequately model multiplexity, struggle to integrate structural and sequence information, and face difficulties in zero-shot prediction for unseen entities with no prior neighbourhood information. To address these limitations, we propose a novel framework for zero-shot interaction prediction in MBNs by leveraging context-aware representation learning and knowledge distillation. Our approach leverages domain-specific foundation models to generate enriched embeddings, introduces a topology-aware graph tokenizer to capture multiplexity and higher-order connectivity, and employs contrastive learning to align embeddings across modalities. A teacher-student distillation strategy further enables robust zero-shot generalization. Experimental results demonstrate that our framework outperforms state-of-the-art methods in interaction prediction for MBNs, providing a powerful tool for exploring various biological interactions and advancing personalized therapeutics.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06618",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06618v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017235"
+}

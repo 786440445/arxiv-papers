@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.22311v2",
+  "title": "WaLi: Can Pressure Sensors in HVAC Systems Capture Human Speech?",
+  "authors": "Tarikul Islam Tamiti, Biraj Joshi, Rida Hasan, Anomadarshi Barua",
+  "summary": "arXiv:2506.22311v2 Announce Type: replace \nAbstract: Pressure sensors are an integrated component of modern Heating, Ventilation, and Air Conditioning (HVAC) systems. As these pressure sensors operate within the 0-10 Pa range, support high sampling frequencies of 0.5-2 kHz, and are often placed close to human proximity, they can be used to eavesdrop on confidential speech, since human speech has a similar audible range of 0-10 Pa and a bandwidth of 4 kHz for intelligible quality. This paper presents WaLi, which reconstructs intelligible speech from the low-resolution and noisy pressure sensor data with the following technical contributions: (i) WaLi reconstructs intelligible speech from a minimum of 0.5 kHz sampling frequency of pressure sensors, whereas previous work can only detect hot words/phrases. WaLi uses a complex-valued conformer and Complex Global Attention Block (CGAB) to capture inter-phoneme and intra-phoneme dependencies that exist in the low-resolution pressure sensor data. (ii) WaLi handles the transient noise injected from HVAC fans and duct vibrations by reconstructing both the clean magnitude and phase of the missing frequencies of the low-frequency aliased components. We evaluate our attack on practical HVAC systems located in two anonymous industrial facilities. Extensive studies on real-world pressure sensors show an LSD of 1.24 and an NISQA-MOS of 1.78 for 0.5 kHz to 8 kHz upsampling. We believe that such levels of accuracy pose a significant threat when viewed from a privacy perspective that has not been addressed before for pressure sensors. We also provide defenses for the attack.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.22311",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.22311v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074477"
+}

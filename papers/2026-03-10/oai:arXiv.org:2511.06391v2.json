@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.06391v2",
+  "title": "HatePrototypes: Interpretable and Transferable Representations for Implicit and Explicit Hate Speech Detection",
+  "authors": "Irina Proskurina, Marc-Antoine Carpentier, Julien Velcin",
+  "summary": "arXiv:2511.06391v2 Announce Type: replace-cross \nAbstract: Optimization of offensive content moderation models for different types of hateful messages is typically achieved through continued pre-training or fine-tuning on new hate speech benchmarks. However, existing benchmarks mainly address explicit hate toward protected groups and often overlook implicit or indirect hate, such as demeaning comparisons, calls for exclusion or violence, and subtle discriminatory language that still causes harm. While explicit hate can often be captured through surface features, implicit hate requires deeper, full-model semantic processing. In this work, we question the need for repeated fine-tuning and analyze the role of HatePrototypes, class-level vector representations derived from language models optimized for hate speech detection and safety moderation. We find that these prototypes, built from as few as 50 examples per class, enable cross-task transfer between explicit and implicit hate, with interchangeable prototypes across benchmarks. Moreover, we show that parameter-free early exiting with prototypes is effective for both hate types. We release the code, prototype resources, and evaluation scripts to support future research on efficient and transferable hate speech detection.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.06391",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.06391v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.076137"
+}

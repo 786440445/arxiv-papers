@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.22321v2",
+  "title": "SUBARU: A Practical Approach to Power Saving in Hearables Using SUB-Nyquist Audio Resolution Upsampling",
+  "authors": "Tarikul Islam Tamiti, Sajid Fardin Dipto, Luke Benjamin Baja-Ricketts, David C Vergano, Anomadarshi Barua",
+  "summary": "arXiv:2506.22321v2 Announce Type: replace \nAbstract: Hearables are wearable computers that are worn on the ear. Bone conduction microphones (BCMs) are used with air conduction microphones (ACMs) in hearables as a supporting modality for multimodal speech enhancement (SE) in noisy conditions. However, existing works don't consider the following practical aspects for low-power implementations on hearables: (i) They do not explore how lowering the sampling frequencies and bit resolutions in analog-to-digital converters (ADCs) of hearables jointly impact low-power processing and multimodal SE in terms of speech quality and intelligibility. And (iii) They don't process signals from ACMs/BCMs at a sub-Nyquist sampling rate because, in their frameworks, they lack a wideband reconstruction methodology from their narrowband parts. We propose SUBARU (\\textbf{Sub}-Nyquist \\textbf{A}udio \\textbf{R}esolution \\textbf{U}psampling), which achieves the following: SUBARU (i) intentionally uses sub-Nyquist sampling and low bit resolution in ADCs, achieving a 3.31x reduction in power consumption; and (ii) achieves streaming operations on mobile platforms and SE in in-the-wild noisy conditions with an inference time of 1.74ms and a memory footprint of less than 13.77MB.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.22321",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.22321v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074481"
+}

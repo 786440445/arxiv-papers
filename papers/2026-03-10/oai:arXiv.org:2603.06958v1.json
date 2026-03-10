@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06958v1",
+  "title": "Chart-RL: Generalized Chart Comprehension via Reinforcement Learning with Verifiable Rewards",
+  "authors": "Xin Zhang, Xingyu Li, Rongguang Wang, Ruizhong Miao, Zheng Wang, Dan Roth, Chenyang Li",
+  "summary": "arXiv:2603.06958v1 Announce Type: new \nAbstract: Accurate chart comprehension represents a critical challenge in advancing multimodal learning systems, as extensive information is compressed into structured visual representations. However, existing vision-language models (VLMs) frequently struggle to generalize on unseen charts because it requires abstract, symbolic, and quantitative reasoning over structured visual representations. In this work, we introduce Chart-RL, an effective reinforcement learning (RL) method that employs mathematically verifiable rewards to enhance chart question answering in VLMs. Our experiments demonstrate that Chart-RL consistently outperforms supervised fine-tuning (SFT) across different chart understanding benchmarks, achieving relative improvements of 16.7% on MutlChartQA, and 11.5% on ChartInsights. We conduct robustness analysis, where Chart-RL achieves enhanced performance in 18 of 25 perturbed chart categories, demonstrating strong consistency and reasoning capability across visual variations. Furthermore, we demonstrate that task difficulty and inherent complexity are more critical than data quantity in RL training. For instance, Chart-RL trained on merely 10 complex chart-query examples significantly outperforms models trained on over 6,000 simple examples. Additionally, training on challenging reasoning tasks not only improves in-domain generalization relative to simpler tasks, but also facilitate strong transfer to out-of-domain visual mathematical problems.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06958",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06958v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017560"
+}

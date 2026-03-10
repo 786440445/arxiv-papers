@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06889v1",
+  "title": "Single-pass Possibilistic Clustering with Damped Window Footprints",
+  "authors": "Jeffrey Dale, James Keller, Aquila Galusha",
+  "summary": "arXiv:2603.06889v1 Announce Type: new \nAbstract: Streaming clustering is a domain that has become extremely relevant in the age of big data, such as in network traffic analysis or in processing continuously-running sensor data. Furthermore, possibilistic models offer unique benefits over approaches from the literature, especially with the introduction of a \"fuzzifier\" parameter that controls how quickly typicality degrades as one gets further from cluster centers. We propose a single-pass possibilistic clustering (SPC) algorithm that is effective and easy to apply to new datasets. Key contributions of SPC include the ability to model non-spherical clusters, closed-form footprint updates over arbitrarily sized damped windows, and the employment of covariance union from the multiple hypothesis tracking literature to merge two cluster mean and covariance estimates. SPC is validated against five other streaming clustering algorithm on the basis of cluster purity and normalized mutual information.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06889",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06889v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017501"
+}

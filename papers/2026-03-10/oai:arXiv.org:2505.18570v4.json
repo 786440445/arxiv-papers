@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.18570v4",
+  "title": "VISTA: Vision-Language Inference for Training-Free Stock Time-Series Analysis",
+  "authors": "Tina Khezresmaeilzadeh, Parsa Razmara, Seyedarmin Azizi, Mohammad Erfan Sadeghi, Erfan Baghaei Potraghloo",
+  "summary": "arXiv:2505.18570v4 Announce Type: replace \nAbstract: Stock price prediction remains a complex and high-stakes task in financial analysis, traditionally addressed using statistical models or, more recently, language models. In this work, we introduce VISTA (Vision-Language Inference for Stock Time-series Analysis), a novel, training-free framework that leverages Vision-Language Models (VLMs) for multi-modal stock forecasting. VISTA prompts a VLM with both textual representations of historical stock prices and their corresponding line charts to predict future price values. By combining numerical and visual modalities in a zero-shot setting and using carefully designed chain-of-thought prompts, VISTA captures complementary patterns that unimodal approaches often miss. We benchmark VISTA against standard baselines, including ARIMA and text-only LLM-based prompting methods. Experimental results show that VISTA outperforms these baselines by up to 89.83%, demonstrating the effectiveness of multi-modal inference for stock time-series analysis and highlighting the potential of VLMs in financial forecasting tasks without requiring task-specific training.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.18570",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.18570v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.019421"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07544v1",
+  "title": "Evaluating Parkinson's Disease Detection in Anonymized Speech: A Performance and Acoustic Analysis",
+  "authors": "Carlos Franzreb, Francisco Teixeira, Ben Luks, Sebastian M\\\"oller, Alberto Abad",
+  "summary": "arXiv:2603.07544v1 Announce Type: new \nAbstract: Automatic detection of Parkinson's disease (PD) from speech is a promising non-invasive diagnostic tool, but it raises significant privacy concerns. Speaker anonymization mitigates these risks, but it may suppress the pathological information necessary for PD detection. We assess the trade-off between privacy and PD detection for two anonymizers (STT-TTS and kNN-VC) using two Spanish datasets. STT-TTS provides better privacy but severely degrades PD detection by eradicating prosodic information. kNN-VC preserves macro-prosodic features such as duration and F0 contours, achieving F1 scores only 3-7\\% lower than original baselines, demonstrating that privacy-preserving PD detection is viable when using appropriate anonymization. Finally, an acoustic distortion analysis characterizes specific weaknesses in kNN-VC, offering insights for designing anonymizers that better preserve PD information.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07544",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07544v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074355"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2306.09445v3",
+  "title": "Utility Theory based Cognitive Modeling in the Application of Robotics: A Survey",
+  "authors": "Qin Yang",
+  "summary": "arXiv:2306.09445v3 Announce Type: replace-cross \nAbstract: Cognitive modeling, which explores the essence of cognition, including motivation, emotion, and perception, has been widely applied in the artificial intelligence (AI) agent domains, such as robotics. From the computational perspective, various cognitive functionalities have been developed through utility theory to provide a detailed and process-based understanding for specifying corresponding computational models of representations, mechanisms, and processes. Especially for decision-making and learning in multi-agent/robot systems (MAS/MRS), a suitable cognitive model can guide agents in choosing reasonable strategies to achieve their current needs and learning to cooperate and organize their behaviors, optimizing the system's utility, building stable and reliable relationships, and guaranteeing each group member's sustainable development, similar to the human society. This survey examines existing robotic systems for developmental cognitive models in the context of utility theory. We discuss the evolution of cognitive modeling in robotics from behavior-based robotics (BBR) and cognitive architectures to the properties of value systems in robots, such as the studies on motivations as artificial value systems, and the utility theory based cognitive modeling for generating and updating strategies in robotic interactions. Then, we examine the extent to which existing value systems support the application of robotics from an AI agent cognitive modeling perspective, including single-agent and multi-agent systems, trust among agents, and human-robot interaction. Finally, we survey the existing literature of current value systems in relevant fields and propose several promising research directions, along with some open problems that we deem necessary for further investigation.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2306.09445",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2306.09445v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.075617"
+}

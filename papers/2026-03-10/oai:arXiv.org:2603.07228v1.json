@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07228v1",
+  "title": "LightMedSeg: Lightweight 3D Medical Image Segmentation with Learned Spatial Anchors",
+  "authors": "Kavyansh Tyagi, Vishwas Rathi, Puneet Goyal",
+  "summary": "arXiv:2603.07228v1 Announce Type: new \nAbstract: Accurate and efficient 3D medical image segmentation is essential for clinical AI, where models must remain reliable under stringent memory, latency, and data availability constraints. Transformer-based methods achieve strong accuracy but suffer from excessive parameters, high FLOPs, and limited generalization. We propose LightMedSeg, a modular UNet-style segmentation architecture that integrates anatomical priors with adaptive context modeling. Anchor-conditioned FiLM modulation enables anatomy-aware feature calibration, while a local structural prior module and texture-aware routing dynamically allocate representational capacity to boundary-rich regions. Computational redundancy is minimized through ghost and depthwise convolutions, and multi-scale features are adaptively fused via a learned skip router with anchor-relative spatial position bias. Despite requiring only 0.48M parameters and 14.64~GFLOPs, LightMedSeg achieves segmentation accuracy within a few Dice points of heavy transformer baselines. Therefore, LightMedSeg is a deployable and data-efficient solution for 3D medical image segmentation. Code will be released publicly upon acceptance.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07228",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07228v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017672"
+}

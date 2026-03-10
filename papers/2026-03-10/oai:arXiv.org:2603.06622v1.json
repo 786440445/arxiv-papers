@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06622v1",
+  "title": "From ARIMA to Attention: Power Load Forecasting Using Temporal Deep Learning",
+  "authors": "Suhasnadh Reddy Veluru, Sai Teja Erukude, Viswa Chaitanya Marella",
+  "summary": "arXiv:2603.06622v1 Announce Type: new \nAbstract: Accurate short-term power load forecasting is important to effectively manage, optimize, and ensure the robustness of modern power systems. This paper performs an empirical evaluation of a traditional statistical model and deep learning approaches for predicting short-term energy load. Four models, namely ARIMA, LSTM, BiLSTM, and Transformer, were leveraged on the PJM Hourly Energy Consumption data. The data processing involved interpolation, normalization, and a sliding-window sequence method. Each model's forecasting performance was evaluated for the 24-hour horizon using MAE, RMSE, and MAPE. Of the models tested, the Transformer model, which relies on self-attention algorithms, produced the best results with 3.8 percent of MAPE, with performance above any model in both accuracy and robustness. These findings underscore the growing potential of attention-based architectures in accurately capturing complex temporal patterns in power consumption data.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06622",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06622v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017250"
+}

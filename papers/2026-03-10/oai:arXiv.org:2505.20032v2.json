@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.20032v2",
+  "title": "ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers",
+  "authors": "Fotios Lygerakis, Ozan \\\"Ozdenizci, Elmar R\\\"uckert",
+  "summary": "arXiv:2505.20032v2 Announce Type: replace-cross \nAbstract: Tactile sensing provides local essential information that is complementary to visual perception, such as texture, compliance, and force. Despite recent advances in visuotactile representation learning, challenges remain in fusing these modalities and generalizing across tasks and environments without heavy reliance on pre-trained vision-language models. Moreover, existing methods do not study positional encodings, thereby overlooking the multi-stage spatial reasoning needed to capture fine-grained visuotactile correlations. We introduce ViTaPEs, a transformer-based architecture for learning task-agnostic visuotactile representations from paired vision and tactile inputs. Our key idea is a two-stage positional injection: local (modality-specific) positional encodings are added within each stream, and a global positional encoding is added on the joint token sequence immediately before attention, providing a shared positional vocabulary at the stage where cross-modal interaction occurs. We make the positional injection points explicit and conduct controlled ablations that isolate their effect before a token-wise nonlinearity versus immediately before self-attention. Experiments on multiple large-scale real-world datasets show that ViTaPEs not only surpasses state-of-the-art baselines across various recognition tasks but also demonstrates zero-shot generalization to unseen, out-of-domain scenarios. We further demonstrate the transfer-learning strength of ViTaPEs in a robotic grasping task, where it outperforms state-of-the-art baselines in predicting grasp success. Project page: https://sites.google.com/view/vitapes",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.20032",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.20032v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.020140"
+}

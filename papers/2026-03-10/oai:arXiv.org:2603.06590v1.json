@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06590v1",
+  "title": "ARC-AGI-2 Technical Report",
+  "authors": "Wallyson Lemes de Oliveira, Mekhron Bobokhonov, Matteo Caorsi, Aldo Podest\\`a, Gabriele Beltramo, Luca Crosato, Matteo Bonotto, Federica Cecchetto, Hadrien Espic, Dan Titus Salajan, Stefan Taga, Luca Pana, Joe Carthy",
+  "summary": "arXiv:2603.06590v1 Announce Type: cross \nAbstract: The Abstraction and Reasoning Corpus (ARC) is designed to assess generalization beyond pattern matching, requiring models to infer symbolic rules from very few examples. In this work, we present a transformer-based system that advances ARC performance by combining neural inference with structure-aware priors and online task adaptation. Our approach is built on four key ideas. First, we reformulate ARC reasoning as a sequence modeling problem using a compact task encoding with only 125 tokens, enabling efficient long-context processing with a modified LongT5 architecture. Second, we introduce a principled augmentation framework based on group symmetries, grid traversals, and automata perturbations, enforcing invariance to representation changes. Third, we apply test-time training (TTT) with lightweight LoRA adaptation, allowing the model to specialize to each unseen task by learning its transformation logic from demonstrations. Fourth, we design a symmetry-aware decoding and scoring pipeline that aggregates likelihoods across augmented task views, effectively performing ``multi-perspective reasoning'' over candidate solutions. We demonstrate that these components work synergistically: augmentations expand hypothesis space, TTT sharpens local reasoning, and symmetry-based scoring improves solution consistency. Our final system achieves a significant improvement over transformer baselines and surpasses prior neural ARC solvers, closing the gap toward human-level generalization.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06590",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06590v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.073707"
+}

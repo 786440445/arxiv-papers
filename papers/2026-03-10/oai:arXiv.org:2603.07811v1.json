@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07811v1",
+  "title": "Neural Precoding in Complex Projective Spaces",
+  "authors": "Zaid Abdullah, Merouane Debbah, Symeon Chatzinotas, Bjorn Ottersten",
+  "summary": "arXiv:2603.07811v1 Announce Type: new \nAbstract: Deep-learning (DL)-based precoding in multi-user multiple-input single-output (MU-MISO) systems involves training DL models to map features derived from channel coefficients to labels derived from precoding weights. Traditionally, complex-valued channel and precoder coefficients are parameterized using either their real and imaginary components or their amplitude and phase. However, precoding performance depends on magnitudes of inner products between channel and precoding vectors, which are invariant to global phase rotations. Conventional representations fail to exploit this symmetry, leading to inefficient learning and degraded generalization. To address this, we propose a DL framework based on complex projective space (CPS) parameterizations of both the wireless channel and the weighted minimum mean squared error (WMMSE) precoder vectors. By removing the global phase redundancies inherent in conventional representations, the proposed framework enables the DL model to learn geometry-aligned and physically distinct channel-precoder mappings. Two CPS parameterizations based on real-valued embeddings and complex hyperspherical coordinates are investigated and benchmarked against two baseline methods. Simulation results demonstrate substantial improvements in sum-rate performance and generalization, with negligible increase in model complexity.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07811",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07811v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:21:23.017974"
+}

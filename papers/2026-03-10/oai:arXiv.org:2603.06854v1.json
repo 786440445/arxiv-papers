@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06854v1",
+  "title": "Are Audio-Language Models Listening? Audio-Specialist Heads for Adaptive Audio Steering",
+  "authors": "Neta Glazer, Lenny Aharon, Ethan Fetaya",
+  "summary": "arXiv:2603.06854v1 Announce Type: new \nAbstract: Multimodal large language models can exhibit text dominance, over-relying on linguistic priors instead of grounding predictions in non-text inputs. One example is large audio-language models (LALMs) where decisive audio evidence can be under-utilized even when it contains important information. To address this issue we use mechanistic interpretability to identify a small set of audio-specialist attention heads whose audio attention yields a ``listening'' signal. We show that this signal increases when audio evidence affects the model's output, providing an indicator of audio engagement under standard prompting. Leveraging this localization, we construct an audio--silence steering direction and apply an inference-time activation intervention to the final representation, amplifying the model's audio effect. To demonstrate the utility of this intervention, we show on MMAU that this improves accuracy by up to +8.0 percentage points on two Qwen-based LALMs, without any parameter updates.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06854",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06854v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074314"
+}

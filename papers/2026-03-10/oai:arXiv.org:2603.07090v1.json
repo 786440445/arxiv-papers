@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07090v1",
+  "title": "mAVE: A Watermark for Joint Audio-Visual Generation Models",
+  "authors": "Luyang Si, Leyi Pan, Lijie Wen",
+  "summary": "arXiv:2603.07090v1 Announce Type: cross \nAbstract: As Joint Audio-Visual Generation Models see widespread commercial deployment, embedding watermarks has become essential for protecting vendor copyright and ensuring content provenance. However, existing techniques suffer from an architectural mismatch by treating modalities as decoupled entities, exposing a critical Binding Vulnerability. Adversaries exploit this via Swap Attacks by replacing authentic audio with malicious deepfakes while retaining the watermarked video. Because current detectors rely on independent verification ($Video_{wm}\\vee Audio_{wm}$), they incorrectly authenticate the manipulated content, falsely attributing harmful media to the original vendor and severely damaging their reputation. To address this, we propose mAVE (Manifold Audio-Visual Entanglement), the first watermarking framework natively designed for joint architectures. mAVE cryptographically binds audio and video latents at initialization without fine-tuning, defining a Legitimate Entanglement Manifold via Inverse Transform Sampling. Experiments on state-of-the-art models (LTX-2, MOVA) demonstrate that mAVE guarantees performance-losslessness and provides an exponential security bound against Swap Attacks. Achieving near-perfect binding integrity ($>99\\%$), mAVE offers a robust cryptographic defense for vendor copyright.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07090",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07090v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.074316"
+}

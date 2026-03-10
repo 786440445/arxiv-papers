@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07130v1",
+  "title": "Toward Multimodal Industrial Fault Analysis: A Single-Speed Chain Conveyor Dataset with Audio and Vibration Signals",
+  "authors": "Zhang Chen, Yucong Zhang, Xiaoxiao Miao, Ming Li",
+  "summary": "arXiv:2603.07130v1 Announce Type: new \nAbstract: We introduce a multimodal industrial fault analysis dataset collected from a single-speed chain conveyor (SSCC) system, targeting system-level fault detection in production lines. The dataset consists of multimodal signals, including three audio and four vibration channels. It covers normal operation and four representative fault types under multiple speeds, loads, and both clean and realistic factory-noise conditions reproduced on-site. It is explicitly designed to support channel-wise analysis and multimodal fusion research. We establish standardized evaluation protocols for unsupervised fault detection with normal-only training and supervised fault classification with balanced dataset splits across different operating conditions and fault types. A unified channel-wise kNN baseline is provided to enable fair comparison of representation quality without task-specific training. The dataset offers a practical and extensible benchmark for robust multimodal industrial fault analysis.",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07130",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07130v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:21:19.074336"
+}

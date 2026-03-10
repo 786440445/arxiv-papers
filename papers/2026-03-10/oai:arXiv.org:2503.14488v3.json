@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2503.14488v3",
+  "title": "Engineering Systems for Data Analysis Using Interactive Structured Inductive Programming",
+  "authors": "Shraddha Surana, Ashwin Srinivasan, Michael Bain",
+  "summary": "arXiv:2503.14488v3 Announce Type: replace \nAbstract: Engineering information systems for scientific data analysis presents significant challenges: complex workflows requiring exploration of large solution spaces, close collaboration with domain specialists, and the need for maintainable, interpretable implementations. Traditional manual development is time-consuming, while \"No Code\" approaches using large language models (LLMs) often produce unreliable systems. We present iProg, a tool implementing Interactive Structured Inductive Programming. iProg employs a variant of a '2-way Intelligibility' communication protocol to constrain collaborative system construction by a human and an LLM. Specifically, given a natural-language description of the overall data analysis task, iProg uses an LLM to first identify an appropriate decomposition of the problem into a declarative representation, expressed as a Data Flow Diagram (DFD). In a second phase, iProg then uses an LLM to generate code for each DFD process. In both stages, human feedback, mediated through the constructs provided by the communication protocol, is used to verify LLMs' outputs. We evaluate iProg extensively on two published scientific collaborations (astrophysics and biochemistry), demonstrating that it is possible to identify appropriate system decompositions and construct end-to-end information systems with better performance, higher code quality, and order-of-magnitude faster development compared to Low Code/No Code alternatives. The tool is available at: https://shraddhasurana.github.io/dhaani/",
+  "published": "Tue, 10 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2503.14488",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2503.14488v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:21:28.075254"
+}

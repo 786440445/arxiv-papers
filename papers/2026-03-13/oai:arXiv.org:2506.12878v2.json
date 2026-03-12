@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.12878v2",
+  "title": "Silhouette-Driven Instance-Weighted $k$-means",
+  "authors": "Aggelos Semoglou, Aristidis Likas, John Pavlopoulos",
+  "summary": "arXiv:2506.12878v2 Announce Type: replace \nAbstract: Clustering is a fundamental unsupervised learning task with applications across a wide range of domains. Popular algorithms such as $k$-means are efficient and widely used, but can be sensitive to outliers, ambiguous boundary points, and heterogeneous cluster geometry, which may distort centroid estimates and yield suboptimal partitions. We introduce K-Sil, a silhouette-driven $k$-means variant that, at each iteration, weights points using a centroid-margin proxy for the silhouette score, emphasizing confidently assigned instances while down-weighting borderline or noisy regions. Centroid updates take the form of a softmax-weighted mean, and an adaptive temperature automatically calibrates the sharpness of the weight distribution using a cluster-balanced, macro-averaged, silhouette criterion. Under standard separation conditions, we establish a local convergence result for the induced weighted centroid updates. Experiments on 15 real-world datasets spanning tabular, biomedical, text, and image representations show consistent gains in internal validation metrics and typical improvements in external validation metrics over $k$-means and competitive instance-weighted baselines.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.12878",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.12878v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.430082"
+}

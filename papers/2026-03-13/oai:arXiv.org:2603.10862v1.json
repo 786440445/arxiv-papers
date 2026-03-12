@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10862v1",
+  "title": "OSUM-Pangu: An Open-Source Multidimension Speech Understanding Foundation Model Built upon OpenPangu on Ascend NPUs",
+  "authors": "Yujie Liao, Xuelong Geng, Hongfei Xue, Shuiyuan Wang, Lei Xie",
+  "summary": "arXiv:2603.10862v1 Announce Type: new \nAbstract: Recent advancements in Speech Large Language Models have significantly enhanced multi-dimensional speech understanding. However, the majority of high-performance frameworks are predominantly optimized for GPU centric ecosystems and proprietary backbones, creating a significant gap for deployment on non-CUDA computing infrastructures. In this paper, we present OSUM-Pangu, a fully open-source speech understanding foundation model developed on a completely non-CUDA software and hardware stack. By integrating an audio encoder with the openPangu-7B LLM backbone, we successfully implement the entire training and inference pipeline on the Ascend NPU platform. To facilitate efficient task alignment under non-CUDA resource constraints, we adopt a practical training process that sequentially bridges speech perception and user intent recognition. Experimental results demonstrate that OSUM-Pangu achieves task accuracy comparable to mainstream GPU-based models while maintaining robust natural language interaction capabilities. Our work provides a reproducible, non-CUDA baseline for the open-source speech community, promoting the independent evolution of multimodal intelligence.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10862",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10862v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T00:25:01.939659"
+}

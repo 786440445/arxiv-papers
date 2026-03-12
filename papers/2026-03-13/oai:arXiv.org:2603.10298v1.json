@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10298v1",
+  "title": "GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification",
+  "authors": "Mayur Choudhary, Saptarshi Sengupta, Katerina Potika",
+  "summary": "arXiv:2603.10298v1 Announce Type: new \nAbstract: The rapid rise of large language models (LLMs) and their ability to capture semantic relationships has led to their adoption in a wide range of applications. Text-attributed graphs (TAGs) are a notable example where LLMs can be combined with Graph Neural Networks to improve the performance of node classification. In TAGs, each node is associated with textual content and such graphs are commonly seen in various domains such as social networks, citation graphs, recommendation systems, etc. Effectively learning from TAGs would enable better representations of both structural and textual representations of the graph and improve decision-making in relevant domains. We present GaLoRA, a parameter-efficient framework that integrates structural information into LLMs. GaLoRA demonstrates competitive performance on node classification tasks with TAGs, performing on par with state-of-the-art models with just 0.24% of the parameter count required by full LLM fine-tuning. We experiment with three real-world datasets to showcase GaLoRA's effectiveness in combining structural and semantical information on TAGs.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10298",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10298v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.428996"
+}

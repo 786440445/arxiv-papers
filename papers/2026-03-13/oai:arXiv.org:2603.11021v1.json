@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11021v1",
+  "title": "Leech Lattice Vector Quantization for Efficient LLM Compression",
+  "authors": "Tycho F. A. van der Ouderaa, Mart van Baalen, Paul Whatmough, Markus Nagel",
+  "summary": "arXiv:2603.11021v1 Announce Type: new \nAbstract: Scalar quantization of large language models (LLMs) is fundamentally limited by information-theoretic bounds. While vector quantization (VQ) overcomes these limits by encoding blocks of parameters jointly, practical implementations must avoid the need for expensive lookup mechanisms or other explicit codebook storage. Lattice approaches address this through highly structured and dense packing. This paper explores the Leech lattice, which, with its optimal sphere packing and kissing configurations at 24 dimensions, is the highest dimensional lattice known with such optimal properties. To make the Leech lattice usable for LLM quantization, we extend an existing search algorithm based on the extended Golay code construction, to i) support indexing, enabling conversion to and from bitstrings without materializing the codebook, ii) allow angular search over union of Leech lattice shells, iii) propose fully-parallelisable dequantization kernel. Together this yields a practical algorithm, namely Leech Lattice Vector Quantization (LLVQ). LLVQ delivers state-of-the-art LLM quantization performance, outperforming recent methods such as Quip\\#, QTIP, and PVQ. These results highlight the importance of high-dimensional lattices for scalable, theoretically grounded model compression.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11021",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11021v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.429460"
+}

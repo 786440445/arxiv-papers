@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10148v1",
+  "title": "Social Knowledge for Cross-Domain User Preference Modeling",
+  "authors": "Nir Lotan, Adir Solomon, Ido Guy, Einat Minkov",
+  "summary": "arXiv:2603.10148v1 Announce Type: cross \nAbstract: We demonstrate that user preferences can be represented and predicted across topical domains using large-scale social modeling. Given information about popular entities favored by a user, we project the user into a social embedding space learned from a large-scale sample of the Twitter (now X) network. By representing both users and popular entities in a joint social space, we can assess the relevance of candidate entities (e.g., music artists) using cosine similarity within this embedding space. A comprehensive evaluation using link prediction experiments shows that this method achieves effective personalization in zero-shot setting, when no user feedback is available for entities in the target domain, yielding substantial improvements over a strong popularity-based baseline. In-depth analysis further illustrates that socio-demographic factors encoded in the social embeddings are correlated with user preferences across domains. Finally, we argue and demonstrate that the proposed approach can facilitate social modeling of end users using large language models (LLMs).",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10148",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10148v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T00:25:07.840321"
+}

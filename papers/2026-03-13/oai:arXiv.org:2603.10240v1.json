@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10240v1",
+  "title": "nlm: Real-Time Non-linear Modal Synthesis in Max",
+  "authors": "Rodrigo Diaz, Rodrigo Constanzo, Mark Sandler",
+  "summary": "arXiv:2603.10240v1 Announce Type: new \nAbstract: We present \\texttt{nlm}, a set of Max externals that enable efficient real-time non-linear modal synthesis for strings, membranes, and plates. The externals, implemented in C++, offer interactive control of physical parameters, allow the loading of custom modal data, and provide multichannel output. By integrating interactive physical-modelling capabilities into a familiar environment, \\texttt{nlm} lowers the barrier for composers, performers, and sound designers to explore the expressive potential of non-linear modal synthesis. The externals are available as open-source software at https://github.com/rodrigodzf/nlm.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10240",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10240v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T00:25:01.939589"
+}

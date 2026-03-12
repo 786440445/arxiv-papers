@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10007v1",
+  "title": "GATech at AbjadGenEval Shared Task: Multilingual Embeddings for Arabic Machine-Generated Text Classification",
+  "authors": "Ahmed Khaled Khamis",
+  "summary": "arXiv:2603.10007v1 Announce Type: cross \nAbstract: We present our approach to the AbjadGenEval shared task on detecting AI-generated Arabic text. We fine-tuned the multilingual E5-large encoder for binary classification, and we explored several pooling strategies to pool token representations, including weighted layer pooling, multi-head attention pooling, and gated fusion. Interestingly, none of these outperformed simple mean pooling, which achieved an F1 of 0.75 on the test set. We believe this is because complex pooling methods introduce additional parameters that need more data to train properly, whereas mean pooling offers a stable baseline that generalizes well even with limited examples. We also observe a clear pattern in the data: human-written texts tend to be significantly longer than machine-generated ones.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10007",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10007v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.429549"
+}

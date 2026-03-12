@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2312.00819v2",
+  "title": "Large Language Models for Travel Behavior Prediction",
+  "authors": "Baichuan Mo, Hanyong Xu, Ruoyun Ma, Jung-Hoon Cho, Dingyi Zhuang, Xiaotong Guo, Jinhua Zhao",
+  "summary": "arXiv:2312.00819v2 Announce Type: replace \nAbstract: Travel behavior prediction is a core problem in transportation demand management and is traditionally addressed using numerical models calibrated on observed data. With recent advances in large language models (LLMs), new opportunities have emerged to model human decision-making through natural language reasoning. This study explores the use of LLMs for travel behavior prediction through two complementary frameworks. The first framework employs a zero-shot prompting strategy, where the prediction task, traveler attributes, and relevant domain knowledge are described in text, enabling the LLM to directly generate predictions without task-specific training data. The second framework uses LLM-generated text embeddings as high-level representations of travel scenarios, which are then combined with conventional supervised learning models to support prediction in small-sample settings. Empirical results show that both approaches achieve performance comparable to, and in some cases competitive with, classical models such as multinomial logit, random forest, and neural networks. These findings suggest that LLMs offer a flexible and data-efficient alternative for travel behavior prediction.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2312.00819",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2312.00819v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.430003"
+}

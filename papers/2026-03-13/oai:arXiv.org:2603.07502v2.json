@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07502v2",
+  "title": "SeDa: A Unified System for Dataset Discovery and Multi-Entity Augmented Semantic Exploration",
+  "authors": "Kan Ling, Zhen Qin, Yichi Zhu, Hengrun Zhang, Huiqun Yu, Guisheng Fan",
+  "summary": "arXiv:2603.07502v2 Announce Type: replace-cross \nAbstract: The continuous expansion of open data platforms and research repositories has led to a fragmented dataset ecosystem, posing significant challenges for cross-source data discovery and interpretation. To address these challenges, we introduce SeDa--a unified framework for dataset discovery, semantic annotation, and multi-entity augmented navigation. SeDa integrates more than 7.6 million datasets from over 200 platforms, spanning governmental, academic, and industrial domains. The framework first performs semantic extraction and standardization to harmonize heterogeneous metadata representations. On this basis, a topic-tagging mechanism constructs an extensible tag graph that supports thematic retrieval and cross-domain association, while a provenance assurance module embedded within the annotation process continuously validates dataset sources and monitors link availability to ensure reliability and traceability. Furthermore, SeDa employs a multi-entity augmented navigation strategy that organizes datasets within a knowledge space of sites, institutions, and enterprises, enabling contextual and provenance-aware exploration beyond traditional search paradigms. Comparative experiments with popular dataset search platforms, such as ChatPD and Google Dataset Search, demonstrate that SeDa achieves superior coverage, timeliness, and traceability. Taken together, SeDa establishes a foundation for trustworthy, semantically enriched, and globally scalable dataset exploration.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07502",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07502v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T00:25:07.841685"
+}

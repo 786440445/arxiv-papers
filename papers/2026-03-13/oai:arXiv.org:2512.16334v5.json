@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.16334v5",
+  "title": "Pretrained battery transformer (PBT): A foundation model for universal battery life prediction",
+  "authors": "Ruifeng Tan, Weixiang Hong, Jia Li, Jiaqiang Huang, Tong-Yi Zhang",
+  "summary": "arXiv:2512.16334v5 Announce Type: replace \nAbstract: Early prediction of battery cycle life is essential for improving battery design, manufacturing, and deployment. However, despite encouraging results with machine learning, progress remains constrained by scarce data and data heterogeneity across battery chemistries, specifications, formation protocols, and operating conditions. Although transfer learning has been widely explored to alleviate these challenges, its effectiveness is constrained by the lack of a foundation model that can capture broadly transferable knowledge from diverse battery life data. This gap persists because integration of heterogeneous battery datasets under data scarcity is inherently challenging. Here we introduce the pretrained battery transformer (PBT), a foundation model for battery life prediction that incorporates battery-knowledge-encoded mixture-of-experts layers to learn transferable representations from heterogeneous data. PBT is pretrained on 13 lithium-ion battery datasets and subsequently adapted to downstream battery life prediction tasks through transfer learning. Across 15 datasets covering 977 batteries and 533 sets of aging conditions from lithium-ion, sodium-ion and zinc-ion batteries, PBT achieves state-of-the-art performance, surpassing the strongest competing method by 21.8% on average, with gains of up to 86.9%. Our study establishes the first foundation model for battery life prediction and provides a scalable route towards universal battery lifetime prediction systems, with broader implications for other scientific and technological domains characterized by scarce and heterogeneous data.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.16334",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.16334v5.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.430185"
+}

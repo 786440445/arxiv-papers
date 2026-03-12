@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10289v1",
+  "title": "Quantum entanglement provides a competitive advantage in adversarial games",
+  "authors": "Peiyong Wang, Kieran Hymas, James Quach",
+  "summary": "arXiv:2603.10289v1 Announce Type: cross \nAbstract: Whether uniquely quantum resources confer advantages in fully classical, competitive environments remains an open question. Competitive zero-sum reinforcement learning is particularly challenging, as success requires modelling dynamic interactions between opposing agents rather than static state-action mappings. Here, we conduct a controlled study isolating the role of quantum entanglement in a quantum-classical hybrid agent trained on Pong, a competitive Markov game. An 8-qubit parameterised quantum circuit serves as a feature extractor within a proximal policy optimisation framework, allowing direct comparison between separable circuits and architectures incorporating fixed (CZ) or trainable (IsingZZ) entangling gates. Entangled circuits consistently outperform separable counterparts with comparable parameter counts and, in low-capacity regimes, match or exceed classical multilayer perceptron baselines. Representation similarity analysis further shows that entangled circuits learn structurally distinct features, consistent with improved modelling of interacting state variables. These findings establish entanglement as a function resource for representation learning in competitive reinforcement learning.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10289",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10289v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.429747"
+}

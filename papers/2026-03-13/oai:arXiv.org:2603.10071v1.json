@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10071v1",
+  "title": "Dissecting Chronos: Sparse Autoencoders Reveal Causal Feature Hierarchies in Time Series Foundation Models",
+  "authors": "Anurag Mishra",
+  "summary": "arXiv:2603.10071v1 Announce Type: new \nAbstract: Time series foundation models (TSFMs) are increasingly deployed in high-stakes domains, yet their internal representations remain opaque. We present the first application of sparse autoencoders (SAEs) to a TSFM, training TopK SAEs on activations of Chronos-T5-Large (710M parameters) across six layers. Through 392 single-feature ablation experiments, we establish that every ablated feature produces a positive CRPS degradation, confirming causal relevance. Our analysis reveals a depth-dependent hierarchy: early encoder layers encode low-level frequency features, the mid-encoder concentrates causally critical change-detection features, and the final encoder compresses a rich but less causally important taxonomy of temporal concepts. The most critical features reside in the mid-encoder (max single-feature Delta CRPS = 38.61), not in the semantically richest final encoder layer, where progressive ablation paradoxically improves forecast quality. These findings demonstrate that mechanistic interpretability transfers effectively to TSFMs and that Chronos-T5 relies on abrupt-dynamics detection rather than periodic pattern recognition.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10071",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10071v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.428805"
+}

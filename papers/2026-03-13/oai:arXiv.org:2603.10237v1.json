@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10237v1",
+  "title": "One Adapter for All: Towards Unified Representation in Step-Imbalanced Class-Incremental Learning",
+  "authors": "Xiaoyan Zhang, Jiangpeng He",
+  "summary": "arXiv:2603.10237v1 Announce Type: cross \nAbstract: Class-incremental learning (CIL) aims to acquire new classes over time while retaining prior knowledge, yet most setups and methods assume balanced task streams. In practice, the number of classes per task often varies significantly. We refer to this as step imbalance, where large tasks that contain more classes dominate learning and small tasks inject unstable updates. Existing CIL methods assume balanced tasks and therefore treat all tasks uniformly, producing imbalanced updates that degrade overall learning performance. To address this challenge, we propose One-A, a unified and imbalance-aware framework that incrementally merges task updates into a single adapter, maintaining constant inference cost. One-A performs asymmetric subspace alignment to preserve dominant subspaces learned from large tasks while constraining low-information updates within them. An information-adaptive weighting balances the contribution between base and new adapters, and a directional gating mechanism selectively fuses updates along each singular direction, maintaining stability in head directions and plasticity in tail ones. Across multiple benchmarks and step-imbalanced streams, One-A achieves competitive accuracy with significantly low inference overhead, showing that a single, asymmetrically fused adapter can remain both adaptive to dynamic task sizes and efficient at deployment.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10237",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10237v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.429714"
+}

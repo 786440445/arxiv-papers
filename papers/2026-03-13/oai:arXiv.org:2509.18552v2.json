@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.18552v2",
+  "title": "Global Minimizers of Sigmoid Contrastive Loss",
+  "authors": "Kiril Bangachev, Guy Bresler, Iliyas Noman, Yury Polyanskiy",
+  "summary": "arXiv:2509.18552v2 Announce Type: replace \nAbstract: The meta-task of obtaining and aligning representations through contrastive pretraining is steadily gaining importance since its introduction in CLIP and ALIGN. In this paper we theoretically explain the advantages of synchronizing with trainable inverse temperature and bias under the sigmoid loss, as implemented in the recent SigLIP and SigLIP2 models of Google DeepMind. Temperature and bias can drive the loss function to zero for a rich class of configurations that we call $(\\mathsf{m}, \\mathsf{b}_{\\mathsf{rel}})$-Constellations. $(\\mathsf{m}, \\mathsf{b}_{\\mathsf{rel}})$-Constellations are a novel combinatorial object related to spherical codes and are parametrized by a margin $\\mathsf{m}$ and relative bias $\\mathsf{b}_{\\mathsf{rel}}$. We use our characterization of constellations to theoretically justify the success of SigLIP on retrieval, to explain the modality gap present in SigLIP and CLIP, and to identify the necessary dimension for producing high-quality representations. Finally, we propose a reparameterization of the sigmoid loss with explicit relative bias, which improves training dynamics in experiments with synthetic data.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.18552",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.18552v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.430098"
+}

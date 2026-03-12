@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10253v1",
+  "title": "Joint Imaging-ROI Representation Learning via Cross-View Contrastive Alignment for Brain Disorder Classification",
+  "authors": "Wei Liang, Lifang He",
+  "summary": "arXiv:2603.10253v1 Announce Type: cross \nAbstract: Brain imaging classification is commonly approached from two perspectives: modeling the full image volume to capture global anatomical context, or constructing ROI-based graphs to encode localized and topological interactions. Although both representations have demonstrated independent efficacy, their relative contributions and potential complementarity remain insufficiently understood. Existing fusion approaches are typically task-specific and do not enable controlled evaluation of each representation under consistent training settings. To address this gap, we propose a unified cross-view contrastive framework for joint imaging-ROI representation learning. Our method learns subject-level global (imaging) and local (ROI-graph) embeddings and aligns them in a shared latent space using a bidirectional contrastive objective, encouraging representations from the same subject to converge while separating those from different subjects. This alignment produces comparable embeddings suitable for downstream fusion and enables systematic evaluation of imaging-only, ROI-only, and joint configurations within a unified training protocol. Extensive experiments on the ADHD-200 and ABIDE datasets demonstrate that joint learning consistently improves classification performance over either branch alone across multiple backbone choices. Moreover, interpretability analyses reveal that imaging-based and ROI-based branches emphasize distinct yet complementary discriminative patterns, explaining the observed performance gains. These findings provide principled evidence that explicitly integrating global volumetric and ROI-level representations is a promising direction for neuroimaging-based brain disorder classification. The source code is available at https://anonymous.4open.science/r/imaging-roi-contrastive-152C/.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10253",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10253v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T00:25:07.840410"
+}

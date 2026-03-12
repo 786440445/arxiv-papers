@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10888v1",
+  "title": "VoxCare: Studying Natural Communication Behaviors of Hospital Caregivers through Wearable Sensing of Egocentric Audio",
+  "authors": "Tiantian Feng, Kleanthis Avramidis, Anfeng Xu, Deqi Wang, Brandon M Booth, Shrikanth Narayanan",
+  "summary": "arXiv:2603.10888v1 Announce Type: new \nAbstract: Healthcare professionals work in complex, high-stakes environments where effective communication is critical for care delivery, team coordination, and individual well-being. However, communication activity in everyday clinical settings remains challenging to measure and largely unexplored in human behavioral research. We present VoxCare, a scalable egocentric wearable audio sensing and computing system that captures natural communication behaviors of hospital professionals in real-world settings without storing raw audio. VoxCare performs real-time, on-device acoustic feature extraction and applies a speech foundation model-guided teacher-student framework to identify foreground speech activity. From these features, VoxCare derives interpretable behavioral measures of communication frequency, duration, and vocal arousal. Our analyses reveal how, when, and how often clinicians communicate across different shifts and working units, and suggest that communication activity reflects underlying workload and stress. By enabling continuous assessment of communication patterns in everyday contexts, this study provides data-driven approaches to understand the behaviors of healthcare providers and ultimately improve healthcare delivery.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10888",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10888v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T00:25:01.939666"
+}

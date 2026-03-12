@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.13702v2",
+  "title": "MVCustom: Multi-View Customized Diffusion via Geometric Latent Rendering and Completion",
+  "authors": "Minjung Shin, Hyunin Cho, Sooyeon Go, Jin-Hwa Kim, Youngjung Uh",
+  "summary": "arXiv:2510.13702v2 Announce Type: replace-cross \nAbstract: Multi-view generation with camera pose control and prompt-based customization are both essential elements for achieving controllable generative models. However, existing multi-view generation models do not support customization with geometric consistency, whereas customization models lack explicit viewpoint control, making them challenging to unify. Motivated by these gaps, we introduce a novel task, multi-view customization, which aims to jointly achieve multi-view camera pose control and customization. Due to the scarcity of training data in customization, existing multi-view generation models, which inherently rely on large-scale datasets, struggle to generalize to diverse prompts. To address this, we propose MVCustom, a novel diffusion-based framework explicitly designed to achieve both multi-view consistency and customization fidelity. In the training stage, MVCustom learns the subject's identity and geometry using a feature-field representation, incorporating the text-to-video diffusion backbone enhanced with dense spatio-temporal attention, which leverages temporal coherence for multi-view consistency. In the inference stage, we introduce two novel techniques: depth-aware feature rendering explicitly enforces geometric consistency, and consistent-aware latent completion ensures accurate perspective alignment of the customized subject and surrounding backgrounds. Extensive experiments demonstrate that MVCustom achieves the most balanced and consistent competitive performance across multi-view consistency, customization fidelity, demonstrating effective solution of multi-objective generation task.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.13702",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.13702v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T00:25:07.841408"
+}

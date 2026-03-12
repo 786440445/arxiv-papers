@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10827v1",
+  "title": "Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation",
+  "authors": "Thomas Thebaud, Yuzhe Wang, Laureano Moro-Velazquez, Jesus Villalba-Lopez, Najim Dehak",
+  "summary": "arXiv:2603.10827v1 Announce Type: new \nAbstract: Speech-aware large language models (LLMs) can accept speech inputs, yet their training objectives largely emphasize linguistic content or specific fields such as emotions or the speaker's gender, leaving it unclear whether they encode speaker identity. First, we propose a model-agnostic scoring protocol that produces continuous verification scores for both API-only and open-weight models, using confidence scores or log-likelihood ratios from the Yes/No token probabilities. Using this protocol, we benchmark recent speech-aware LLMs and observe weak speaker discrimination (EERs above 20% on VoxCeleb1). Second, we introduce a lightweight augmentation that equips an LLM with ASV capability by injecting frozen ECAPA-TDNN speaker embeddings through a learned projection and training only LoRA adapters. On TinyLLaMA-1.1B, the resulting ECAPA-LLM achieves 1.03% EER on VoxCeleb1-E, approaching a dedicated speaker verification system while preserving a natural-language interface.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10827",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10827v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T00:25:01.939652"
+}

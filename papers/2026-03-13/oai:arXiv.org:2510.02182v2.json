@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.02182v2",
+  "title": "Uncovering Semantic Selectivity of Latent Groups in Higher Visual Cortex with Mutual Information-Guided Diffusion",
+  "authors": "Yule Wang, Joseph Yu, Chengrui Li, Weihan Li, Anqi Wu",
+  "summary": "arXiv:2510.02182v2 Announce Type: replace-cross \nAbstract: Understanding how neural populations in higher visual areas encode object-centered visual information remains a central challenge in computational neuroscience. Prior works have investigated representational alignment between artificial neural networks and the visual cortex. Nevertheless, these findings are indirect and offer limited insights to the structure of neural populations themselves. Similarly, decoding-based methods have quantified semantic features from neural populations but have not uncovered their underlying organizations. This leaves open a scientific question: \"how feature-specific visual information is distributed across neural populations in higher visual areas, and whether it is organized into structured, semantically meaningful subspaces.\" To tackle this problem, we present MIG-Vis, a method that leverages the generative power of diffusion models to visualize and validate the visual-semantic attributes encoded in neural latent subspaces. Our method first uses a variational autoencoder to infer a group-wise disentangled neural latent subspace from neural populations. Subsequently, we propose a mutual information (MI)-guided diffusion synthesis procedure to visualize the specific visual-semantic features encoded by each latent group. We validate MIG-Vis on multi-session neural spiking datasets from the inferior temporal (IT) cortex of two macaques. The synthesized results demonstrate that our method identifies neural latent groups with clear semantic selectivity to diverse visual features, including object pose, inter-category transformations, and intra-class content. These findings provide direct, interpretable evidence of structured semantic representation in the higher visual cortex and advance our understanding of its encoding principles.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.02182",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.02182v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.430524"
+}

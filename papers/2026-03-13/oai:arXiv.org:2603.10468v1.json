@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10468v1",
+  "title": "G-STAR: End-to-End Global Speaker-Tracking Attributed Recognition",
+  "authors": "Jing Peng, Ziyi Chen, Haoyu Li, Yucheng Wang, Duo Ma, Mengtian Li, Yunfan Du, Dezhu Xu, Kai Yu, Shuai Wang",
+  "summary": "arXiv:2603.10468v1 Announce Type: cross \nAbstract: We study timestamped speaker-attributed ASR for long-form, multi-party speech with overlap, where chunk-wise inference must preserve meeting-level speaker identity consistency while producing time-stamped, speaker-labeled transcripts. Previous Speech-LLM systems tend to prioritize either local diarization or global labeling, but often lack the ability to capture fine-grained temporal boundaries or robust cross-chunk identity linking. We propose G-STAR, an end-to-end system that couples a time-aware speaker-tracking module with a Speech-LLM transcription backbone. The tracker provides structured speaker cues with temporal grounding, and the LLM generates attributed text conditioned on these cues. G-STAR supports both component-wise optimization and joint end-to-end training, enabling flexible learning under heterogeneous supervision and domain shift. Experiments analyze cue fusion, local versus long-context trade-offs and hierarchical objectives.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10468",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10468v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T00:25:01.939713"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10503v1",
+  "title": "A New Tensor Network: Tubal Tensor Train and Its Applications",
+  "authors": "Salman Ahmadi-Asl, Valentin Leplat, Anh-Huy Phan, Andrzej Cichocki",
+  "summary": "arXiv:2603.10503v1 Announce Type: cross \nAbstract: We introduce the tubal tensor train (TTT) decomposition, a tensor-network model that combines the t-product algebra of the tensor singular value decomposition (T-SVD) with the low-order core structure of the tensor train (TT) format. For an order-$(N+1)$ tensor with a distinguished tube mode, the proposed representation consists of two third-order boundary cores and $N-2$ fourth-order interior cores linked through the t-product. As a result, for bounded tubal ranks, the storage scales linearly with the number of modes, in contrast to direct high-order extensions of T-SVD. We present two computational strategies: a sequential fixed-rank construction, called TTT-SVD, and a Fourier-slice alternating scheme based on the alternating two-cores update (ATCU). We also state a TT-SVD-type error bound for TTT-SVD and illustrate the practical performance of the proposed model on image compression, video compression, tensor completion, and hyperspectral imaging.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10503",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10503v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.429824"
+}

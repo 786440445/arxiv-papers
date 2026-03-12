@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10024v1",
+  "title": "LWM-Temporal: Sparse Spatio-Temporal Attention for Wireless Channel Representation Learning",
+  "authors": "Sadjad Alikhani, Akshay Malhotra, Shahab Hamidi-Rad, Ahmed Alkhateeb",
+  "summary": "arXiv:2603.10024v1 Announce Type: new \nAbstract: LWM-Temporal is a new member of the Large Wireless Models (LWM) family that targets the spatiotemporal nature of wireless channels. Designed as a task-agnostic foundation model, LWM-Temporal learns universal channel embeddings that capture mobility-induced evolution and are reusable across various downstream tasks. To achieve this objective, LWM-Temporal operates in the angle-delay-time domain and introduces Sparse Spatio-Temporal Attention (SSTA), a propagation-aligned attention mechanism that restricts interactions to physically plausible neighborhoods, reducing attention complexity by an order of magnitude while preserving geometry-consistent dependencies. LWM-Temporal is pretrained in a self-supervised manner using a physics-informed masking curriculum that emulates realistic occlusions, pilot sparsity, and measurement impairments. Experimental results on channel prediction across multiple mobility regimes show consistent improvements over strong baselines, particularly under long horizons and limited fine-tuning data, highlighting the importance of geometry-aware architectures and geometry-consistent pretraining for learning transferable spatiotemporal wireless representations.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10024",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10024v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.428739"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10043v1",
+  "title": "AMB-DSGDN: Adaptive Modality-Balanced Dynamic Semantic Graph Differential Network for Multimodal Emotion Recognition",
+  "authors": "Yunsheng Wang, Yuntao Shou, Yilong Tan, Wei Ai, Tao Meng, Keqin Li",
+  "summary": "arXiv:2603.10043v1 Announce Type: cross \nAbstract: Multimodal dialogue emotion recognition captures emotional cues by fusing text, visual, and audio modalities. However, existing approaches still suffer from notable limitations in modeling emotional dependencies and learning multimodal representations. On the one hand, they are unable to effectively filter out redundant or noisy signals within multimodal features, which hinders the accurate capture of the dynamic evolution of emotional states across and within speakers. On the other hand, during multimodal feature learning, dominant modalities tend to overwhelm the fusion process, thereby suppressing the complementary contributions of non-dominant modalities such as speech and vision, ultimately constraining the overall recognition performance. To address these challenges, we propose an Adaptive Modality-Balanced Dynamic Semantic Graph Differential Network (AMB-DSGDN). Concretely, we first construct modality-specific subgraphs for text, speech, and vision, where each modality contains intra-speaker and inter-speaker graphs to capture both self-continuity and cross-speaker emotional dependencies. On top of these subgraphs, we introduce a differential graph attention mechanism, which computes the discrepancy between two sets of attention maps. By explicitly contrasting these attention distributions, the mechanism cancels out shared noise patterns while retaining modality-specific and context-relevant signals, thereby yielding purer and more discriminative emotional representations. In addition, we design an adaptive modality balancing mechanism, which estimates a dropout probability for each modality according to its relative contribution in emotion modeling.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10043",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10043v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T00:25:01.939686"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2212.07126v3",
+  "title": "Explainability of Text Processing and Retrieval Methods: A Survey",
+  "authors": "Sourav Saha, Debapriyo Majumdar, Mandar Mitra",
+  "summary": "arXiv:2212.07126v3 Announce Type: replace-cross \nAbstract: Deep Learning and Machine Learning based models have become extremely popular in text processing and information retrieval. However, the non-linear structures present inside the networks make these models largely inscrutable. A significant body of research has focused on increasing the transparency of these models. This article provides a broad overview of research on the explainability and interpretability of natural language processing and information retrieval methods. More specifically, we survey approaches that have been applied to explain word embeddings, sequence modeling, attention modules, transformers, BERT, and document ranking. The concluding section suggests some possible directions for future research on this topic.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2212.07126",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2212.07126v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T00:25:07.841209"
+}

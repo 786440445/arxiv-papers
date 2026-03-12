@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.19733v2",
+  "title": "NMIRacle: Multi-modal Generative Molecular Elucidation from IR and NMR Spectra",
+  "authors": "Federico Ottomano, Yingzhen Li, Alex M. Ganose",
+  "summary": "arXiv:2512.19733v2 Announce Type: replace-cross \nAbstract: Molecular structure elucidation from spectroscopic data is a long-standing challenge in Chemistry, traditionally requiring expert interpretation. We introduce NMIRacle, a two-stage generative framework that builds upon recent paradigms in AI-driven spectroscopy with minimal assumptions. In the first stage, NMIRacle learns to reconstruct molecular structures from count-aware fragment representations, capturing both fragment identities and their occurrences. In the second stage, a spectral encoder maps input spectra (IR, 1H-NMR, 13C-NMR) into a latent embedding used to condition the pre-trained generator, which is fine-tuned for direct spectra-to-molecule generation. This formulation bridges fragment-level chemical modeling with spectral evidence, yielding accurate molecular predictions. Empirical results demonstrate that NMIRacle outperforms existing baselines on molecular elucidation, while maintaining robust performance across increasing levels of molecular complexity.",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.19733",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.19733v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T00:25:05.430597"
+}

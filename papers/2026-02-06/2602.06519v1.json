@@ -1,0 +1,11 @@
+{
+  "id": "2602.06519v1",
+  "title": "Topography scanning as a part of process monitoring in power cable insulation process",
+  "authors": "Björn Sonerud",
+  "summary": "We present a novel topography scanning system developed to XLPE cable core monitoring. Modern measurement technology is utilized together with embedded high-performance computing to build a complete and detailed 3D surface map of the insulated core. Cross sectional and lengthwise geometry errors are studied, and melt homogeneity is identified as one major factor for these errors. A surface defect detection system has been developed utilizing deep learning methods. Our results show that convolutional neural networks are well suited for real time analysis of surface measurement data enabling reliable detection of surface defects.",
+  "published": "2026-02-06T09:24:18Z",
+  "link": "https://arxiv.org/abs/2602.06519v1",
+  "pdf": "https://arxiv.org/pdf/2602.06519v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:42.449147"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.12301v1",
+  "title": "Beyond Musical Descriptors: Extracting Preference-Bearing Intent in Music Queries",
+  "authors": "Elena V. Epure",
+  "summary": "Although annotated music descriptor datasets for user queries are increasingly common, few consider the user's intent behind these descriptors, which is essential for effectively meeting their needs. We introduce MusicRecoIntent, a manually annotated corpus of 2,291 Reddit music requests, labeling musical descriptors across seven categories with positive, negative, or referential preference-bearing roles. We then investigate how reliably large language models (LLMs) can extract these music descriptors, finding that they do capture explicit descriptors but struggle with context-dependent ones. This work can further serve as a benchmark for fine-grained modeling of user intent and for gaining insights into improving LLM-based music understanding systems.",
+  "published": "2026-02-11T10:52:38Z",
+  "link": "https://arxiv.org/abs/2602.12301v1",
+  "pdf": "https://arxiv.org/pdf/2602.12301v1.pdf",
+  "category": "cs.SD, cs.CL, cs.IR, cs.LG, eess.AS",
+  "fetched_at": "2026-03-10T22:27:51.288943"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09108v1",
+  "title": "Composed Vision-Language Retrieval for Skin Cancer Case Search via Joint Alignment of Global and Local Representations",
+  "authors": "Yuheng Wang, Yuji Lin, Dongrun Zhu, Jiayue Cai, Sunil Kalia, Harvey Lui, Chunqi Chang, Z. Jane Wang, Tim K. Lee",
+  "summary": "arXiv:2603.09108v1 Announce Type: cross \nAbstract: Medical image retrieval aims to identify clinically relevant lesion cases to support diagnostic decision making, education, and quality control. In practice, retrieval queries often combine a reference lesion image with textual descriptors such as dermoscopic features. We study composed vision-language retrieval for skin cancer, where each query consists of an image to text pair and the database contains biopsy-confirmed, multi-class disease cases. We propose a transformer based framework that learns hierarchical composed query representations and performs joint global-local alignment between queries and candidate images. Local alignment aggregates discriminative regions via multiple spatial attention masks, while global alignment provides holistic semantic supervision. The final similarity is computed through a convex, domain-informed weighting that emphasizes clinically salient local evidence while preserving global consistency. Experiments on the public Derm7pt dataset demonstrate consistent improvements over state-of-the-art methods. The proposed framework enables efficient access to relevant medical records and supports practical clinical deployment.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09108",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09108v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.793418"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09820v1",
+  "title": "EmoSURA: Towards Accurate Evaluation of Detailed and Long-Context Emotional Speech Captions",
+  "authors": "Xin Jing, Andreas Triantafyllopoulos, Jiadong Wang, Shahin Amiriparian, Jun Luo, Bj\\\"orn Schuller",
+  "summary": "arXiv:2603.09820v1 Announce Type: new \nAbstract: Recent advancements in speech captioning models have enabled the generation of rich, fine-grained captions for emotional speech. However, the evaluation of such captions remains a critical bottleneck: traditional N-gram metrics fail to capture semantic nuances, while LLM judges often suffer from reasoning inconsistency and context-collapse when processing long-form descriptions. In this work, we propose EmoSURA, a novel evaluation framework that shifts the paradigm from holistic scoring to atomic verification. EmoSURA decomposes complex captions into Atomic Perceptual Units, which are self-contained statements regarding vocal or emotional attributes, and employs an audio-grounded verification mechanism to validate each unit against the raw speech signal. Furthermore, we address the scarcity of standardized evaluation resources by introducing SURABench, a carefully balanced and stratified benchmark. Our experiments show that EmoSURA achieves a positive correlation with human judgments, offering a more reliable assessment for long-form captions compared to traditional metrics, which demonstrated negative correlations due to their sensitivity to caption length.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09820",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09820v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195590"
+}

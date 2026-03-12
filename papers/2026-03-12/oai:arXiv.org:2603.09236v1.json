@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09236v1",
+  "title": "BridgeDiff: Bridging Human Observations and Flat-Garment Synthesis for Virtual Try-Off",
+  "authors": "Shuang Liu, Ao Yu, Linkang Cheng, Xiwen Huang, Li Zhao, Junhui Liu, Zhiting Lin, Yu Liu",
+  "summary": "arXiv:2603.09236v1 Announce Type: cross \nAbstract: Virtual try-off (VTOFF) aims to recover canonical flat-garment representations from images of dressed persons for standardized display and downstream virtual try-on. Prior methods often treat VTOFF as direct image translation driven by local masks or text-only prompts, overlooking the gap between on-body appearances and flat layouts. This gap frequently leads to inconsistent completion in unobserved regions and unstable garment structure. We propose BridgeDiff, a diffusion-based framework that explicitly bridges human-centric observations and flat-garment synthesis through two complementary components. First, the Garment Condition Bridge Module (GCBM) builds a garment-cue representation that captures global appearance and semantic identity, enabling robust inference of continuous details under partial visibility. Second, the Flat Structure Constraint Module (FSCM) injects explicit flat-garment structural priors via Flat-Constraint Attention (FC-Attention) at selected denoising stages, improving structural stability beyond text-only conditioning. Extensive experiments on standard VTOFF benchmarks show that BridgeDiff achieves state-of-the-art performance, producing higher-quality flat-garment reconstructions while preserving fine-grained appearance and structural integrity.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09236",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09236v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.793494"
+}

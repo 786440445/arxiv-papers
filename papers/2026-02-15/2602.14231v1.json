@@ -1,0 +1,11 @@
+{
+  "id": "2602.14231v1",
+  "title": "Robust multi-task boosting using clustering and local ensembling",
+  "authors": "Gonzalo Martínez-Muñoz",
+  "summary": "Multi-Task Learning (MTL) aims to boost predictive performance by sharing information across related tasks, yet conventional methods often suffer from negative transfer when unrelated or noisy tasks are forced to share representations. We propose Robust Multi-Task Boosting using Clustering and Local Ensembling (RMB-CLE), a principled MTL framework that integrates error-based task clustering with local ensembling. Unlike prior work that assumes fixed clusters or hand-crafted similarity metrics, RMB-CLE derives inter-task similarity directly from cross-task errors, which admit a risk decomposition into functional mismatch and irreducible noise, providing a theoretically grounded mechanism to prevent negative transfer. Tasks are grouped adaptively via agglomerative clustering, and within each cluster, a local ensemble enables robust knowledge sharing while preserving task-specific patterns. Experiments show that RMB-CLE recovers ground-truth clusters in synthetic data and consistently outperforms multi-task, single-task, and pooling-based ensemble methods across diverse real-world and synthetic benchmarks. These results demonstrate that RMB-CLE is not merely a combination of clustering and boosting but a general and scalable framework that establishes a new basis for robust multi-task learning.",
+  "published": "2026-02-15T16:59:23Z",
+  "link": "https://arxiv.org/abs/2602.14231v1",
+  "pdf": "https://arxiv.org/pdf/2602.14231v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:56.678090"
+}

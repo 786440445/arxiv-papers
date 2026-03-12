@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.25773v2",
+  "title": "v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound",
+  "authors": "Zhengpeng Shi, Yanpeng Zhao, Jianqun Zhou, Yuxuan Wang, Qinrong Cui, Wei Bi, Songchun Zhu, Bo Zhao, Zilong Zheng",
+  "summary": "arXiv:2509.25773v2 Announce Type: replace-cross \nAbstract: AI models capable of comprehending humor hold real-world promise -- for example, enhancing engagement in human-machine interactions. To gauge and diagnose the capacity of multimodal large language models (MLLMs) for humor understanding, we introduce v-HUB, a novel video humor understanding benchmark. v-HUB comprises a curated collection of non-verbal short videos, reflecting real-world scenarios where humor can be appreciated purely through visual cues. We pair each video clip with rich annotations to support a variety of evaluation tasks and analyses, including a novel study of environmental sound that can enhance humor. To broaden its applicability, we construct an open-ended QA task, making v-HUB readily integrable into existing video understanding task suites. We evaluate a diverse set of MLLMs, from specialized Video-LLMs to versatile OmniLLMs that can natively process audio, covering both open-source and proprietary domains. The experimental results expose the difficulties MLLMs face in comprehending humor from visual cues alone. Our findings also demonstrate that incorporating audio helps with video humor understanding, highlighting the promise of integrating richer modalities for complex video understanding tasks.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.25773",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.25773v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.794031"
+}

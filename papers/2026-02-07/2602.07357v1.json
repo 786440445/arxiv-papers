@@ -1,0 +1,11 @@
+{
+  "id": "2602.07357v1",
+  "title": "Encoding Matters: Benchmarking Binary and D-ary Representations for Quantum Combinatorial Optimization",
+  "authors": "Udaya Parampalli",
+  "summary": "Combinatorial optimization problems are typically formulated using Quadratic Unconstrained Binary Optimization (QUBO), where constraints are enforced through penalty terms that introduce auxiliary variables and rapidly increase Hamiltonian complexity, limiting scalability on near term quantum devices. In this work, we systematically study Quadratic Unconstrained D-ary Optimization (QUDO) as an alternative formulation in which decision variables are encoded directly in higher dimensional Hilbert spaces. We demonstrate that QUDO naturally captures structural constraints across a range of problem classes, including the Traveling Salesman Problem, two variants of the Vehicle Routing Problem, graph coloring, job scheduling, and Max-K-Cut, without the need for extensive penalty constructions. Using a qudit-level implementation of the Quantum Approximate Optimization Algorithm (qudit QAOA), we benchmark these formulations against their binary QUBO counterparts and exact classical solutions. Our study show consistently improved approximation ratios and substantially reduced computational overhead at comparable circuit depths, highlighting QUDO as a scalable and expressive representation for quantum combinatorial optimization.",
+  "published": "2026-02-07T04:37:32Z",
+  "link": "https://arxiv.org/abs/2602.07357v1",
+  "pdf": "https://arxiv.org/pdf/2602.07357v1.pdf",
+  "category": "quant-ph",
+  "fetched_at": "2026-03-10T22:27:43.908702"
+}

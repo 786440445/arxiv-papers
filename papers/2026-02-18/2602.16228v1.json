@@ -1,0 +1,11 @@
+{
+  "id": "2602.16228v1",
+  "title": "Coexistence of Rashba and Ising Spin-Singlet Pairings in Two-Dimensional IrTe$_{2}$",
+  "authors": "Tanusri Saha-Dasgupta",
+  "summary": "Symmetry offers a useful approach to unfold the intertwined degrees of freedom. Thus it paves the way to resolve coexisting quantum orders into distinct symmetry sectors. Motivated by the recent observation of superconductivity in nano-flaked IrTe$_2$, we investigate the superconductivity in strain-stabilized two-dimensional (2D) limit of IrTe$_2$ by combining density-functional theory with mean-field solution of spin-fluctuation mediated pairing interaction on a symmetry-constrained ${\\bf k}\\cdot{\\bf p}$ model. The spin-orbit coupled band structure shows $Γ$-centred Fermi sheets with coexistence of band-selective Rashba-like (in-plane) and Ising-like (out-of-plane) superconductivity. Remarkably, the superconducting gaps are odd in spin, orbital, and momentum channels despite the presence of global inversion symmetry. Fermi surface topologies and little-group symmetry enforce distinct irreducible representations to the Rashba and Ising channels, forbidding their mixing. Our findings open up a symmetry-based route to multichannel superconductivity in 2D transition-metal dichalcogenides with unique functionalities.",
+  "published": "2026-02-18T07:04:49Z",
+  "link": "https://arxiv.org/abs/2602.16228v1",
+  "pdf": "https://arxiv.org/pdf/2602.16228v1.pdf",
+  "category": "cond-mat.supr-con",
+  "fetched_at": "2026-03-10T22:28:01.716362"
+}

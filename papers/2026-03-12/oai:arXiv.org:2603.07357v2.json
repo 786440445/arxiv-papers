@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07357v2",
+  "title": "Latent Generative Models with Tunable Complexity for Compressed Sensing and other Inverse Problems",
+  "authors": "Sean Gunn, Jorio Cocola, Oliver De Candido, Vaggos Chatziafratis, Paul Hand",
+  "summary": "arXiv:2603.07357v2 Announce Type: replace \nAbstract: Generative models have emerged as powerful priors for solving inverse problems. These models typically represent a class of natural signals using a single fixed complexity or dimensionality. This can be limiting: depending on the problem, a fixed complexity may result in high representation error if too small, or overfitting to noise if too large. We develop tunable-complexity priors for diffusion models, normalizing flows, and variational autoencoders, leveraging nested dropout. Across tasks including compressed sensing, inpainting, denoising, and phase retrieval, we show empirically that tunable priors consistently achieve lower reconstruction errors than fixed-complexity baselines. In the linear denoising setting, we provide a theoretical analysis that explicitly characterizes how the optimal tuning parameter depends on noise and model structure. This work demonstrates the potential of tunable-complexity generative priors and motivates both the development of supporting theory and their application across a wide range of inverse problems.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07357",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07357v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265431"
+}

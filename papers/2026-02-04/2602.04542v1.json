@@ -1,0 +1,11 @@
+{
+  "id": "2602.04542v1",
+  "title": "Continual Learning through Control Minimization",
+  "authors": "Benjamin F. Grewe",
+  "summary": "Catastrophic forgetting remains a fundamental challenge for neural networks when tasks are trained sequentially. In this work, we reformulate continual learning as a control problem where learning and preservation signals compete within neural activity dynamics. We convert regularization penalties into preservation signals that protect prior-task representations. Learning then proceeds by minimizing the control effort required to integrate new tasks while competing with the preservation of prior tasks. At equilibrium, the neural activities produce weight updates that implicitly encode the full prior-task curvature, a property we term the continual-natural gradient, requiring no explicit curvature storage. Experiments confirm that our learning framework recovers true prior-task curvature and enables task discrimination, outperforming existing methods on standard benchmarks without replay.",
+  "published": "2026-02-04T13:34:26Z",
+  "link": "https://arxiv.org/abs/2602.04542v1",
+  "pdf": "https://arxiv.org/pdf/2602.04542v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:39.431024"
+}

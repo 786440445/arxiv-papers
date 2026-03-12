@@ -1,0 +1,11 @@
+{
+  "id": "2602.16515v1",
+  "title": "Generative deep learning improves reconstruction of global historical climate records",
+  "authors": "Niklas Boers",
+  "summary": "Accurate assessment of anthropogenic climate change relies on historical instrumental data, yet observations from the early 20th century are sparse, fragmented, and uncertain. Conventional reconstructions rely on disparate statistical interpolation, which excessively smooths local features and creates unphysical artifacts, leading to systematic underestimation of intrinsic variability and extremes. Here, we present a unified, probabilistic generative deep learning framework that overcomes these limitations and reveals previously unresolved historical climate variability back to 1850. Leveraging a learned generative prior of Earth system dynamics, our model performs probabilistic inference to recover spatiotemporally consistent historical temperature and precipitation fields from sparse observations. Our approach preserves the higher-order statistics of climate dynamics, transforming reconstruction into a robust uncertainty-aware assessment. We demonstrate that our reconstruction overcomes pronounced biases in widely used historical reference products, including those underlying IPCC assessments, especially regarding extreme weather events. Notably, we uncover higher early 20th-century global warming levels compared to existing reconstructions, primarily driven by more pronounced polar warming, with mean Arctic warming trends exceeding established benchmarks by 0.15--0.29°C per decade for 1900--1980. Conversely, for the modern era, our reconstruction indicates that the broad Arctic warming trend is likely overestimated in recent assessments, yet explicitly resolves previously unrecognized intense, localized hotspots in the Barents Sea and Northeastern Greenland. Furthermore, based on our seamless global reconstruction that recovers precipitation variability across the oceans and under-monitored regions, we uncover an intensification of the global hydrological cycle.",
+  "published": "2026-02-18T15:03:26Z",
+  "link": "https://arxiv.org/abs/2602.16515v1",
+  "pdf": "https://arxiv.org/pdf/2602.16515v1.pdf",
+  "category": "physics.geo-ph",
+  "fetched_at": "2026-03-10T22:28:01.714952"
+}

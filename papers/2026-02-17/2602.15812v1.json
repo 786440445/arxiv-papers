@@ -1,0 +1,11 @@
+{
+  "id": "2602.15812v1",
+  "title": "Separable C*-algebras Without the Countable Axiom of Choice",
+  "authors": "Ilijas Farah",
+  "summary": "The goal of this paper is twofold. In addition to the results stated in the next paragraph, we present some classical results on absoluteness relevant to functional analysis that are well known to logicians but not nearly as well advertised as they should be. We show that the theory of separable C*-algebras can be developed in ZF (that is, without using any Choice). This includes proving the Gelfand-Naimark representation theorems as well as the Spectral Mapping Theorem for polynomials and developing continuous functional calculus for commuting normal elements. Some of our proofs are modifications of the standard ones, obtained by avoiding the use of Choice. Some other proofs require new ideas in order to avoid the use of Choice. Yet another batch of proofs proceeds by using the set-theoretic Shoenfield Absoluteness Theorem. This result (well known to logicians but regrettably not as well advertised as it deserves) implies that statements about standard Borel spaces of low quantifier complexity that are provable in ZFC, or even ZFC together with the Continuum Hypothesis are provable in ZF. One of the main objectives of this paper is to present these results in a convenient form that can be utilized by analysts not familiar with set theory. We also show that in the absence of Choice (more precisely, assuming the existence of a Russell set) there is a concretely representable unital commutative \\cstar-algebra that is not isomorphic to C(X) for any compact Hausdorff space X. Finally, from the model-theoretic point of view, while the property of having a tracial state is provably axiomatizable in ZFC, it is not provably axiomatizable in ZF+DC.",
+  "published": "2026-02-17T18:49:36Z",
+  "link": "https://arxiv.org/abs/2602.15812v1",
+  "pdf": "https://arxiv.org/pdf/2602.15812v1.pdf",
+  "category": "math.OA, math.LO",
+  "fetched_at": "2026-03-10T22:28:00.142599"
+}

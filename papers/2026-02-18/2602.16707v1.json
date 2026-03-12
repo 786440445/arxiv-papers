@@ -1,0 +1,11 @@
+{
+  "id": "2602.16707v1",
+  "title": "E-Graphs as a Persistent Compiler Abstraction",
+  "authors": "Tobias Grosser",
+  "summary": "Recent algorithmic advances have made equality saturation an appealing approach to program optimization because it avoids the phase-ordering problem. Existing work uses external equality saturation libraries, or custom implementations that are deeply tied to the specific application. However, these works only apply equality saturation at a single level of abstraction, or discard the discovered equalities when code is transformed by other compiler passes. We propose an alternative approach that represents an e-graph natively in the compiler's intermediate representation, facilitating the application of constructive compiler passes that maintain the e-graph state throughout the compilation flow. We build on a Python-based MLIR framework, xDSL, and introduce a new MLIR dialect, eqsat, that represents e-graphs in MLIR code. We show that this representation expands the scope of equality saturation in the compiler, allowing us to interleave pattern rewriting with other compiler transformations. The eqsat dialect provides a unified abstraction for compilers to utilize equality saturation across various levels of intermediate representations concurrently within the same MLIR flow.",
+  "published": "2026-02-18T18:56:52Z",
+  "link": "https://arxiv.org/abs/2602.16707v1",
+  "pdf": "https://arxiv.org/pdf/2602.16707v1.pdf",
+  "category": "cs.PL",
+  "fetched_at": "2026-03-10T22:28:01.717019"
+}

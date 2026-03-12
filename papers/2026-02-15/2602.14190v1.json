@@ -1,0 +1,11 @@
+{
+  "id": "2602.14190v1",
+  "title": "Vertex operators, infinite wedge representations, and correlation functions of the t-Schur measure",
+  "authors": "Haoran Zhu",
+  "summary": "We study the $t$-Schur measure on partitions, defined by $ \\mathbb{P}(λ)=Z^{-1}S_λ(x;t)s_λ(y) $, where $S_λ(x;t)$ denotes the $t$-Schur symmetric functions and $s_λ(y)$ the ordinary Schur functions, and $Z$ is the normalising constant. Using vertex operator calculus, we realise $S_λ(x;t)$ in the charged free-fermion Fock space, yielding a $t$-deformation of the classical boson-fermion correspondence. These realisations give vertex-algebraic proofs of the $t$-Cauchy identities and $t$-Gessel identity. Building on this framework, we compute the correlation functions of the $t$-Schur measure and show that the associated point process is determinantal, with an explicit correlation kernel. The Poissonised $t$-Plancherel measure appears as a specialisation of our construction, so its correlation functions follow as a corollary. As an application, we derive the limiting distribution for the length of the longest ascent pair in a random permutation. Our results interpolate the Schur case at $t=0$, connect to the Schur-$Q$ theory at $t=-1$, and provide a probabilistic interpretation of a natural $t$-refinement of increasing subsequences via a generalised RSK correspondence.",
+  "published": "2026-02-15T15:30:39Z",
+  "link": "https://arxiv.org/abs/2602.14190v1",
+  "pdf": "https://arxiv.org/pdf/2602.14190v1.pdf",
+  "category": "math-ph, math.CO, math.PR, math.QA",
+  "fetched_at": "2026-03-10T22:27:56.678965"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.01116v1",
+  "title": "Logic-Oriented Retriever Enhancement via Contrastive Learning",
+  "authors": "Yonghe Wu",
+  "summary": "Large language models (LLMs) struggle in knowledge-intensive tasks, as retrievers often overfit to surface similarity and fail on queries involving complex logical relations. The capacity for logical analysis is inherent in model representations but remains underutilized in standard training. LORE (Logic ORiented Retriever Enhancement) introduces fine-grained contrastive learning to activate this latent capacity, guiding embeddings toward evidence aligned with logical structure rather than shallow similarity. LORE requires no external upervision, resources, or pre-retrieval analysis, remains index-compatible, and consistently improves retrieval utility and downstream generation while maintaining efficiency. The datasets and code are publicly available at https://github.com/mazehart/Lore-RAG.",
+  "published": "2026-02-01T09:30:04Z",
+  "link": "https://arxiv.org/abs/2602.01116v1",
+  "pdf": "https://arxiv.org/pdf/2602.01116v1.pdf",
+  "category": "cs.CL",
+  "fetched_at": "2026-03-10T22:27:32.802806"
+}

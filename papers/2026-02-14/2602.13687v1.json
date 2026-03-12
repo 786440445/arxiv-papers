@@ -1,0 +1,11 @@
+{
+  "id": "2602.13687v1",
+  "title": "UAV Swarm Enabled Aerial Movable Antenna System for Low-Altitude Economy: From Far-Field to Near-Field Communication",
+  "authors": "Rui Zhang",
+  "summary": "Unmanned aerial vehicle (UAV) with the intrinsic three-dimensional (3D) mobility provides an ideal platform for implementing aerial movable antenna (AMA) system enabled by UAV swarm cooperation. Besides, AMA system is readily to achieve an extremely large-scale array aperture, rendering the conventional far-field uniform plane wave (UPW) model no longer valid for aerial-to-ground links. This paper studies the UAV swarm enabled near-field AMA communication, by taking into account the non-uniform spherical wave (NUSW) model, where UAV swarm trajectory simultaneously influences the channel amplitude and phase. We formulate a general optimization problem to maximize the minimum average communication rate over user equipments (UEs), by jointly optimizing the 3D UAV swarm trajectory and receive beamforming for all UEs. To draw useful insights, the special case of single UE is first studied, and successive convex approximation (SCA) technique is proposed to efficiently optimize the UAV swarm trajectory. For the special case of placement optimization, the optimal placement positions of UAVs for cases of single UAV and two UAVs are derived in closed-form. Then, for the special case of two UEs, we show that an inter-UE interference (IUI)-free communication can be achieved by symmetrically placing an even number of UAVs along a hyperbola, with its foci corresponding to the locations of the two UEs. Furthermore, for arbitrary number of UEs, an alternating optimization algorithm is proposed to efficiently tackle the non-convex optimization problem. Numerical results validate the significant performance gains over the benchmark schemes.",
+  "published": "2026-02-14T09:13:59Z",
+  "link": "https://arxiv.org/abs/2602.13687v1",
+  "pdf": "https://arxiv.org/pdf/2602.13687v1.pdf",
+  "category": "cs.IT",
+  "fetched_at": "2026-03-10T22:27:55.305747"
+}

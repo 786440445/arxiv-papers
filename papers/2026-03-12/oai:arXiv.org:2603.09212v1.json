@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09212v1",
+  "title": "Acoustic and Semantic Modeling of Emotion in Spoken Language",
+  "authors": "Soumya Dutta",
+  "summary": "arXiv:2603.09212v1 Announce Type: new \nAbstract: Emotions play a central role in human communication, shaping trust, engagement, and social interaction. As artificial intelligence systems powered by large language models become increasingly integrated into everyday life, enabling them to reliably understand and generate human emotions remains an important challenge. While emotional expression is inherently multimodal, this thesis focuses on emotions conveyed through spoken language and investigates how acoustic and semantic information can be jointly modeled to advance both emotion understanding and emotion synthesis from speech. The first part of the thesis studies emotion-aware representation learning through pre-training. We propose strategies that incorporate acoustic and semantic supervision to learn representations that better capture affective cues in speech. A speech-driven supervised pre-training framework is also introduced to enable large-scale emotion-aware text modeling without requiring manually annotated text corpora. The second part addresses emotion recognition in conversational settings. Hierarchical architectures combining cross-modal attention and mixture-of-experts fusion are developed to integrate acoustic and semantic information across conversational turns. Finally, the thesis introduces a textless and non-parallel speech-to-speech framework for emotion style transfer that enables controllable emotional transformations while preserving speaker identity and linguistic content. The results demonstrate improved emotion transfer and show that style-transferred speech can be used for data augmentation to improve emotion recognition.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09212",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09212v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492299"
+}

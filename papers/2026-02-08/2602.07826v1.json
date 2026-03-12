@@ -1,0 +1,11 @@
+{
+  "id": "2602.07826v1",
+  "title": "Influence of Elastic Oscillations on Nucleation in Metals",
+  "authors": "D. O. Derecha",
+  "summary": "This work is devoted to establishing the mechanisms of elastic oscillation influence on nucleation processes in metal melts. The method of physical modeling with low-temperature metallic alloys (Wood and Rose) and transparent organic media (salol, camphene, diphenylamine) was used. It was established that vibration and ultrasound significantly reduce the supercooling required to initiate crystallization. The effectiveness of the influence significantly increases for samples with solid substrates. The hypotheses about the influence through changes in melt viscosity and the exclusive role of cavitation were experimentally refuted. The transition from pre-cavitation to cavitation ultrasound regime is not accompanied by qualitative changes in the influence on nucleation. The mechanism of elastic oscillation influence is substantiated, which consists in mechanical impact on adsorbed crystal nuclei on the surfaces of solid substrates. Elastic oscillations increase the nucleation rate by creating growth steps (dislocations) on the surfaces of adsorbed nuclei as a result of mechanical friction of solid substrates and cavitation erosion. The results have fundamental significance for understanding the physical nature of metal crystallization and practical application for developing technologies for controlling structure formation.",
+  "published": "2026-02-08T05:24:40Z",
+  "link": "https://arxiv.org/abs/2602.07826v1",
+  "pdf": "https://arxiv.org/pdf/2602.07826v1.pdf",
+  "category": "cond-mat.mtrl-sci, physics.app-ph",
+  "fetched_at": "2026-03-10T22:27:46.466265"
+}

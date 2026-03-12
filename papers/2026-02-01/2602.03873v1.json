@@ -1,0 +1,11 @@
+{
+  "id": "2602.03873v1",
+  "title": "Decoding Ambiguous Emotions with Test-Time Scaling in Audio-Language Models",
+  "authors": "Ting Dang",
+  "summary": "Emotion recognition from human speech is a critical enabler for socially aware conversational AI. However, while most prior work frames emotion recognition as a categorical classification problem, real-world affective states are often ambiguous, overlapping, and context-dependent, posing significant challenges for both annotation and automatic modeling. Recent large-scale audio language models (ALMs) offer new opportunities for nuanced affective reasoning without explicit emotion supervision, but their capacity to handle ambiguous emotions remains underexplored. At the same time, advances in inference-time techniques such as test-time scaling (TTS) have shown promise for improving generalization and adaptability in hard NLP tasks, but their relevance to affective computing is still largely unknown. In this work, we introduce the first benchmark for ambiguous emotion recognition in speech with ALMs under test-time scaling. Our evaluation systematically compares eight state-of-the-art ALMs and five TTS strategies across three prominent speech emotion datasets. We further provide an in-depth analysis of the interaction between model capacity, TTS, and affective ambiguity, offering new insights into the computational and representational challenges of ambiguous emotion understanding. Our benchmark establishes a foundation for developing more robust, context-aware, and emotionally intelligent speech-based AI systems, and highlights key future directions for bridging the gap between model assumptions and the complexity of real-world human emotion.",
+  "published": "2026-02-01T07:41:57Z",
+  "link": "https://arxiv.org/abs/2602.03873v1",
+  "pdf": "https://arxiv.org/pdf/2602.03873v1.pdf",
+  "category": "cs.SD, cs.AI, eess.AS",
+  "fetched_at": "2026-03-10T22:27:32.801960"
+}

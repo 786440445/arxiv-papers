@@ -1,0 +1,11 @@
+{
+  "id": "2602.14486v1",
+  "title": "Revisiting the Platonic Representation Hypothesis: An Aristotelian View",
+  "authors": "Maria Brbić",
+  "summary": "The Platonic Representation Hypothesis suggests that representations from neural networks are converging to a common statistical model of reality. We show that the existing metrics used to measure representational similarity are confounded by network scale: increasing model depth or width can systematically inflate representational similarity scores. To correct these effects, we introduce a permutation-based null-calibration framework that transforms any representational similarity metric into a calibrated score with statistical guarantees. We revisit the Platonic Representation Hypothesis with our calibration framework, which reveals a nuanced picture: the apparent convergence reported by global spectral measures largely disappears after calibration, while local neighborhood similarity, but not local distances, retains significant agreement across different modalities. Based on these findings, we propose the Aristotelian Representation Hypothesis: representations in neural networks are converging to shared local neighborhood relationships.",
+  "published": "2026-02-16T06:01:23Z",
+  "link": "https://arxiv.org/abs/2602.14486v1",
+  "pdf": "https://arxiv.org/pdf/2602.14486v1.pdf",
+  "category": "cs.LG, cs.AI, cs.CV, cs.NE",
+  "fetched_at": "2026-03-10T22:27:57.851948"
+}

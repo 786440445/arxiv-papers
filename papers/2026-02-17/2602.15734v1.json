@@ -1,0 +1,11 @@
+{
+  "id": "2602.15734v1",
+  "title": "Language and Geometry Grounded Sparse Voxel Representations for Holistic Scene Understanding",
+  "authors": "Dongfeng Bai",
+  "summary": "Existing 3D open-vocabulary scene understanding methods mostly emphasize distilling language features from 2D foundation models into 3D feature fields, but largely overlook the synergy among scene appearance, semantics, and geometry. As a result, scene understanding often deviates from the underlying geometric structure of scenes and becomes decoupled from the reconstruction process. In this work, we propose a novel approach that leverages language and geometry grounded sparse voxel representations to comprehensively model appearance, semantics, and geometry within a unified framework. Specifically, we use 3D sparse voxels as primitives and employ an appearance field, a density field, a feature field, and a confidence field to holistically represent a 3D scene. To promote synergy among the appearance, density, and feature fields, we construct a feature modulation module and distill language features from a 2D foundation model into our 3D scene model. In addition, we integrate geometric distillation into feature field distillation to transfer geometric knowledge from a geometry foundation model to our 3D scene representations via depth correlation regularization and pattern consistency regularization. These components work together to synergistically model the appearance, semantics, and geometry of the 3D scene within a unified framework. Extensive experiments demonstrate that our approach achieves superior overall performance compared with state-of-the-art methods in holistic scene understanding and reconstruction.",
+  "published": "2026-02-17T17:10:13Z",
+  "link": "https://arxiv.org/abs/2602.15734v1",
+  "pdf": "https://arxiv.org/pdf/2602.15734v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:28:00.142802"
+}

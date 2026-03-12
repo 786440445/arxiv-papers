@@ -1,0 +1,11 @@
+{
+  "id": "2602.11670v1",
+  "title": "Exploring Frequency-Domain Feature Modeling for HRTF Magnitude Upsampling",
+  "authors": "Ian S. Burnett",
+  "summary": "Accurate upsampling of Head-Related Transfer Functions (HRTFs) from sparse measurements is crucial for personalized spatial audio rendering. Traditional interpolation methods, such as kernel-based weighting or basis function expansions, rely on measurements from a single subject and are limited by the spatial sampling theorem, resulting in significant performance degradation under sparse sampling. Recent learning-based methods alleviate this limitation by leveraging cross-subject information, yet most existing neural architectures primarily focus on modeling spatial relationships across directions, while spectral dependencies along the frequency dimension are often modeled implicitly or treated independently. However, HRTF magnitude responses exhibit strong local continuity and long-range structure in the frequency domain, which are not fully exploited. This work investigates frequency-domain feature modeling by examining how different architectural choices, ranging from per-frequency multilayer perceptrons to convolutional, dilated convolutional, and attention-based models, affect performance under varying sparsity levels, showing that explicit spectral modeling consistently improves reconstruction accuracy, particularly under severe sparsity. Motivated by this observation, a frequency-domain Conformer-based architecture is adopted to jointly capture local spectral continuity and long-range frequency correlations. Experimental results on the SONICOM and HUTUBS datasets demonstrate that the proposed method achieves state-of-the-art performance in terms of interaural level difference and log-spectral distortion.",
+  "published": "2026-02-12T07:43:26Z",
+  "link": "https://arxiv.org/abs/2602.11670v1",
+  "pdf": "https://arxiv.org/pdf/2602.11670v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-10T22:27:52.636751"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.01299v2",
+  "title": "Making progress: Reducibility Candidates and Cut Elimination in the Ill-founded Realm",
+  "authors": "Graham E. Leigh",
+  "summary": "Ill-founded (or non-wellfounded) proof systems have emerged as a natural framework for inductive and coinductive reasoning. In such systems, soundness relies on global correctness criteria, such as the progressivity condition. Ensuring that these criteria are preserved under infinitary cut elimination remains a central technical challenge in ill-founded proof theory. In this paper, we present two cut elimination arguments for ill-founded $μ\\mathsf{MALL}$ - a fragment of linear logic extended with fixed-points - based on the reducibility candidates technique of Tait and Girard. In both arguments, preservation of progressivity follows directly from the defining properties of the reducibility candidates. In particular, the second argument is derived from the topological notion of internally closed set developed in previous work by Afshari and Leigh.",
+  "published": "2026-02-01T15:56:00Z",
+  "link": "https://arxiv.org/abs/2602.01299v2",
+  "pdf": "https://arxiv.org/pdf/2602.01299v2.pdf",
+  "category": "cs.LO",
+  "fetched_at": "2026-03-10T22:27:32.801532"
+}

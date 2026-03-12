@@ -1,0 +1,11 @@
+{
+  "id": "2602.06937v1",
+  "title": "Reciprocal Latent Fields for Precomputed Sound Propagation",
+  "authors": "Louis-Xavier Buffoni",
+  "summary": "Realistic sound propagation is essential for immersion in a virtual scene, yet physically accurate wave-based simulations remain computationally prohibitive for real-time applications. Wave coding methods address this limitation by precomputing and compressing impulse responses of a given scene into a set of scalar acoustic parameters, which can reach unmanageable sizes in large environments with many source-receiver pairs. We introduce Reciprocal Latent Fields (RLF), a memory-efficient framework for encoding and predicting these acoustic parameters. The RLF framework employs a volumetric grid of trainable latent embeddings decoded with a symmetric function, ensuring acoustic reciprocity. We study a variety of decoders and show that leveraging Riemannian metric learning leads to a better reproduction of acoustic phenomena in complex scenes. Experimental validation demonstrates that RLF maintains replication quality while reducing the memory footprint by several orders of magnitude. Furthermore, a MUSHRA-like subjective listening test indicates that sound rendered via RLF is perceptually indistinguishable from ground-truth simulations.",
+  "published": "2026-02-06T18:31:11Z",
+  "link": "https://arxiv.org/abs/2602.06937v1",
+  "pdf": "https://arxiv.org/pdf/2602.06937v1.pdf",
+  "category": "cs.SD, cs.LG, eess.AS",
+  "fetched_at": "2026-03-10T22:27:42.449360"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.07651v1",
+  "title": "Cosmology with one galaxy: An analytic formula relating $Ω_{\\rm m}$ with galaxy properties",
+  "authors": "Natalí S. M. de Santi",
+  "summary": "Standard cosmological analyses typically treat galaxy formation and cosmological parameter inference as decoupled problems, relying on population-level statistics such as clustering, lensing, or halo abundances. However, classical studies of baryon fractions in massive galaxy clusters have long suggested that gravitationally bound systems may retain cosmological information through their baryonic content. Building on this insight, we present the first analytic and physically interpretable cosmological tracer that links the matter density parameter, $Ω_m$, directly to intrinsic galaxy-scale observables, demonstrating that cosmological information can be extracted from individual galaxies. Using symbolic regression applied to state-of-the-art hydrodynamical simulations from the CAMELS project, we identify a compact functional form that robustly recovers $Ω_m$ across multiple simulation suites (IllustrisTNG, ASTRID, SIMBA, and Swift-EAGLE), requiring only modest recalibration of a small number of coefficients. The resulting expression admits a transparent physical interpretation in terms of baryonic retention and enrichment efficiency regulated by gravitational potential depth, providing a clear explanation for why $Ω_m$ is locally encoded in galaxy properties. Our work establishes a direct, interpretable bridge between small-scale galaxy physics and large-scale cosmology, opening a complementary pathway to cosmological inference that bypasses traditional clustering-based statistics and enables new synergies between galaxy formation theory and precision cosmology.",
+  "published": "2026-02-07T18:23:07Z",
+  "link": "https://arxiv.org/abs/2602.07651v1",
+  "pdf": "https://arxiv.org/pdf/2602.07651v1.pdf",
+  "category": "astro-ph.CO, astro-ph.GA",
+  "fetched_at": "2026-03-10T22:27:43.908350"
+}

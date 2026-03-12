@@ -1,0 +1,11 @@
+{
+  "id": "2602.16323v1",
+  "title": "Wearable AR for Restorative Breaks: How Interactive Narrative Experiences Support Relaxation for Young Adults",
+  "authors": "Ling-Ping Yuan",
+  "summary": "Young adults often take breaks from screen-intensive work by consuming digital content on mobile phones, which undermines rest through visual fatigue and inactivity. We introduce a design framework that embeds light break activities into media content on AR smart glasses, balancing engagement and recovery. The framework employs three strategies: (1) seamlessly guiding users by embedding activity cues aligned with media elements; (2) transitioning to audio-centric formats to reduce visual load while sustaining immersion; and (3) structuring sessions with \"rise-peak-closure\" pacing for smooth transitions. In a within-subjects study (N = 16) comparing passive viewing, reminder-based breaks, and non-narrative activities, InteractiveBreak instantiated from our framework seamlessly guided activities, sustained engagement, and enhanced break quality. These findings demonstrate wearable AR's potential to support restorative relaxation by transforming breaks into engaging and meaningful experiences.",
+  "published": "2026-02-18T10:02:45Z",
+  "link": "https://arxiv.org/abs/2602.16323v1",
+  "pdf": "https://arxiv.org/pdf/2602.16323v1.pdf",
+  "category": "cs.HC",
+  "fetched_at": "2026-03-10T22:28:01.716013"
+}

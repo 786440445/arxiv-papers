@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.17655v2",
+  "title": "Textless and Non-Parallel Speech-to-Speech Emotion Style Transfer",
+  "authors": "Soumya Dutta, Avni Jain, Sriram Ganapathy",
+  "summary": "arXiv:2505.17655v2 Announce Type: replace-cross \nAbstract: Given a pair of source and reference speech recordings, speech-to-speech (S2S) emotion style transfer involves the generation of an output speech that mimics the emotion characteristics of the reference while preserving the content and speaker attributes of the source. In this paper, we propose a speech-to-speech zero-shot emotion style transfer framework, termed S2S Zero-shot Emotion Style Transfer (S2S-ZEST), that enables the transfer of emotional attributes from the reference to the source while retaining the speaker identity and speech content. The S2S-ZEST framework consists of an analysis-synthesis pipeline in which the analysis module extracts semantic tokens, speaker representations, and emotion embeddings from speech. Using these representations, a pitch contour estimator and a duration predictor are learned. Further, a synthesis module is designed to generate speech based on the input representations and the derived factors. The analysis-synthesis pipeline is trained using an auto-encoding objective to enable efficient resynthesis during inference. For S2S emotion style transfer, the emotion embedding extracted from the reference speech along with the remaining representations from the source speech are used in the synthesis module to generate the style-transferred speech. In our experiments, we evaluate the converted speech on content and speaker preservation (with respect to the source) as well as on the effectiveness of the emotion style transfer (with respect to the reference). The proposed framework demonstrates improved emotion style transfer performance over prior methods in a textless and non-parallel setting. We also illustrate the application of the proposed work for data augmentation in emotion recognition tasks.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.17655",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.17655v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195636"
+}

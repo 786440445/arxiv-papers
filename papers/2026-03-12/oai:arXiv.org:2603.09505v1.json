@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09505v1",
+  "title": "End-to-End Direction-Aware Keyword Spotting with Spatial Priors in Noisy Environments",
+  "authors": "Rui Wang, Zhifei Zhang, Yu Gao, Xiaofeng Mou, Yi Xu",
+  "summary": "arXiv:2603.09505v1 Announce Type: new \nAbstract: Keyword spotting (KWS) is crucial for many speech-driven applications, but robust KWS in noisy environments remains challenging. Conventional systems often rely on single-channel inputs and a cascaded pipeline separating front-end enhancement from KWS. This precludes joint optimization, inherently limiting performance. We present an end-to-end multi-channel KWS framework that exploits spatial cues to improve noise robustness. A spatial encoder learns inter-channel features, while a spatial embedding injects directional priors; the fused representation is processed by a streaming backbone. Experiments in simulated noisy conditions across multiple signal-to-noise ratios (SNRs) show that spatial modeling and directional priors each yield clear gains over baselines, with their combination achieving the best results. These findings validate end-to-end multi-channel spatial modeling, indicating strong potential for the target-speaker-aware detection in complex acoustic scenarios.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09505",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09505v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492309"
+}

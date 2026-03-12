@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.15484v2",
+  "title": "Bottleneck Transformer-Based Approach for Improved Automatic STOI Score Prediction",
+  "authors": "Amartyaveer, Murali Kadambi, Chandra Mohan Sharma, Anupam Mondal, Prasanta Kumar Ghosh",
+  "summary": "arXiv:2602.15484v2 Announce Type: replace \nAbstract: In this study, we have presented a novel approach to predict the Short-Time Objective Intelligibility (STOI) metric using a bottleneck transformer architecture. Traditional methods for calculating STOI typically requires clean reference speech, which limits their applicability in the real world. To address this, numerous deep learning-based nonintrusive speech assessment models have garnered significant interest. Many studies have achieved commendable performance, but there is room for further improvement.\n  We propose the use of bottleneck transformer, incorporating convolution blocks for learning frame-level features and a multi-head self-attention (MHSA) layer to aggregate the information. These components enable the transformer to focus on the key aspects of the input data. Our model has shown higher correlation and lower mean squared error for both seen and unseen scenarios compared to the state-of-the-art model using self-supervised learning (SSL) and spectral features as inputs.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.15484",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.15484v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492407"
+}

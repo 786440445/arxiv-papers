@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2501.13338v2",
+  "title": "CuriousBot: Interactive Mobile Exploration via Actionable 3D Relational Object Graph",
+  "authors": "Yixuan Wang, Leonor Fermoselle, Tarik Kelestemur, Jiuguang Wang, Yunzhu Li",
+  "summary": "arXiv:2501.13338v2 Announce Type: replace-cross \nAbstract: Mobile exploration is a longstanding challenge in robotics, yet current methods primarily focus on active perception instead of active interaction, limiting the robot's ability to interact with and fully explore its environment. Existing robotic exploration approaches via active interaction are often restricted to tabletop scenes, neglecting the unique challenges posed by mobile exploration, such as large exploration spaces, complex action spaces, and diverse object relations. In this work, we introduce a 3D relational object graph that encodes diverse object relations and enables exploration through active interaction. We develop a system based on this representation and evaluate it across diverse scenes. Our qualitative and quantitative results demonstrate the system's effectiveness and generalization across object instances, relations, and scenes, outperforming methods solely relying on vision-language models (VLMs).",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2501.13338",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2501.13338v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265492"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.10086v1",
+  "title": "Canonical strong coupling spin wave expansion of Kondo lattice magnets. II. Itinerant ferromagnets and topological magnon bands",
+  "authors": "J. W. F. Venderbos",
+  "summary": "In this paper we apply the canonical spin wave theory developed for itinerant Kondo lattice magnets in the strong coupling regime to Kondo ferromagnets, and address two general questions pertaining to their magnetic excitations. First, we compute corrections to the strong coupling (i.e., double-exchange) spin wave dispersion of itinerant ferromagnets. We show that the spin wave dispersion beyond the strong coupling limit can be mapped to the spin wave dispersion of a Heisenberg ferromagnet with farther neighbor exchange couplings, and discuss how this affects instabilities towards antiferromagnetism. Second, we examine the effect of including electronic spin-orbit coupling in the spin wave theory of Kondo ferromagnets. Including spin-orbit coupling is natural and straightforward in the formulation of the canonical spin wave expansion. Our key result is to demonstrate that the linear spin wave Hamiltonian of the itinerant Kondo ferromagnet can be mapped to the spin wave Hamiltonian of a Heisenberg ferromagnet with easy-axis Ising anisotropy and antisymmetric Dzyaloshinskii-Moriya exchange interaction. We show that in the case of the Kane-Mele honeycomb lattice Kondo ferromagnet this leads to topological magnon bands, and discuss the implications of this result for itinerant ferromagnets more broadly.",
+  "published": "2026-02-10T18:51:43Z",
+  "link": "https://arxiv.org/abs/2602.10086v1",
+  "pdf": "https://arxiv.org/pdf/2602.10086v1.pdf",
+  "category": "cond-mat.str-el",
+  "fetched_at": "2026-03-10T22:27:50.023648"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.17966v1",
+  "title": "Dynamic topological exciton-polaritons enabling ultrafast logic operations",
+  "authors": "Rui Su",
+  "summary": "Topological active materials have emerged as powerful paradigm bridging the discovery of exotic topological phases of matter with the development of functional topological devices. The recent extension of these material systems into dynamic regime, where topological properties can be actively manipulated at ultrafast timescales, promises unprecedented control over topological states and their functionalities. However, translating the static topological lasing signals into high-performance logic functions remain highly challenging, which imposes a far more stringent set of materials attributes. Here, leveraging the strong nonlinearity and pronounced spectral isolation of perovskite exciton-polaritons embedded in a Dirac vortex microcavity, we experimentally demonstrate the dynamic topological Majorana-like state polariton condensation with its ultrafast logic operations at room temperature. By actively coordinating pump and control beams in both spectral and temporal domain, we dynamically steer the topological polariton condensation process and demonstrate AND and NOT logic operations, achieving record extinction ratio (~20 dB), extremely low control fluence (~0.2 nJ/cm2) and sub-picosecond response time (~500 fs). Our results expand the frontier of dynamic topology and establish a novel pathway towards robust, ultrafast, and reconfigurable on-chip polaritonic logic circuits.",
+  "published": "2026-02-20T03:50:14Z",
+  "link": "https://arxiv.org/abs/2602.17966v1",
+  "pdf": "https://arxiv.org/pdf/2602.17966v1.pdf",
+  "category": "physics.optics, cond-mat.mtrl-sci",
+  "fetched_at": "2026-03-10T22:28:04.394580"
+}

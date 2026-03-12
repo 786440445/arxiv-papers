@@ -1,0 +1,11 @@
+{
+  "id": "2602.07835v2",
+  "title": "VFace: A Training-Free Approach for Diffusion-Based Video Face Swapping",
+  "authors": "Muhammad Haris Khan",
+  "summary": "We present a training-free, plug-and-play method, namely VFace, for high-quality face swapping in videos. It can be seamlessly integrated with image-based face swapping approaches built on diffusion models. First, we introduce a Frequency Spectrum Attention Interpolation technique to facilitate generation and intact key identity characteristics. Second, we achieve Target Structure Guidance via plug-and-play attention injection to better align the structural features from the target frame to the generation. Third, we present a Flow-Guided Attention Temporal Smoothening mechanism that enforces spatiotemporal coherence without modifying the underlying diffusion model to reduce temporal inconsistencies typically encountered in frame-wise generation. Our method requires no additional training or video-specific fine-tuning. Extensive experiments show that our method significantly enhances temporal consistency and visual fidelity, offering a practical and modular solution for video-based face swapping. Our code is available at https://github.com/Sanoojan/VFace.",
+  "published": "2026-02-08T06:13:19Z",
+  "link": "https://arxiv.org/abs/2602.07835v2",
+  "pdf": "https://arxiv.org/pdf/2602.07835v2.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:46.467546"
+}

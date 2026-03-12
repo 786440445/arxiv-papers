@@ -1,0 +1,11 @@
+{
+  "id": "2602.17036v1",
+  "title": "LiveGraph: Active-Structure Neural Re-ranking for Exercise Recommendation",
+  "authors": "Simon Fong",
+  "summary": "The continuous expansion of digital learning environments has catalyzed the demand for intelligent systems capable of providing personalized educational content. While current exercise recommendation frameworks have made significant strides, they frequently encounter obstacles regarding the long-tailed distribution of student engagement and the failure to adapt to idiosyncratic learning trajectories. We present LiveGraph, a novel active-structure neural re-ranking framework designed to overcome these limitations. Our approach utilizes a graph-based representation enhancement strategy to bridge the information gap between active and inactive students while integrating a dynamic re-ranking mechanism to foster content diversity. By prioritizing the structural relationships within learning histories, the proposed model effectively balances recommendation precision with pedagogical variety. Comprehensive experimental evaluations conducted on multiple real-world datasets demonstrate that LiveGraph surpasses contemporary baselines in both predictive accuracy and the breadth of exercise diversity.",
+  "published": "2026-02-19T03:14:43Z",
+  "link": "https://arxiv.org/abs/2602.17036v1",
+  "pdf": "https://arxiv.org/pdf/2602.17036v1.pdf",
+  "category": "cs.IR, cs.LG",
+  "fetched_at": "2026-03-10T22:28:03.149556"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.17862v2",
+  "title": "Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities",
+  "authors": "Ziwei Zhou, Rui Wang, Zuxuan Wu, Yu-Gang Jiang",
+  "summary": "arXiv:2505.17862v2 Announce Type: replace \nAbstract: Recent Multimodal Large Language Models (MLLMs) achieve promising performance on visual and audio benchmarks independently. However, the ability of these models to process cross-modal information synchronously remains largely unexplored. We introduce Daily-Omni, a multiple-choice Audio-Visual QA benchmark featuring 684 real-world videos and 1,197 questions spanning 6 task families that explicitly require cross-modal temporal reasoning. To support scalable benchmark construction, we develop a semi-automatic pipeline for annotation, cross-modal consistency refinement, temporal alignment elicitation, and text-only leakage filtering, followed by human verification. We further provide a diagnostic evaluation suite and extensively evaluate 24 foundation models under 37 model--modality settings (Audio+Video / Audio-only / Video-only / Text-only). Finally, we include a training-free modular diagnostic baseline that composes off-the-shelf unimodal models to serve as a diagnostic baseline and to illustrate how explicit temporal alignment signals affect performance. Results indicate that many end-to-end MLLMs still struggle on alignment-critical questions, suggesting that robust cross-modal temporal alignment remains an important open challenge.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.17862",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.17862v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.793817"
+}

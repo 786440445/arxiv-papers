@@ -1,0 +1,11 @@
+{
+  "id": "2602.01141v1",
+  "title": "Wigner Function Shapelets I : formalism",
+  "authors": "Shun Arai",
+  "summary": "We extend shapelets for the analysis of galaxy images to be available in a phase space, introducing \\textit{Wigner Function Shapelets (WFS)}. Whereas conventional shapelets expand images separately in configuration or Fourier space using Hermite-Gaussian or Laguerre-Gaussian modes, WFS represents images directly in the four-dimensional phase space with symplectic group $\\mathrm{Sp}(4,\\mathbb{R})$, which is quantised by a phase-space cell $2π\\lambdabar$ that determines a resolution limit of a telescope. WFS consists of a bilinear form of the cross-Wigner function of the Laguerre-Gaussian modes as an orthogonal and complete basis for the Wigner function of an image, carrying out $\\mathrm{SU}(2)$ irreducible representations of the phase space with the Hopf tori. We introduce a scalar function $\\mathcal{W}_{k\\ell} (Q_0,Q_2)$ from the $\\mathrm{U}(1)\\times \\mathrm{U}(1)$ - covariant tori to a two-dimensional space of constants of motion $(Q_0,Q_2)$ -- the harmonic energy and axial angular momentum -- thereby yielding a natural phase-space ``band structure'', given a pair of winding number $(k,\\ell) \\in \\mathbb{Z}^2$. %\nWFS leverage key properties of the Wigner function for image analysis: (i) it encodes full information of an image in a symmetry-preserving way; (ii) its trasport equation naturally involves with a Liouville equation at $\\lambdabar \\rightarrow 0$; (iii) it admits positive/negative oscillatory patterns on $(Q_0,Q_2)$ plane that can be sensitive spatial coherent structure of galaxy morphology and cosmological imprints; and (iv) systematics and noise can be manipulated as a quantum channel operation. This paper aims to bring all the formulae related to the Wigner function in the context of astrophysics and cosmology, formally organising in both terminologies of astronomy and of quantum information theory.",
+  "published": "2026-02-01T10:29:54Z",
+  "link": "https://arxiv.org/abs/2602.01141v1",
+  "pdf": "https://arxiv.org/pdf/2602.01141v1.pdf",
+  "category": "astro-ph.CO, astro-ph.GA, quant-ph",
+  "fetched_at": "2026-03-10T22:27:32.802611"
+}

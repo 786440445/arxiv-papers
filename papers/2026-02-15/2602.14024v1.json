@@ -1,0 +1,11 @@
+{
+  "id": "2602.14024v1",
+  "title": "EIDOS: Latent-Space Predictive Learning for Time Series Foundation Models",
+  "authors": "Ming Jin",
+  "summary": "Most time series foundation models are pretrained by directly predicting future observations, which often yields weakly structured latent representations that capture surface noise rather than coherent and predictable temporal dynamics. In this work, we introduce EIDOS, a foundation model family that shifts pretraining from future value prediction to latent-space predictive learning. We train a causal Transformer to predict the evolution of latent representations, encouraging the emergence of structured and temporally coherent latent states. To ensure stable targets for latent-space learning, we design a lightweight aggregation branch to construct target representations. EIDOS is optimized via a joint objective that integrates latent-space alignment, observational grounding to anchor representations to the input signal, and direct forecasting supervision. On the GIFT-Eval benchmark, EIDOS mitigates structural fragmentation in the representation space and achieves state-of-the-art performance. These results demonstrate that constraining models to learn predictable latent dynamics is a principled step toward more robust and reliable time series foundation models.",
+  "published": "2026-02-15T07:07:20Z",
+  "link": "https://arxiv.org/abs/2602.14024v1",
+  "pdf": "https://arxiv.org/pdf/2602.14024v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:56.677471"
+}

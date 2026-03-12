@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08921v1",
+  "title": "Vision-Language Models Encode Clinical Guidelines for Concept-Based Medical Reasoning",
+  "authors": "Mohamed Harmanani, Bining Long, Zhuoxin Guo, Paul F. R. Wilson, Amirhossein Sabour, Minh Nguyen Nhat To, Gabor Fichtinger, Purang Abolmaesumi, Parvin Mousavi",
+  "summary": "arXiv:2603.08921v1 Announce Type: cross \nAbstract: Concept Bottleneck Models (CBMs) are a prominent framework for interpretable AI that map learned visual features to a set of meaningful concepts for task-specific downstream predictions. Their sequential structure enhances transparency by connecting model predictions to the underlying concepts that support them. In medical imaging, where transparency is essential, CBMs offer an appealing foundation for explainable model design. However, discrete concept representations often overlook broader clinical context such as diagnostic guidelines and expert heuristics, reducing reliability in complex cases. We propose MedCBR, a concept-based reasoning framework that integrates clinical guidelines with vision-language and reasoning models. Labeled clinical descriptors are transformed into guideline-conformant text, and a concept-based model is trained with a multitask objective combining multimodal contrastive alignment, concept supervision, and diagnostic classification to jointly ground image features, concepts, and pathology. A reasoning model then converts these predictions into structured clinical narratives that explain the diagnosis, emulating expert reasoning based on established guidelines. MedCBR achieves superior diagnostic and concept-level performance, with AUROCs of 94.2% on ultrasound and 84.0% on mammography. Further experiments on non-medical datasets achieve 86.1% accuracy. Our framework enhances interpretability and forms an end-to-end bridge from medical image analysis to decision-making.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08921",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08921v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264934"
+}

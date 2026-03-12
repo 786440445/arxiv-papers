@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08936v1",
+  "title": "VoxEmo: Benchmarking Speech Emotion Recognition with Speech LLMs",
+  "authors": "Hezhao Zhang, Huang-Cheng Chou, Shrikanth Narayanan, Thomas Hain",
+  "summary": "arXiv:2603.08936v1 Announce Type: new \nAbstract: Speech Large Language Models (LLMs) show great promise for speech emotion recognition (SER) via generative interfaces. However, shifting from closed-set classification to open text generation introduces zero-shot stochasticity, making evaluation highly sensitive to prompts. Additionally, conventional speech LLMs benchmarks overlook the inherent ambiguity of human emotion. Hence, we present VoxEmo, a comprehensive SER benchmark encompassing 35 emotion corpora across 15 languages for Speech LLMs. VoxEmo provides a standardized toolkit featuring varying prompt complexities, from direct classification to paralinguistic reasoning. To reflect real-world perception/application, we introduce a distribution-aware soft-label protocol and a prompt-ensemble strategy that emulates annotator disagreement. Experiments reveal that while zero-shot speech LLMs trail supervised baselines in hard-label accuracy, they uniquely align with human subjective distributions.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08936",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08936v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195547"
+}

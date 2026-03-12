@@ -1,0 +1,11 @@
+{
+  "id": "2602.02912v1",
+  "title": "Notes on the Reward Representation of Posterior Updates",
+  "authors": "Pedro A. Ortega",
+  "summary": "Many ideas in modern control and reinforcement learning treat decision-making as inference: start from a baseline distribution and update it when a signal arrives. We ask when this can be made literal rather than metaphorical. We study the special case where a KL-regularized soft update is exactly a Bayesian posterior inside a single fixed probabilistic model, so the update variable is a genuine channel through which information is transmitted. In this regime, behavioral change is driven only by evidence carried by that channel: the update must be explainable as an evidence reweighing of the baseline. This yields a sharp identification result: posterior updates determine the relative, context-dependent incentive signal that shifts behavior, but they do not uniquely determine absolute rewards, which remain ambiguous up to context-specific baselines. Requiring one reusable continuation value across different update directions adds a further coherence constraint linking the reward descriptions associated with different conditioning orders.",
+  "published": "2026-02-02T23:37:39Z",
+  "link": "https://arxiv.org/abs/2602.02912v1",
+  "pdf": "https://arxiv.org/pdf/2602.02912v1.pdf",
+  "category": "cs.LG, cs.AI, stat.ML",
+  "fetched_at": "2026-03-10T22:27:34.175017"
+}

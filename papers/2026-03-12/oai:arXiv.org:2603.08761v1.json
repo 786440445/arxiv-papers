@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08761v1",
+  "title": "On the Formal Limits of Alignment Verification",
+  "authors": "Ayushi Agarwal",
+  "summary": "arXiv:2603.08761v1 Announce Type: cross \nAbstract: The goal of AI alignment is to ensure that an AI system reliably pursues intended objectives. A foundational question for AI safety is whether alignment can be formally certified: whether there exists a procedure that can guarantee that a given system satisfies an alignment specification. This paper studies the nature of alignment verification. We prove that no verification procedure can simultaneously satisfy three properties: soundness (no misaligned system is certified), generality (verification holds over the full input domain), and tractability (verification runs in polynomial time). Each pair of properties is achievable, but all three cannot hold simultaneously. Relaxing any one property restores the corresponding possibility, indicating that practical bounded or probabilistic assurance remains viable. The result follows from three independent barriers: the computational complexity of full-domain neural network verification, the non-identifiability of internal goal structure from behavioral observation, and the limits of finite evidence for properties defined over infinite domains. The trilemma establishes the limits of alignment certification and characterizes the regimes in which meaningful guarantees remain possible.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08761",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08761v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264906"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.09752v1",
+  "title": "Exceptional nodal rings emerging in spinful Rice-Mele chains",
+  "authors": "Z. Song",
+  "summary": "The Weyl exceptional nodal lines usually occur in 3D topological semimetals, but also emerge in the parameter space of 1D systems. In this work, we study the impact of dissipation on the nodal ring in a 3D topological semimetal. We find that the energy spectrum becomes fully complex in the presence of dissipation, and the original nodal ring is split into two exceptional rings. We introduce a vortex field in the momentum space, which is generated from the spectrum, to characterize the topology of the exceptional rings. This provides a clear physical picture of the topological structure. The two exceptional rings act as two vortex filaments of a free vortex flow with opposite circulations. In this context, the 3D topological semimetal is the boundary separating two quantum phases identified by two configurations of exceptional rings. We also propose a 1D model that has the same topological feature in the parameter space. It provides a simple way to measure the topological invariant in a low-dimensional system. Numerical simulations indicate that the topological invariant is robust under the random perturbations of the system parameters.",
+  "published": "2026-02-10T13:03:29Z",
+  "link": "https://arxiv.org/abs/2602.09752v1",
+  "pdf": "https://arxiv.org/pdf/2602.09752v1.pdf",
+  "category": "cond-mat.str-el",
+  "fetched_at": "2026-03-10T22:27:50.025556"
+}

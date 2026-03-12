@@ -1,0 +1,11 @@
+{
+  "id": "2602.01055v1",
+  "title": "Baseline Method of the Foundation Model Challenge for Ultrasound Image Analysis",
+  "authors": "Jieyun Bai",
+  "summary": "Ultrasound (US) imaging exhibits substantial heterogeneity across anatomical structures and acquisition protocols, posing significant challenges to the development of generalizable analysis models. Most existing methods are task-specific, limiting their suitability as clinically deployable foundation models. To address this limitation, the Foundation Model Challenge for Ultrasound Image Analysis (FM\\_UIA~2026) introduces a large-scale multi-task benchmark comprising 27 subtasks across segmentation, classification, detection, and regression. In this paper, we present the official baseline for FM\\_UIA~2026 based on a unified Multi-Head Multi-Task Learning (MH-MTL) framework that supports all tasks within a single shared network. The model employs an ImageNet-pretrained EfficientNet--B4 backbone for robust feature extraction, combined with a Feature Pyramid Network (FPN) to capture multi-scale contextual information. A task-specific routing strategy enables global tasks to leverage high-level semantic features, while dense prediction tasks exploit spatially detailed FPN representations. Training incorporates a composite loss with task-adaptive learning rate scaling and a cosine annealing schedule. Validation results demonstrate the feasibility and robustness of this unified design, establishing a strong and extensible baseline for ultrasound foundation model research. The code and dataset are publicly available at \\href{https://github.com/lijiake2408/Foundation-Model-Challenge-for-Ultrasound-Image-Analysis}{GitHub}.",
+  "published": "2026-02-01T06:52:11Z",
+  "link": "https://arxiv.org/abs/2602.01055v1",
+  "pdf": "https://arxiv.org/pdf/2602.01055v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:32.801243"
+}

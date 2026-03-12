@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.18811v2",
+  "title": "Mitigating Long-Tail Bias in HOI Detection via Adaptive Diversity Cache",
+  "authors": "Yuqiu Jiang, Xiaozhen Qiao, Yifan Chen, Ye Zheng, Zhe Sun, Xuelong Li",
+  "summary": "arXiv:2511.18811v2 Announce Type: replace-cross \nAbstract: Human-Object Interaction (HOI) detection is a fundamental task in computer vision, empowering machines to comprehend human-object relationships in diverse real-world scenarios. Recent advances in VLMs have significantly improved HOI detection by leveraging rich cross-modal representations. However, most existing VLM-based approaches rely heavily on additional training or prompt tuning, resulting in substantial computational overhead and limited scalability, particularly in long-tailed scenarios where rare interactions are severely underrepresented. In this paper, we propose the Adaptive Diversity Cache (ADC) module, a novel training-free and plug-and-play mechanism designed to mitigate long-tail bias in HOI detection. ADC constructs class-specific caches that accumulate high-confidence and diverse feature representations during inference. The method incorporates adaptive capacity allocation favoring rare categories and dynamic feature augmentation to enable robust prediction calibration without requiring additional training or fine-tuning. Extensive experiments on HICO-DET and V-COCO datasets show that ADC consistently improves existing HOI detectors, particularly enhancing rare category detection while preserving overall performance. These findings confirm the effectiveness of ADC as a training-free, plug-and-play solution for long-tail bias mitigation.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.18811",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.18811v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.794111"
+}

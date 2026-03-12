@@ -1,0 +1,11 @@
+{
+  "id": "2602.02838v1",
+  "title": "Beyond Content: Behavioral Policies Reveal Actors in Information Operations",
+  "authors": "Marian-Andrei Rizoiu",
+  "summary": "The detection of online influence operations -- coordinated campaigns by malicious actors to spread narratives -- has traditionally depended on content analysis or network features. These approaches are increasingly brittle as generative models produce convincing text, platforms restrict access to behavioral data, and actors migrate to less-regulated spaces. We introduce a platform-agnostic framework that identifies malicious actors from their behavioral policies by modeling user activity as sequential decision processes. We apply this approach to 12,064 Reddit users, including 99 accounts linked to the Russian Internet Research Agency in Reddit's 2017 transparency report, analyzing over 38 million activity steps from 2015-2018. Activity-based representations, which model how users act rather than what they post, consistently outperform content models in detecting malicious accounts. When distinguishing trolls -- users engaged in coordinated manipulation -- from ordinary users, policy-based classifiers achieve a median macro-$F_1$ of 94.9%, compared to 91.2% for text embeddings. Policy features also enable earlier detection from short traces and degrade more gracefully under evasion strategies or data corruption. These findings show that behavioral dynamics encode stable, discriminative signals of manipulation and point to resilient, cross-platform detection strategies in the era of synthetic content and limited data access.",
+  "published": "2026-02-02T21:39:21Z",
+  "link": "https://arxiv.org/abs/2602.02838v1",
+  "pdf": "https://arxiv.org/pdf/2602.02838v1.pdf",
+  "category": "cs.SI, cs.LG",
+  "fetched_at": "2026-03-10T22:27:34.175361"
+}

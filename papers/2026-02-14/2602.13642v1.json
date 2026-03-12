@@ -1,0 +1,11 @@
+{
+  "id": "2602.13642v1",
+  "title": "Metric Dimension of Difference Graph of Finite Groups",
+  "authors": "Jitender Kumar",
+  "summary": "The Difference graph $\\mathcal{D}(G)$ of a finite group $G$ is the difference of the enhanced power graph $\\mathcal{P}_{E}(G)$ and the power graph $\\mathcal{P}(G)$ with all the isolated vertices removed. In this paper, we characterize the vertex set of the difference graph of finite nilpotent groups and obtain its cardinality. Consequently, we obtain the metric dimension of the difference graph of finite nilpotent groups. Moreover, this paper determines the metric dimension of the difference graphs of certain non-nilpotent groups, namely: dihedral groups, the generalized quaternion groups, and the semi-dihedral groups.",
+  "published": "2026-02-14T07:16:14Z",
+  "link": "https://arxiv.org/abs/2602.13642v1",
+  "pdf": "https://arxiv.org/pdf/2602.13642v1.pdf",
+  "category": "math.GR, math.CO",
+  "fetched_at": "2026-03-10T22:27:55.305940"
+}

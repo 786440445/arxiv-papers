@@ -1,0 +1,11 @@
+{
+  "id": "2602.09934v1",
+  "title": "VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization",
+  "authors": "Weidi Xie",
+  "summary": "Multimodal Large Language Models (MLLMs) have recently achieved remarkable success in visual-language understanding, demonstrating superior high-level semantic alignment within their vision encoders. An important question thus arises: Can these encoders serve as versatile vision backbones, capable of reliably performing classic vision-centric tasks as well? To address the question, we make the following contributions: (i) we identify that the vision encoders within MLLMs exhibit deficiencies in their dense feature representations, as evidenced by their suboptimal performance on dense prediction tasks (e.g., semantic segmentation, depth estimation); (ii) we propose VersaViT, a well-rounded vision transformer that instantiates a novel multi-task framework for collaborative post-training. This framework facilitates the optimization of the vision backbone via lightweight task heads with multi-granularity supervision; (iii) extensive experiments across various downstream tasks demonstrate the effectiveness of our method, yielding a versatile vision backbone suited for both language-mediated reasoning and pixel-level understanding.",
+  "published": "2026-02-10T16:08:19Z",
+  "link": "https://arxiv.org/abs/2602.09934v1",
+  "pdf": "https://arxiv.org/pdf/2602.09934v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:50.024122"
+}

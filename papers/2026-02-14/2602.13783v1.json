@@ -1,0 +1,11 @@
+{
+  "id": "2602.13783v1",
+  "title": "MEMTS: Internalizing Domain Knowledge via Parameterized Memory for Retrieval-Free Domain Adaptation of Time Series Foundation Models",
+  "authors": "Jilin Hu",
+  "summary": "While Time Series Foundation Models (TSFMs) have demonstrated exceptional performance in generalized forecasting, their performance often degrades significantly when deployed in real-world vertical domains characterized by temporal distribution shifts and domain-specific periodic structures. Current solutions are primarily constrained by two paradigms: Domain-Adaptive Pretraining (DAPT), which improves short-term domain fitting but frequently disrupts previously learned global temporal patterns due to catastrophic forgetting; and Retrieval-Augmented Generation (RAG), which incorporates external knowledge but introduces substantial retrieval overhead. This creates a severe scalability bottleneck that fails to meet the high-efficiency requirements of real-time stream processing. To break this impasse, we propose Memory for Time Series (MEMTS), a lightweight and plug-and-play method for retrieval-free domain adaptation in time series forecasting. The key component of MEMTS is a Knowledge Persistence Module (KPM), which internalizes domain-specific temporal dynamics, such as recurring seasonal patterns and trends into a compact set of learnable latent prototypes. In doing so, it transforms fragmented historical observations into continuous, parameterized knowledge representations. This paradigm shift enables MEMTS to achieve accurate domain adaptation with constant-time inference and near-zero latency, while effectively mitigating catastrophic forgetting of general temporal patterns, all without requiring any architectural modifications to the frozen TSFM backbone. Extensive experiments on multiple datasets demonstrate the SOTA performance of MEMTS.",
+  "published": "2026-02-14T14:00:06Z",
+  "link": "https://arxiv.org/abs/2602.13783v1",
+  "pdf": "https://arxiv.org/pdf/2602.13783v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:55.307724"
+}

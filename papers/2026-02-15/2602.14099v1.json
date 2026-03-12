@@ -1,0 +1,11 @@
+{
+  "id": "2602.14099v1",
+  "title": "SemanticFeels: Semantic Labeling during In-Hand Manipulation",
+  "authors": "Roberto Calandra",
+  "summary": "As robots become increasingly integrated into everyday tasks, their ability to perceive both the shape and properties of objects during in-hand manipulation becomes critical for adaptive and intelligent behavior. We present SemanticFeels, an extension of the NeuralFeels framework that integrates semantic labeling with neural implicit shape representation, from vision and touch. To illustrate its application, we focus on material classification: high-resolution Digit tactile readings are processed by a fine-tuned EfficientNet-B0 convolutional neural network (CNN) to generate local material predictions, which are then embedded into an augmented signed distance field (SDF) network that jointly predicts geometry and continuous material regions. Experimental results show that the system achieves a high correspondence between predicted and actual materials on both single- and multi-material objects, with an average matching accuracy of 79.87% across multiple manipulation trials on a multi-material object.",
+  "published": "2026-02-15T11:22:05Z",
+  "link": "https://arxiv.org/abs/2602.14099v1",
+  "pdf": "https://arxiv.org/pdf/2602.14099v1.pdf",
+  "category": "cs.RO, cs.AI, cs.CV",
+  "fetched_at": "2026-03-10T22:27:56.677035"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.17389v1",
+  "title": "Geometric and topological constraints on oral seal formation during infant breastfeeding",
+  "authors": "Arturo Tozzi",
+  "summary": "Breastfeeding efficiency relies on coordinated tongue motion, sustained tissue contact and maintenance of an effective intraoral seal. Current assessments of seal formation mainly use local kinematic descriptors or pressure recordings, which do not capture the global structural continuity of the sealing region. We introduce a systolic geometry based approach in which each sagittal ultrasound frame is modeled as a two dimensional deformable domain bounded by tongue, palate and nipple contours. Global seal continuity is formalized through the shortest closed curve that cannot be contracted to a point because of the overall geometry of the domain. The nipple defines a central region that must be circumferentially enclosed by a contact band to maintain suction. Within this band, closed curves encircling the nipple exactly once can be identified; the shortest of these curves defines a normalized systolic index representing the tightest admissible sealing loop. Simulations of symmetric thinning, localized discontinuities and cyclic perturbations reveal feasibility boundaries separating seal preserving from seal breaking configurations. Notably, admissible encircling curves may transiently disappear even when overall geometric motion remains smooth. By capturing global circumferential continuity that cannot be inferred from local metrics alone, our approach generates testable hypotheses linking the existence and temporal stability of admissible encircling curves to milk transfer efficiency and vacuum stability. Applied to segmented ultrasound data and integrated with pressure measurements, our systolic approach could provide a quantitative framework for objective assessment of seal integrity and longitudinal monitoring of latch stability.",
+  "published": "2026-02-19T14:13:07Z",
+  "link": "https://arxiv.org/abs/2602.17389v1",
+  "pdf": "https://arxiv.org/pdf/2602.17389v1.pdf",
+  "category": "physics.med-ph, q-bio.OT",
+  "fetched_at": "2026-03-10T22:28:03.149939"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.07863v1",
+  "title": "On representations of the triplet group and some of its extensions",
+  "authors": "Khaled Qazaqzeh",
+  "summary": "In this paper, we study the representations of the triplet group $L_n$, where $n$ is a positive integer, and its extensions to the virtual and welded triplet groups $VL_n$ and $WL_n$, respectively. We first introduce $L_n$, its extensions, and its pure subgroup. We then investigate several representations, proving the irreducibility of the classical Tits representation $Θ: L_n \\to \\mathrm{GL}_{n-1}(\\mathbb{C})$ over the complex field $\\mathbb{C}$ and constructing a new representation $μ: L_n \\to \\mathrm{Aut}(\\mathbb{F}_n)$, where $\\mathbb{F}_n$ is the free group of rank $n$. For the representation $μ$, we determine its matrix form, faithfulness, and irreducibility. We also classify all complex homogeneous $2$-local representations of $L_n$ for $n \\ge 3$ and all non-homogeneous $2$-local representations of $L_3$, establishing connections with the complex specialization of the representation $μ$. Finally, we examine extensions of $L_n$ representations to $VL_n$ and $WL_n$, proving their existence, classifying non-trivial complex homogeneous $2$-local representations, and analyzing their faithfulness and irreducibility. The paper concludes with an open question regarding further extension of representation of $L_n$ to $VL_n$ and $WL_n$.",
+  "published": "2026-02-08T08:24:59Z",
+  "link": "https://arxiv.org/abs/2602.07863v1",
+  "pdf": "https://arxiv.org/pdf/2602.07863v1.pdf",
+  "category": "math.RT, math.GR",
+  "fetched_at": "2026-03-10T22:27:46.466076"
+}

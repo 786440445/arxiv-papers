@@ -1,0 +1,11 @@
+{
+  "id": "2602.15086v1",
+  "title": "M-polynomial Based Mathematical Formulation of the Hyperbolic Sombor Index",
+  "authors": "Shibsankar Das",
+  "summary": "The numerical values extracted from a graph that indicates its topology are called topological indices. A contemporary and efficient method is to compute a graph's topological indices using the graph polynomial that corresponds to it. This method of identifying degree-based topological indices involves the use of the M-polynomial. Very recently, in 2025, the hyperbolic Sombor index (HSO) was proposed and shows its chemical applicability for octane isomers and the structure sensitivity and abruptness for octane, nonane, and decane isomers, respectively. In this work, we establish the closed derivation formula for the above-mentioned index of a graph based on its M-polynomial. Additionally, we use our proposed derivation formula to calculate the hyperbolic Sombor index of a few standard graphs and chemical families. Moreover, we provide the numerical and graphical representations for the M-polynomial and the computed HSO index of the chemical families.",
+  "published": "2026-02-16T13:09:02Z",
+  "link": "https://arxiv.org/abs/2602.15086v1",
+  "pdf": "https://arxiv.org/pdf/2602.15086v1.pdf",
+  "category": "cs.DM",
+  "fetched_at": "2026-03-10T22:27:57.851452"
+}

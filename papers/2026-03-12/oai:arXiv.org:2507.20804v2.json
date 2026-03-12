@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.20804v2",
+  "title": "MMGraphRAG: Bridging Vision and Language with Interpretable Multimodal Knowledge Graphs",
+  "authors": "Xueyao Wan, Hang Yu",
+  "summary": "arXiv:2507.20804v2 Announce Type: replace \nAbstract: Large Language Models (LLMs) often suffer from hallucinations, which Retrieval-Augmented Generation (RAG) and GraphRAG mitigate by incorporating external knowledge and knowledge graphs (KGs). However, GraphRAG remains text-centric due to the difficulty of constructing fine-grained Multimodal KGs (MMKGs). Existing fusion methods, such as shared embeddings or captioning, require task-specific training and fail to preserve visual structural knowledge or cross-modal reasoning paths.\n  To bridge this gap, we propose MMGraphRAG, which integrates visual scene graphs with text KGs via a novel cross-modal fusion approach. It introduces SpecLink, a method leveraging spectral clustering for accurate cross-modal entity linking and path-based retrieval to guide generation. We also release the CMEL dataset, specifically designed for fine-grained multi-entity alignment in complex multimodal scenarios. Evaluations on CMEL, DocBench, and MMLongBench demonstrate that MMGraphRAG achieves state-of-the-art performance, showing robust domain adaptability and superior multimodal information processing capabilities.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2507.20804",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.20804v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.793822"
+}

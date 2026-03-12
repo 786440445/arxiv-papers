@@ -1,0 +1,11 @@
+{
+  "id": "2602.16569v1",
+  "title": "Arc2Morph: Identity-Preserving Facial Morphing with Arc2Face",
+  "authors": "Davide Maltoni",
+  "summary": "Face morphing attacks are widely recognized as one of the most challenging threats to face recognition systems used in electronic identity documents. These attacks exploit a critical vulnerability in passport enrollment procedures adopted by many countries, where the facial image is often acquired without a supervised live capture process. In this paper, we propose a novel face morphing technique based on Arc2Face, an identity-conditioned face foundation model capable of synthesizing photorealistic facial images from compact identity representations. We demonstrate the effectiveness of the proposed approach by comparing the morphing attack potential metric on two large-scale sequestered face morphing attack detection datasets against several state-of-the-art morphing methods, as well as on two novel morphed face datasets derived from FEI and ONOT. Experimental results show that the proposed deep learning-based approach achieves a morphing attack potential comparable to that of landmark-based techniques, which have traditionally been regarded as the most challenging. These findings confirm the ability of the proposed method to effectively preserve and manage identity information during the morph generation process.",
+  "published": "2026-02-18T16:11:11Z",
+  "link": "https://arxiv.org/abs/2602.16569v1",
+  "pdf": "https://arxiv.org/pdf/2602.16569v1.pdf",
+  "category": "cs.CV, cs.CR",
+  "fetched_at": "2026-03-10T22:28:01.714781"
+}

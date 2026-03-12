@@ -1,0 +1,11 @@
+{
+  "id": "2602.08105v1",
+  "title": "Mutual information and task-relevant latent dimensionality",
+  "authors": "Ilya Nemenman",
+  "summary": "Estimating the dimensionality of the latent representation needed for prediction -- the task-relevant dimension -- is a difficult, largely unsolved problem with broad scientific applications. We cast it as an Information Bottleneck question: what embedding bottleneck dimension is sufficient to compress predictor and predicted views while preserving their mutual information (MI). This repurposes neural MI estimators for dimensionality estimation. We show that standard neural estimators with separable/bilinear critics systematically inflate the inferred dimension, and we address this by introducing a hybrid critic that retains an explicit dimensional bottleneck while allowing flexible nonlinear cross-view interactions, thereby preserving the latent geometry. We further propose a one-shot protocol that reads off the effective dimension from a single over-parameterized hybrid model, without sweeping over bottleneck sizes. We validate the approach on synthetic problems with known task-relevant dimension. We extend the approach to intrinsic dimensionality by constructing paired views of a single dataset, enabling comparison with classical geometric dimension estimators. In noisy regimes where those estimators degrade, our approach remains reliable. Finally, we demonstrate the utility of the method on multiple physics datasets.",
+  "published": "2026-02-08T19:58:49Z",
+  "link": "https://arxiv.org/abs/2602.08105v1",
+  "pdf": "https://arxiv.org/pdf/2602.08105v1.pdf",
+  "category": "cs.LG, physics.data-an, stat.ML",
+  "fetched_at": "2026-03-10T22:27:46.467503"
+}

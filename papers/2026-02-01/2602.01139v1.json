@@ -1,0 +1,11 @@
+{
+  "id": "2602.01139v1",
+  "title": "Key Principles of Graph Machine Learning: Representation, Robustness, and Generalization",
+  "authors": "Yassine Abbahaddou",
+  "summary": "Graph Neural Networks (GNNs) have emerged as powerful tools for learning representations from structured data. Despite their growing popularity and success across various applications, GNNs encounter several challenges that limit their performance. in their generalization, robustness to adversarial perturbations, and the effectiveness of their representation learning capabilities. In this dissertation, I investigate these core aspects through three main contributions: (1) developing new representation learning techniques based on Graph Shift Operators (GSOs, aiming for enhanced performance across various contexts and applications, (2) introducing generalization-enhancing methods through graph data augmentation, and (3) developing more robust GNNs by leveraging orthonormalization techniques and noise-based defenses against adversarial attacks. By addressing these challenges, my work provides a more principled understanding of the limitations and potential of GNNs.",
+  "published": "2026-02-01T10:21:06Z",
+  "link": "https://arxiv.org/abs/2602.01139v1",
+  "pdf": "https://arxiv.org/pdf/2602.01139v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:32.802631"
+}

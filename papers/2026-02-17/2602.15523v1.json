@@ -1,0 +1,11 @@
+{
+  "id": "2602.15523v1",
+  "title": "Displacement memory in regular black hole spacetimes",
+  "authors": "Sayan Kar",
+  "summary": "Displacement memory, induced by a wave pulse in a regular black hole spacetime, is studied using geodesic (timelike) separation and geodesic deviation. The presence of the wave pulse in such a black hole is modeled via a function $H(u)$ appearing in a restricted version of a generic Bondi-Sachs type line element. Choosing a sech-squared profile for $H(u)$, we first study (numerically) geodesic separation and geodesic deviation in a flat background. Thereafter, similar investigations are carried out in the presence of the black hole, but in regions far away from the vicinity of the horizon. Our results suggest the presence of a distinct displacement memory effect, which depends on the value of the regularisation parameter $g$ as well as the pulse height. Between different types of regular black holes, one notices parameter-dependent changes in the net displacement memory. Further, a clear difference in the magnitude of displacement memory (at large $u$) in regular and singular black holes is also visible in our numerical results.",
+  "published": "2026-02-17T11:51:27Z",
+  "link": "https://arxiv.org/abs/2602.15523v1",
+  "pdf": "https://arxiv.org/pdf/2602.15523v1.pdf",
+  "category": "gr-qc, hep-th",
+  "fetched_at": "2026-03-10T22:28:00.141550"
+}

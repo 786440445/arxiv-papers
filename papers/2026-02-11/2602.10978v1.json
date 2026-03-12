@@ -1,0 +1,11 @@
+{
+  "id": "2602.10978v1",
+  "title": "VFGS-Net: Frequency-Guided State-Space Learning for Topology-Preserving Retinal Vessel Segmentation",
+  "authors": "Nan Mu",
+  "summary": "Accurate retinal vessel segmentation is a critical prerequisite for quantitative analysis of retinal images and computer-aided diagnosis of vascular diseases such as diabetic retinopathy. However, the elongated morphology, wide scale variation, and low contrast of retinal vessels pose significant challenges for existing methods, making it difficult to simultaneously preserve fine capillaries and maintain global topological continuity. To address these challenges, we propose the Vessel-aware Frequency-domain and Global Spatial modeling Network (VFGS-Net), an end-to-end segmentation framework that seamlessly integrates frequency-aware feature enhancement, dual-path convolutional representation learning, and bidirectional asymmetric spatial state-space modeling within a unified architecture. Specifically, VFGS-Net employs a dual-path feature convolution module to jointly capture fine-grained local textures and multi-scale contextual semantics. A novel vessel-aware frequency-domain channel attention mechanism is introduced to adaptively reweight spectral components, thereby enhancing vessel-relevant responses in high-level features. Furthermore, at the network bottleneck, we propose a bidirectional asymmetric Mamba2-based spatial modeling block to efficiently capture long-range spatial dependencies and strengthen the global continuity of vascular structures. Extensive experiments on four publicly available retinal vessel datasets demonstrate that VFGS-Net achieves competitive or superior performance compared to state-of-the-art methods. Notably, our model consistently improves segmentation accuracy for fine vessels, complex branching patterns, and low-contrast regions, highlighting its robustness and clinical potential.",
+  "published": "2026-02-11T16:07:29Z",
+  "link": "https://arxiv.org/abs/2602.10978v1",
+  "pdf": "https://arxiv.org/pdf/2602.10978v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:51.289738"
+}

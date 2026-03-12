@@ -1,0 +1,11 @@
+{
+  "id": "2602.06878v1",
+  "title": "Antenna for the detection of electromagnetic audio-band disturbances on-board LISA",
+  "authors": "M. Nofrarias",
+  "summary": "The LISA mission will be the first observatory to detect gravitational waves from space within the millihertz frequency band. Magnetic forces have an important impact on the instrument's sensitivity below the millihertz. Hence, monitoring the magnetic environment within each of the LISA spacecrafts is of utmost importance. In this Letter we present the characterization of the coils that were used in LISA Pathfinder (LPF) when operating as magnetic sensors in the audio frequency band. The necessity of implementing this type of magnetometer is presented in order to monitor high frequency magnetic signals from the electronics on-board. We show that the LPF coils have a performance one order of magnitude better than the current requirements set by the LISA mission at the low end of the audio-band frequency. The LPF coils are able to measure a magnetic noise level of 1.45 $\\rm pT/\\sqrt{\\rm{Hz}}$ at 50 Hz and 0.17 $\\rm pT/\\sqrt{\\rm{Hz}}$ at 500 Hz. Additionally, the LPF coils can reach a magnetic noise floor of 0.1 $\\rm pT/\\sqrt{\\rm{Hz}}$ at frequencies above 1 kHz.",
+  "published": "2026-02-06T17:03:20Z",
+  "link": "https://arxiv.org/abs/2602.06878v1",
+  "pdf": "https://arxiv.org/pdf/2602.06878v1.pdf",
+  "category": "astro-ph.IM",
+  "fetched_at": "2026-03-10T22:27:42.449473"
+}

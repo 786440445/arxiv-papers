@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08722v1",
+  "title": "ALADIN: Accuracy-Latency-Aware Design-space Inference Analysis for Embedded AI Accelerators",
+  "authors": "T. Baldi, D. Casini, A. Biondi",
+  "summary": "arXiv:2603.08722v1 Announce Type: cross \nAbstract: The inference of deep neural networks (DNNs) on resource-constrained embedded systems introduces non-trivial trade-offs among model accuracy, computational latency, and hardware limitations, particularly when real-time constraints must be satisfied. This paper presents ALADIN, an accuracy-latency-aware design-space inference analysis framework for mixed-precision quantized neural networks (QNNs) targeting scratchpad-based AI accelerators. ALADIN enables the evaluation and analysis of inference bottlenecks and design trade-offs across accuracy, latency, and resource consumption without requiring deployment on the target platform, thereby significantly reducing development time and cost.\n  The framework introduces a progressive refinement process that transforms a canonical QONNX model into platform-aware representations by integrating both platform-independent implementation details and hardware-specific characteristics. ALADIN is validated using a cycle-accurate simulator of a RISC-V based platform specialized for AI workloads, demonstrating its effectiveness as a tool for quantitative inference analysis and hardware-software co-design. Experimental results highlight how architectural decisions and mixed-precision quantization strategies impact accuracy, latency, and resource usage, and show that these effects can be precisely evaluated and compared using ALADIN, while also revealing subtle optimization tensions.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08722",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08722v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264859"
+}

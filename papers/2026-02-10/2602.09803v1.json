@@ -1,0 +1,11 @@
+{
+  "id": "2602.09803v1",
+  "title": "An Erdős--Trotter problem on antichains with multiplicity $r$ on each occurring level",
+  "authors": "Quanyu Tang",
+  "summary": "Fix an integer $r\\ge2$. For each $n$ we consider families $\\mathcal F\\subseteq 2^{[n]}$ that form an antichain and have the property that, for every $t$, if there exists $A\\in\\mathcal F$ with $|A|=t$ then there exist at least $r$ members of $\\mathcal F$ of size $t$. A problem of Erdős and Trotter asserts that, for each fixed $r$, there exists a threshold $n_0(r)$ such that whenever $n>n_0(r)$ one can achieve $n-3$ distinct set sizes in such a family, and asks for estimates on $n_0(r)$. We compute that $n_0(2)=3$ and $n_0(3)=8$. For all $r\\ge4$ we prove matching linear bounds up to lower-order terms, namely $$ 2r+2 \\le n_0(r) \\le 2r+2\\log_2 r + O(\\log_2\\log_2 r). $$",
+  "published": "2026-02-10T14:05:52Z",
+  "link": "https://arxiv.org/abs/2602.09803v1",
+  "pdf": "https://arxiv.org/pdf/2602.09803v1.pdf",
+  "category": "math.CO",
+  "fetched_at": "2026-03-10T22:27:50.025420"
+}

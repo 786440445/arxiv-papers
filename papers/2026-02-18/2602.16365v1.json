@@ -1,0 +1,11 @@
+{
+  "id": "2602.16365v1",
+  "title": "Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators",
+  "authors": "Minho Hwang",
+  "summary": "Continuum manipulators in flexible endoscopic surgical systems offer high dexterity for minimally invasive procedures; however, accurate pose estimation and closed-loop control remain challenging due to hysteresis, compliance, and limited distal sensing. Vision-based approaches reduce hardware complexity but are often constrained by limited geometric observability and high computational overhead, restricting real-time closed-loop applicability. This paper presents a unified framework for markerless stereo 6D pose estimation and position-based visual servoing of continuum manipulators. A photo-realistic simulation pipeline enables large-scale automatic training with pixel-accurate annotations. A stereo-aware multi-feature fusion network jointly exploits segmentation masks, keypoints, heatmaps, and bounding boxes to enhance geometric observability. To enforce geometric consistency without iterative optimization, a feed-forward rendering-based refinement module predicts residual pose corrections in a single pass. A self-supervised sim-to-real adaptation strategy further improves real-world performance using unlabeled data. Extensive real-world validation achieves a mean translation error of 0.83 mm and a mean rotation error of 2.76° across 1,000 samples. Markerless closed-loop visual servoing driven by the estimated pose attains accurate trajectory tracking with a mean translation error of 2.07 mm and a mean rotation error of 7.41°, corresponding to 85% and 59% reductions compared to open-loop control, together with high repeatability in repeated point-reaching tasks. To the best of our knowledge, this work presents the first fully markerless pose-estimation-driven position-based visual servoing framework for continuum manipulators, enabling precise closed-loop control without physical markers or embedded sensing.",
+  "published": "2026-02-18T11:08:32Z",
+  "link": "https://arxiv.org/abs/2602.16365v1",
+  "pdf": "https://arxiv.org/pdf/2602.16365v1.pdf",
+  "category": "cs.RO, cs.CV",
+  "fetched_at": "2026-03-10T22:28:01.715792"
+}

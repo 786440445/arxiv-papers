@@ -1,0 +1,11 @@
+{
+  "id": "2602.13909v1",
+  "title": "High-fidelity 3D reconstruction for planetary exploration",
+  "authors": "C. J. Pérez-del-Pulgar",
+  "summary": "Planetary exploration increasingly relies on autonomous robotic systems capable of perceiving, interpreting, and reconstructing their surroundings in the absence of global positioning or real-time communication with Earth. Rovers operating on planetary surfaces must navigate under sever environmental constraints, limited visual redundancy, and communication delays, making onboard spatial awareness and visual localization key components for mission success. Traditional techniques based on Structure-from-Motion (SfM) and Simultaneous Localization and Mapping (SLAM) provide geometric consistency but struggle to capture radiometric detail or to scale efficiently in unstructured, low-texture terrains typical of extraterrestrial environments. This work explores the integration of radiance field-based methods - specifically Neural Radiance Fields (NeRF) and Gaussian Splatting - into a unified, automated environment reconstruction pipeline for planetary robotics. Our system combines the Nerfstudio and COLMAP frameworks with a ROS2-compatible workflow capable of processing raw rover data directly from rosbag recordings. This approach enables the generation of dense, photorealistic, and metrically consistent 3D representations from minimal visual input, supporting improved perception and planning for autonomous systems operating in planetary-like conditions. The resulting pipeline established a foundation for future research in radiance field-based mapping, bridging the gap between geometric and neural representations in planetary exploration.",
+  "published": "2026-02-14T22:07:03Z",
+  "link": "https://arxiv.org/abs/2602.13909v1",
+  "pdf": "https://arxiv.org/pdf/2602.13909v1.pdf",
+  "category": "cs.RO, cs.CV",
+  "fetched_at": "2026-03-10T22:27:55.307651"
+}

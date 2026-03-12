@@ -1,0 +1,11 @@
+{
+  "id": "2602.03193v1",
+  "title": "Permutation groups and symmetric Hecke algebras",
+  "authors": "Xiaogang Li",
+  "summary": "The endomorphism algebras of the permutation modules for transitive permutation groups, known as Hecke algebras, are fundamental objects in representation theory. While group algebras are known to be symmetric over any field, it is natural to ask whether this property extends to Hecke algebras. To study this, we introduce the new concepts of $p$-$S$-permutation groups (for a prime $p$) and $S$-permutation groups. A \\emph{ $p$-$S$-permutation group} is a transitive permutation group whose associated Hecke algebra is symmetric over every field of characteristic $p$. An \\emph{ $S$-permutation group} is a transitive permutation group that is a $p$-$S$-permutation group for all primes $p$. In this paper, we study Hecke algebras from a group-theoretical perspective and we show that several classes of permutation groups are $p$-$S$-permutation groups and $S$-permutation groups in our sense. This result represents a substantial extension of earlier work by Li and He. (Transform Groups, 30(4), 2025), and reframes the question of determining when the algebra \\(\\End_{KG}(KΩ)\\) is symmetric within a more general theoretical framework.",
+  "published": "2026-02-03T07:07:35Z",
+  "link": "https://arxiv.org/abs/2602.03193v1",
+  "pdf": "https://arxiv.org/pdf/2602.03193v1.pdf",
+  "category": "math.RT, math.GR, math.RA",
+  "fetched_at": "2026-03-10T22:27:37.898445"
+}

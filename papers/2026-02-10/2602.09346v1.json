@@ -1,0 +1,11 @@
+{
+  "id": "2602.09346v1",
+  "title": "Digital Linguistic Bias in Spanish: Evidence from Lexical Variation in LLMs",
+  "authors": "Yoshifumi Kawasaki",
+  "summary": "This study examines the extent to which Large Language Models (LLMs) capture geographic lexical variation in Spanish, a language that exhibits substantial regional variation. Treating LLMs as virtual informants, we probe their dialectal knowledge using two survey-style question formats: Yes-No questions and multiple-choice questions. To this end, we exploited a large-scale, expert-curated database of Spanish lexical variation. Our evaluation covers more than 900 lexical items across 21 Spanish-speaking countries and is conducted at both the country and dialectal area levels. Across both evaluation formats, the results reveal systematic differences in how LLMs represent Spanish language varieties. Lexical variation associated with Spain, Equatorial Guinea, Mexico & Central America, and the La Plata River is recognized more accurately by the models, while the Chilean variety proves particularly difficult for the models to distinguish. Importantly, differences in the volume of country-level digital resources do not account for these performance patterns, suggesting that factors beyond data quantity shape dialectal representation in LLMs. By providing a fine-grained, large-scale evaluation of geographic lexical variation, this work advances empirical understanding of dialectal knowledge in LLMs and contributes new evidence to discussions of Digital Linguistic Bias in Spanish.",
+  "published": "2026-02-10T02:42:22Z",
+  "link": "https://arxiv.org/abs/2602.09346v1",
+  "pdf": "https://arxiv.org/pdf/2602.09346v1.pdf",
+  "category": "cs.CL",
+  "fetched_at": "2026-03-10T22:27:50.026095"
+}

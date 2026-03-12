@@ -1,0 +1,11 @@
+{
+  "id": "2602.14531v1",
+  "title": "Scaling Transferable Coarse-graining with Mean Force Matching",
+  "authors": "Grant M. Rotskoff",
+  "summary": "Coarse-grained molecular dynamics often sacrifices accuracy and transferability for computational efficiency, but the use of machine learned potentials is helping coarse-grained models attain performance on par with atomistic molecular dynamics. Nevertheless, developing representations of the coarse-grained potential energy surface faces severe scaling challenges due to the extreme data demands of widely used \"bottom-up\" coarse-graining objectives. In this work, we show that mean force matching, a strategy for training thermodynamically consistent coarse-grained models, requires 50x fewer training samples and 87% less total atomistic simulation time, while obtaining better accuracy on the potential of mean force for unseen proteins compared to other commonly used objectives. By systematically removing noise from the objective function, we demonstrate that it is possible to scale machine learning architectures for coarse-graining, enabling highly accurate and transferable models. We show the advantages of mean force matching both theoretically and through exhaustive benchmarking using thermodynamic consistency as the primary metric of accuracy.",
+  "published": "2026-02-16T07:40:10Z",
+  "link": "https://arxiv.org/abs/2602.14531v1",
+  "pdf": "https://arxiv.org/pdf/2602.14531v1.pdf",
+  "category": "physics.chem-ph",
+  "fetched_at": "2026-03-10T22:27:57.851732"
+}

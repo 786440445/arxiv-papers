@@ -1,0 +1,11 @@
+{
+  "id": "2602.13714v1",
+  "title": "High-Fidelity Spatial Photonic Ising Machines via Precise Wavefront Shaping",
+  "authors": "P. G. Savvidis",
+  "summary": "Ising machines are emerging as a powerful physical alternative to digital processors for solving combinatorial optimization problems. Among them, spatial photonic Ising machines (SPIMs) offer compact, room-temperature hardware with inherently parallel, energy efficient, single-shot optical evaluation of the Ising Hamiltonian. However, scalability has been fundamentally limited by optical aberrations and non-uniform illumination, which corrupt phase-based spin encoding and distort coupling representation, forcing operation to a restricted spatial light modulator (SLM) region. Here we introduce a high-precision full-aperture calibration scheme that overcomes these constraints. By implementing wavefront retrieval and correction with < λ/40 accuracy, we restore faithful phase encoding across the entire SLM area. Furthermore, we introduce a novel interaction-normalization method, which compensates for amplitude curvature and enables uniform coupling representation. Together, these advances establish a high-fidelity, full-area SPIM architecture that unlocks true scalability and enables larger and more reliable photonic Ising computations.",
+  "published": "2026-02-14T10:35:22Z",
+  "link": "https://arxiv.org/abs/2602.13714v1",
+  "pdf": "https://arxiv.org/pdf/2602.13714v1.pdf",
+  "category": "physics.optics, physics.app-ph",
+  "fetched_at": "2026-03-10T22:27:55.306940"
+}

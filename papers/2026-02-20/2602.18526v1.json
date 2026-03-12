@@ -1,0 +1,11 @@
+{
+  "id": "2602.18526v1",
+  "title": "Holographic Pressure and Extensivity of Rotating Black Holes at Finite Cutoff",
+  "authors": "Hoang Van Quyet",
+  "summary": "We investigate the quasi-local thermodynamics of rotating Kerr-AdS black holes enclosed by a finite timelike boundary (cavity). Extending recent work on static systems, we define the holographic pressure and volume via the trace of the Brown-York stress tensor on the cutoff surface. We demonstrate that the inclusion of angular momentum introduces a momentum flux term at the boundary, requiring a generalized first law: $dE = T_{\\mathrm{loc}}dS + Ω_{\\mathrm{loc}}dJ - \\mathcal{P}d\\mathcal{A}$. We derive the explicit expressions for these thermodynamic conjugates and analyze the equation of state. Crucially, we examine the extensivity of the system in the large-size limit. We find that while small rotating black holes exhibit non-extensive behavior typical of self-gravitating systems, large Kerr-AdS black holes recover extensivity, behaving effectively as a thermal fluid on the boundary. This result strengthens the holographic interpretation of the cutoff surface as the domain of a dual field theory.",
+  "published": "2026-02-20T03:56:35Z",
+  "link": "https://arxiv.org/abs/2602.18526v1",
+  "pdf": "https://arxiv.org/pdf/2602.18526v1.pdf",
+  "category": "hep-th, gr-qc",
+  "fetched_at": "2026-03-10T22:28:04.393501"
+}

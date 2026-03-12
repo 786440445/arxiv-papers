@@ -1,0 +1,11 @@
+{
+  "id": "2602.07822v1",
+  "title": "A Family of Generating Functions for Reciprocal Binomial Coefficients and Its Applications",
+  "authors": "Vladimir Kruchinin",
+  "summary": "A generating function for reciprocal binomial coefficients is written down, integral representations of this function are obtained, generating functions for sums of reciprocal binomial coefficients are derived, new identities are obtained, including identities connecting reciprocal binomial coefficients with harmonic numbers and Fibonacci numbers. The application of the found functions for evaluating infinite numerical sequences involving reciprocal binomial coefficients is demonstrated.",
+  "published": "2026-02-08T04:58:13Z",
+  "link": "https://arxiv.org/abs/2602.07822v1",
+  "pdf": "https://arxiv.org/pdf/2602.07822v1.pdf",
+  "category": "math.CO",
+  "fetched_at": "2026-03-10T22:27:46.466292"
+}

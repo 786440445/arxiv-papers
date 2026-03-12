@@ -1,0 +1,11 @@
+{
+  "id": "2602.13800v1",
+  "title": "Ontological grounding for sound and natural robot explanations via large language models",
+  "authors": "Guillem Alenyà",
+  "summary": "Building effective human-robot interaction requires robots to derive conclusions from their experiences that are both logically sound and communicated in ways aligned with human expectations. This paper presents a hybrid framework that blends ontology-based reasoning with large language models (LLMs) to produce semantically grounded and natural robot explanations. Ontologies ensure logical consistency and domain grounding, while LLMs provide fluent, context-aware and adaptive language generation. The proposed method grounds data from human-robot experiences, enabling robots to reason about whether events are typical or atypical based on their properties. We integrate a state-of-the-art algorithm for retrieving and constructing static contrastive ontology-based narratives with an LLM agent that uses them to produce concise, clear, interactive explanations. The approach is validated through a laboratory study replicating an industrial collaborative task. Empirical results show significant improvements in the clarity and brevity of ontology-based narratives while preserving their semantic accuracy. Initial evaluations further demonstrate the system's ability to adapt explanations to user feedback. Overall, this work highlights the potential of ontology-LLM integration to advance explainable agency, and promote more transparent human-robot collaboration.",
+  "published": "2026-02-14T14:23:11Z",
+  "link": "https://arxiv.org/abs/2602.13800v1",
+  "pdf": "https://arxiv.org/pdf/2602.13800v1.pdf",
+  "category": "cs.RO, cs.HC",
+  "fetched_at": "2026-03-10T22:27:55.306654"
+}

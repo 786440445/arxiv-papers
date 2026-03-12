@@ -1,0 +1,11 @@
+{
+  "id": "2602.11507v1",
+  "title": "An Educational Human Machine Interface Providing Request-to-Intervene Trigger and Reason Explanation for Enhancing the Driver's Comprehension of ADS's System Limitations",
+  "authors": "Takahiro Wada",
+  "summary": "Level 3 automated driving systems (ADS) have attracted significant attention and are being commercialized. A level 3 ADS prompts the driver to take control by issuing a request to intervene (RtI) when its operational design domains (ODD) are exceeded. However, complex traffic situations can cause drivers to perceive multiple potential triggers of RtI simultaneously, causing hesitation or confusion during take-over. Therefore, drivers need to clearly understand the ADS's system limitations to ensure safe take-over. This study proposes a voice-based educational human machine interface~(HMI) for providing RtI trigger cues and reason to help drivers understand ADS's system limitations. The results of a between-group experiment using a driving simulator showed that incorporating effective trigger cues and reason into the RtI was related to improved driver comprehension of the ADS's system limitations. Moreover, most participants, instructed via the proposed method, could proactively take over control of the ADS in cases where RtI fails; meanwhile, their number of collisions was lower compared with the other RtI HMI conditions. Therefore, using the proposed method to continually enhance the driver's understanding of the system limitations of ADS through the proposed method is associated with safer and more effective real-time interactions with ADS.",
+  "published": "2026-02-12T03:04:54Z",
+  "link": "https://arxiv.org/abs/2602.11507v1",
+  "pdf": "https://arxiv.org/pdf/2602.11507v1.pdf",
+  "category": "cs.HC",
+  "fetched_at": "2026-03-10T22:27:52.638337"
+}

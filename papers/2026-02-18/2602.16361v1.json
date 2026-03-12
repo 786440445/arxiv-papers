@@ -1,0 +1,11 @@
+{
+  "id": "2602.16361v1",
+  "title": "On generating functions and automata associated to reflections in Coxeter systems",
+  "authors": "Elisa Sasso",
+  "summary": "In this article, we study two combinatorial problems concerning the set of reflections of a Coxeter system. The first problem asks whether the language of palindromic reduced words for reflections is regular, and the second is about finding formulas for the Poincaré series of reflections, namely the generating function of reflection lengths. These two problems were inspired by a conjecture of Stembridge stating that the Poincaré series of reflections is rational and by the solution provided by de Man.\n  To address the first problem, we introduce reflection-prefixes, arising naturally from palindromic reduced words. We study their connections with the root poset, dominance order on roots, and dihedral reflection subgroups. Using $m$-canonical automata associated with $m$-Shi arrangements, we prove that the language of reduced words for reflection-prefixes is regular. For the second problem, we focus on affine Coxeter groups. In this case, we derive a simple formula for the Poincaré series using symmetries of the Hasse diagram of the root poset.",
+  "published": "2026-02-18T10:58:05Z",
+  "link": "https://arxiv.org/abs/2602.16361v1",
+  "pdf": "https://arxiv.org/pdf/2602.16361v1.pdf",
+  "category": "math.GR, math.CO",
+  "fetched_at": "2026-03-10T22:28:01.716986"
+}

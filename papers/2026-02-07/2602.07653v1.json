@@ -1,0 +1,11 @@
+{
+  "id": "2602.07653v1",
+  "title": "An Efficient and Robust Projection Enhanced Interpolation Based Tensor Train Decomposition",
+  "authors": "Tianyi Shi",
+  "summary": "The tensor-train (TT) format is a data-sparse tensor representation commonly used in high dimensional data approximations. In order to represent data with interpretability in data science, researchers develop data-centric skeletonized low rank approximations. However, these methods might still suffer from accuracy degeneracy, nonrobustness, and high computation costs. In this paper, given existing skeletonized TT approximations, we propose a family of projection enhanced interpolation based algorithms to further improve approximation accuracy while keeping low computational complexity. We do this as a postprocessing step to existing interpolative decompositions, via oversampling data not in skeletons to include more information and selecting subsets of pivots for faster projections. We illustrate the performances of our proposed methods with extensive numerical experiments. These include up to 10D synthetic datasets such as tensors generated from kernel functions, and tensors constructed from Maxwellian distribution functions that arise in kinetic theory. Our results demonstrate significant accuracy improvement over original skeletonized TT approximations, while using limited amount of computational resources.",
+  "published": "2026-02-07T18:30:29Z",
+  "link": "https://arxiv.org/abs/2602.07653v1",
+  "pdf": "https://arxiv.org/pdf/2602.07653v1.pdf",
+  "category": "math.NA",
+  "fetched_at": "2026-03-10T22:27:43.908293"
+}

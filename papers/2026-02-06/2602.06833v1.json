@@ -1,0 +1,11 @@
+{
+  "id": "2602.06833v1",
+  "title": "Timelike Entanglement Entropy of Hawking Radiation",
+  "authors": "Taoufik Ouali",
+  "summary": "We introduce the concept of timelike entanglement entropy of Hawking radiation as a novel probe of the black hole information paradox. By analytically continuing black hole spacetimes to Euclidean signature, we define timelike correlations that reveal a sequence of timelike Page times at which the entanglement entropy equals the Bekenstein-Hawking entropy. Applying this framework to Schwarzschild, Reissner-Nordström, static higher-dimensional and braneworld solutions, four-dimensional Kerr, and higher-dimensional rotating Myers--Perry black holes, we demonstrate that timelike entanglement exhibits periodic or quasi-periodic behavior, with the recurrence times sensitive to surface gravity, charge, rotation, and spacetime dimensionality. Extremal and near-extremal black holes display effectively frozen thermal oscillations with persistent rotational modulation, reflecting their near-horizon geometries. Unlike conventional approaches based on islands or firewalls, our framework encodes information entirely in the Hawking radiation, preserving unitarity while avoiding violations of horizon smoothness. These results establish timelike entanglement as a robust and physically transparent mechanism for information recovery and provide a versatile tool for exploring quantum gravitational dynamics across a wide range of black hole spacetimes.",
+  "published": "2026-02-06T16:20:46Z",
+  "link": "https://arxiv.org/abs/2602.06833v1",
+  "pdf": "https://arxiv.org/pdf/2602.06833v1.pdf",
+  "category": "gr-qc, hep-th",
+  "fetched_at": "2026-03-10T22:27:42.449618"
+}

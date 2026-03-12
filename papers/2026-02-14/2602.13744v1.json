@@ -1,0 +1,11 @@
+{
+  "id": "2602.13744v1",
+  "title": "Reconstruction of Accelerating Nonlinear $f(T)$ Gravity Models via Hybrid Scale Factor: Cosmological Dynamics and Bayesian Evidence",
+  "authors": "Pratik P. Ray",
+  "summary": "This study offers a comprehensive reconstruction of $f(T)$ gravity model with three distinct non-linear as well as novel forms employing a hybrid scale factor to depict the expansion history of the universe starting from early decelerated epoch to late-time accelerated evolution. Model parameters are rigorously constrained using the Monte Carlo Markov Chain (MCMC) analysis with the help of Bayesian statistics and incorporating late-time observations from BAO and Patheon+SH0ES. The investigation of dynamical parameters such as the equation of state parameter and cosmological parameters indicates alignment with an accelerated expansion phase in both the present and late time epochs. Validation is conducted by assessing the energy conditions, verifying the feasibility of the model forms with particular emphasis on the violation of the strong energy condition that indicates dark energy dominance in modified gravity scenarios. This investigation has been instrumental in determining models that remain consistent with cosmological observations and theoretical requirements. The reconstructed forms of the model effectively mimic $Λ$CDM at late times, providing significant insights into possible extensions of general relativity and bolstering $f(T)$ gravity theory as a robust explanation for cosmic acceleration.",
+  "published": "2026-02-14T12:22:07Z",
+  "link": "https://arxiv.org/abs/2602.13744v1",
+  "pdf": "https://arxiv.org/pdf/2602.13744v1.pdf",
+  "category": "gr-qc",
+  "fetched_at": "2026-03-10T22:27:55.307309"
+}

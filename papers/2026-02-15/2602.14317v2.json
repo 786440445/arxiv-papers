@@ -1,0 +1,11 @@
+{
+  "id": "2602.14317v2",
+  "title": "Characterizations of Asplund and Tame Functionals using Arens Products",
+  "authors": "Matan Komisarchik",
+  "summary": "We investigate the interaction between Arens products on the bidual of a Banach algebra and structural regularity properties of functionals on the algebra. Building on the classical characterization of weakly almost periodic functionals via Arens regularity, we prove new analogous criteria for Asplund and tame functionals.\n  We establish a systematic correspondence between geometric properties of orbit sets in the dual -- namely weak compactness, fragmentability, and absence of $\\ell^1$-sequences -- and structural properties of the corresponding bidual orbits under the Arens products, such as weak compactness, separability, and co-tameness. In particular, we obtain bidual characterizations of right Asplund and right tame functionals analogous to the classical weakly almost periodic theory.\n  As an application, we specialize the theory to the group algebra $L^{1}(G)$ of a locally compact group $G$. In this setting, we derive concrete characterizations of Asplund and tame elements of $L^{\\infty}(G)$ using orbits of finitely additive $\\{0, 1\\}$-valued measures. For characteristic functions over second-countable groups, this yields a simple orbit-countability criterion, generalizing a result of Glasner and Megrelishvili for $\\ell^1(\\mathbb{Z})$.",
+  "published": "2026-02-15T21:56:36Z",
+  "link": "https://arxiv.org/abs/2602.14317v2",
+  "pdf": "https://arxiv.org/pdf/2602.14317v2.pdf",
+  "category": "math.FA",
+  "fetched_at": "2026-03-10T22:27:56.679090"
+}

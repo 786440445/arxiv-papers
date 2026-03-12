@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09324v1",
+  "title": "Reading the Mood Behind Words: Integrating Prosody-Derived Emotional Context into Socially Responsive VR Agents",
+  "authors": "SangYeop Jeong, Yeongseo Na, Seung Gyu Jeong, Jin-Woo Jeong, Seong-Eun Kim",
+  "summary": "arXiv:2603.09324v1 Announce Type: cross \nAbstract: In VR interactions with embodied conversational agents, users' emotional intent is often conveyed more by how something is said than by what is said. However, most VR agent pipelines rely on speech-to-text processing, discarding prosodic cues and often producing emotionally incongruent responses despite correct semantics. We propose an emotion-context-aware VR interaction pipeline that treats vocal emotion as explicit dialogue context in an LLM-based conversational agent. A real-time speech emotion recognition model infers users' emotional states from prosody, and the resulting emotion labels are injected into the agent's dialogue context to shape response tone and style. Results from a within-subjects VR study (N=30) show significant improvements in dialogue quality, naturalness, engagement, rapport, and human-likeness, with 93.3% of participants preferring the emotion-aware agent.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09324",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09324v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.793522"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.15324v1",
+  "title": "Realizing a Universal Quantum Gate Set via Double-Braiding of SU(2)k Anyon Models",
+  "authors": "Lijun Meng",
+  "summary": "We systematically investigate the implementation of a universal gate set via double-braiding within SU(2)k anyon models. The explicit form of the double elementary braiding matrices (DEBMs) in these models are derived from the F-matrices and R-symbols obtained via the q-deformed representation theory of SU(2). Using these EBMs, standard single-qubit gates are synthesized up to a global phase by a Genetic Algorithm-enhanced Solovay-Kitaev Algorithm (GA-enhanced SKA), achieving the accuracy required for fault-tolerant quantum computation with only 2-level decomposition. For two-qubit entangling gates, Genetic Algorithm (GA) yields braidwords of 30 braiding operations that approximate the local equivalence class [CNOT]. Theoretically, we demonstrate that performing double-braiding in a three-anyon (six-anyon) encoding of single-qubit (two-qubit) is topologically equivalent to a protocol requiring the physical manipulation of only one (three) anyons to execute arbitrary braids. Our numerical results provide strong evidence that double-braiding in SU(2)k anyons models is capable of universal quantum computation. Moreover, the proposed protocol offers a potential new strategy for significantly reducing the number of non-Abelian anyons that need to be physically manipulated in future braiding-based topological quantum computations (TQC).",
+  "published": "2026-02-17T03:11:09Z",
+  "link": "https://arxiv.org/abs/2602.15324v1",
+  "pdf": "https://arxiv.org/pdf/2602.15324v1.pdf",
+  "category": "quant-ph",
+  "fetched_at": "2026-03-10T22:28:00.142373"
+}

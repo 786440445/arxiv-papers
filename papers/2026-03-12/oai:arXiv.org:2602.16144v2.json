@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.16144v2",
+  "title": "Missing-by-Design: Certifiable Modality Deletion for Revocable Multimodal Sentiment Analysis",
+  "authors": "Rong Fu, Ziming Wang, Chunlei Meng, Jiaxuan Lu, Jiekai Wu, Kangan Qian, Hao Zhang, Simon Fong",
+  "summary": "arXiv:2602.16144v2 Announce Type: replace-cross \nAbstract: As multimodal systems increasingly process sensitive personal data, the ability to selectively revoke specific data modalities has become a critical requirement for privacy compliance and user autonomy. We present Missing-by-Design (MBD), a unified framework for revocable multimodal sentiment analysis that combines structured representation learning with a certifiable parameter-modification pipeline. Revocability is critical in privacy-sensitive applications where users or regulators may request removal of modality-specific information. MBD learns property-aware embeddings and employs generator-based reconstruction to recover missing channels while preserving task-relevant signals. For deletion requests, the framework applies saliency-driven candidate selection and a calibrated Gaussian update to produce a machine-verifiable Modality Deletion Certificate. Experiments on benchmark datasets show that MBD achieves strong predictive performance under incomplete inputs and delivers a practical privacy-utility trade-off, positioning surgical unlearning as an efficient alternative to full retraining.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.16144",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.16144v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265661"
+}

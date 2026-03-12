@@ -1,0 +1,11 @@
+{
+  "id": "2602.09121v1",
+  "title": "Uncertainty-Aware Multimodal Emotion Recognition through Dirichlet Parameterization",
+  "authors": "Aneesh Jonelagadda",
+  "summary": "In this work, we present a lightweight and privacy-preserving Multimodal Emotion Recognition (MER) framework designed for deployment on edge devices. To demonstrate framework's versatility, our implementation uses three modalities - speech, text and facial imagery. However, the system is fully modular, and can be extended to support other modalities or tasks. Each modality is processed through a dedicated backbone optimized for inference efficiency: Emotion2Vec for speech, a ResNet-based model for facial expressions, and DistilRoBERTa for text. To reconcile uncertainty across modalities, we introduce a model- and task-agnostic fusion mechanism grounded in Dempster-Shafer theory and Dirichlet evidence. Operating directly on model logits, this approach captures predictive uncertainty without requiring additional training or joint distribution estimation, making it broadly applicable beyond emotion recognition. Validation on five benchmark datasets (eNTERFACE05, MEAD, MELD, RAVDESS and CREMA-D) show that our method achieves competitive accuracy while remaining computationally efficient and robust to ambiguous or missing inputs. Overall, the proposed framework emphasizes modularity, scalability, and real-world feasibility, paving the way toward uncertainty-aware multimodal systems for healthcare, human-computer interaction, and other emotion-informed applications.",
+  "published": "2026-02-09T19:12:30Z",
+  "link": "https://arxiv.org/abs/2602.09121v1",
+  "pdf": "https://arxiv.org/pdf/2602.09121v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:27:48.247718"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.03325v1",
+  "title": "A Novel approach to portfolio construction",
+  "authors": "M. G. Zoia",
+  "summary": "This paper proposes a machine learning-based framework for asset selection and portfolio construction, termed the Best-Path Algorithm Sparse Graphical Model (BPASGM). The method extends the Best-Path Algorithm (BPA) by mapping linear and non-linear dependencies among a large set of financial assets into a sparse graphical model satisfying a structural Markov property. Based on this representation, BPASGM performs a dependence-driven screening that removes positively or redundantly connected assets, isolating subsets that are conditionally independent or negatively correlated. This step is designed to enhance diversification and reduce estimation error in high-dimensional portfolio settings. Portfolio optimization is then conducted on the selected subset using standard mean-variance techniques. BPASGM does not aim to improve the theoretical mean-variance optimum under known population parameters, but rather to enhance realized performance in finite samples, where sample-based Markowitz portfolios are highly sensitive to estimation error. Monte Carlo simulations show that BPASGM-based portfolios achieve more stable risk-return profiles, lower realized volatility, and superior risk-adjusted performance compared to standard mean-variance portfolios. Empirical results for U.S. equities, global stock indices, and foreign exchange rates over 1990-2025 confirm these findings and demonstrate a substantial reduction in portfolio cardinality. Overall, BPASGM offers a statistically grounded and computationally efficient framework that integrates sparse graphical modeling with portfolio theory for dependence-aware asset selection.",
+  "published": "2026-02-03T09:52:06Z",
+  "link": "https://arxiv.org/abs/2602.03325v1",
+  "pdf": "https://arxiv.org/pdf/2602.03325v1.pdf",
+  "category": "q-fin.PM, cs.LG, q-fin.CP, q-fin.RM, stat.ML",
+  "fetched_at": "2026-03-10T22:27:37.899668"
+}

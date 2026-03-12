@@ -1,0 +1,11 @@
+{
+  "id": "2602.13731v1",
+  "title": "Generative Latent Representations of 3D Brain MRI for Multi-Task Downstream Analysis in Down Syndrome",
+  "authors": "Xavier Sevillano",
+  "summary": "Generative models have emerged as powerful tools in medical imaging, enabling tasks such as segmentation, anomaly detection, and high-quality synthetic data generation. These models typically rely on learning meaningful latent representations, which are particularly valuable given the high-dimensional nature of 3D medical images like brain magnetic resonance imaging (MRI) scans. Despite their potential, latent representations remain underexplored in terms of their structure, information content, and applicability to downstream clinical tasks. Investigating these representations is crucial for advancing the use of generative models in neuroimaging research and clinical decision-making. In this work, we develop multiple variational autoencoders (VAEs) to encode 3D brain MRI scans into compact latent space representations for generative and predictive applications. We systematically evaluate the effectiveness of the learned representations through three key analyses: (i) a quantitative and qualitative assessment of MRI reconstruction quality, (ii) a visualisation of the latent space structure using Principal Component Analysis, and (iii) downstream classification tasks on a proprietary dataset of euploid and Down syndrome individuals brain MRI scans. Our results demonstrate that the VAE successfully captures essential brain features while maintaining high reconstruction fidelity. The latent space exhibits clear clustering patterns, particularly in distinguishing individuals with Down syndrome from euploid controls.",
+  "published": "2026-02-14T11:50:57Z",
+  "link": "https://arxiv.org/abs/2602.13731v1",
+  "pdf": "https://arxiv.org/pdf/2602.13731v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:55.306820"
+}

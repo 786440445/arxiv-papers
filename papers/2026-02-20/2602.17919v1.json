@@ -1,0 +1,11 @@
+{
+  "id": "2602.17919v1",
+  "title": "Visual Anthropomorphism Shifts Evaluations of Gendered AI Managers",
+  "authors": "Taha Yasseri",
+  "summary": "This research examines whether competence cues can reduce gender bias in evaluations of AI managers and whether these effects depend on how the AI is represented. Across two preregistered experiments (N = 2,505), each employing a 2 x 2 x 3 design manipulating AI gender, competence, and decision outcome, we compared text-based descriptions of AI managers with visually generated AI faces created using a reverse-correlation paradigm. In the text condition, evaluations were driven by competence rather than gender. When participants received unfavourable decisions, high-competence AI managers were judged as fairer, more competent, and better leaders than low-competence managers, regardless of AI gender. In contrast, when the AI manager was visually represented, competence cues had attenuated influence once facial information was present. Instead, participants showed systematic gender-differentiated responses to AI faces, with feminine-appearing managers evaluated as more competent and more trustworthy than masculine-appearing managers, particularly when delivering favourable outcomes. These gender effects were largely absent when outcomes were unfavourable, suggesting that negative feedback attenuates the influence of both competence information and facial cues. Taken together, these findings show that competence information can mitigate negative reactions to AI managers in text-based interactions, whereas facial anthropomorphism elicits gendered perceptual biases not observed in text-only settings. The results highlight that representational modality plays a critical role in determining when gender stereotypes are activated in evaluations of AI systems and underscore that design choices are consequential for AI governance in evaluative contexts.",
+  "published": "2026-02-20T00:30:33Z",
+  "link": "https://arxiv.org/abs/2602.17919v1",
+  "pdf": "https://arxiv.org/pdf/2602.17919v1.pdf",
+  "category": "cs.CY, cs.HC",
+  "fetched_at": "2026-03-10T22:28:04.393754"
+}

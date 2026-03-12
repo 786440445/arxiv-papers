@@ -1,0 +1,11 @@
+{
+  "id": "2602.15475v1",
+  "title": "Coronal Non-Thermal and Doppler Plasma Flows Driven by Photospheric Flux in 28 Active Regions",
+  "authors": "Teodora Mihailescu",
+  "summary": "Magnetohydrodynamic (MHD) waves and/or the braiding of magnetic field lines are largely thought to be responsible for heating the solar corona, both being mechanisms which are driven by the Sun's photospheric magnetic field. Recent modelling work leads us to expect that such heating mechanisms would be seen in the excess broadening (non-thermal velocity) of coronal spectral emission lines and that larger magnitudes of photospheric magnetic flux would generate more heating, but a direct connection between magnetic flux and spectral line broadening has been difficult to establish. We combine measurements of the photospheric magnetic field from SDO/HMI and non-thermal velocity in log T~6.2 coronal plasma from Hinode/EIS for 28 active regions and find a moderate correlation between the two exists in quiescent active regions, consistent with the photospheric field injecting upward Poynting flux into the solar corona and causing coronal heating. We find that no strong correlation with coronal composition makes it difficult to distinguish between MHD wave heating and magnetic field braiding heating using these diagnostics with current instrumentation.",
+  "published": "2026-02-17T10:29:41Z",
+  "link": "https://arxiv.org/abs/2602.15475v1",
+  "pdf": "https://arxiv.org/pdf/2602.15475v1.pdf",
+  "category": "astro-ph.SR",
+  "fetched_at": "2026-03-10T22:28:00.143603"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08759v1",
+  "title": "EDMFormer: Genre-Specific Self-Supervised Learning for Music Structure Segmentation",
+  "authors": "Sahal Sajeer, Krish Patel, Oscar Chung, Joel Song Bae",
+  "summary": "arXiv:2603.08759v1 Announce Type: new \nAbstract: Music structure segmentation is a key task in audio analysis, but existing models perform poorly on Electronic Dance Music (EDM). This problem exists because most approaches rely on lyrical or harmonic similarity, which works well for pop music but not for EDM. EDM structure is instead defined by changes in energy, rhythm, and timbre, with different sections such as buildup, drop, and breakdown. We introduce EDMFormer, a transformer model that combines self-supervised audio embeddings using an EDM-specific dataset and taxonomy. We release this dataset as EDM-98: a group of 98 professionally annotated EDM tracks. EDMFormer improves boundary detection and section labelling compared to existing models, particularly for drops and buildups. The results suggest that combining learned representations with genre-specific data and structural priors is effective for EDM and could be applied to other specialized music genres or broader audio domains.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08759",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08759v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195524"
+}

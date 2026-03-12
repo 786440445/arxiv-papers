@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08965v1",
+  "title": "Semantic Level of Detail: Multi-Scale Knowledge Representation via Heat Kernel Diffusion on Hyperbolic Manifolds",
+  "authors": "Edward Izgorodin",
+  "summary": "arXiv:2603.08965v1 Announce Type: new \nAbstract: AI memory systems increasingly organize knowledge into graph structures -- knowledge graphs, entity relations, community hierarchies -- yet lack a principled mechanism for continuous resolution control: where do the qualitative boundaries between abstraction levels lie, and how should an agent navigate them? We introduce Semantic Level of Detail (SLoD), a framework that answers both questions by defining a continuous zoom operator via heat kernel diffusion on the Poincar\\'e ball $\\mathbb{B}^d$. At coarse scales ($\\sigma \\to \\infty$), diffusion aggregates embeddings into high-level summaries; at fine scales ($\\sigma \\to 0$), local semantic detail is preserved. We prove hierarchical coherence with bounded approximation error $O(\\sigma)$ and $(1+\\varepsilon)$ distortion for tree-structured hierarchies under Sarkar embedding. Crucially, we show that spectral gaps in the graph Laplacian induce emergent scale boundaries -- scales where the representation undergoes qualitative transitions -- which can be detected automatically without manual resolution parameters. On synthetic hierarchies (HSBM), our boundary scanner recovers planted levels with ARI up to 1.00, with detection degrading gracefully near the information-theoretic Kesten-Stigum threshold. On the full WordNet noun hierarchy (82K synsets), detected boundaries align with true taxonomic depth ($\\tau = 0.79$), demonstrating that the method discovers meaningful abstraction levels in real-world knowledge graphs without supervision.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08965",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08965v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264458"
+}

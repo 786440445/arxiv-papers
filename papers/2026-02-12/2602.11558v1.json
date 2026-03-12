@@ -1,0 +1,11 @@
+{
+  "id": "2602.11558v1",
+  "title": "Brain4FMs: A Benchmark of Foundation Models for Electrical Brain Signal",
+  "authors": "Yang Yang",
+  "summary": "Brain Foundation Models (BFMs) are transforming neuroscience by enabling scalable and transferable learning from neural signals, advancing both clinical diagnostics and cutting-edge neuroscience exploration. Their emergence is powered by large-scale clinical recordings, particularly electroencephalography (EEG) and intracranial EEG, which provide rich temporal and spatial representations of brain dynamics. However, despite their rapid proliferation, the field lacks a unified understanding of existing methodologies and a standardized evaluation framework. To fill this gap, we map the benchmark design space along two axes: (i) from the model perspective, we organize BFMs under a self-supervised learning (SSL) taxonomy; and (ii) from the dataset perspective, we summarize common downstream tasks and curate representative public datasets across clinical and human-centric neurotechnology applications. Building on this consolidation, we introduce Brain4FMs, an open evaluation platform with plug-and-play interfaces that integrates 15 representative BFMs and 18 public datasets. It enables standardized comparisons and analysis of how pretraining data, SSL strategies, and architectures affect generalization and downstream performance, guiding more accurate and transferable BFMs. The code is available at https://anonymous.4open.science/r/Brain4FMs-85B8.",
+  "published": "2026-02-12T04:25:39Z",
+  "link": "https://arxiv.org/abs/2602.11558v1",
+  "pdf": "https://arxiv.org/pdf/2602.11558v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:52.638023"
+}

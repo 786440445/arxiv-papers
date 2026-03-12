@@ -1,0 +1,11 @@
+{
+  "id": "2602.17374v1",
+  "title": "Asymptotic analysis for heterogeneous elastic energies with material voids",
+  "authors": "Manuel Friedrich",
+  "summary": "We study the effective behavior of heterogeneous energies arising in the modeling of material voids in geometrically linear elastic materials. Specifically, we consider functionals featuring bulk terms depending on the symmetrized gradient of the displacement and terms comparable to the surface area of the material voids inside the material. Under suitable growth conditions for the bulk and surface densities we prove that, as the microscale $\\varepsilon$ tends to zero, the $Γ$-limit admits an integral representation that contains an additional surface term expressed by jump discontinuities of the displacement outside of the void region. This term is related to the phenomenon of collapsing of voids in the effective limit. Under a continuity assumption of the surface density at the $\\varepsilon$-scale, we show that the limiting density related to jumps is twice the energy density for voids.",
+  "published": "2026-02-19T13:55:52Z",
+  "link": "https://arxiv.org/abs/2602.17374v1",
+  "pdf": "https://arxiv.org/pdf/2602.17374v1.pdf",
+  "category": "math.AP",
+  "fetched_at": "2026-03-10T22:28:03.149088"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.09166v2",
+  "title": "Scaling of poroelastic coarsening and elastic arrest in crosslinked gels",
+  "authors": "Samuel A. Safran",
+  "summary": "Recent experiments on crosslinked gels quenched from solvent-rich to solvent-poor conditions show solvent-rich domains embedded in a gel-rich matrix. These domains coarsen and then undergo kinetic arrest at micron scales for hours, before macroscopic drainage to equilibrium over an even longer time. Motivated by these observations, we develop a minimal model that couples capillarity-driven Darcy permeation to the viscoelastic-to-elastic crossover of the polymer network. In the viscoelastic regime, the Young--Laplace boundary traction (due to surface tension) at curved solvent--gel interfaces generates an isotropic pressure gradient in the solvent pores of the gel that drives solvent flow and coarsening. In the elastic regime, the same interfacial traction is balanced by a long-ranged deviatoric (non-isotropic) stress field, and the elastic equilibrium solution yields a spatially uniform pore pressure outside a domain, eliminating the Darcy driving force and arresting coarsening. Using the kinetic criterion $t(λ_{\\rm arrest})\\simτ_{\\rm el}$, we predict stiffness-dependent growth laws and arrest lengths. For melt-like, polymer-rich gels, $λ(t)\\sim G^{-1/2}t^{1/4}$ and $λ_{\\rm arrest}\\sim G^{-1/2}$. For low polymer fractions where the mesh size controls transport, $λ(t)\\sim G^{-1/3}t^{1/3}$ and $λ_{\\rm arrest}\\sim G^{-1/3}$. The predicted $G^{-1/2}$ arrest scaling for melt-like gels is consistent with measurements.",
+  "published": "2026-02-09T20:17:07Z",
+  "link": "https://arxiv.org/abs/2602.09166v2",
+  "pdf": "https://arxiv.org/pdf/2602.09166v2.pdf",
+  "category": "cond-mat.soft",
+  "fetched_at": "2026-03-10T22:27:48.248457"
+}

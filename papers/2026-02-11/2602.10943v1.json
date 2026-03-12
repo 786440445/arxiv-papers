@@ -1,0 +1,11 @@
+{
+  "id": "2602.10943v1",
+  "title": "Towards Learning a Generalizable 3D Scene Representation from 2D Observations",
+  "authors": "Stefan Wermter",
+  "summary": "We introduce a Generalizable Neural Radiance Field approach for predicting 3D workspace occupancy from egocentric robot observations. Unlike prior methods operating in camera-centric coordinates, our model constructs occupancy representations in a global workspace frame, making it directly applicable to robotic manipulation. The model integrates flexible source views and generalizes to unseen object arrangements without scene-specific finetuning. We demonstrate the approach on a humanoid robot and evaluate predicted geometry against 3D sensor ground truth. Trained on 40 real scenes, our model achieves 26mm reconstruction error, including occluded regions, validating its ability to infer complete 3D occupancy beyond traditional stereo vision methods.",
+  "published": "2026-02-11T15:22:41Z",
+  "link": "https://arxiv.org/abs/2602.10943v1",
+  "pdf": "https://arxiv.org/pdf/2602.10943v1.pdf",
+  "category": "cs.CV, cs.RO",
+  "fetched_at": "2026-03-10T22:27:51.289877"
+}

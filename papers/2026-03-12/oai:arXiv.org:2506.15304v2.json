@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.15304v2",
+  "title": "ConLID: Supervised Contrastive Learning for Low-Resource Language Identification",
+  "authors": "Negar Foroutan, Jakhongir Saydaliev, Ye Eun Kim, Antoine Bosselut",
+  "summary": "arXiv:2506.15304v2 Announce Type: replace-cross \nAbstract: Language identification (LID) is a critical step in curating multilingual LLM pretraining corpora from web crawls. While many studies on LID model training focus on collecting diverse training data to improve performance, low-resource languages -- often limited to single-domain data, such as the Bible -- continue to perform poorly. To resolve these imbalance and bias issues, we propose a novel supervised contrastive learning (SCL) approach to learn domain-invariant representations for low-resource languages. We show that our approach improves LID performance on out-of-domain data for low-resource languages by 3.2 percentage points, while maintaining its performance for the high-resource languages.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.15304",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.15304v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265537"
+}

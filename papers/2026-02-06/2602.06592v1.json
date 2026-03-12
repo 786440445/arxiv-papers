@@ -1,0 +1,11 @@
+{
+  "id": "2602.06592v1",
+  "title": "ProtoQuant: Quantization of Prototypical Parts For General and Fine-Grained Image Classification",
+  "authors": "Dawid Rymarczyk",
+  "summary": "Prototypical parts-based models offer a \"this looks like that\" paradigm for intrinsic interpretability, yet they typically struggle with ImageNet-scale generalization and often require computationally expensive backbone finetuning. Furthermore, existing methods frequently suffer from \"prototype drift,\" where learned prototypes lack tangible grounding in the training distribution and change their activation under small perturbations. We present ProtoQuant, a novel architecture that achieves prototype stability and grounded interpretability through latent vector quantization. By constraining prototypes to a discrete learned codebook within the latent space, we ensure they remain faithful representations of the training data without the need to update the backbone. This design allows ProtoQuant to function as an efficient, interpretable head that scales to large-scale datasets. We evaluate ProtoQuant on ImageNet and several fine-grained benchmarks (CUB-200, Cars-196). Our results demonstrate that ProtoQuant achieves competitive classification accuracy while generalizing to ImageNet and comparable interpretability metrics to other prototypical-parts-based methods.",
+  "published": "2026-02-06T10:41:31Z",
+  "link": "https://arxiv.org/abs/2602.06592v1",
+  "pdf": "https://arxiv.org/pdf/2602.06592v1.pdf",
+  "category": "cs.CV, cs.AI",
+  "fetched_at": "2026-03-10T22:27:42.448877"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.07629v2",
+  "title": "LCLA: Language-Conditioned Latent Alignment for Vision-Language Navigation",
+  "authors": "Soumik Sarkar",
+  "summary": "We propose LCLA (Language-Conditioned Latent Alignment), a framework for vision-language navigation that learns modular perception-action interfaces by aligning sensory observations to a latent representation of an expert policy. The expert is first trained with privileged state information, inducing a latent space sufficient for control, after which its latent interface and action head are frozen. A lightweight adapter is then trained to map raw visual-language observations, via a frozen vision-language model, into the expert's latent space, reducing the problem of visuomotor learning to supervised latent alignment rather than end-to-end policy optimization. This decoupling enforces a stable contract between perception and control, enabling expert behavior to be reused across sensing modalities and environmental variations. We instantiate LCLA and evaluate it on a vision-language indoor navigation task, where aligned latent spaces yield strong in-distribution performance and robust zero-shot generalization to unseen environments, lighting conditions, and viewpoints while remaining lightweight at inference time.",
+  "published": "2026-02-07T17:20:43Z",
+  "link": "https://arxiv.org/abs/2602.07629v2",
+  "pdf": "https://arxiv.org/pdf/2602.07629v2.pdf",
+  "category": "cs.RO",
+  "fetched_at": "2026-03-10T22:27:43.906552"
+}

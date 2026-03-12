@@ -1,0 +1,11 @@
+{
+  "id": "2602.11701v1",
+  "title": "BSoNet: Deep Learning Solution for Optimizing Image Quality of Portable Backscatter Imaging Systems",
+  "authors": "Wei Zhao",
+  "summary": "Portable backscatter imaging systems (PBI) integrate an X-ray source and detector in a single unit, utilizing Compton scattering photons to rapidly acquire superficial or shallow structural information of an inspected object through single-sided imaging. The application of this technology overcomes the limitations of traditional transmission X-ray detection, offering greater flexibility and portability, making it the preferred tool for the rapid and accurate identification of potential threats in scenarios such as borders, ports, and industrial nondestructive security inspections. However, the image quality is significantly compromised due to the limited number of Compton backscattered photons. The insufficient photon counts result primarily from photon absorption in materials, the pencil-beam scanning design, and short signal sampling times. It therefore yields severe image noise and an extremely low signal-to-noise ratio, greatly reducing the accuracy and reliability of PBI systems. To address these challenges, this paper introduces BSoNet, a novel deep learning-based approach specifically designed to optimize the image quality of PBI systems. The approach significantly enhances image clarity, recognition, and contrast while meeting practical application requirements. It transforms PBI systems into more effective and reliable inspection tools, contributing significantly to strengthening security protection.",
+  "published": "2026-02-12T08:29:08Z",
+  "link": "https://arxiv.org/abs/2602.11701v1",
+  "pdf": "https://arxiv.org/pdf/2602.11701v1.pdf",
+  "category": "eess.IV, physics.med-ph",
+  "fetched_at": "2026-03-10T22:27:52.636913"
+}

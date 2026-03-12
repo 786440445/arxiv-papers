@@ -1,0 +1,11 @@
+{
+  "id": "2602.16980v1",
+  "title": "Discovering Universal Activation Directions for PII Leakage in Language Models",
+  "authors": "Sanghyun Hong",
+  "summary": "Modern language models exhibit rich internal structure, yet little is known about how privacy-sensitive behaviors, such as personally identifiable information (PII) leakage, are represented and modulated within their hidden states. We present UniLeak, a mechanistic-interpretability framework that identifies universal activation directions: latent directions in a model's residual stream whose linear addition at inference time consistently increases the likelihood of generating PII across prompts. These model-specific directions generalize across contexts and amplify PII generation probability, with minimal impact on generation quality. UniLeak recovers such directions without access to training data or groundtruth PII, relying only on self-generated text. Across multiple models and datasets, steering along these universal directions substantially increases PII leakage compared to existing prompt-based extraction methods. Our results offer a new perspective on PII leakage: the superposition of a latent signal in the model's representations, enabling both risk amplification and mitigation.",
+  "published": "2026-02-19T00:39:12Z",
+  "link": "https://arxiv.org/abs/2602.16980v1",
+  "pdf": "https://arxiv.org/pdf/2602.16980v1.pdf",
+  "category": "cs.LG, cs.CR",
+  "fetched_at": "2026-03-10T22:28:03.149770"
+}

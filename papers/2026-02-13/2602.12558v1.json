@@ -1,0 +1,11 @@
+{
+  "id": "2602.12558v1",
+  "title": "Electrohydrodynamic instability of Cu, W and Ti metal nanomelts under radiofrequency E-fields from multiphysics molecular dynamics simulations with coarse-grained density field analysis",
+  "authors": "Bing Xiaoa",
+  "summary": "Employing both electrodynamics coupled with molecular dynamics (ED-MD) simulations for atomistic models and the dynamic instability theory of electrocapillary wave, we investigate the structure evolutions and thermal runaway process of Cu, Ti and W nanotips with radii of curvature of 1 nm and 5 nm under various radiofrequency electric field conditions. The associated critical parameters including the critical electric field, spatial and temporal scales of the electrohydrodynamic instability of molten apexes are obtained by proposing the workflows that utilize the atomistic models in ED-MD simulations to calculate kinematic viscosity tensor components and mass density spatial distributions for the nanomelts with electric fields. Our current ED-MD simulations for nanotips show a non-monotonical variation of the time delay versus the electric field frequency for metal nanotips, and the presence of a critical rf electric field amplitude triggering the thermal runaway regardless of the field frequency. The calculated mass densities and kinematic viscosities of nanomelts for metal nanotips are found to be drastically different to those of bulk liquid metals at the melting point. Specifically, the viscosity of nanomelt under the rf electric field is revealed to be several orders of magnitude higher than the bulk liquid metal, resulting in substantial increase of spatial and temporal scales in the instability theory of electrocapillary wave within the viscosity-dominated regime, compared to the results of ED-MD simulations for Cu and Ti metals, while good agreement between the two methods on the critical wavelength and time delay of thermal runway is found for W nanotips.",
+  "published": "2026-02-13T03:12:59Z",
+  "link": "https://arxiv.org/abs/2602.12558v1",
+  "pdf": "https://arxiv.org/pdf/2602.12558v1.pdf",
+  "category": "physics.comp-ph",
+  "fetched_at": "2026-03-10T22:27:54.091865"
+}

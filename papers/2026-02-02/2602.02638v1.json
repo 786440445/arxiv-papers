@@ -1,0 +1,11 @@
+{
+  "id": "2602.02638v1",
+  "title": "hSNMF: Hybrid Spatially Regularized NMF for Image-Derived Spatial Transcriptomics",
+  "authors": "Tania Banerjee",
+  "summary": "High-resolution spatial transcriptomics platforms, such as Xenium, generate single-cell images that capture both molecular and spatial context, but their extremely high dimensionality poses major challenges for representation learning and clustering. In this study, we analyze data from the Xenium platform, which captures high-resolution images of tumor microarray (TMA) tissues and converts them into cell-by-gene matrices suitable for computational analysis. We benchmark and extend nonnegative matrix factorization (NMF) for spatial transcriptomics by introducing two spatially regularized variants. First, we propose Spatial NMF (SNMF), a lightweight baseline that enforces local spatial smoothness by diffusing each cell's NMF factor vector over its spatial neighborhood. Second, we introduce Hybrid Spatial NMF (hSNMF), which performs spatially regularized NMF followed by Leiden clustering on a hybrid adjacency that integrates spatial proximity (via a contact-radius graph) and transcriptomic similarity through a tunable mixing parameter alpha. Evaluated on a cholangiocarcinoma dataset, SNMF and hSNMF achieve markedly improved spatial compactness (CHAOS < 0.004, Moran's I > 0.96), greater cluster separability (Silhouette > 0.12, DBI < 1.8), and higher biological coherence (CMC and enrichment) compared to other spatial baselines. Availability and implementation: https://github.com/ishtyaqmahmud/hSNMF",
+  "published": "2026-02-02T18:40:08Z",
+  "link": "https://arxiv.org/abs/2602.02638v1",
+  "pdf": "https://arxiv.org/pdf/2602.02638v1.pdf",
+  "category": "cs.LG, q-bio.QM",
+  "fetched_at": "2026-03-10T22:27:34.175616"
+}

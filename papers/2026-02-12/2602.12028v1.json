@@ -1,0 +1,11 @@
+{
+  "id": "2602.12028v1",
+  "title": "An Improved FPT Algorithm for Computing the Interleaving Distance between Merge Trees via Path-Preserving Maps",
+  "authors": "Osamu Saeki",
+  "summary": "A merge tree is a fundamental topological structure used to capture the sub-level set (and similarly, super-level set) topology in scalar data analysis. The interleaving distance is a theoretically sound, stable metric for comparing merge trees. However, computing this distance exactly is NP-hard. First fixed-parameter tractable (FPT) algorithm for it's exact computation introduces the concept of an $\\varepsilon$-good map between two merge trees, where $\\varepsilon$ is a candidate value for the interleaving distance. The complexity of their algorithm is $O(2^{2τ}(2τ)^{2τ+2}\\cdot n^2\\log^3n)$ where $τ$ is the degree-bound parameter and $n$ is the total number of nodes in both the merge trees. Their algorithm exhibits exponential complexity in $τ$, which increases with the increasing value of $\\varepsilon$. In the current paper, we propose an improved FPT algorithm for computing the $\\varepsilon$-good map between two merge trees. Our algorithm introduces two new parameters, $η_f$ and $η_g$, corresponding to the numbers of leaf nodes in the merge trees $M_f$ and $M_g$, respectively. This parametrization is motivated by the observation that a merge tree can be decomposed into a collection of unique leaf-to-root paths. The proposed algorithm achieves a complexity of $O\\!\\left(n^2\\log n+η_g^{η_f}(η_f+η_g)\\, n \\log n \\right)$. To obtain this reduced complexity, we assume that number of possible $\\varepsilon$-good maps from $M_f$ to $M_g$ does not exceed that from $M_g$ to $M_f$. Notably, the parameters $η_f$ and $η_g$ are independent of the choice of $\\varepsilon$. Compared to their algorithm, our approach substantially reduces the search space for computing an optimal $\\varepsilon$-good map. We also provide a formal proof of correctness for the proposed algorithm.",
+  "published": "2026-02-12T14:59:40Z",
+  "link": "https://arxiv.org/abs/2602.12028v1",
+  "pdf": "https://arxiv.org/pdf/2602.12028v1.pdf",
+  "category": "cs.CG, cs.DS",
+  "fetched_at": "2026-03-10T22:27:52.636970"
+}

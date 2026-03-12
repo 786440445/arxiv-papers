@@ -1,0 +1,11 @@
+{
+  "id": "2603.03308v1",
+  "title": "Old Habits Die Hard: How Conversational History Geometrically Traps LLMs",
+  "authors": "Shay B. Cohen",
+  "summary": "How does the conversational past of large language models (LLMs) influence their future performance? Recent work suggests that LLMs are affected by their conversational history in unexpected ways. For instance, hallucinations in prior interactions may influence subsequent model responses. In this work, we introduce History-Echoes, a framework that investigates how conversational history biases subsequent generations. The framework explores this bias from two perspectives: probabilistically, we model conversations as Markov chains to quantify state consistency; geometrically, we measure the consistency of consecutive hidden representations. Across three model families and six datasets spanning diverse phenomena, our analysis reveals a strong correlation between the two perspectives. By bridging these perspectives, we demonstrate that behavioral persistence manifests as a geometric trap, where gaps in the latent space confine the model's trajectory. Code available at https://github.com/technion-cs-nlp/OldHabitsDieHard.",
+  "published": "2026-02-08T14:13:15Z",
+  "link": "https://arxiv.org/abs/2603.03308v1",
+  "pdf": "https://arxiv.org/pdf/2603.03308v1.pdf",
+  "category": "cs.CL, cs.AI",
+  "fetched_at": "2026-03-10T22:27:46.468251"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.19946v2",
+  "title": "Evaluating pretrained speech embedding systems for dysarthria detection across heterogenous datasets",
+  "authors": "Lovisa Wihlborg, Jemima Goodall, David Wheatley, Jacob J. Webber, Johnny Tam, Christine Weaver, Suvankar Pal, Siddharthan Chandran, Sohan Seth, Oliver Watts, Cassia Valentini-Botinhao",
+  "summary": "arXiv:2509.19946v2 Announce Type: replace \nAbstract: We present a comprehensive evaluation of pretrained speech embedding systems for the detection of dysarthric speech using existing accessible data. Dysarthric speech datasets are often small and can suffer from recording biases as well as data imbalance. To address these we selected a range of datasets covering related conditions and adopt the use of several cross-validations runs to estimate the chance level. To certify that results are above chance, we compare the distribution of scores across these runs against the distribution of scores of a carefully crafted null hypothesis. In this manner, we evaluate 17 publicly available speech embedding systems across 6 different datasets, reporting the cross-validation performance on each. We also report cross-dataset results derived when training with one particular dataset and testing with another. We observed that within-dataset results vary considerably depending on the dataset, regardless of the embedding used, raising questions about which datasets should be used for benchmarking. We found that cross-dataset accuracy is, as expected, lower than within-dataset, highlighting challenges in the generalization of the systems. These findings have important implications for the clinical validity of systems trained and tested on the same dataset.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.19946",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.19946v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492383"
+}

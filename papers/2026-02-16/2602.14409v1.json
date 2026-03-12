@@ -1,0 +1,11 @@
+{
+  "id": "2602.14409v1",
+  "title": "Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning",
+  "authors": "Qian Zhang",
+  "summary": "Spatial perception aims to estimate camera motion and scene structure from visual observations, a problem traditionally addressed through geometric modeling and physical consistency constraints. Recent learning-based methods have demonstrated strong representational capacity for geometric perception and are increasingly used to augment classical geometry-centric systems in practice. However, whether learning components should directly replace geometric estimation or instead serve as intermediate modules within such pipelines remains an open question.\n  In this work, we address this gap and investigate an end-to-end modular framework for effective spatial reasoning, where learning proposes geometric hypotheses, while geometric algorithms dispose estimation decisions. In particular, we study this principle in the context of relative camera pose estimation on RGB-D sequences. Using VGGT as a representative learning model, we evaluate learning-based pose and depth proposals under varying motion magnitudes and scene dynamics, followed by a classical point-to-plane RGB-D ICP as the geometric backend. Our experiments on the TUM RGB-D benchmark reveal three consistent findings: (1) learning-based pose proposals alone are unreliable; (2) learning-proposed geometry, when improperly aligned with camera intrinsics, can degrade performance; and (3) when learning-proposed depth is geometrically aligned and followed by a geometric disposal stage, consistent improvements emerge in moderately challenging rigid settings.\n  These results demonstrate that geometry is not merely a refinement component, but an essential arbiter that validates and absorbs learning-based geometric observations. Our study highlights the importance of modular, geometry-aware system design for robust spatial perception.",
+  "published": "2026-02-16T02:26:59Z",
+  "link": "https://arxiv.org/abs/2602.14409v1",
+  "pdf": "https://arxiv.org/pdf/2602.14409v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:57.852424"
+}

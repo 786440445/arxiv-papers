@@ -1,0 +1,11 @@
+{
+  "id": "2602.02771v1",
+  "title": "Markov Random Fields: Structural Properties, Phase Transition, and Response Function Analysis",
+  "authors": "Catherine A. Calder",
+  "summary": "This paper presents a focused review of Markov random fields (MRFs)--commonly used probabilistic representations of spatial dependence in discrete spatial domains--for categorical data, with an emphasis on models for binary-valued observations or latent variables. We examine core structural properties of these models, including clique factorization, conditional independence, and the role of neighborhood structures. We also discuss the phenomenon of phase transition and its implications for statistical model specification and inference. A central contribution of this review is the use of response functions, a unifying tool we introduce for prior analysis that provides insight into how different formulations of MRFs influence implied marginal and joint distributions. We illustrate these concepts through a case study of direct-data MRF models with covariates, highlighting how different formulations encode dependence. While our focus is on binary fields, the principles outlined here extend naturally to more complex categorical MRFs and we draw connections to these higher-dimensional modeling scenarios. This review provides both theoretical grounding and practical tools for interpreting and extending MRF-based models.",
+  "published": "2026-02-02T20:26:56Z",
+  "link": "https://arxiv.org/abs/2602.02771v1",
+  "pdf": "https://arxiv.org/pdf/2602.02771v1.pdf",
+  "category": "stat.ME",
+  "fetched_at": "2026-03-10T22:27:34.175486"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.01101v1",
+  "title": "Robust Harmful Meme Detection under Missing Modalities via Shared Representation Learning",
+  "authors": "Shah Nawaz",
+  "summary": "Internet memes are powerful tools for communication, capable of spreading political, psychological, and sociocultural ideas. However, they can be harmful and can be used to disseminate hate toward targeted individuals or groups. Although previous studies have focused on designing new detection methods, these often rely on modal-complete data, such as text and images. In real-world settings, however, modalities like text may be missing due to issues like poor OCR quality, making existing methods sensitive to missing information and leading to performance deterioration. To address this gap, in this paper, we present the first-of-its-kind work to comprehensively investigate the behavior of harmful meme detection methods in the presence of modal-incomplete data. Specifically, we propose a new baseline method that learns a shared representation for multiple modalities by projecting them independently. These shared representations can then be leveraged when data is modal-incomplete. Experimental results on two benchmark datasets demonstrate that our method outperforms existing approaches when text is missing. Moreover, these results suggest that our method allows for better integration of visual features, reducing dependence on text and improving robustness in scenarios where textual information is missing. Our work represents a significant step forward in enabling the real-world application of harmful meme detection, particularly in situations where a modality is absent.",
+  "published": "2026-02-01T08:52:15Z",
+  "link": "https://arxiv.org/abs/2602.01101v1",
+  "pdf": "https://arxiv.org/pdf/2602.01101v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:32.802883"
+}

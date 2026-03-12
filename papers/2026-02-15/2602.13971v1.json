@@ -1,0 +1,11 @@
+{
+  "id": "2602.13971v1",
+  "title": "DAIAN: Deep Adaptive Intent-Aware Network for CTR Prediction in Trigger-Induced Recommendation",
+  "authors": "Jufeng Chen",
+  "summary": "Recommendation systems are essential for personalizing e-commerce shopping experiences. Among these, Trigger-Induced Recommendation (TIR) has emerged as a key scenario, which utilizes a trigger item (explicitly represents a user's instantaneous interest), enabling precise, real-time recommendations. Although several trigger-based techniques have been proposed, most of them struggle to address the intent myopia issue, that is, a recommendation system overemphasizes the role of trigger items and narrowly focuses on suggesting commodities that are highly relevant to trigger items. Meanwhile, existing methods rely on collaborative behavior patterns between trigger and recommended items to identify the user's preferences, yet the sparsity of ID-based interaction restricts their effectiveness. To this end, we propose the Deep Adaptive Intent-Aware Network (DAIAN) that dynamically adapts to users' intent preferences. In general, we first extract the users' personalized intent representations by analyzing the correlation between a user's click and the trigger item, and accordingly retrieve the user's related historical behaviors to mine the user's diverse intent. Besides, sparse collaborative behaviors constrain the performance in capturing items associated with user intent. Hence, we reinforce similarity by leveraging a hybrid enhancer with ID and semantic information, followed by adaptive selection based on varying intents. Experimental results on public datasets and our industrial e-commerce datasets demonstrate the effectiveness of DAIAN.",
+  "published": "2026-02-15T03:10:36Z",
+  "link": "https://arxiv.org/abs/2602.13971v1",
+  "pdf": "https://arxiv.org/pdf/2602.13971v1.pdf",
+  "category": "cs.IR, cs.AI",
+  "fetched_at": "2026-03-10T22:27:56.677754"
+}

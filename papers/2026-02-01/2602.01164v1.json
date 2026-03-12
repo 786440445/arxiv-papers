@@ -1,0 +1,11 @@
+{
+  "id": "2602.01164v1",
+  "title": "Computationally Tractable Robust Nonlinear Model Predictive Control using DC Programming",
+  "authors": "Mark Cannon",
+  "summary": "We propose a computationally tractable, tube-based robust nonlinear model predictive control (MPC) framework using difference-of-convex (DC) functions and sequential convex programming. For systems with differentiable discrete time dynamics, we show how to construct systematic, data-driven DC model representations using polynomials and machine learning techniques. We develop a robust tube MPC scheme that convexifies the online optimization by linearizing the concave components of the model, and we provide guarantees of recursive feasibility and robust stability. We present three data-driven procedures for computing DC models and compare performance using a planar vertical take-off and landing (PVTOL) aircraft case study.",
+  "published": "2026-02-01T11:34:07Z",
+  "link": "https://arxiv.org/abs/2602.01164v1",
+  "pdf": "https://arxiv.org/pdf/2602.01164v1.pdf",
+  "category": "math.OC, eess.SY",
+  "fetched_at": "2026-03-10T22:27:32.802495"
+}

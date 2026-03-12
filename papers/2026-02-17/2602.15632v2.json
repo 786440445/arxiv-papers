@@ -1,0 +1,11 @@
+{
+  "id": "2602.15632v2",
+  "title": "Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition",
+  "authors": "Guang Lin",
+  "summary": "AI for science (AI4Science) models often suffer from discretization: learned representations remain tied to the training grid, limiting transfer across resolutions, solvers and applications. We introduce Neural Proper Orthogonal Decomposition (Neural-POD), a plug-and-play neural operator that learns nonlinear, orthogonal basis functions directly in function space and can be integrated in both projection-based reduced order models and operator-learning frameworks such as DeepONet. Neural-POD replaces SVD-derived, resolution-dependent linear modes with continuous, resolution-invariant bases learned via sequential residual minimization, analogous to Gram-Schmidt orthogonalization. The framework supports training under task-specific norms (e.g., $L^2$, $L^1$), improves out-of-distribution generalization to unseen parameter regimes, and captures nonlinear structure in complex systems. Because the learned bases are interpretable and reusable, Neural-POD serves as a general representation module for AI4Science workflows. We demonstrate Neural-POD on Burgers' and Navier-Stokes equations.",
+  "published": "2026-02-17T15:01:40Z",
+  "link": "https://arxiv.org/abs/2602.15632v2",
+  "pdf": "https://arxiv.org/pdf/2602.15632v2.pdf",
+  "category": "physics.comp-ph, cs.LG, math.NA",
+  "fetched_at": "2026-03-10T22:28:00.143407"
+}

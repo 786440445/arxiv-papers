@@ -1,0 +1,11 @@
+{
+  "id": "2602.13583v1",
+  "title": "Differentiable Rule Induction from Raw Sequence Inputs",
+  "authors": "Feng Yang",
+  "summary": "Rule learning-based models are widely used in highly interpretable scenarios due to their transparent structures. Inductive logic programming (ILP), a form of machine learning, induces rules from facts while maintaining interpretability. Differentiable ILP models enhance this process by leveraging neural networks to improve robustness and scalability. However, most differentiable ILP methods rely on symbolic datasets, facing challenges when learning directly from raw data. Specifically, they struggle with explicit label leakage: The inability to map continuous inputs to symbolic variables without explicit supervision of input feature labels. In this work, we address this issue by integrating a self-supervised differentiable clustering model with a novel differentiable ILP model, enabling rule learning from raw data without explicit label leakage. The learned rules effectively describe raw data through its features. We demonstrate that our method intuitively and precisely learns generalized rules from time series and image data.",
+  "published": "2026-02-14T03:54:08Z",
+  "link": "https://arxiv.org/abs/2602.13583v1",
+  "pdf": "https://arxiv.org/pdf/2602.13583v1.pdf",
+  "category": "cs.AI, cs.LG",
+  "fetched_at": "2026-03-10T22:27:55.306145"
+}

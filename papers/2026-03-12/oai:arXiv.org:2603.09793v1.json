@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09793v1",
+  "title": "Information Theoretic Bayesian Optimization over the Probability Simplex",
+  "authors": "Federico Pavesi, Antonio Candelieri, No\\'emie Jaquier",
+  "summary": "arXiv:2603.09793v1 Announce Type: new \nAbstract: Bayesian optimization is a data-efficient technique that has been shown to be extremely powerful to optimize expensive, black-box, and possibly noisy objective functions. Many applications involve optimizing probabilities and mixtures which naturally belong to the probability simplex, a constrained non-Euclidean domain defined by non-negative entries summing to one. This paper introduces $\\alpha$-GaBO, a novel family of Bayesian optimization algorithms over the probability simplex. Our approach is grounded in information geometry, a branch of Riemannian geometry which endows the simplex with a Riemannian metric and a class of connections. Based on information geometry theory, we construct Mat\\'ern kernels that reflect the geometry of the probability simplex, as well as a one-parameter family of geometric optimizers for the acquisition function. We validate our method on benchmark functions and on a variety of real-world applications including mixtures of components, mixtures of classifiers, and a robotic control task, showing its increased performance compared to constrained Euclidean approaches.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09793",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09793v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264767"
+}

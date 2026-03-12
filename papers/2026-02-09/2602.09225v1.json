@@ -1,0 +1,11 @@
+{
+  "id": "2602.09225v1",
+  "title": "Barycentric alignment for instance-level comparison of neural representations",
+  "authors": "Meenakshi Khosla",
+  "summary": "Comparing representations across neural networks is challenging because representations admit symmetries, such as arbitrary reordering of units or rotations of activation space, that obscure underlying equivalence between models. We introduce a barycentric alignment framework that quotients out these nuisance symmetries to construct a universal embedding space across many models. Unlike existing similarity measures, which summarize relationships over entire stimulus sets, this framework enables similarity to be defined at the level of individual stimuli, revealing inputs that elicit convergent versus divergent representations across models. Using this instance-level notion of similarity, we identify systematic input properties that predict representational convergence versus divergence across vision and language model families. We also construct universal embedding spaces for brain representations across individuals and cortical regions, enabling instance-level comparison of representational agreement across stages of the human visual hierarchy. Finally, we apply the same barycentric alignment framework to purely unimodal vision and language models and find that post-hoc alignment into a shared space yields image text similarity scores that closely track human cross-modal judgments and approach the performance of contrastively trained vision-language models. This strikingly suggests that independently learned representations already share sufficient geometric structure for human-aligned cross-modal comparison. Together, these results show that resolving representational similarity at the level of individual stimuli reveals phenomena that cannot be detected by set-level comparison metrics.",
+  "published": "2026-02-09T21:49:44Z",
+  "link": "https://arxiv.org/abs/2602.09225v1",
+  "pdf": "https://arxiv.org/pdf/2602.09225v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:48.248768"
+}

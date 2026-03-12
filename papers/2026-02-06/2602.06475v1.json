@@ -1,0 +1,11 @@
+{
+  "id": "2602.06475v1",
+  "title": "Towards Generalizable Reasoning: Group Causal Counterfactual Policy Optimization for LLM Reasoning",
+  "authors": "Hui Xiong",
+  "summary": "Large language models (LLMs) excel at complex tasks with advances in reasoning capabilities. However, existing reward mechanisms remain tightly coupled to final correctness and pay little attention to the underlying reasoning process: trajectories with sound reasoning but wrong answers receive low credit, while lucky guesses with flawed logic may be highly rewarded, affecting reasoning generalization. From a causal perspective, we interpret multi-candidate reasoning for a fixed question as a family of counterfactual experiments with theoretical supports. Building on this, we propose Group Causal Counterfactual Policy Optimization to explicitly train LLMs to learn generalizable reasoning patterns. It proposes an episodic causal counterfactual reward that jointly captures (i) robustness, encouraging the answer distribution induced by a reasoning step to remain stable under counterfactual perturbations; and (ii) effectiveness, enforcing sufficient variability so that the learned reasoning strategy can transfer across questions. We then construct token-level advantages from this reward and optimize the policy, encouraging LLMs to favor reasoning patterns that are process-valid and counterfactually robust. Extensive experiments on diverse benchmarks demonstrate its advantages.",
+  "published": "2026-02-06T08:03:11Z",
+  "link": "https://arxiv.org/abs/2602.06475v1",
+  "pdf": "https://arxiv.org/pdf/2602.06475v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:42.449249"
+}

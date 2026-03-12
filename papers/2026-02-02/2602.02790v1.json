@@ -1,0 +1,11 @@
+{
+  "id": "2602.02790v1",
+  "title": "Simulating Human Audiovisual Search Behavior",
+  "authors": "Antti Oulasvirta",
+  "summary": "Locating a target based on auditory and visual cues$\\unicode{x2013}$such as finding a car in a crowded parking lot or identifying a speaker in a virtual meeting$\\unicode{x2013}$requires balancing effort, time, and accuracy under uncertainty. Existing models of audiovisual search often treat perception and action in isolation, overlooking how people adaptively coordinate movement and sensory strategies. We present Sensonaut, a computational model of embodied audiovisual search. The core assumption is that people deploy their body and sensory systems in ways they believe will most efficiently improve their chances of locating a target, trading off time and effort under perceptual constraints. Our model formulates this as a resource-rational decision-making problem under partial observability. We validate the model against newly collected human data, showing that it reproduces both adaptive scaling of search time and effort under task complexity, occlusion, and distraction, and characteristic human errors. Our simulation of human-like resource-rational search informs the design of audiovisual interfaces that minimize search cost and cognitive load.",
+  "published": "2026-02-02T20:47:05Z",
+  "link": "https://arxiv.org/abs/2602.02790v1",
+  "pdf": "https://arxiv.org/pdf/2602.02790v1.pdf",
+  "category": "cs.HC, cs.AI, cs.RO",
+  "fetched_at": "2026-03-10T22:27:34.175434"
+}

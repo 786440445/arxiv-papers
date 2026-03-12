@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.10696v2",
+  "title": "Robust Assortment Optimization from Observational Data",
+  "authors": "Miao Lu, Yuxuan Han, Han Zhong, Zhengyuan Zhou, Jose Blanchet",
+  "summary": "arXiv:2602.10696v2 Announce Type: replace-cross \nAbstract: Assortment optimization is a fundamental challenge in modern retail and recommendation systems, where the goal is to select a subset of products that maximizes expected revenue under complex customer choice behaviors. While recent advances in data-driven methods have leveraged historical data to learn and optimize assortments, these approaches typically rely on strong assumptions -- namely, the stability of customer preferences and the correctness of the underlying choice models. However, such assumptions frequently break in real-world scenarios due to preference shifts and model misspecification, leading to poor generalization and revenue loss. Motivated by this limitation, we propose a robust framework for data-driven assortment optimization that accounts for potential distributional shifts in customer choice behavior. Our approach models potential preference shift from a nominal choice model that generates data and seeks to maximize worst-case expected revenue. We first establish the computational tractability of robust assortment planning when the nominal model is known, then advance to the data-driven setting, where we design statistically optimal algorithms that minimize the data requirements while maintaining robustness. Our theoretical analysis provides both upper bounds and matching lower bounds on the sample complexity, offering theoretical guarantees for robust generalization. Notably, we uncover and identify the notion of ``robust item-wise coverage'' as the minimal data requirement to enable sample-efficient robust assortment learning. Our work bridges the gap between robustness and statistical efficiency in assortment learning, contributing new insights and tools for reliable assortment optimization under uncertainty.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.10696",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.10696v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265652"
+}

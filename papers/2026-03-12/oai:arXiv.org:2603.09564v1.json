@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09564v1",
+  "title": "a-TMFG: Scalable Triangulated Maximally Filtered Graphs via Approximate Nearest Neighbors",
+  "authors": "Lionel Yelibi",
+  "summary": "arXiv:2603.09564v1 Announce Type: cross \nAbstract: The traditional Triangular Maximally Filtered Graph (TMFG) construction requires pre-computation and storage of a dense correlation matrix; this limits its applicability to small and medium-sized datasets. Here we identify key memory and runtime complexity challenges when using TMFG at scale. We then present the Approximate Triangular Maximally Filtered Graph (a-TMFG) algorithm. This is a novel approach to scaling the construction of artificial graphs from data inspired by TMFG. The method employs k-Nearest Neighbors Graphs (kNNG) for initial construction, and implements a memory management strategy to search and estimate missing correlations on-the-fly. This provides representations to control combinatorial explosion. The algorithm is tested for robustness to the parameters and noise, and is evaluated on datasets with millions of observations. This new method provides a parsimonious way to construct graphs for use-cases where graphs are used as input to supervised and unsupervised learning but where no natural graph exists.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09564",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09564v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265078"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.08038v1",
+  "title": "Investigation of CeRh$_2$As$_2$ order parameters via ultrasound propagation anomalies",
+  "authors": "M. Brando",
+  "summary": "Unconventional superconductors with nearly degenerate pairing states are rare. CeRh$_2$As$_2$ has recently emerged as one of the few existing multi-phase superconductors. It exhibits a first-order phase transition between two distinct superconducting states when a magnetic field is applied along the crystallographic $c$-axis. While this behavior has been linked to locally broken inversion symmetry, a phase diagram based on a multi-component superconducting order parameter remains a possibility. Furthermore, superconductivity appears to coexist with an ordered state (phase I). Despite being the subject of many studies, little is known about the nature of the order parameters in both superconducting phases and phase I. Here, we use ultrasound-propagation measurements at low temperatures, in high magnetic fields and under hydrostatic pressure to address this issue. Our results strongly suggest that the superconducting order parameter in both phases is single-component, corroborating the role of local non-centrosymmetry in the development of multi-phase superconductivity in CeRh$_2$As$_2$. In addition, analysis of the elastic anomalies within the Landau framework of phase transitions strongly suggests the presence of an incommensurate magnetic order parameter in phase I.",
+  "published": "2026-02-08T16:15:57Z",
+  "link": "https://arxiv.org/abs/2602.08038v1",
+  "pdf": "https://arxiv.org/pdf/2602.08038v1.pdf",
+  "category": "cond-mat.supr-con, cond-mat.str-el",
+  "fetched_at": "2026-03-10T22:27:46.467618"
+}

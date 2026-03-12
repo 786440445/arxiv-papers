@@ -1,0 +1,11 @@
+{
+  "id": "2602.10422v1",
+  "title": "Navigating heterogeneous protein landscapes through geometry-aware smoothing",
+  "authors": "Dianbo Liu",
+  "summary": "The evolutionary fitness landscape of biological molecules is extremely sparse and heterogeneous, with functional sequences forming isolated dense ``islands'' within a vast combinatorial space of largely non-functional variants. Protein sequences, in particular, exemplify this structure, yet most generative artificial intelligence models implicitly assume a homogeneous data distribution. We show that this assumption fundamentally breaks down in heterogeneous biological sequence spaces: fixed global noise levels impose a destructive trade-off, either oversmoothing dense functional clusters or fragmenting sparse regions and producing non-functional hallucinations. To address this limitation, we introduce \\emph{Density-Dependent Smoothing} (DDS), a geometry-aware generative framework that adapts stochastic smoothing to the local density of the underlying sequence landscape. By inversely coupling diffusion noise to estimated sequence density, DDS enables gentle refinement in high-density functional regions while promoting controlled exploration across sparse regions. Implemented as a plug-in mechanism for discrete molecular sampling, DDS consistently outperforms state-of-the-art diffusion and autoregressive models across antibody repertoires, therapeutic antibody design, antimicrobial peptide generation and coronavirus antibody design. Together, these results show that fixed global smoothing assumptions fundamentally limit generative modeling in sparse biological sequence spaces, and that geometry-aware smoothing removes this constraint, enabling reliable exploration and design previously unattainable with fixed-noise generative models.",
+  "published": "2026-02-11T02:07:08Z",
+  "link": "https://arxiv.org/abs/2602.10422v1",
+  "pdf": "https://arxiv.org/pdf/2602.10422v1.pdf",
+  "category": "cs.CE",
+  "fetched_at": "2026-03-10T22:27:51.290684"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.16393v1",
+  "title": "Orbital integral bounds the character for cuspidal representations of $GL_n(\\mathbb{F}_{\\ell}((t)))$",
+  "authors": "Eitan Sayag",
+  "summary": "We prove that the character of an irreducible cuspidal representation of $GL_n(\\mathbb{F}_{\\ell}((t)))$ is locally bounded up to a logarithmic factor by the orbital integral of a matrix coefficient of this representation.\n  The characteristic $0$ analog of this result is part of the proof of the celebrated Harish-Chandra's integrability theorem.\n  In a sequel work [AGKS] we use this result in order to prove a positive characteristic analog of Harish-Chandra's integrability theorem under some additional assumptions.",
+  "published": "2026-02-18T12:03:31Z",
+  "link": "https://arxiv.org/abs/2602.16393v1",
+  "pdf": "https://arxiv.org/pdf/2602.16393v1.pdf",
+  "category": "math.RT",
+  "fetched_at": "2026-03-10T22:28:01.716522"
+}

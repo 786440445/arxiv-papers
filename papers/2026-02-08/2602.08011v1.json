@@ -1,0 +1,11 @@
+{
+  "id": "2602.08011v1",
+  "title": "Topological photonics in one-dimensional settings",
+  "authors": "Zhigang Chen",
+  "summary": "Over the past decade, topological photonics has emerged as a vibrant field, attracting significant attention and witnessing remarkable advancements. This growth can be attributed to its fundamental appeal and the unique opportunities it offers for unconventional control of light, promising innovations in next-generation photonic devices. At the heart of topological photonics lies the one-dimensional (1D) SSH model. Originally conceived to elucidate the physics of a molecular chain of polyacetylene, this model has found widespread applications in exploring a wide range of topological phenomena in photonics and beyond. In this chapter, we aim to provide an overview of topological photonics in one-dimensional (1D) settings. After briefly introducing paradigmatic 1D models, including the SSH, Rice-Mele, and AAH models, we review recent advances in experimental studies and applications of topological photonics based on 1D platforms. Our discussion highlights demonstrated examples, such as the nonlinear tuning of topological states in both Hermitian and non-Hermitian photonic SSH lattices, as well as nonlinear harmonic generation and topological lasing in SSH-type photonic microstructures. We further discuss characteristic topological phenomena in other representative 1D settings, including Floquet systems, topological pumping, quasicrystals, and synthetic non-Hermitian systems. Finally, we examine selected examples of two-dimensional (2D) photonic topological crystalline insulators that are closely linked to the SSH model. Towards the end, we summarize the chapter and provide a list of key contributions, together with an outlook on possible future directions in 1D topological photonics. While this review focuses specifically on 1D topological photonics, it is not intended to be comprehensive or exhaustive.",
+  "published": "2026-02-08T15:26:51Z",
+  "link": "https://arxiv.org/abs/2602.08011v1",
+  "pdf": "https://arxiv.org/pdf/2602.08011v1.pdf",
+  "category": "physics.optics, cond-mat.mtrl-sci",
+  "fetched_at": "2026-03-10T22:27:46.467787"
+}

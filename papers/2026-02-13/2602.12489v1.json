@@ -1,0 +1,11 @@
+{
+  "id": "2602.12489v1",
+  "title": "Insertion Network for Image Sequence Correspondence",
+  "authors": "Bennett A. Landman",
+  "summary": "We propose a novel method for establishing correspondence between two sequences of 2D images. One particular application of this technique is slice-level content navigation, where the goal is to localize specific 2D slices within a 3D volume or determine the anatomical coverage of a 3D scan based on its 2D slices. This serves as an important preprocessing step for various diagnostic tasks, as well as for automatic registration and segmentation pipelines. Our approach builds sequence correspondence by training a network to learn how to insert a slice from one sequence into the appropriate position in another. This is achieved by encoding contextual representations of each slice and modeling the insertion process using a slice-to-slice attention mechanism. We apply this method to localize manually labeled key slices in body CT scans and compare its performance to the current state-of-the-art alternative known as body part regression, which predicts anatomical position scores for individual slices. Unlike body part regression, which treats each slice independently, our method leverages contextual information from the entire sequence. Experimental results show that the insertion network reduces slice localization errors in supervised settings from 8.4 mm to 5.4 mm, demonstrating a substantial improvement in accuracy.",
+  "published": "2026-02-13T00:04:54Z",
+  "link": "https://arxiv.org/abs/2602.12489v1",
+  "pdf": "https://arxiv.org/pdf/2602.12489v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:54.092357"
+}

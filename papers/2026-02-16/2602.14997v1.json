@@ -1,0 +1,11 @@
+{
+  "id": "2602.14997v1",
+  "title": "Spectral Convolution on Orbifolds for Geometric Deep Learning",
+  "authors": "Benjamin Himpel",
+  "summary": "Geometric deep learning (GDL) deals with supervised learning on data domains that go beyond Euclidean structure, such as data with graph or manifold structure. Due to the demand that arises from application-related data, there is a need to identify further topological and geometric structures with which these use cases can be made accessible to machine learning. There are various techniques, such as spectral convolution, that form the basic building blocks for some convolutional neural network-like architectures on non-Euclidean data. In this paper, the concept of spectral convolution on orbifolds is introduced. This provides a building block for making learning on orbifold structured data accessible using GDL. The theory discussed is illustrated using an example from music theory.",
+  "published": "2026-02-16T18:28:38Z",
+  "link": "https://arxiv.org/abs/2602.14997v1",
+  "pdf": "https://arxiv.org/pdf/2602.14997v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:57.852854"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.12651v1",
+  "title": "Uncovering spatial tissue domains and cell types in spatial omics through cross-scale profiling of cellular and genomic interactions",
+  "authors": "Lei Xing",
+  "summary": "Cellular identity and function are linked to both their intrinsic genomic makeup and extrinsic spatial context within the tissue microenvironment. Spatial transcriptomics (ST) offers an unprecedented opportunity to study this, providing in situ gene expression profiles at single-cell resolution and illuminating the spatial and functional organization of cells within tissues. However, a significant hurdle remains: ST data is inherently noisy, large, and structurally complex. This complexity makes it intractable for existing computational methods to effectively capture the interplay between spatial interactions and intrinsic genomic relationships, thus limiting our ability to discern critical biological patterns. Here, we present CellScape, a deep learning framework designed to overcome these limitations for high-performance ST data analysis and pattern discovery. CellScape jointly models cellular interactions in tissue space and genomic relationships among cells, producing comprehensive representations that seamlessly integrate spatial signals with underlying gene regulatory mechanisms. This technique uncovers biologically informative patterns that improve spatial domain segmentation and supports comprehensive spatial cellular analyses across diverse transcriptomics datasets, offering an accurate and versatile framework for deep analysis and interpretation of ST data.w",
+  "published": "2026-02-13T06:22:43Z",
+  "link": "https://arxiv.org/abs/2602.12651v1",
+  "pdf": "https://arxiv.org/pdf/2602.12651v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:54.091552"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.11881v1",
+  "title": "From Atoms to Trees: Building a Structured Feature Forest with Hierarchical Sparse Autoencoders",
+  "authors": "Bin Dong",
+  "summary": "Sparse autoencoders (SAEs) have proven effective for extracting monosemantic features from large language models (LLMs), yet these features are typically identified in isolation. However, broad evidence suggests that LLMs capture the intrinsic structure of natural language, where the phenomenon of \"feature splitting\" in particular indicates that such structure is hierarchical. To capture this, we propose the Hierarchical Sparse Autoencoder (HSAE), which jointly learns a series of SAEs and the parent-child relationships between their features. HSAE strengthens the alignment between parent and child features through two novel mechanisms: a structural constraint loss and a random feature perturbation mechanism. Extensive experiments across various LLMs and layers demonstrate that HSAE consistently recovers semantically meaningful hierarchies, supported by both qualitative case studies and rigorous quantitative metrics. At the same time, HSAE preserves the reconstruction fidelity and interpretability of standard SAEs across different dictionary sizes. Our work provides a powerful, scalable tool for discovering and analyzing the multi-scale conceptual structures embedded in LLM representations.",
+  "published": "2026-02-12T12:30:23Z",
+  "link": "https://arxiv.org/abs/2602.11881v1",
+  "pdf": "https://arxiv.org/pdf/2602.11881v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:27:52.637594"
+}

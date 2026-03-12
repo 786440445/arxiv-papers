@@ -1,0 +1,11 @@
+{
+  "id": "2602.16685v1",
+  "title": "Generalized determinantal representation of hypersurfaces",
+  "authors": "Supravat Sarkar",
+  "summary": "In this article we extend the notion of determinantal representation of hypersurfaces to the determinantal representation of sections of the determinant line bundle of a vector bundle. We give several examples, and prove some necessary conditions for existence of determinantal representation. As an application, we show that for any integer $d \\geq 1,$ there is an indecomposable vector bundle $E_d$ of rank $2$ on $\\mathbb{P}^2$ such that almost all curves of degree $d$ of $\\mathbb{P}^2$ arise as the degeneracy loci of a pair of holomorphic sections of $E_d$, upto an automorphism of $\\mathbb{P}^2$. We use this result to obtain a linear algebraic application.",
+  "published": "2026-02-18T18:28:16Z",
+  "link": "https://arxiv.org/abs/2602.16685v1",
+  "pdf": "https://arxiv.org/pdf/2602.16685v1.pdf",
+  "category": "math.AG",
+  "fetched_at": "2026-03-10T22:28:01.714372"
+}

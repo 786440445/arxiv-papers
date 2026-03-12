@@ -1,0 +1,11 @@
+{
+  "id": "2602.05639v1",
+  "title": "Joint Embedding Variational Bayes",
+  "authors": "Paul Fieguth",
+  "summary": "We introduce Variational Joint Embedding (VJE), a framework that synthesizes joint embedding and variational inference to enable self-supervised learning of probabilistic representations in a reconstruction-free, non-contrastive setting. Compared to energy-based predictive objectives that optimize pointwise discrepancies, VJE maximizes a symmetric conditional evidence lower bound (ELBO) for a latent-variable model defined directly on encoder embeddings. We instantiate the conditional likelihood with a heavy-tailed Student-$t$ model using a polar decomposition that explicitly decouples directional and radial factors to prevent norm-induced instabilities during training. VJE employs an amortized inference network to parameterize a diagonal Gaussian variational posterior whose feature-wise variances are shared with the likelihood scale to capture anisotropic uncertainty without auxiliary projection heads. Across ImageNet-1K, CIFAR-10/100, and STL-10, VJE achieves performance comparable to standard non-contrastive baselines under linear and k-NN evaluation. We further validate these probabilistic semantics through one-class CIFAR-10 anomaly detection, where likelihood-based scoring under the proposed model outperforms comparable self-supervised baselines.",
+  "published": "2026-02-05T13:18:53Z",
+  "link": "https://arxiv.org/abs/2602.05639v1",
+  "pdf": "https://arxiv.org/pdf/2602.05639v1.pdf",
+  "category": "cs.LG, stat.ML",
+  "fetched_at": "2026-03-10T22:27:40.853688"
+}

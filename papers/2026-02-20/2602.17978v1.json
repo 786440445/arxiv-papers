@@ -1,0 +1,11 @@
+{
+  "id": "2602.17978v1",
+  "title": "Learning Optimal and Sample-Efficient Decision Policies with Guarantees",
+  "authors": "Daqian Shao",
+  "summary": "The paradigm of decision-making has been revolutionised by reinforcement learning and deep learning. Although this has led to significant progress in domains such as robotics, healthcare, and finance, the use of RL in practice is challenging, particularly when learning decision policies in high-stakes applications that may require guarantees. Traditional RL algorithms rely on a large number of online interactions with the environment, which is problematic in scenarios where online interactions are costly, dangerous, or infeasible. However, learning from offline datasets is hindered by the presence of hidden confounders. Such confounders can cause spurious correlations in the dataset and can mislead the agent into taking suboptimal or adversarial actions. Firstly, we address the problem of learning from offline datasets in the presence of hidden confounders. We work with instrumental variables (IVs) to identify the causal effect, which is an instance of a conditional moment restrictions (CMR) problem. Inspired by double/debiased machine learning, we derive a sample-efficient algorithm for solving CMR problems with convergence and optimality guarantees, which outperforms state-of-the-art algorithms. Secondly, we relax the conditions on the hidden confounders in the setting of (offline) imitation learning, and adapt our CMR estimator to derive an algorithm that can learn effective imitator policies with convergence rate guarantees. Finally, we consider the problem of learning high-level objectives expressed in linear temporal logic (LTL) and develop a provably optimal learning algorithm that improves sample efficiency over existing methods. Through evaluation on reinforcement learning benchmarks and synthetic and semi-synthetic datasets, we demonstrate the usefulness of the methods developed in this thesis in real-world decision making.",
+  "published": "2026-02-20T04:24:49Z",
+  "link": "https://arxiv.org/abs/2602.17978v1",
+  "pdf": "https://arxiv.org/pdf/2602.17978v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:28:04.394544"
+}

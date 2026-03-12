@@ -1,0 +1,11 @@
+{
+  "id": "2602.11516v1",
+  "title": "Human-Inspired Continuous Learning of Internal Reasoning Processes: Learning How to Think for Adaptive AI Systems",
+  "authors": "Hong Su",
+  "summary": "Learning internal reasoning processes is crucial for developing AI systems capable of sustained adaptation in dynamic real-world environments. However, most existing approaches primarily emphasize learning task-specific outputs or static knowledge representations, while overlooking the continuous refinement of internal reasoning structures, action scheduling policies, and learning mechanisms themselves. In this paper, we propose a human-inspired continuous learning framework that unifies reasoning, action, reflection, and verification within a sequential reasoning model enhanced by parallel learning. The framework explicitly treats internal thinking processes as primary learning objects. It systematically records internal reasoning trajectories and environmental interactions as structured learning material, enabling the system to optimize not only task-level content but also the organization, scheduling, and evolution of reasoning activities. This design realizes learning alongside processing, allowing cognitive structures to improve during execution. Furthermore, the framework supports controlled replacement of predefined logic with learned procedures and introduces a hierarchical learning-to-learn mechanism that jointly adapts task-level parameters and learning strategies. As a result, the system progressively evolves its internal cognitive architecture while preserving operational stability. Experimental results on a temperature sensor abnormality detection task show that incorporating internal-process learning reduces average runtime by 23.9%.",
+  "published": "2026-02-12T03:19:04Z",
+  "link": "https://arxiv.org/abs/2602.11516v1",
+  "pdf": "https://arxiv.org/pdf/2602.11516v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:27:52.638287"
+}

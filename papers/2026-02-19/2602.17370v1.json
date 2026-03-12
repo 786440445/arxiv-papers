@@ -1,0 +1,11 @@
+{
+  "id": "2602.17370v1",
+  "title": "Fukaya categories of orbifold surfaces in representation theory",
+  "authors": "Zhengfang Wang",
+  "summary": "We give an introduction to partially wrapped Fukaya categories of surfaces with orbifold singularities. Dissecting an orbifold surface $\\mathbf S$ into polygons, certain dissections give rise to formal generators, inducing a triangulated equivalence between the derived Fukaya category of $\\mathbf S$ and the perfect derived category of a graded associative algebra. This provides a geometric means for obtaining associative algebras -- conjecturally all -- which are derived equivalent to skew-gentle algebras.\n  We include a new perspective on the partially wrapped Fukaya category of an orbifold disk which serves as a local model for the Fukaya categories of general orbifold surfaces. This perspective yields an equivalence between the perfect derived category of a quiver of type $\\mathrm D_{n+1}$ and the perfect derived category of a graded quiver of type $\\widetilde{\\mathrm A}_{n-1}$, the latter being equipped with quadratic zero relations and a nontrivial A$_\\infty$ structure. This equivalence elucidates the relationship between skew-gentle algebras and orbifold surfaces, and the role of deformation theory in this relationship.",
+  "published": "2026-02-19T13:51:20Z",
+  "link": "https://arxiv.org/abs/2602.17370v1",
+  "pdf": "https://arxiv.org/pdf/2602.17370v1.pdf",
+  "category": "math.RT, math.RA, math.SG",
+  "fetched_at": "2026-03-10T22:28:03.150072"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.01153v1",
+  "title": "UniForce: A Unified Latent Force Model for Robot Manipulation with Diverse Tactile Sensors",
+  "authors": "Shan Luo",
+  "summary": "Force sensing is essential for dexterous robot manipulation, but scaling force-aware policy learning is hindered by the heterogeneity of tactile sensors. Differences in sensing principles (e.g., optical vs. magnetic), form factors, and materials typically require sensor-specific data collection, calibration, and model training, thereby limiting generalisability. We propose UniForce, a novel unified tactile representation learning framework that learns a shared latent force space across diverse tactile sensors. UniForce reduces cross-sensor domain shift by jointly modeling inverse dynamics (image-to-force) and forward dynamics (force-to-image), constrained by force equilibrium and image reconstruction losses to produce force-grounded representations. To avoid reliance on expensive external force/torque (F/T) sensors, we exploit static equilibrium and collect force-paired data via direct sensor--object--sensor interactions, enabling cross-sensor alignment with contact force. The resulting universal tactile encoder can be plugged into downstream force-aware robot manipulation tasks with zero-shot transfer, without retraining or finetuning. Extensive experiments on heterogeneous tactile sensors including GelSight, TacTip, and uSkin, demonstrate consistent improvements in force estimation over prior methods, and enable effective cross-sensor coordination in Vision-Tactile-Language-Action (VTLA) models for a robotic wiping task. Code and datasets will be released.",
+  "published": "2026-02-01T11:03:01Z",
+  "link": "https://arxiv.org/abs/2602.01153v1",
+  "pdf": "https://arxiv.org/pdf/2602.01153v1.pdf",
+  "category": "cs.RO",
+  "fetched_at": "2026-03-10T22:27:32.802565"
+}

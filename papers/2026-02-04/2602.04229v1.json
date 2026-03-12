@@ -1,0 +1,11 @@
+{
+  "id": "2602.04229v1",
+  "title": "Quantum fields from real-time ensemble dynamics",
+  "authors": "Yong Zhang",
+  "summary": "Relativistic quantum field theory (QFT) is commonly formulated in terms of operators, asymptotic states, and covariant amplitudes, a perspective that tends to obscure the real-time origin of field dynamics and correlations. Here we formulate quantum fields in a real-time Schrödinger-picture framework, in which fields evolve as probability ensembles on the space of field configurations. Within this formulation, the wavefunctional $Ψ[φ,t]$ encodes a first-order, causal ensemble dynamics on configuration space. Interactions appear as couplings between configuration-space directions, while propagators arise as derived correlation structures rather than as fundamental postulates. Entanglement, scattering amplitudes, and conformal field theory correlators emerge as distinct projections of the same underlying ensemble evolution, corresponding to equal-time, asymptotic, and symmetry-organized observables. Standard operator, diagrammatic, and path-integral formulations are recovered as computational representations of this single real-time dynamics. This organization makes explicit the distinction between fundamental dynamical structure and representational tools in QFT, and clarifies the scope within which ensemble-averaged correlators account for quantum fluctuations, while also delineating the level at which questions associated with individual realizations and randomness would arise beyond the correlator-based field-theoretic description.",
+  "published": "2026-02-04T05:40:38Z",
+  "link": "https://arxiv.org/abs/2602.04229v1",
+  "pdf": "https://arxiv.org/pdf/2602.04229v1.pdf",
+  "category": "hep-th, quant-ph",
+  "fetched_at": "2026-03-10T22:27:39.430818"
+}

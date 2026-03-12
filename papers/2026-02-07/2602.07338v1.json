@@ -1,0 +1,11 @@
+{
+  "id": "2602.07338v1",
+  "title": "Intent Mismatch Causes LLMs to Get Lost in Multi-Turn Conversation",
+  "authors": "Gaofeng Meng",
+  "summary": "Multi-turn conversation has emerged as a predominant interaction paradigm for Large Language Models (LLMs). Users often employ follow-up questions to refine their intent, expecting LLMs to adapt dynamically. However, recent research reveals that LLMs suffer a substantial performance drop in multi-turn settings compared to single-turn interactions with fully specified instructions, a phenomenon termed ``Lost in Conversation'' (LiC). While this prior work attributes LiC to model unreliability, we argue that the root cause lies in an intent alignment gap rather than intrinsic capability deficits. In this paper, we first demonstrate that LiC is not a failure of model capability but rather a breakdown in interaction between users and LLMs. We theoretically show that scaling model size or improving training alone cannot resolve this gap, as it arises from structural ambiguity in conversational context rather than representational limitations. To address this, we propose to decouple intent understanding from task execution through a Mediator-Assistant architecture. By utilizing an experience-driven Mediator to explicate user inputs into explicit, well-structured instructions based on historical interaction patterns, our approach effectively bridges the gap between vague user intent and model interpretation. Experimental results demonstrate that this method significantly mitigates performance degradation in multi-turn conversations across diverse LLMs.",
+  "published": "2026-02-07T03:41:04Z",
+  "link": "https://arxiv.org/abs/2602.07338v1",
+  "pdf": "https://arxiv.org/pdf/2602.07338v1.pdf",
+  "category": "cs.CL, cs.AI",
+  "fetched_at": "2026-03-10T22:27:43.907734"
+}

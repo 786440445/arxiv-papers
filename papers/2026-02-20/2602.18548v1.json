@@ -1,0 +1,11 @@
+{
+  "id": "2602.18548v1",
+  "title": "1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World",
+  "authors": "Xu Liu",
+  "summary": "Design-to-code translates high-fidelity UI designs into executable front-end implementations, but progress remains hard to compare due to inconsistent datasets, toolchains, and evaluation protocols. We introduce 1D-Bench, a benchmark grounded in real e-commerce workflows, where each instance provides a reference rendering and an exported intermediate representation that may contain extraction errors. 1D is short for one day, representing the efficient completion of design-to-code tasks in less than one day. Models take both as input, using the intermediate representation as structural cues while being evaluated against the reference rendering, which tests robustness to intermediate representation defects rather than literal adherence.\n  1D-Bench requires generating an executable React codebase under a fixed toolchain with an explicit component hierarchy, and defines a multi-round setting in which models iteratively apply component-level edits using execution feedback. Experiments on commercial and open-weight multimodal models show that iterative editing generally improves final performance by increasing rendering success and often improving visual similarity. We further conduct a pilot study on post-training with synthetic repair trajectories and reinforcement learning based editing, and observe limited and unstable gains that may stem from sparse terminal rewards and high-variance file-level updates.",
+  "published": "2026-02-20T17:46:51Z",
+  "link": "https://arxiv.org/abs/2602.18548v1",
+  "pdf": "https://arxiv.org/pdf/2602.18548v1.pdf",
+  "category": "cs.SE, cs.AI",
+  "fetched_at": "2026-03-10T22:28:04.393381"
+}

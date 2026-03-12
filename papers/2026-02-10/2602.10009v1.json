@@ -1,0 +1,11 @@
+{
+  "id": "2602.10009v1",
+  "title": "Discovering High Level Patterns from Simulation Traces",
+  "authors": "Kartic Subr",
+  "summary": "Artificial intelligence (AI) agents embedded in environments with physics-based interaction face many challenges including reasoning, planning, summarization, and question answering. This problem is exacerbated when a human user wishes to either guide or interact with the agent in natural language. Although the use of Language Models (LMs) is the default choice, as an AI tool, they struggle with tasks involving physics. The LM's capability for physical reasoning is learned from observational data, rather than being grounded in simulation. A common approach is to include simulation traces as context, but this suffers from poor scalability as simulation traces contain larger volumes of fine-grained numerical and semantic data. In this paper, we propose a natural language guided method to discover coarse-grained patterns (e.g., 'rigid-body collision', 'stable support', etc.) from detailed simulation logs. Specifically, we synthesize programs that operate on simulation logs and map them to a series of high level activated patterns. We show, through two physics benchmarks, that this annotated representation of the simulation log is more amenable to natural language reasoning about physical systems. We demonstrate how this method enables LMs to generate effective reward programs from goals specified in natural language, which may be used within the context of planning or supervised learning.",
+  "published": "2026-02-10T17:31:39Z",
+  "link": "https://arxiv.org/abs/2602.10009v1",
+  "pdf": "https://arxiv.org/pdf/2602.10009v1.pdf",
+  "category": "cs.AI, cs.HC",
+  "fetched_at": "2026-03-10T22:27:50.023919"
+}

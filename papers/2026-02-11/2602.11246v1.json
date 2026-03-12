@@ -1,0 +1,11 @@
+{
+  "id": "2602.11246v1",
+  "title": "How Many Features Can a Language Model Store Under the Linear Representation Hypothesis?",
+  "authors": "Kenny Peng",
+  "summary": "We introduce a mathematical framework for the linear representation hypothesis (LRH), which asserts that intermediate layers of language models store features linearly. We separate the hypothesis into two claims: linear representation (features are linearly embedded in neuron activations) and linear accessibility (features can be linearly decoded). We then ask: How many neurons $d$ suffice to both linearly represent and linearly access $m$ features? Classical results in compressed sensing imply that for $k$-sparse inputs, $d = O(k\\log (m/k))$ suffices if we allow non-linear decoding algorithms (Candes and Tao, 2006; Candes et al., 2006; Donoho, 2006). However, the additional requirement of linear decoding takes the problem out of the classical compressed sensing, into linear compressed sensing.\n  Our main theoretical result establishes nearly-matching upper and lower bounds for linear compressed sensing. We prove that $d = Ω_ε(\\frac{k^2}{\\log k}\\log (m/k))$ is required while $d = O_ε(k^2\\log m)$ suffices. The lower bound establishes a quantitative gap between classical and linear compressed setting, illustrating how linear accessibility is a meaningfully stronger hypothesis than linear representation alone. The upper bound confirms that neurons can store an exponential number of features under the LRH, giving theoretical evidence for the \"superposition hypothesis\" (Elhage et al., 2022).\n  The upper bound proof uses standard random constructions of matrices with approximately orthogonal columns. The lower bound proof uses rank bounds for near-identity matrices (Alon, 2003) together with Turán's theorem (bounding the number of edges in clique-free graphs). We also show how our results do and do not constrain the geometry of feature representations and extend our results to allow decoders with an activation function and bias.",
+  "published": "2026-02-11T17:49:32Z",
+  "link": "https://arxiv.org/abs/2602.11246v1",
+  "pdf": "https://arxiv.org/pdf/2602.11246v1.pdf",
+  "category": "cs.LG, cs.AI, cs.CL, cs.IT, math.CO",
+  "fetched_at": "2026-03-10T22:27:51.288913"
+}

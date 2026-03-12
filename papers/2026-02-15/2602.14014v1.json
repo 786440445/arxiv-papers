@@ -1,0 +1,11 @@
+{
+  "id": "2602.14014v1",
+  "title": "Pulsar Timing Array in the past decade",
+  "authors": "Siyuan Chen",
+  "summary": "The past decade has been a transformative period for pulsar timing arrays (PTAs) and their search for nanohertz gravitational waves (GWs). This progress has been driven by collective advances in instrumentation for pulsar timing observations, increasingly sophisticated data-analysis techniques, and improved theoretical understanding of the origins of nanohertz GW signals. PTA sensitivity has steadily improved, leading first to progressively more stringent upper limits on the gravitational-wave background (GWB), and subsequently to the identification of a common red-noise process in pulsar timing data, the first hint of a GWB. In 2023, multiple PTA collaborations reported evidence for the Hellings-Downs correlation, widely regarded as the definitive signature of a GWB. These developments place PTAs on the threshold of a confident GW detection and the opening of a new low-frequency window on the GW Universe. In this article, we present an overview of PTA experiments, with particular emphasis on the rapid progress achieved during this pivotal period for PTA and nanohertz GW science.",
+  "published": "2026-02-15T06:40:20Z",
+  "link": "https://arxiv.org/abs/2602.14014v1",
+  "pdf": "https://arxiv.org/pdf/2602.14014v1.pdf",
+  "category": "astro-ph.HE",
+  "fetched_at": "2026-03-10T22:27:56.678913"
+}

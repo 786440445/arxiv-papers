@@ -1,0 +1,11 @@
+{
+  "id": "2602.13637v1",
+  "title": "DCDM: Divide-and-Conquer Diffusion Models for Consistency-Preserving Video Generation",
+  "authors": "Yu-Gang Jiang",
+  "summary": "Recent video generative models have demonstrated impressive visual fidelity, yet they often struggle with semantic, geometric, and identity consistency. In this paper, we propose a system-level framework, termed the Divide-and-Conquer Diffusion Model (DCDM), to address three key challenges: (1) intra-clip world knowledge consistency, (2) inter-clip camera consistency, and (3) inter-shot element consistency. DCDM decomposes video consistency modeling under these scenarios into three dedicated components while sharing a unified video generation backbone. For intra-clip consistency, DCDM leverages a large language model to parse input prompts into structured semantic representations, which are subsequently translated into coherent video content by a diffusion transformer. For inter-clip camera consistency, we propose a temporal camera representation in the noise space that enables precise and stable camera motion control, along with a text-to-image initialization mechanism to further enhance controllability. For inter-shot consistency, DCDM adopts a holistic scene generation paradigm with windowed cross-attention and sparse inter-shot self-attention, ensuring long-range narrative coherence while maintaining computational efficiency. We validate our framework on the test set of the CVM Competition at AAAI'26, and the results demonstrate that the proposed strategies effectively address these challenges.",
+  "published": "2026-02-14T07:02:36Z",
+  "link": "https://arxiv.org/abs/2602.13637v1",
+  "pdf": "https://arxiv.org/pdf/2602.13637v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:55.305976"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09332v1",
+  "title": "TimberAgent: Gram-Guided Retrieval for Executable Music Effect Control",
+  "authors": "Shihao He, Yihan Xia, Fang Liu, Taotao Wang, Shengli Zhang",
+  "summary": "arXiv:2603.09332v1 Announce Type: new \nAbstract: Digital audio workstations expose rich effect chains, yet a semantic gap remains between perceptual user intent and low-level signal-processing parameters. We study retrieval-grounded audio effect control, where the output is an editable plugin configuration rather than a finalized waveform. Our focus is Texture Resonance Retrieval (TRR), an audio representation built from Gram matrices of projected mid-level Wav2Vec2 activations. This design preserves texture-relevant co-activation structure. We evaluate TRR on a guitar-effects benchmark with 1,063 candidate presets and 204 queries. The evaluation follows Protocol-A, a cross-validation scheme that prevents train-test leakage. We compare TRR against CLAP and internal retrieval baselines (Wav2Vec-RAG, Text-RAG, FeatureNN-RAG), using min-max normalized metrics grounded in physical DSP parameter ranges. Ablation studies validate TRR's core design choices: projection dimensionality, layer selection, and projection type. A near-duplicate sensitivity analysis confirms that results are robust to trivial knowledge-base matches. TRR achieves the lowest normalized parameter error among evaluated methods. A multiple-stimulus listening study with 26 participants provides complementary perceptual evidence. We interpret these results as benchmark evidence that texture-aware retrieval is useful for editable audio effect control, while broader personalization and real-audio robustness claims remain outside the verified evidence presented here.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09332",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09332v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195574"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.18535v1",
+  "title": "Fairness-Aware Partial-label Domain Adaptation for Voice Classification of Parkinson's and ALS",
+  "authors": "Mary-Anne Hartley",
+  "summary": "Voice-based digital biomarkers can enable scalable, non-invasive screening and monitoring of Parkinson's disease (PD) and Amyotrophic Lateral Sclerosis (ALS). However, models trained on one cohort or device often fail on new acquisition settings due to cross-device and cross-cohort domain shift. This challenge is amplified in real-world scenarios with partial-label mismatch, where datasets may contain different disease labels and only partially overlap in class space. In addition, voice-based models may exploit demographic cues, raising concerns about gender-related unfairness, particularly when deployed across heterogeneous cohorts. To tackle these challenges, we propose a hybrid framework for unified three-class (healthy/PD/ALS) cross-domain voice classification from partially overlapping cohorts. The method combines style-based domain generalization with conditional adversarial alignment tailored to partial-label settings, reducing negative transfer. An additional adversarial gender branch promotes gender-invariant representations. We conduct a comprehensive evaluation across four heterogeneous sustained-vowel datasets, spanning distinct acquisition settings and devices, under both domain generalization and unsupervised domain adaptation protocols. The proposed approach is compared against twelve state-of-the-art machine learning and deep learning methods, and further evaluated through three targeted ablations, providing the first cross-cohort benchmark and end-to-end domain-adaptive framework for unified healthy/PD/ALS voice classification under partial-label mismatch and fairness constraints. Across all experimental settings, our method consistently achieves the best external generalization over the considered evaluation metrics, while maintaining reduced gender disparities. Notably, no competing method shows statistically significant gains in external performance.",
+  "published": "2026-02-20T11:18:44Z",
+  "link": "https://arxiv.org/abs/2602.18535v1",
+  "pdf": "https://arxiv.org/pdf/2602.18535v1.pdf",
+  "category": "cs.SD, cs.AI",
+  "fetched_at": "2026-03-10T22:28:04.393434"
+}

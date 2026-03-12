@@ -1,0 +1,11 @@
+{
+  "id": "2602.13013v1",
+  "title": "Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions",
+  "authors": "Ming-Ming Cheng",
+  "summary": "Universal video understanding requires modeling fine-grained visual and audio information over time in diverse real-world scenarios. However, the performance of existing models is primarily constrained by video-instruction data that represents complex audiovisual content as single, incomplete descriptions, lacking fine-grained organization and reliable annotation. To address this, we introduce: (i) ASID-1M, an open-source collection of one million structured, fine-grained audiovisual instruction annotations with single- and multi-attribute supervision; (ii) ASID-Verify, a scalable data curation pipeline for annotation, with automatic verification and refinement that enforces semantic and temporal consistency between descriptions and the corresponding audiovisual content; and (iii) ASID-Captioner, a video understanding model trained via Supervised Fine-Tuning (SFT) on the ASID-1M. Experiments across seven benchmarks covering audiovisual captioning, attribute-wise captioning, caption-based QA, and caption-based temporal grounding show that ASID-Captioner improves fine-grained caption quality while reducing hallucinations and improving instruction following. It achieves state-of-the-art performance among open-source models and is competitive with Gemini-3-Pro.",
+  "published": "2026-02-13T15:20:54Z",
+  "link": "https://arxiv.org/abs/2602.13013v1",
+  "pdf": "https://arxiv.org/pdf/2602.13013v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:54.092862"
+}

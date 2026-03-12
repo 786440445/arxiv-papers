@@ -1,0 +1,11 @@
+{
+  "id": "2602.11518v1",
+  "title": "KuaiSearch: A Large-Scale E-Commerce Search Dataset for Recall, Ranking, and Relevance",
+  "authors": "Wenwu Ou",
+  "summary": "E-commerce search serves as a central interface, connecting user demands with massive product inventories and plays a vital role in our daily lives. However, in real-world applications, it faces challenges, including highly ambiguous queries, noisy product texts with weak semantic order, and diverse user preferences, all of which make it difficult to accurately capture user intent and fine-grained product semantics. In recent years, significant advances in large language models (LLMs) for semantic representation and contextual reasoning have created new opportunities to address these challenges. Nevertheless, existing e-commerce search datasets still suffer from notable limitations: queries are often heuristically constructed, cold-start users and long-tail products are filtered out, query and product texts are anonymized, and most datasets cover only a single stage of the search pipeline. Collectively, these issues constrain research on LLM-based e-commerce search. To address these challenges, we construct and release KuaiSearch. To the best of our knowledge, it is the largest e-commerce search dataset currently available. KuaiSearch is built upon real user search interactions from the Kuaishou platform, preserving authentic user queries and natural-language product texts, covering cold-start users and long-tail products, and systematically spanning three key stages of the search pipeline: recall, ranking, and relevance judgment. We conduct a comprehensive analysis of KuaiSearch from multiple perspectives, including products, users, and queries, and establish benchmark experiments across several representative search tasks. Experimental results demonstrate that KuaiSearch provides a valuable foundation for research on real-world e-commerce search.",
+  "published": "2026-02-12T03:22:05Z",
+  "link": "https://arxiv.org/abs/2602.11518v1",
+  "pdf": "https://arxiv.org/pdf/2602.11518v1.pdf",
+  "category": "cs.IR",
+  "fetched_at": "2026-03-10T22:27:52.638221"
+}

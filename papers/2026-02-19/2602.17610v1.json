@@ -1,0 +1,11 @@
+{
+  "id": "2602.17610v1",
+  "title": "Exploring Novel Data Storage Approaches for Large-Scale Numerical Weather Prediction",
+  "authors": "Nicolau Manubens Gil",
+  "summary": "Driven by scientific and industry ambition, HPC and AI applications such as operational Numerical Weather Prediction (NWP) require processing and storing ever-increasing data volumes as fast as possible. Whilst POSIX distributed file systems and NVMe SSDs are currently a common HPC storage configuration providing I/O to applications, new storage solutions have proliferated or gained traction over the last decade with potential to address performance limitations POSIX file systems manifest at scale for certain I/O workloads.\n  This work has primarily aimed to assess the suitability and performance of two object storage systems -namely DAOS and Ceph- for the ECMWF's operational NWP as well as for HPC and AI applications in general. New software-level adapters have been developed which enable the ECMWF's NWP to leverage these systems, and extensive I/O benchmarking has been conducted on a few computer systems, comparing the performance delivered by the evaluated object stores to that of equivalent Lustre file system deployments on the same hardware. Challenges of porting to object storage and its benefits with respect to the traditional POSIX I/O approach have been discussed and, where possible, domain-agnostic performance analysis has been conducted, leading to insight also of relevance to I/O practitioners and the broader HPC community.\n  DAOS and Ceph have both demonstrated excellent performance, but DAOS stood out relative to Ceph and Lustre, providing superior scalability and flexibility for applications to perform I/O at scale as desired. This sets a promising outlook for DAOS and object storage, which might see greater adoption at HPC centres in the years to come, although not necessarily implying a shift away from POSIX-like I/O.",
+  "published": "2026-02-19T18:35:41Z",
+  "link": "https://arxiv.org/abs/2602.17610v1",
+  "pdf": "https://arxiv.org/pdf/2602.17610v1.pdf",
+  "category": "cs.DC, cs.DB",
+  "fetched_at": "2026-03-10T22:28:03.150937"
+}

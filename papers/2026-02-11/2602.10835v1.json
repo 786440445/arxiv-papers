@@ -1,0 +1,11 @@
+{
+  "id": "2602.10835v1",
+  "title": "Reference Output Tracking in Boolean Control Networks",
+  "authors": "Maria Elena Valcher",
+  "summary": "In this paper, the problem of tracking a given reference output trajectory is investigated for the class of Boolean control networks, by resorting to their algebraic representation. First, the case of a finite-length reference trajectory is addressed, and the analysis and algorithm first proposed in [17] are extended to be able to deal with arbitrary initial conditions and to identify all possible solutions. The approach developed for the finite-length case is then adjusted to cope with periodic reference output trajectories. The results of the paper are illustrated through an example.",
+  "published": "2026-02-11T13:21:32Z",
+  "link": "https://arxiv.org/abs/2602.10835v1",
+  "pdf": "https://arxiv.org/pdf/2602.10835v1.pdf",
+  "category": "eess.SY",
+  "fetched_at": "2026-03-10T22:27:51.290233"
+}

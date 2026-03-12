@@ -1,0 +1,11 @@
+{
+  "id": "2602.03390v1",
+  "title": "From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning",
+  "authors": "Jae-Pil Heo",
+  "summary": "Unsupervised object-centric learning models, particularly slot-based architectures, have shown great promise in decomposing complex scenes. However, their reliance on reconstruction-based training creates a fundamental conflict between the sharp, high-frequency attention maps of the encoder and the spatially consistent but blurry reconstruction maps of the decoder. We identify that this discrepancy gives rise to a vicious cycle: the noisy feature map from the encoder forces the decoder to average over possibilities and produce even blurrier outputs, while the gradient computed from blurry reconstruction maps lacks high-frequency details necessary to supervise encoder features. To break this cycle, we introduce Synergistic Representation Learning (SRL) that establishes a virtuous cycle where the encoder and decoder mutually refine one another. SRL leverages the encoder's sharpness to deblur the semantic boundary within the decoder output, while exploiting the decoder's spatial consistency to denoise the encoder's features. This mutual refinement process is stabilized by a warm-up phase with a slot regularization objective that initially allocates distinct entities per slot. By bridging the representational gap between the encoder and decoder, SRL achieves state-of-the-art results on video object-centric learning benchmarks. Codes are available at https://github.com/hynnsk/SRL.",
+  "published": "2026-02-03T11:11:58Z",
+  "link": "https://arxiv.org/abs/2602.03390v1",
+  "pdf": "https://arxiv.org/pdf/2602.03390v1.pdf",
+  "category": "cs.CV, cs.LG",
+  "fetched_at": "2026-03-10T22:27:37.899474"
+}

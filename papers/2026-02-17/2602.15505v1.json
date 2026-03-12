@@ -1,0 +1,11 @@
+{
+  "id": "2602.15505v1",
+  "title": "Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M",
+  "authors": "Giovanni Semeraro",
+  "summary": "With the growing interest in Multimodal Recommender Systems (MRSs), collecting high-quality datasets provided with multimedia side information (text, images, audio, video) has become a fundamental step. However, most of the current literature in the field relies on small- or medium-scale datasets that are either not publicly released or built using undocumented processes.\n  In this paper, we aim to fill this gap by releasing M3L-10M and M3L-20M, two large-scale, reproducible, multimodal datasets for the movie domain, obtained by enriching with multimodal features the popular MovieLens-10M and MovieLens-20M, respectively. By following a fully documented pipeline, we collect movie plots, posters, and trailers, from which textual, visual, acoustic, and video features are extracted using several state-of-the-art encoders. We publicly release mappings to download the original raw data, the extracted features, and the complete datasets in multiple formats, fostering reproducibility and advancing the field of MRSs. In addition, we conduct qualitative and quantitative analyses that showcase our datasets across several perspectives.\n  This work represents a foundational step to ensure reproducibility and replicability in the large-scale, multimodal movie recommendation domain. Our resource can be fully accessed at the following link: https://zenodo.org/records/18499145, while the source code is accessible at https://github.com/giuspillo/M3L_10M_20M.",
+  "published": "2026-02-17T11:22:20Z",
+  "link": "https://arxiv.org/abs/2602.15505v1",
+  "pdf": "https://arxiv.org/pdf/2602.15505v1.pdf",
+  "category": "cs.IR",
+  "fetched_at": "2026-03-10T22:28:00.143357"
+}

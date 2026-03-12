@@ -1,0 +1,11 @@
+{
+  "id": "2602.07764v1",
+  "title": "Preference Conditioned Multi-Objective Reinforcement Learning: Decomposed, Diversity-Driven Policy Optimization",
+  "authors": "Abhinav Verma",
+  "summary": "Multi-objective reinforcement learning (MORL) seeks to learn policies that balance multiple, often conflicting objectives. Although a single preference-conditioned policy is the most flexible and scalable solution, existing approaches remain brittle in practice, frequently failing to recover complete Pareto fronts. We show that this failure stems from two structural issues in current methods: destructive gradient interference caused by premature scalarization and representational collapse across the preference space. We introduce $D^3PO$, a PPO-based framework that reorganizes multi-objective policy optimization to address these issues directly. $D^3PO$ preserves per-objective learning signals through a decomposed optimization pipeline and integrates preferences only after stabilization, enabling reliable credit assignment. In addition, a scaled diversity regularizer enforces sensitivity of policy behavior to preference changes, preventing collapse. Across standard MORL benchmarks, including high-dimensional and many-objective control tasks, $D^3PO$ consistently discovers broader and higher-quality Pareto fronts than prior single- and multi-policy methods, matching or exceeding state-of-the-art hypervolume and expected utility while using a single deployable policy.",
+  "published": "2026-02-08T01:45:01Z",
+  "link": "https://arxiv.org/abs/2602.07764v1",
+  "pdf": "https://arxiv.org/pdf/2602.07764v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:46.466458"
+}

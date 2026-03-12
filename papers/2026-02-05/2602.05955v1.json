@@ -1,0 +1,11 @@
+{
+  "id": "2602.05955v1",
+  "title": "Improved Heavy Dark Matter Annihilation Search from Dwarf Galaxies with HAWC",
+  "authors": "H. Zhou",
+  "summary": "Understanding dark matter's elusive nature is crucial for the framework of particle physics and expanding the Standard Model. This analysis utilizes the High Altitude Water Cherenkov (HAWC) gamma ray Observatory to indirectly search for dark matter (DM) by studying gamma ray emission from dwarf spheroidal galaxies (dSphs). Selected for their high ratio of dark matter to baryonic matter, dSphs are useful for this type of search owing to the low background emission. In comparison to previous HAWC studies, we significantly improve our sensitivity to DM from dSphs due to improvements to our event reconstruction and reduced hadronic contamination. We expanded the number of dSphs studied, DM annihilation channels into the Standard Model (SM), and the amount of data collected on each previously studied dSph. We searched for DM signals in each dSph using the latest version of the algorithms used to reconstruct data from the primary detector of the HAWC instrument. We report that we do not detect evidence of DM from dSphs, so we place upper limits for the velocity-weighted DM annihilation cross-section ($\\langleσv \\rangle$) on the order of $10^{-23}~\\text{cm}^3\\text{s}^{-1}$ for a DM mass range of $1-10^4$ TeV.",
+  "published": "2026-02-05T18:09:58Z",
+  "link": "https://arxiv.org/abs/2602.05955v1",
+  "pdf": "https://arxiv.org/pdf/2602.05955v1.pdf",
+  "category": "astro-ph.HE",
+  "fetched_at": "2026-03-10T22:27:40.854256"
+}

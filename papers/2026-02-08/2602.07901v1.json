@@ -1,0 +1,11 @@
+{
+  "id": "2602.07901v1",
+  "title": "Incremental Mapping with Measurement Synchronization & Compression",
+  "authors": "Pavel Osinenko",
+  "summary": "Modern autonomous vehicles and robots utilize versatile sensors for localization and mapping. The fidelity of these maps is paramount, as an accurate environmental representation is a prerequisite for stable and precise localization. Factor graphs provide a powerful approach for sensor fusion, enabling the estimation of the maximum a posteriori solution. However, the discrete nature of graph-based representations, combined with asynchronous sensor measurements, complicates consistent state estimation. The design of an optimal factor graph topology remains an open challenge, especially in multi-sensor systems with asynchronous data. Conventional approaches rely on a rigid graph structure, which becomes inefficient with sensors of disparate rates. Although preintegration techniques can mitigate this for high-rate sensors, their applicability is limited. To address this problem, this work introduces a novel approach that incrementally constructs connected factor graphs, ensuring the incorporation of all available sensor data by choosing the optimal graph topology based on the external evaluation criteria. The proposed methodology facilitates graph compression, reducing the number of nodes (optimized variables) by ~30% on average while maintaining map quality at a level comparable to conventional approaches.",
+  "published": "2026-02-08T10:43:11Z",
+  "link": "https://arxiv.org/abs/2602.07901v1",
+  "pdf": "https://arxiv.org/pdf/2602.07901v1.pdf",
+  "category": "cs.RO, cs.AI",
+  "fetched_at": "2026-03-10T22:27:46.468150"
+}

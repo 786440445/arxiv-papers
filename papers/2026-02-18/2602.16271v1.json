@@ -1,0 +1,11 @@
+{
+  "id": "2602.16271v1",
+  "title": "Impact of Preprocessing on Neural Network-Based RSS/AoA Positioning",
+  "authors": "Rui Dinis",
+  "summary": "Hybrid received signal strength (RSS)-angle of arrival (AoA)-based positioning offers low-cost distance estimation and high-resolution angular measurements. Still, it comes at a cost of inherent nonlinearities, geometry-dependent noise, and suboptimal weighting in conventional linear estimators that might limit accuracy. In this paper, we propose a neural network-based approach using a multilayer perceptron (MLP) to directly map RSS-AoA measurements to 3D positions, capturing nonlinear relationships that are difficult to model with traditional methods. We evaluate the impact of input representation by comparing networks trained on raw measurements versus preprocessed features derived from a linearization method. Simulation results show that the learning-based approach consistently outperforms existing linear methods under RSS noise across all noise levels, and matches or surpasses state-of-the-art performance under increasing AoA noise. Furthermore, preprocessing measurements using the linearization method provides a clear advantage over raw data, demonstrating the benefit of geometry-aware feature extraction.",
+  "published": "2026-02-18T08:44:31Z",
+  "link": "https://arxiv.org/abs/2602.16271v1",
+  "pdf": "https://arxiv.org/pdf/2602.16271v1.pdf",
+  "category": "eess.SP",
+  "fetched_at": "2026-03-10T22:28:01.716138"
+}

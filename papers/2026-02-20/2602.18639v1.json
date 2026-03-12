@@ -1,0 +1,11 @@
+{
+  "id": "2602.18639v1",
+  "title": "Learning Invariant Visual Representations for Planning with Joint-Embedding Predictive World Models",
+  "authors": "James Anderson",
+  "summary": "World models learned from high-dimensional visual observations allow agents to make decisions and plan directly in latent space, avoiding pixel-level reconstruction. However, recent latent predictive architectures (JEPAs), including the DINO world model (DINO-WM), display a degradation in test time robustness due to their sensitivity to \"slow features\". These include visual variations such as background changes and distractors that are irrelevant to the task being solved. We address this limitation by augmenting the predictive objective with a bisimulation encoder that enforces control-relevant state equivalence, mapping states with similar transition dynamics to nearby latent states while limiting contributions from slow features. We evaluate our model on a simple navigation task under different test-time background changes and visual distractors. Across all benchmarks, our model consistently improves robustness to slow features while operating in a reduced latent space, up to 10x smaller than that of DINO-WM. Moreover, our model is agnostic to the choice of pretrained visual encoder and maintains robustness when paired with DINOv2, SimDINOv2, and iBOT features.",
+  "published": "2026-02-20T22:19:46Z",
+  "link": "https://arxiv.org/abs/2602.18639v1",
+  "pdf": "https://arxiv.org/pdf/2602.18639v1.pdf",
+  "category": "cs.LG, math.OC",
+  "fetched_at": "2026-03-10T22:28:04.393536"
+}

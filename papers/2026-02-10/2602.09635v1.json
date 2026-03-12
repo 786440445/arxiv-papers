@@ -1,0 +1,11 @@
+{
+  "id": "2602.09635v1",
+  "title": "Assessment of jet inflow conditions on the development of supersonic jet flows",
+  "authors": "Carlos Junqueira-Junior",
+  "summary": "In the present work, large-eddy simulations of free supersonic jet flows are performed to investigate the influence of inflow conditions on the jet flow field and its turbulent properties. A high-order nodal discontinuous Galerkin method is employed to solve the governing equations on the generated mesh. Three different inflow profiles are evaluated to represent the nozzle-exit conditions, namely, inviscid, steady viscous, and unsteady viscous profiles. Velocity and shear stress tensor component profiles obtained from the simulations are compared with experimental data. Among the investigated profiles, the steady viscous inflow shows the most significant deviation from the inviscid case, particularly in the near-field region of the jet inlet. The steady viscous profile also leads to reduced peak velocity fluctuations, showing better agreement with experimental results. Further downstream, the influence of the inflow condition diminishes, with all three profiles converging toward the experimental reference. In addition, power spectral density analyses of streamwise velocity fluctuations reveal that the inflow conditions have little effect on spectral distributions, with numerical results showing consistent agreement with experimental data within the accessible Strouhal range. Beyond these findings, the study provides a highly detailed, high-fidelity database of supersonic jet flow simulations, encompassing six large-eddy computations with different meshes, polynomial refinements, and inflow conditions. The database includes high-frequency data in relevant regions of the jet flow field and is openly available in the Zenodo repository, ensuring accessibility and reusability for the scientific community.",
+  "published": "2026-02-10T10:31:11Z",
+  "link": "https://arxiv.org/abs/2602.09635v1",
+  "pdf": "https://arxiv.org/pdf/2602.09635v1.pdf",
+  "category": "physics.flu-dyn",
+  "fetched_at": "2026-03-10T22:27:50.024457"
+}

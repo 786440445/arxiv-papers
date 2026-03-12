@@ -1,0 +1,11 @@
+{
+  "id": "2602.15420v1",
+  "title": "Particle production, absorption, scattering, and geodesics in a Schwarzschild--Hernquist black hole",
+  "authors": "P. H. M. Barros",
+  "summary": "We investigate quantum and classical signatures of a Schwarzschild black hole embedded in a Hernquist dark matter halo. Starting from the exact spherically symmetric solution describing this composite system, we analyze particle production for both bosonic and fermionic fields using semiclassical techniques. Hawking radiation is derived through Bogoliubov transformations and independently via the tunneling method with energy conservation, allowing us to identify the effective temperature, emission spectrum, and the role of dark matter parameters in suppressing particle creation. The evaporation process is examined in the high-frequency regime, leading to modified evaporation times and emission rates relative to the vacuum Schwarzschild case. We further study absorption and scattering of massless scalar waves employing a partial-wave analysis, computing phase shifts, partial and total cross sections, and assessing the impact of the Hernquist scale radius and density on these observables. Finally, null and timelike geodesics are explored to characterize light propagation and particle motion in the presence of the dark matter halo.",
+  "published": "2026-02-17T08:27:48Z",
+  "link": "https://arxiv.org/abs/2602.15420v1",
+  "pdf": "https://arxiv.org/pdf/2602.15420v1.pdf",
+  "category": "gr-qc",
+  "fetched_at": "2026-03-10T22:28:00.141993"
+}

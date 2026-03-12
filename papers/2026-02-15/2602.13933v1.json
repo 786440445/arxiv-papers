@@ -1,0 +1,11 @@
+{
+  "id": "2602.13933v1",
+  "title": "HyMem: Hybrid Memory Architecture with Dynamic Retrieval Scheduling",
+  "authors": "Aili Wang",
+  "summary": "Large language model (LLM) agents demonstrate strong performance in short-text contexts but often underperform in extended dialogues due to inefficient memory management. Existing approaches face a fundamental trade-off between efficiency and effectiveness: memory compression risks losing critical details required for complex reasoning, while retaining raw text introduces unnecessary computational overhead for simple queries. The crux lies in the limitations of monolithic memory representations and static retrieval mechanisms, which fail to emulate the flexible and proactive memory scheduling capabilities observed in humans, thus struggling to adapt to diverse problem scenarios. Inspired by the principle of cognitive economy, we propose HyMem, a hybrid memory architecture that enables dynamic on-demand scheduling through multi-granular memory representations. HyMem adopts a dual-granular storage scheme paired with a dynamic two-tier retrieval system: a lightweight module constructs summary-level context for efficient response generation, while an LLM-based deep module is selectively activated only for complex queries, augmented by a reflection mechanism for iterative reasoning refinement. Experiments show that HyMem achieves strong performance on both the LOCOMO and LongMemEval benchmarks, outperforming full-context while reducing computational cost by 92.6\\%, establishing a state-of-the-art balance between efficiency and performance in long-term memory management.",
+  "published": "2026-02-15T00:06:19Z",
+  "link": "https://arxiv.org/abs/2602.13933v1",
+  "pdf": "https://arxiv.org/pdf/2602.13933v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-10T22:27:56.677813"
+}

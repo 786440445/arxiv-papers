@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09627v1",
+  "title": "Speech-Omni-Lite: Portable Speech Interfaces for Vision-Language Models",
+  "authors": "Dehua Tao, Xuan Luo, Daxin Tan, Kai Chen, Lanqing Hong, Jing Li, Ruifeng Xu, Xiao Chen",
+  "summary": "arXiv:2603.09627v1 Announce Type: new \nAbstract: While large-scale omni-models have demonstrated impressive capabilities across various modalities, their strong performance heavily relies on massive multimodal data and incurs substantial computational costs. This work introduces Speech-Omni-Lite, a cost-efficient framework for extending pre-trained Visual-Language (VL) backbones with speech understanding and generation capabilities, while fully preserving the backbones' vision-language performance. Specifically, the VL backbone is equipped with two lightweight, trainable plug-and-play modules, a speech projector and a speech token generator, while keeping the VL backbone fully frozen. To mitigate the scarcity of spoken QA corpora, a low-cost data construction strategy is proposed to generate Question-Text Answer-Text-Speech (QTATS) data from existing ASR speech-text pairs, facilitating effective speech generation training. Experimental results show that, even with only thousands of hours of speech training data, Speech-Omni-Lite achieves excellent spoken QA performance, which is comparable to omni-models trained on millions of hours of speech data. Furthermore, the learned speech modules exhibit strong transferability across VL backbones.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09627",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09627v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492318"
+}

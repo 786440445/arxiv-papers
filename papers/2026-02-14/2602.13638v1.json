@@ -1,0 +1,11 @@
+{
+  "id": "2602.13638v1",
+  "title": "A theory of quantum error correction for permutation-invariant codes",
+  "authors": "Gavin K. Brennen",
+  "summary": "We present for the first time a general theory of error correction for permutation invariant (PI) codes. Using representation theory of the symmetric group we construct efficient algorithms that can correct any correctible error on any PI code. These algorithms involve measurements of total angular momentum, quantum Schur transforms or logical state teleportations, and geometric phase gates. For erasure errors, or more generally deletion errors, on certain PI codes, we give a simpler quantum error correction algorithm.",
+  "published": "2026-02-14T07:05:03Z",
+  "link": "https://arxiv.org/abs/2602.13638v1",
+  "pdf": "https://arxiv.org/pdf/2602.13638v1.pdf",
+  "category": "quant-ph",
+  "fetched_at": "2026-03-10T22:27:55.305954"
+}

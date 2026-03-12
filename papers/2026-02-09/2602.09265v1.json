@@ -1,0 +1,11 @@
+{
+  "id": "2602.09265v1",
+  "title": "Boundary elements for clamped Kirchhoff--Love plates",
+  "authors": "Norbert Heuer",
+  "summary": "We present a Galerkin boundary element method for clamped Kirchhoff--Love plates with piecewise smooth boundary. It is a direct method based on the representation formula and requires the inversion of the single-layer operator and an application of the double-layer operator to the Dirichlet data. We present trace approximation spaces of arbitrary order, required for both the Dirichlet data and the unknown Neumann trace. Our boundary element method is quasi-optimal with respect to the natural trace norm\n  and achieves optimal convergence order under minimal regularity assumptions. We provide explicit representations of both boundary integral operators and discuss the implementation of the appearing integrals. Numerical experiments for smooth and non-smooth domains confirm predicted convergence rates.",
+  "published": "2026-02-09T23:02:24Z",
+  "link": "https://arxiv.org/abs/2602.09265v1",
+  "pdf": "https://arxiv.org/pdf/2602.09265v1.pdf",
+  "category": "math.NA",
+  "fetched_at": "2026-03-10T22:27:48.248640"
+}

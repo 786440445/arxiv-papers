@@ -1,0 +1,11 @@
+{
+  "id": "2602.06313v1",
+  "title": "Hybrid-Field Joint Channel and Visible Region Estimation for RIS-Assisted Communications",
+  "authors": "Min-Jian Zhao",
+  "summary": "In reconfigurable intelligent surface (RIS)-assisted millimeter-wave (mmWave) communication systems, the large-scale RIS introduces pronounced geometric effects that lead to the coexistence of far-field and near-field propagation. Furthermore, random blockages induce spatial non-stationarity across the RIS array, causing signals from different scatterers to illuminate only partial regions, referred to as visible regions (VRs). This renders conventional far-field and fully visible array-based channel models inadequate and makes channel estimation particularly challenging. In this paper, we investigate the non-stationary cascaded channel estimation problem in a hybrid-field propagation environment, where the RIS-base station (BS) link operates in the far-field, while the user-RIS link exhibits near-field characteristics with partial visibility. To address the resulting high-dimensional and coupled estimation problem, a reduced-dimensional sparse bilinear representation is developed by exploiting the structural characteristics of the cascaded channel. In particular, a dictionary compression technique is proposed to represent the high-dimensional coupled dictionary using a low-dimensional polar-domain dictionary weighted by a visibility matrix, thereby significantly reducing the problem scale. Based on this representation, a turbo-structured joint Bayesian estimation (TS-JBE) approach is proposed to simultaneously estimate the channel gains, VRs, and off-grid parameters, thereby avoiding error propagation inherent in existing sequential methods. Simulation results demonstrate that the proposed method significantly improves the estimation accuracy compared with existing approaches.",
+  "published": "2026-02-06T02:18:22Z",
+  "link": "https://arxiv.org/abs/2602.06313v1",
+  "pdf": "https://arxiv.org/pdf/2602.06313v1.pdf",
+  "category": "eess.SP, cs.IT",
+  "fetched_at": "2026-03-10T22:27:42.448333"
+}

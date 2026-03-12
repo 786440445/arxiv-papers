@@ -1,0 +1,11 @@
+{
+  "id": "2602.09834v2",
+  "title": "6G NTN Waveforms: A Comparison of OTFS, AFDM and OCDM in LEO Satellite Channels",
+  "authors": "Cezary Ziołkowski",
+  "summary": "Sixth generation (6G) physical layer (PHY) is evolving beyond the legacy orthogonal frequency division multiplexing (OFDM)-based waveforms. In this paper, we compare the bit error rate (BER) performance of three beyond-OFDM waveforms, namely, orthogonal time-frequency-space (OTFS) modulation, affine frequency division multiplexing (AFDM), and orthogonal chirp division multiplexing (OCDM), which are particularly suitable for the highly mobile non-terrestrial network (NTN) vertical of 6G. In order to characterize the effect of mobility and Doppler shift in low Earth orbit (LEO) satellites, we performed BER comparisons over four different NTN tapped-delay-line (TDL) models, TDL-A, TDL-B, TDL-C, and TDL-D, as specified in the 3rd generation partnership project (3GPP) technical report TR 38.811. After channel equalization, a minimum mean squared error with successive detection (MMSE-SD) algorithm was used to enhance the BER performance. It was found that AFDM and OTFS consistently outperformed OCDM across all TDL models, while AFDM performed better than OTFS in TDL-B and TDL-C, in the high signal-to-noise ratio (SNR) regime. The complete simulation framework is made available as an open-source code for quick validation and further development.",
+  "published": "2026-02-10T14:43:06Z",
+  "link": "https://arxiv.org/abs/2602.09834v2",
+  "pdf": "https://arxiv.org/pdf/2602.09834v2.pdf",
+  "category": "cs.NI",
+  "fetched_at": "2026-03-10T22:27:50.024997"
+}

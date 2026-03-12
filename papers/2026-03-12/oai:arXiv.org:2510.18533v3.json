@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.18533v3",
+  "title": "Noise-Conditioned Mixture-of-Experts Framework for Robust Speaker Verification",
+  "authors": "Bin Gu, Haitao Zhao, Jibo Wei",
+  "summary": "arXiv:2510.18533v3 Announce Type: replace \nAbstract: Robust speaker verification under noisy conditions remains an open challenge. Conventional deep learning methods learn a robust unified speaker representation space against diverse background noise and achieve significant improvement. In contrast, this paper presents a noise-conditioned mixture-ofexperts framework that decomposes the feature space into specialized noise-aware subspaces for speaker verification. Specifically, we propose a noise-conditioned expert routing mechanism, a universal model based expert specialization strategy, and an SNR-decaying curriculum learning protocol, collectively improving model robustness and generalization under diverse noise conditions. The proposed method can automatically route inputs to expert networks based on noise information derived from the inputs, where each expert targets distinct noise characteristics while preserving speaker identity information. Comprehensive experiments demonstrate consistent superiority over baselines",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.18533",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.18533v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195621"
+}

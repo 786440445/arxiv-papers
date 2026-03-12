@@ -1,0 +1,11 @@
+{
+  "id": "2602.05908v1",
+  "title": "Self-Portrait of the Focusing Process in Speckle: III. Tailoring Complex Spatio-Temporal Focusing Laws To Overcome Reverberations in Reflection Imaging",
+  "authors": "Alexandre Aubry",
+  "summary": "This is the third article in a series of three dealing with the exploitation of speckle for imaging purposes. In complex media, a fundamental limit is the multiple scattering phenomenon that completely blurs the imaging process in depth. Matrix imaging can provide a relevant framework for solving this problem. As it proved to be an adequate tool for probing reverberations in speckle [E. Giraudat et al., Part I], we will show how it can be used to tailor complex spatio-temporal focusing laws to monitor the interference between the multiply-reflected paths and the ballistic component of the wave-field. To do so, we extend the distortion matrix concept to the frequency domain. An iterative phase reversal process operated from the space-time Fourier space is then used to compensate for reverberations and optimize both the axial and transverse resolution of the confocal image. Here, we first present an experimental proof-of-concept consisting in imaging a tissue-mimicking phantom through a reverberating plate before outlining the potential and the limits of this strategy for transcranial ultrasound and beyond.",
+  "published": "2026-02-05T17:24:18Z",
+  "link": "https://arxiv.org/abs/2602.05908v1",
+  "pdf": "https://arxiv.org/pdf/2602.05908v1.pdf",
+  "category": "physics.app-ph, eess.IV, physics.med-ph, physics.optics",
+  "fetched_at": "2026-03-10T22:27:40.854452"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09974v1",
+  "title": "Task Aware Modulation Using Representation Learning for Upsaling of Terrestrial Carbon Fluxes",
+  "authors": "Aleksei Rozanov, Arvind Renganathan, Vipin Kumar",
+  "summary": "arXiv:2603.09974v1 Announce Type: new \nAbstract: Accurately upscaling terrestrial carbon fluxes is central to estimating the global carbon budget, yet remains challenging due to the sparse and regionally biased distribution of ground measurements. Existing data-driven upscaling products often fail to generalize beyond observed domains, leading to systematic regional biases and high predictive uncertainty. We introduce Task-Aware Modulation with Representation Learning (TAM-RL), a framework that couples spatio-temporal representation learning with knowledge-guided encoder-decoder architecture and loss function derived from the carbon balance equation. Across 150+ flux tower sites representing diverse biomes and climate regimes, TAM-RL improves predictive performance relative to existing state-of-the-art datasets, reducing RMSE by 8-9.6% and increasing explained variance ($R^2$) from 19.4% to 43.8%, depending on the target flux. These results demonstrate that integrating physically grounded constraints with adaptive representation learning can substantially enhance the robustness and transferability of global carbon flux estimates.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09974",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09974v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264840"
+}

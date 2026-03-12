@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.17965v2",
+  "title": "Benchmarking Humans and Machines on Complex Multilingual Speech Understanding Tasks",
+  "authors": "Sai Samrat Kankanala, Ram Chandra, Sriram Ganapathy",
+  "summary": "arXiv:2509.17965v2 Announce Type: replace \nAbstract: Auditory attention and selective phase-locking are central to human speech understanding in complex acoustic scenes and cocktail party settings, yet these capabilities in multilingual subjects remain poorly understood. While machine understanding of natural speech has advanced in recent years, questions persist about comprehension of overlapped and mixed-channel speech. We propose a systematic paradigm for studying humans and machines in speech question-answering tasks in multilingual settings with clean and mixed-channel speech. For human listeners, selective attention to a target speaker was significantly better in their native language (L1) than in their second language (L2). For machine listening, speech-based large language models (LLMs) match or exceed human performance in clean, single-speaker conditions but often struggle to selectively attend in two-speaker settings. These results reveal a key divergence: humans rely on attentional cues that are more streamlined in their native language, whereas LLMs default to parallel information extraction which exceed human skills.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.17965",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.17965v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492379"
+}

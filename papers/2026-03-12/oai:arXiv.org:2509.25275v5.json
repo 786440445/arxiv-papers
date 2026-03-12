@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.25275v5",
+  "title": "VoiceBridge: General Speech Restoration with One-step Latent Bridge Models",
+  "authors": "Chi Zhang, Kaiwen Zheng, Zehua Chen, Jun Zhu",
+  "summary": "arXiv:2509.25275v5 Announce Type: replace \nAbstract: Bridge models have been investigated in speech enhancement but are mostly single-task, with constrained general speech restoration (GSR) capability. In this work, we propose VoiceBridge, a one-step latent bridge model (LBM) for GSR, capable of efficiently reconstructing 48 kHz fullband speech from diverse distortions. To inherit the advantages of data-domain bridge models, we design an energy-preserving variational autoencoder, enhancing the waveform-latent space alignment over varying energy levels. By compressing waveform into continuous latent representations, VoiceBridge models~\\textit{various} GSR tasks with a~\\textit{single} latent-to-latent generative process backed by a scalable transformer. To alleviate the challenge of reconstructing the high-quality target from distinctively different low-quality priors, we propose a joint neural prior for GSR, uniformly reducing the burden of the LBM in diverse tasks. Building upon these designs, we further investigate bridge training objective by jointly tuning LBM, decoder and discriminator together, transforming the model from a denoiser to generator and enabling \\textit{one-step GSR without distillation}. Extensive validation across in-domain (\\textit{e.g.}, denoising and super-resolution) and out-of-domain tasks (\\textit{e.g.}, refining synthesized speech) and datasets demonstrates the superior performance of VoiceBridge. Demos: https://VoiceBridgedemo.github.io/.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.25275",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.25275v5.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195610"
+}

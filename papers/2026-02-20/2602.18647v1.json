@@ -1,0 +1,11 @@
+{
+  "id": "2602.18647v1",
+  "title": "Information-Guided Noise Allocation for Efficient Diffusion Training",
+  "authors": "Luca Ambrogioni",
+  "summary": "Training diffusion models typically relies on manually tuned noise schedules, which can waste computation on weakly informative noise regions and limit transfer across datasets, resolutions, and representations. We revisit noise schedule allocation through an information-theoretic lens and propose the conditional entropy rate of the forward process as a theoretically grounded, data-dependent diagnostic for identifying suboptimal noise-level allocation in existing schedules. Based on these insight, we introduce InfoNoise, a principled data-adaptive training noise schedule that replaces heuristic schedule design with an information-guided noise sampling distribution derived from entropy-reduction rates estimated from denoising losses already computed during training. Across natural-image benchmarks, InfoNoise matches or surpasses tuned EDM-style schedules, in some cases with a substantial training speedup (about $1.4\\times$ on CIFAR-10). On discrete datasets, where standard image-tuned schedules exhibit significant mismatch, it reaches superior quality in up to $3\\times$ fewer training steps. Overall, InfoNoise makes noise scheduling data-adaptive, reducing the need for per-dataset schedule design as diffusion models expand across domains.",
+  "published": "2026-02-20T22:45:01Z",
+  "link": "https://arxiv.org/abs/2602.18647v1",
+  "pdf": "https://arxiv.org/pdf/2602.18647v1.pdf",
+  "category": "cs.LG, cs.AI, cs.CV, cs.IT",
+  "fetched_at": "2026-03-10T22:28:04.393004"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.15381v1",
+  "title": "Automatic Funny Scene Extraction from Long-form Cinematic Videos",
+  "authors": "Caren Chen",
+  "summary": "Automatically extracting engaging and high-quality humorous scenes from cinematic titles is pivotal for creating captivating video previews and snackable content, boosting user engagement on streaming platforms. Long-form cinematic titles, with their extended duration and complex narratives, challenge scene localization, while humor's reliance on diverse modalities and its nuanced style add further complexity. This paper introduces an end-to-end system for automatically identifying and ranking humorous scenes from long-form cinematic titles, featuring shot detection, multimodal scene localization, and humor tagging optimized for cinematic content. Key innovations include a novel scene segmentation approach combining visual and textual cues, improved shot representations via guided triplet mining, and a multimodal humor tagging framework leveraging both audio and text. Our system achieves an 18.3% AP improvement over state-of-the-art scene detection on the OVSD dataset and an F1 score of 0.834 for detecting humor in long text. Extensive evaluations across five cinematic titles demonstrate 87% of clips extracted by our pipeline are intended to be funny, while 98% of scenes are accurately localized. With successful generalization to trailers, these results showcase the pipeline's potential to enhance content creation workflows, improve user engagement, and streamline snackable content generation for diverse cinematic media formats.",
+  "published": "2026-02-17T06:29:06Z",
+  "link": "https://arxiv.org/abs/2602.15381v1",
+  "pdf": "https://arxiv.org/pdf/2602.15381v1.pdf",
+  "category": "cs.IR, cs.CV",
+  "fetched_at": "2026-03-10T22:28:00.142169"
+}

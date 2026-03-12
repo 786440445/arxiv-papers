@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.00945v3",
+  "title": "Non-Rectangular Average-Reward Robust MDPs: Optimal Policies and Their Transient Values",
+  "authors": "Shengbo Wang, Nian Si",
+  "summary": "arXiv:2603.00945v3 Announce Type: replace-cross \nAbstract: We study non-rectangular robust Markov decision processes under the average-reward criterion, where the ambiguity set couples transition probabilities across states and the adversary commits to a stationary kernel for the entire horizon. We show that any history-dependent policy achieving sublinear expected regret uniformly over the ambiguity set is robust-optimal, and that the robust value admits a minimax representation as the infimum over the ambiguity set of the classical optimal gains, without requiring any form of rectangularity or robust dynamic programming principle. Under the weak communication assumption, we establish the existence of such policies by converting high-probability regret bounds from the average-reward reinforcement learning literature into the expected-regret criterion. We then introduce a transient-value framework to evaluate finite-time performance of robust optimal policies, proving that average-reward optimality alone can mask arbitrarily poor transients and deriving regret-based lower bounds on transient values. Finally, we construct an epoch-based policy that combines an optimal stationary policy for the worst-case model with an anytime-valid sequential test and an online learning fallback, achieving a constant-order transient value.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.00945",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.00945v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265670"
+}

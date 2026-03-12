@@ -1,0 +1,11 @@
+{
+  "id": "2602.07679v1",
+  "title": "Spectral Gating Networks",
+  "authors": "Keze Wang",
+  "summary": "Gating mechanisms are ubiquitous, yet a complementary question in feed-forward networks remains under-explored: how to introduce frequency-rich expressivity without sacrificing stability and scalability? This tension is exposed by spline-based Kolmogorov-Arnold Network (KAN) parameterizations, where grid refinement can induce parameter growth and brittle optimization in high dimensions. To propose a stability-preserving way to inject spectral capacity into existing MLP/FFN layers under fixed parameter and training budgets, we introduce Spectral Gating Networks (SGN), a drop-in spectral reparameterization. SGN augments a standard activation pathway with a compact spectral pathway and learnable gates that allow the model to start from a stable base behavior and progressively allocate capacity to spectral features during training. The spectral pathway is instantiated with trainable Random Fourier Features (learned frequencies and phases), replacing grid-based splines and removing resolution dependence. A hybrid GELU-Fourier formulation further improves optimization robustness while enhancing high-frequency fidelity. Across vision, NLP, audio, and PDE benchmarks, SGN consistently improves accuracy-efficiency trade-offs under comparable computational budgets, achieving 93.15% accuracy on CIFAR-10 and up to 11.7x faster inference than spline-based KAN variants. Code and trained models will be released.",
+  "published": "2026-02-07T20:00:49Z",
+  "link": "https://arxiv.org/abs/2602.07679v1",
+  "pdf": "https://arxiv.org/pdf/2602.07679v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:43.908155"
+}

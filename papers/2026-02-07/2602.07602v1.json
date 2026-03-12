@@ -1,0 +1,11 @@
+{
+  "id": "2602.07602v1",
+  "title": "Object-Oriented Transition Modeling with Inductive Logic Programming",
+  "authors": "Dmitri Loguinov",
+  "summary": "Building models of the world from observation, i.e., induction, is one of the major challenges in machine learning. In order to be useful, models need to maintain accuracy when used in novel situations, i.e., generalize. In addition, they should be easy to interpret and efficient to train. Prior work has investigated these concepts in the context of object-oriented representations inspired by human cognition. In this paper, we develop a novel learning algorithm that is substantially more powerful than these previous methods. Our thorough experiments, including ablation tests and comparison with neural baselines, demonstrate a significant improvement over the state-of-the-art.",
+  "published": "2026-02-07T16:11:53Z",
+  "link": "https://arxiv.org/abs/2602.07602v1",
+  "pdf": "https://arxiv.org/pdf/2602.07602v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:43.906959"
+}

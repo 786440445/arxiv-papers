@@ -1,0 +1,11 @@
+{
+  "id": "2602.14937v1",
+  "title": "Lattice XBAR Filters in Thin-Film Lithium Niobate",
+  "authors": "Ruochen Lu",
+  "summary": "This work presents the demonstration of lattice filters based on laterally excited bulk acoustic resonators (XBARs). Two filter implementations, namely direct lattice and layout-balanced lattice topologies, are designed and fabricated in periodically poled piezoelectric film (P3F) thin-film lithium niobate (TFLN). By leveraging the strong electromechanical coupling of XBARs in P3F TFLN together with the inherently wideband nature of the lattice topology, 3-dB fractional bandwidths (FBWs) of 27.42\\% and 39.11\\% and low insertion losses (ILs) of 0.88 dB and 0.96 dB are achieved at approximately 20 GHz for the direct and layout-balanced lattice filters, respectively, under conjugate matching. Notably, all prototypes feature compact footprints smaller than 1.3 mm\\textsuperscript{2}. These results highlight the potential of XBAR-based lattice architectures to enable low-loss, wideband acoustic filters for compact, high-performance RF front ends in next-generation wireless communication and sensing systems, while also identifying key challenges and directions for further optimization.",
+  "published": "2026-02-16T17:19:35Z",
+  "link": "https://arxiv.org/abs/2602.14937v1",
+  "pdf": "https://arxiv.org/pdf/2602.14937v1.pdf",
+  "category": "eess.SP",
+  "fetched_at": "2026-03-10T22:27:57.853146"
+}

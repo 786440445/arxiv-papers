@@ -1,0 +1,11 @@
+{
+  "id": "2602.05817v2",
+  "title": "Interpreting Manifolds and Graph Neural Embeddings from Internet of Things Traffic Flows",
+  "authors": "José-Luis Rojo-Álvarez",
+  "summary": "The rapid expansion of Internet of Things (IoT) ecosystems has led to increasingly complex and heterogeneous network topologies. Traditional network monitoring and visualization tools rely on aggregated metrics or static representations, which fail to capture the evolving relationships and structural dependencies between devices. Although Graph Neural Networks (GNNs) offer a powerful way to learn from relational data, their internal representations often remain opaque and difficult to interpret for security-critical operations. Consequently, this work introduces an interpretable pipeline that generates directly visualizable low-dimensional representations by mapping high-dimensional embeddings onto a latent manifold. This projection enables the interpretable monitoring and interoperability of evolving network states, while integrated feature attribution techniques decode the specific characteristics shaping the manifold structure. The framework achieves a classification F1-score of 0.830 for intrusion detection while also highlighting phenomena such as concept drift. Ultimately, the presented approach bridges the gap between high-dimensional GNN embeddings and human-understandable network behavior, offering new insights for network administrators and security analysts.",
+  "published": "2026-02-05T16:08:24Z",
+  "link": "https://arxiv.org/abs/2602.05817v2",
+  "pdf": "https://arxiv.org/pdf/2602.05817v2.pdf",
+  "category": "cs.CR, cs.LG, cs.NI",
+  "fetched_at": "2026-03-10T22:27:40.853059"
+}

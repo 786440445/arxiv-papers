@@ -1,0 +1,11 @@
+{
+  "id": "2602.16001v2",
+  "title": "Necessary and Sufficient Conditions for Proving Choice in Zermelo-Fraenkel Set Theory",
+  "authors": "Valentyn Khokhlov",
+  "summary": "This paper introduces an alternative approach to proving the existence of choice functions for specific families of sets within Zermelo-Fraenkel set theory (ZF) without assuming any form on the Axiom of Choice (AC). Traditional methods of proving choice, when it is possible without AC, are based on explicit constructing a choice function, which relies on being able to identify canonical elements within the sets. Our approach, instead, employs the axiom schema of separation. We begin by considering families of well-ordered sets, then apply the schema of separation twice to build a set of possible candidates for the choice functions, and, finally, prove that this set is non-empty. This strategy enables proving the existence of choice function in situations where canonical elements cannot be identified explicitly. We then extend our method beyond families of well-ordered sets to families of sets, over which partial orders with a least element exist. After exploring possibilities for further generalization, we establish a necessary and sufficient condition: in ZF, without assuming AC, a choice function exists for a non-empty family if and only if each set admits a partial order with a least element. Finally, we demonstrate how this approach can be used to prove the existence of choice functions for families of contractible and path-connected topological spaces, including hyper-intervals in $\\mathbb{R}^n$, hyper-balls, and hyper-spheres.",
+  "published": "2026-02-17T20:47:13Z",
+  "link": "https://arxiv.org/abs/2602.16001v2",
+  "pdf": "https://arxiv.org/pdf/2602.16001v2.pdf",
+  "category": "math.LO",
+  "fetched_at": "2026-03-10T22:28:00.143573"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.18387v1",
+  "title": "Limiting Absorption Principle and Radiation Condition for the Fractional Helmholtz Equation",
+  "authors": "Michael S. Vogelius",
+  "summary": "We investigate elliptic fractional equations in the whole space, involving zero order perturbations of the fractional Laplacian $(-Δ)^s$, $0<s<1$. Our main objective is to determine appropriate radiation conditions at infinity that ensure existence and uniqueness of solutions to the fractional type Helmholtz equation. Extending classical scattering theory for the Helmholtz equation, we introduce and analyze suitable Sommerfeld type radiation conditions for fractional orders. A central contribution is the explicit computation of the outgoing free space Greens function for the operator $(-Δ)^s-k^{2s}$, for all $0<s<1$, any dimension and $k>0$, obtained via contour integration and a limiting absorption principle. We show that its asymptotic behavior at infinity coincides with a rescaled version of the classical Helmholtz fundamental solution, thereby justifying the standard Sommerfeld radiation condition for compactly supported sources. In addition, using resolvent estimates and a limiting absorption framework, we establish existence and uniqueness of outgoing solutions for compactly supported data, and for weighted sources. We further derive a convolution representation of the solution in terms of the outgoing fundamental solution. For inhomogeneous media with compactly supported perturbations, we reformulate the problem as a Lippmann Schwinger integral equation of Fredholm type and prove unique solvability away from a discrete set of frequencies. Our analysis provides a rigorous foundation for scattering theory of fractional Helmholtz operators and offers a framework suitable for numerical implementation of these nonlocal wave propagation models.",
+  "published": "2026-02-20T17:51:44Z",
+  "link": "https://arxiv.org/abs/2602.18387v1",
+  "pdf": "https://arxiv.org/pdf/2602.18387v1.pdf",
+  "category": "math.AP",
+  "fetched_at": "2026-03-10T22:28:04.393650"
+}

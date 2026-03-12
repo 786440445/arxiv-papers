@@ -1,0 +1,11 @@
+{
+  "id": "2602.07665v1",
+  "title": "The Fisher score on the closed simplex",
+  "authors": "Eva Riccomagno",
+  "summary": "We extend classical analytic tools for finite-state statistical models to allow zero probabilities. Using methods from algebraic statistics and information geometry, we develop a framework in which a smooth statistical model could hit the boundary of the simplex, for example, in contingency tables with non-structural zeros. The central object of our approach is the vector bundle whose fibres are the $p$-contrasts associated to each probability distribution $p$. In this framework, Fisher score and other key statistical concepts, such as entropy for one-dimensional statistical models, admit an algebraic representation also on the boundary of the simplex.",
+  "published": "2026-02-07T19:20:53Z",
+  "link": "https://arxiv.org/abs/2602.07665v1",
+  "pdf": "https://arxiv.org/pdf/2602.07665v1.pdf",
+  "category": "math.ST",
+  "fetched_at": "2026-03-10T22:27:43.908004"
+}

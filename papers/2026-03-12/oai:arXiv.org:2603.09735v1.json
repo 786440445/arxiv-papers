@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09735v1",
+  "title": "Distributed Multichannel Wiener Filtering for Wireless Acoustic Sensor Networks",
+  "authors": "Paul Didier, Toon van Waterschoot, Simon Doclo, J\\\"org Bitzer, Pourya Behmandpoor, Henri Gode, Marc Moonen",
+  "summary": "arXiv:2603.09735v1 Announce Type: new \nAbstract: In a wireless acoustic sensor network (WASN), devices (i.e., nodes) can collaborate through distributed algorithms to collectively perform audio signal processing tasks. This paper focuses on the distributed estimation of node-specific desired speech signals using network-wide Wiener filtering. The objective is to match the performance of a centralized system that would have access to all microphone signals, while reducing the communication bandwidth usage of the algorithm. Existing solutions, such as the distributed adaptive node-specific signal estimation (DANSE) algorithm, converge towards the multichannel Wiener filter (MWF) which solves a centralized linear minimum mean square error (LMMSE) signal estimation problem. However, they do so iteratively, which can be slow and impractical. Many solutions also assume that all nodes observe the same set of sources of interest, which is often not the case in practice. To overcome these limitations, we propose the distributed multichannel Wiener filter (dMWF) for fully connected WASNs. The dMWF is non-iterative and optimal even when nodes observe different sets of sources. In this algorithm, nodes exchange neighbor-pair-specific, low-dimensional (fused) signals estimating the contribution of sources observed by both nodes in the pair. We formally prove the optimality of dMWF and demonstrate its performance in simulated speech enhancement experiments. The proposed algorithm is shown to outperform DANSE in terms of objective metrics after short operation times, highlighting the benefit of its iterationless design.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09735",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09735v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492332"
+}

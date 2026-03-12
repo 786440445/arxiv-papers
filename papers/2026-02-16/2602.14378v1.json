@@ -1,0 +1,11 @@
+{
+  "id": "2602.14378v1",
+  "title": "A Computational Framework for Financial Structures",
+  "authors": "Antonio Scala",
+  "summary": "Financial structures such as securitisations, insurance contracts, and other hierarchical claims systems can be interpreted as deterministic allocation mechanisms acting on stochastic inflow processes. This paper develops a general computational representation of such structures by separating the stochastic generation of inflows from the deterministic rules governing their distribution across positions. Allocation rules, trigger conditions, and priority relations are expressed as explicit, state-dependent operators mapping realised inflows to payments under each scenario. This representation enables financial structures to be analysed as computable economic systems whose performance and risk characteristics can be evaluated consistently across alternative configurations within a unified stochastic environment. While motivated by applications in structured finance, the framework applies more broadly to contractual and institutional arrangements in which uncertain resources are allocated across ordered claims. By providing a unified computational architecture for representing and comparing such mechanisms, the approach supports systematic analysis of structural design, risk distribution, and contractual transparency under uncertainty.",
+  "published": "2026-02-16T01:06:18Z",
+  "link": "https://arxiv.org/abs/2602.14378v1",
+  "pdf": "https://arxiv.org/pdf/2602.14378v1.pdf",
+  "category": "q-fin.CP",
+  "fetched_at": "2026-03-10T22:27:57.852633"
+}

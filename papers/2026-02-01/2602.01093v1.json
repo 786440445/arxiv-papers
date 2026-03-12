@@ -1,0 +1,11 @@
+{
+  "id": "2602.01093v1",
+  "title": "Ocean Circulation on Tide-locked Lava Worlds: 3D Modeling with a Simple Boundary Iteration Method",
+  "authors": "Wanying Kang",
+  "summary": "Tide-locked lava worlds are surface-melted rocky planets under 1:1 tidally locked orbit (i.e., synchronously rotating) with orbital period being equal to rotation period and with permanent hot dayside and cold nightside. Previous studies on this type of planets employed scaling analyses and two-dimensional (2D) simulations. This work is a continuation of the previous researches but including the effect of the Coriolis force and the simulation domain is extended to a 3D global sphere. We find that under the condition with thermal-only forcing (without surface wind stresses), the area-mean ocean depth is about 50--300 m (depending on vertical diffusivity) and the area-mean effect of horizontal ocean heat transport (in the order of 10$^{3}$ to 10$^{4}$ W m$^{-2}$) is significantly smaller than stellar radiation (in the order of 10$^{6}$ W m$^{-2}$ at the substellar region), being consistent with previous results. Different from 2D results, due to the effect of the Coriolis force, large-scale horizontal gyres form on the dayside, ocean currents near the west boundaries are much stronger than that near the east boundaries (called as ``western intensification''), the deepest ocean is not right at the substellar point but in the middle latitudes as the vertical diffusivity is moderate or large, and meanwhile there exists significant asymmetry between the west and the east of the substellar point. These results establish a first picture for the 3D thermal-driven ocean circulation and confirm that the lava ocean should be shallow on tide-locked lava worlds.",
+  "published": "2026-02-01T08:17:02Z",
+  "link": "https://arxiv.org/abs/2602.01093v1",
+  "pdf": "https://arxiv.org/pdf/2602.01093v1.pdf",
+  "category": "astro-ph.EP",
+  "fetched_at": "2026-03-10T22:27:32.802905"
+}

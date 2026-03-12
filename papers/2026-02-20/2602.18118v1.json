@@ -1,0 +1,11 @@
+{
+  "id": "2602.18118v1",
+  "title": "Updated Air-Shower $X_{\\rm max}$ Moment Parametrizations for UHECR Composition with Latest Hadronic Interaction Models",
+  "authors": "Francesco Salamida",
+  "summary": "The mass composition of ultra-high-energy cosmic rays (UHECRs) is commonly inferred from the first two moments of the depth of shower maximum, $X_{\\rm max}$, measured by fluorescence and hybrid detectors. Such analyses require fast and accurate mappings between the moments of $X_{\\rm max}$ and those of the logarithmic mass, $\\ln A$, based on realistic air-shower simulations. In this work we provide updated parametrizations of the $X_{\\rm max}$ moments and distributions for air showers initiated by nuclei from proton to iron, simulated with CONEX for three state-of-the-art hadronic interaction models: Epos LHC-R, Sibyll 2.3e, and QGSJet-III-01. We parametrize the mean depth $\\langle X_{\\rm max}\\rangle$ and the variance $σ^2(X_{\\rm max})$ as functions of energy and mass. For the variance we compare a second-order polynomial model with an exponential model. In addition, we model the full $X_{\\rm max}$ distributions with a three-parameter generalized Gumbel function. The Gumbel parameters are fitted using an unbinned likelihood and are validated by comparing the implied mean and variance with the raw CONEX samples and with the moment parametrizations. Across the full energy range considered, residuals between the parametrizations (or the Gumbel representation) and the simulations are at the level of a few g cm$^{-2}$ for the mean and a few (g cm$^{-2}$)$^2$ for the variance, making these parametrizations suitable for precision UHECR composition studies and forward-folding analyses of $X_{\\rm max}$ distributions.",
+  "published": "2026-02-20T10:14:34Z",
+  "link": "https://arxiv.org/abs/2602.18118v1",
+  "pdf": "https://arxiv.org/pdf/2602.18118v1.pdf",
+  "category": "astro-ph.HE",
+  "fetched_at": "2026-03-10T22:28:04.394038"
+}

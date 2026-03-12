@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09714v1",
+  "title": "MUGEN: Evaluating and Improving Multi-audio Understanding of Large Audio-Language Models",
+  "authors": "Chih-Kai Yang, Yun-Shao Tsai, Yu-Kai Guo, Ping-Le Tsai, Yen-Ting Piao, Hung-Wei Chen, Ting-Lin Hsiao, Yun-Man Hsu, Ke-Han Lu, Hung-yi Lee",
+  "summary": "arXiv:2603.09714v1 Announce Type: new \nAbstract: While multi-audio understanding is critical for large audio-language models (LALMs), it remains underexplored. We introduce MUGEN, a comprehensive benchmark evaluating this capability across speech, general audio, and music. Our experiments reveal consistent weaknesses in multi-audio settings, and performance degrades sharply as the number of concurrent audio inputs increases, identifying input scaling as a fundamental bottleneck. We further investigate training-free strategies and observe that Audio-Permutational Self-Consistency, which diversifies the order of audio candidates, helps models form more robust aggregated predictions, yielding up to 6.28% accuracy gains. Combining this permutation strategy with Chain-of-Thought further improves performance to 6.74%. These results expose blind spots in current LALMs and provide a foundation for evaluating complex auditory comprehension.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09714",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09714v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195585"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08737v1",
+  "title": "Sensitivity-Guided Framework for Pruned and Quantized Reservoir Computing Accelerators",
+  "authors": "Atousa Jafari, Mahdi Taheri, Hassan Ghasemzadeh Mohammadi, Christian Herglotz, Marco Platzner",
+  "summary": "arXiv:2603.08737v1 Announce Type: cross \nAbstract: This paper presents a compression framework for Reservoir Computing that enables systematic design-space exploration of trade-offs among quantization levels, pruning rates, model accuracy, and hardware efficiency. The proposed approach leverages a sensitivity-based pruning mechanism to identify and remove less critical quantized weights with minimal impact on model accuracy, thereby reducing computational overhead while preserving accuracy. We perform an extensive trade-off analysis to validate the effectiveness of the proposed framework and the impact of pruning and quantization on model performance and hardware parameters. For this evaluation, we employ three time-series datasets, including both classification and regression tasks. Experimental results across selected benchmarks demonstrate that our proposed approach maintains high accuracy while substantially improving computational and resource efficiency in FPGA-based implementations, with variations observed across different configurations and time series applications. For instance, for the MELBOEN dataset, an accelerator quantized to 4-bit at a 15\\% pruning rate reduces resource utilization by 1.2\\% and the Power Delay Product (PDP) by 50.8\\% compared to an unpruned model, without any noticeable degradation in accuracy.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08737",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08737v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264887"
+}

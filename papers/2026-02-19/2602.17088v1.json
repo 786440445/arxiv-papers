@@ -1,0 +1,11 @@
+{
+  "id": "2602.17088v1",
+  "title": "MeGU: Machine-Guided Unlearning with Target Feature Disentanglement",
+  "authors": "Tongliang Liu",
+  "summary": "The growing concern over training data privacy has elevated the \"Right to be Forgotten\" into a critical requirement, thereby raising the demand for effective Machine Unlearning. However, existing unlearning approaches commonly suffer from a fundamental trade-off: aggressively erasing the influence of target data often degrades model utility on retained data, while conservative strategies leave residual target information intact. In this work, the intrinsic representation properties learned during model pretraining are analyzed. It is demonstrated that semantic class concepts are entangled at the feature-pattern level, sharing associated features while preserving concept-specific discriminative components. This entanglement fundamentally limits the effectiveness of existing unlearning paradigms. Motivated by this insight, we propose Machine-Guided Unlearning (MeGU), a novel framework that guides unlearning through concept-aware re-alignment. Specifically, Multi-modal Large Language Models (MLLMs) are leveraged to explicitly determine re-alignment directions for target samples by assigning semantically meaningful perturbing labels. To improve efficiency, inter-class conceptual similarities estimated by the MLLM are encoded into a lightweight transition matrix. Furthermore, MeGU introduces a positive-negative feature noise pair to explicitly disentangle target concept influence. During finetuning, the negative noise suppresses target-specific feature patterns, while the positive noise reinforces remaining associated features and aligns them with perturbing concepts. This coordinated design enables selective disruption of target-specific representations while preserving shared semantic structures. As a result, MeGU enables controlled and selective forgetting, effectively mitigating both under-unlearning and over-unlearning.",
+  "published": "2026-02-19T05:20:31Z",
+  "link": "https://arxiv.org/abs/2602.17088v1",
+  "pdf": "https://arxiv.org/pdf/2602.17088v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:28:03.149372"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2410.05564v3",
+  "title": "Unsupervised Representation Learning from Sparse Transformation Analysis",
+  "authors": "Yue Song, Thomas Anderson Keller, Yisong Yue, Pietro Perona, Max Welling",
+  "summary": "arXiv:2410.05564v3 Announce Type: replace \nAbstract: There is a vast literature on representation learning based on principles such as coding efficiency, statistical independence, causality, controllability, or symmetry. In this paper we propose to learn representations from sequence data by factorizing the transformations of the latent variables into sparse components. Input data are first encoded as distributions of latent activations and subsequently transformed using a probability flow model, before being decoded to predict a future input state. The flow model is decomposed into a number of rotational (divergence-free) vector fields and a number of potential flow (curl-free) fields. Our sparsity prior encourages only a small number of these fields to be active at any instant and infers the speed with which the probability flows along these fields. Training this model is completely unsupervised using a standard variational objective and results in a new form of disentangled representations where the input is not only represented by a combination of independent factors, but also by a combination of independent transformation primitives given by the learned flow fields. When viewing the transformations as symmetries one may interpret this as learning approximately equivariant representations. Empirically we demonstrate that this model achieves state of the art in terms of both data likelihood and unsupervised approximate equivariance errors on datasets composed of sequence transformations.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2410.05564",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2410.05564v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265158"
+}

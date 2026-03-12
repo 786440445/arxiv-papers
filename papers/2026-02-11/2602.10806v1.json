@@ -1,0 +1,11 @@
+{
+  "id": "2602.10806v1",
+  "title": "DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples",
+  "authors": "Jun Yu",
+  "summary": "Cross-category anomaly detection for 3D point clouds aims to determine whether an unseen object belongs to a target category using only a few normal examples. Most existing methods rely on category-specific training, which limits their flexibility in few-shot scenarios. In this paper, we propose DMP-3DAD, a training-free framework for cross-category 3D anomaly detection based on multi-view realistic depth map projection. Specifically, by converting point clouds into a fixed set of realistic depth images, our method leverages a frozen CLIP visual encoder to extract multi-view representations and performs anomaly detection via weighted feature similarity, which does not require any fine-tuning or category-dependent adaptation. Extensive experiments on the ShapeNetPart dataset demonstrate that DMP-3DAD achieves state-of-the-art performance under few-shot setting. The results show that the proposed approach provides a simple yet effective solution for practical cross-category 3D anomaly detection.",
+  "published": "2026-02-11T12:47:38Z",
+  "link": "https://arxiv.org/abs/2602.10806v1",
+  "pdf": "https://arxiv.org/pdf/2602.10806v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:51.290365"
+}

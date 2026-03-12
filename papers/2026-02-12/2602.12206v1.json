@@ -1,0 +1,11 @@
+{
+  "id": "2602.12206v1",
+  "title": "Making the complete OpenAIRE citation graph easily accessible through compact data representation",
+  "authors": "Pavel Sanda",
+  "summary": "The OpenAIRE graph contains a large citation graph dataset, with over 200 million publications and over 2 billion citations. The current graph is available as a dump with metadata which uncompressed totals ~TB. This makes it hard to process on conventional computers. To make this network more available for the community we provide a processed OpenAIRE graph which is downscaled to 32GB, while preserving the full graph structure. Apart from this we offer the processed data in very simple format, which allows further straightforward manipulation. We also provide a python pipeline, which can be used to process the next releases of the OpenAIRE graph.",
+  "published": "2026-02-12T17:44:36Z",
+  "link": "https://arxiv.org/abs/2602.12206v1",
+  "pdf": "https://arxiv.org/pdf/2602.12206v1.pdf",
+  "category": "cs.SI, cs.DL",
+  "fetched_at": "2026-03-10T22:27:52.637341"
+}

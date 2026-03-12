@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.05128v3",
+  "title": "PolyBench: A Benchmark for Compositional Reasoning in Polyphonic Audio",
+  "authors": "Yuanjian Chen, Yang Xiao, Han Yin, Xubo Liu, Jinjie Huang, Ting Dang",
+  "summary": "arXiv:2603.05128v3 Announce Type: replace-cross \nAbstract: Large Audio Language Models (LALMs) are increasingly capable of reasoning over audio. However, existing benchmarks provide limited coverage of reasoning in polyphonic audio, where multiple sound events co-occur and induce compositional structure. In this work, we introduce PolyBench, a benchmark designed to evaluate compositional reasoning in polyphonic audio. PolyBench comprises five evaluation subsets covering counting, classification, detection, concurrency, and duration estimation, requiring reasoning over multiple concurrent events and their relations. Evaluation of state-of-the-art LALMs reveals consistent performance degradation in polyphonic audio, indicating a fundamental bottleneck in current LALMs.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.05128",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.05128v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195672"
+}

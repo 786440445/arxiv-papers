@@ -1,0 +1,11 @@
+{
+  "id": "2602.00984v1",
+  "title": "The geometry of Nekrasov's gauge origami theory",
+  "authors": "Woonam Lim",
+  "summary": "Nekrasov's gauge origami theory provides a (complex) 4-dimensional generalization of the ADHM quiver and its moduli spaces of representations. We describe the origami moduli space as the zero locus of an isotropic section of a quadratic vector bundle on a smooth space. This allows us to give an algebro-geometric definition of the origami partition function in terms of Oh--Thomas virtual cycles. The key input is the computation of a sign associated to each torus fixed point of the moduli space. Furthermore, we establish an integrality result and dimensional reduction formulae, and discuss an application to non-perturbative Dyson--Schwinger equations following Nekrasov's work. Finally, we conjecture a description of the origami moduli space in terms of certain 2-dimensional framed sheaves on $\\mathbb{P}^1 \\times \\mathbb{P}^1 \\times \\mathbb{P}^1 \\times \\mathbb{P}^1$, which we verify at the level of torus fixed points.",
+  "published": "2026-02-01T02:53:23Z",
+  "link": "https://arxiv.org/abs/2602.00984v1",
+  "pdf": "https://arxiv.org/pdf/2602.00984v1.pdf",
+  "category": "math.AG, hep-th",
+  "fetched_at": "2026-03-10T22:27:32.801992"
+}

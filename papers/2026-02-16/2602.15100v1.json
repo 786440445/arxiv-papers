@@ -1,0 +1,11 @@
+{
+  "id": "2602.15100v1",
+  "title": "Dispersive analysis of the $\\boldsymbol{φ\\to γπ^0 π^0}$ process",
+  "authors": "Marc Vanderhaeghen",
+  "summary": "We present an analysis of the radiative decay $φ\\to γπ^0 π^0$ in a dispersive framework, where the two-pion subsystem undergoes strong final-state interactions that cover the $f_0(500)$ and $f_0(980)$ regions. We employ a coupled-channel Muskhelishvili-Omnès framework that allows for a consistent treatment of two scalar resonances and crossed-channel singularities induced by the Born and vector-meson exchanges. We explicitly verify the equivalence between the modified and standard Muskhelishvili-Omnès representations for vector-meson pole contributions when the isoscalar Omnès matrix is chosen asymptotically bounded, and we adopt the standard representation in decay kinematics. This yields, for the first time, a parameter-free dispersive prediction for the kaon Born rescattering, which provides a dominant contribution. To obtain a good fit to the KLOE and SND data, we employ a once-subtracted coupled-channel dispersion relation with heavier left-hand cut contributions and two unknown subtraction constants. The results demonstrate the consistency among the data for $ππ$ scattering, $γγ$ fusion, and $φ$ radiative decay, thereby validating the underlying dispersive formalism and the input used for the hadronic Omnès matrix and left-hand cuts.",
+  "published": "2026-02-16T19:00:00Z",
+  "link": "https://arxiv.org/abs/2602.15100v1",
+  "pdf": "https://arxiv.org/pdf/2602.15100v1.pdf",
+  "category": "hep-ph, hep-ex, nucl-th",
+  "fetched_at": "2026-03-10T22:27:57.851334"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.13858v1",
+  "title": "Non-exponential relaxation without dynamic heterogeneity in van der Waals liquids above the melting point",
+  "authors": "Thomas Blochowicz",
+  "summary": "We investigate the influence of dynamic heterogeneity on the spectral shape of structural relaxation in van der Waals liquids above the melting point by means of depolarized dynamic light scattering. To this end, we study optically anisotropic probe molecules both in the bulk and when diluted in an optically isotropic solvent. Strikingly, the relaxation shape of the probe molecules in dilution is indistinguishable from that of the pure liquid composed of the probe molecules. By contrast, when explicit dynamic heterogeneity is introduced, e.g., through internal degrees of freedom or a distribution of probe molecule sizes, the relaxation shape becomes sensitive to the solvent concentration. These findings indicate that dynamic heterogeneity has a negligible influence on the rotational dynamics of single component van der Waals liquids above the melting point, despite the pronounced non-exponential character of their relaxation shape.",
+  "published": "2026-02-14T19:40:41Z",
+  "link": "https://arxiv.org/abs/2602.13858v1",
+  "pdf": "https://arxiv.org/pdf/2602.13858v1.pdf",
+  "category": "cond-mat.soft",
+  "fetched_at": "2026-03-10T22:27:55.306456"
+}

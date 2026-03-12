@@ -1,0 +1,11 @@
+{
+  "id": "2602.13409v1",
+  "title": "Restriction theorems: from orbits and Chevalley to periods and Galois",
+  "authors": "Kamryn Spinelli",
+  "summary": "Using a new approach based on Galois theory, we study subvarieties of complex representations of reductive groups which satisfy restriction properties on their invariant rings and function fields, along the lines of the Chevalley restriction theorem. For a certain well-behaved class of representations, we explicitly parametrize candidates for these restriction properties and explain a technique to understand their deformations in complex families. We also give algebraic and geometric characterizations of the Chevalley restriction property which clarify how this perspective connects back to previous orbit-theoretic approaches. Finally, we utilize these restriction properties to prove explicit formulas for period integrals of some Calabi-Yau families. The key insight is that the restriction property on function fields can be leveraged to locally interpolate between the algebraic and analytic settings. Using this technique, we lift hypergeometric period formulas from subfamilies to obtain novel explicit formulas for periods of Calabi-Yau double covers of projective spaces and elliptic curves in $\\mathbb{P}^2$, expressed in terms of invariant functions on their parameter spaces.",
+  "published": "2026-02-13T19:17:25Z",
+  "link": "https://arxiv.org/abs/2602.13409v1",
+  "pdf": "https://arxiv.org/pdf/2602.13409v1.pdf",
+  "category": "math.AG",
+  "fetched_at": "2026-03-10T22:27:54.090920"
+}

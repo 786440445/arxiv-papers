@@ -1,0 +1,11 @@
+{
+  "id": "2602.13806v1",
+  "title": "Gaussian Sequences with Multi-Scale Dynamics for 4D Reconstruction from Monocular Casual Videos",
+  "authors": "Lei Sun",
+  "summary": "Understanding dynamic scenes from casual videos is critical for scalable robot learning, yet four-dimensional (4D) reconstruction under strictly monocular settings remains highly ill-posed. To address this challenge, our key insight is that real-world dynamics exhibits a multi-scale regularity from object to particle level. To this end, we design the multi-scale dynamics mechanism that factorizes complex motion fields. Within this formulation, we propose Gaussian sequences with multi-scale dynamics, a novel representation for dynamic 3D Gaussians derived through compositions of multi-level motion. This layered structure substantially alleviates ambiguity of reconstruction and promotes physically plausible dynamics. We further incorporate multi-modal priors from vision foundation models to establish complementary supervision, constraining the solution space and improving the reconstruction fidelity. Our approach enables accurate and globally consistent 4D reconstruction from monocular casual videos. Experiments of dynamic novel-view synthesis (NVS) on benchmark and real-world manipulation datasets demonstrate considerable improvements over existing methods.",
+  "published": "2026-02-14T14:30:25Z",
+  "link": "https://arxiv.org/abs/2602.13806v1",
+  "pdf": "https://arxiv.org/pdf/2602.13806v1.pdf",
+  "category": "cs.CV, cs.RO",
+  "fetched_at": "2026-03-10T22:27:55.307485"
+}

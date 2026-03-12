@@ -1,0 +1,11 @@
+{
+  "id": "2602.03059v1",
+  "title": "From Speech-to-Spatial: Grounding Utterances on A Live Shared View with Augmented Reality",
+  "authors": "Arie Kaufman",
+  "summary": "We introduce Speech-to-Spatial, a referent disambiguation framework that converts verbal remote-assistance instructions into spatially grounded AR guidance. Unlike prior systems that rely on additional cues (e.g., gesture, gaze) or manual expert annotations, Speech-to-Spatial infers the intended target solely from spoken references (speech input). Motivated by our formative study of speech referencing patterns, we characterize recurring ways people specify targets (Direct Attribute, Relational, Remembrance, and Chained) and ground them to our object-centric relational graph. Given an utterance, referent cues are parsed and rendered as persistent in-situ AR visual guidance, reducing iterative micro-guidance (\"a bit more to the right\", \"now, stop.\") during remote guidance. We demonstrate the use cases of our system with remote guided assistance and intent disambiguation scenarios. Our evaluation shows that Speechto-Spatial improves task efficiency, reduces cognitive load, and enhances usability compared to a conventional voice-only baseline, transforming disembodied verbal instruction into visually explainable, actionable guidance on a live shared view.",
+  "published": "2026-02-03T03:34:12Z",
+  "link": "https://arxiv.org/abs/2602.03059v1",
+  "pdf": "https://arxiv.org/pdf/2602.03059v1.pdf",
+  "category": "cs.HC, cs.CL, cs.ET, cs.IR",
+  "fetched_at": "2026-03-10T22:27:37.898678"
+}

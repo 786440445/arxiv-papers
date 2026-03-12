@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09215v1",
+  "title": "SPAR-K: Scheduled Periodic Alternating Early Exit for Spoken Language Models",
+  "authors": "Hsiao-Ying Huang, Cheng-Han Chiang, Hung-yi Lee",
+  "summary": "arXiv:2603.09215v1 Announce Type: cross \nAbstract: Interleaved spoken language models (SLMs) alternately generate text and speech tokens, but decoding at full transformer depth for every step becomes costly, especially due to long speech sequences. We propose SPAR-K, a modality-aware early exit framework designed to accelerate interleaved SLM inference while preserving perceptual quality. SPAR-K introduces a speech alternating-depth schedule: most speech positions exit at a fixed intermediate layer, while periodic full-depth \"refresh\" steps mitigate distribution shift due to early exit. We evaluate our framework using Step-Audio-2-mini and GLM-4-Voice across four datasets spanning reasoning, factual QA, and dialogue tasks, measuring performance in terms of ASR transcription accuracy and perceptual quality. Experimental results demonstrate that SPAR-K largely preserves question-answering accuracy with a maximum accuracy drop of 0.82\\% while reducing average speech decoding depth by up to 11\\% on Step-Audio-2-mini and 5\\% on GLM-4-Voice, both with negligible changes in MOS and WER and no auxiliary computation overhead. We further demonstrate that confidence-based early exit strategies, widely used in text LLMs, are suboptimal for SLMs, highlighting that the unique statistical nature of speech tokens necessitates a specialized early exit design.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09215",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09215v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492346"
+}

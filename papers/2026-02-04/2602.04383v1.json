@@ -1,0 +1,11 @@
+{
+  "id": "2602.04383v1",
+  "title": "On the local nature of the de Almeida-Thouless line for mixed \\(p\\)-spin glasses",
+  "authors": "Adrien Schertzer",
+  "summary": "Jagannath and Tobasco~\\cite{JagTob} proposed a generalized de Almeida-Thouless (AT) criterion aimed at characterizing the replica symmetric (RS) regime for a broad class of mixed \\(p\\)-spin glass models with Ising spins. In this paper, we show that this generalized AT condition does not characterize the RS regime in general. Using the Hopf-Lax representation of the Parisi formula, we construct explicit counterexamples within the class of mixed \\(p\\)-spin models. In particular, we exhibit a model in which the classical AT perturbation is performed around the unique minimizer of the RS free energy, and prove that even in this setting, the AT criterion fails to characterize the RS phase. By contrast, the validity of the classical AT condition for the Sherrington-Kirkpatrick model remains open.",
+  "published": "2026-02-04T10:10:31Z",
+  "link": "https://arxiv.org/abs/2602.04383v1",
+  "pdf": "https://arxiv.org/pdf/2602.04383v1.pdf",
+  "category": "math.PR, math-ph",
+  "fetched_at": "2026-03-10T22:27:39.430882"
+}

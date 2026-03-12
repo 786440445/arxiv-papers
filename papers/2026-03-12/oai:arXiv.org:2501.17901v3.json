@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2501.17901v3",
+  "title": "Molecular Fingerprints Are Strong Models for Peptide Function Prediction",
+  "authors": "Jakub Adamczyk, Piotr Ludynia, Wojciech Czech",
+  "summary": "arXiv:2501.17901v3 Announce Type: replace-cross \nAbstract: Understanding peptide properties is often assumed to require modeling long-range molecular interactions, motivating the use of complex graph neural networks and pretrained transformers. Yet, whether such long-range dependencies are essential remains unclear. We investigate if simple, domain-specific molecular fingerprints can capture peptide function without these assumptions. Atomic-level representation aims to provide richer information than purely sequence-based models and better efficiency than structural ones. Across 132 datasets, including LRGB and five other peptide benchmarks, models using count-based ECFP, Topological Torsion, and RDKit fingerprints with LightGBM achieve state-of-the-art accuracy. Despite encoding only short-range molecular features, these models outperform GNNs and transformer-based approaches. Control experiments with sequence shuffling and amino acid counts confirm that fingerprints, though inherently local, suffice for robust peptide property prediction. Our results challenge the presumed necessity of long-range interaction modeling and highlight molecular fingerprints as efficient, interpretable, and computationally lightweight alternatives for peptide prediction.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2501.17901",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2501.17901v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265497"
+}

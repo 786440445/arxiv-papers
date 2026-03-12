@@ -1,0 +1,11 @@
+{
+  "id": "2602.10142v1",
+  "title": "Privacy by Voice: Modeling Youth Privacy-Protective Behavior in Smart Voice Assistants",
+  "authors": "Ajay Kumar Shrestha",
+  "summary": "Smart Voice Assistants (SVAs) are deeply embedded in the lives of youth, yet the mechanisms driving the privacy-protective behaviors among young users remain poorly understood. This study investigates how Canadian youth (aged 16-24) negotiate privacy with SVAs by developing and testing a structural model grounded in five key constructs: perceived privacy risks (PPR), perceived benefits (PPBf), algorithmic transparency and trust (ATT), privacy self-efficacy (PSE), and privacy-protective behaviors (PPB). A cross-sectional survey of N=469 youth was analyzed using partial least squares structural equation modeling. Results reveal that PSE is the strongest predictor of PPB, while the effect of ATT on PPB is fully mediated by PSE. This identifies a critical efficacy gap, where youth's confidence must first be built up for them to act. The model confirms that PPBf directly discourages protective action, yet also indirectly fosters it by slightly boosting self-efficacy. These findings empirically validate and extend earlier qualitative work, quantifying how policy overload and hidden controls erode the self-efficacy necessary for protective action. This study contributes an evidence-based pathway from perception to action and translates it into design imperatives that empower young digital citizens without sacrificing the utility of SVAs.",
+  "published": "2026-02-09T05:56:51Z",
+  "link": "https://arxiv.org/abs/2602.10142v1",
+  "pdf": "https://arxiv.org/pdf/2602.10142v1.pdf",
+  "category": "cs.CR, cs.CY",
+  "fetched_at": "2026-03-10T22:27:48.248033"
+}

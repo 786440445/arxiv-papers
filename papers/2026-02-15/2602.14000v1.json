@@ -1,0 +1,11 @@
+{
+  "id": "2602.14000v1",
+  "title": "Polarization fringes in optical systems: a compendium",
+  "authors": "David M. Harrington",
+  "summary": "Spectral and spatial fringes in polarized light are produced by the interference of transmitted and reflected waves at the interface between materials with different indexes of refraction. These instrumental artifacts can affect the accuracy of optical designs conceived for high-sensitivity spectroscopy and polarimetry. We review the fundamental mechanisms that are responsible for these artifacts and the possible design pathways that allow us to mitigate them. In order to do so, we also present an approximate treatment of the problem of the transmission and reflection of light through (possibly absorptive) birefringent layers, relying on a few fundamental results that can be found in the already extensive literature on the subject. Unfortunately, many of these results remain the domain of a niche of investigators working in the field of thin films and optical coatings, and are often overlooked even by experienced designers of spectro-polarimetric instrumentation. The treatment presented in this work is limited to isotropic materials and uniaxial crystals, which are the most common types of optics employed in polarimetric instrumentation, and it fundamentally relies on the approximation of small birefringence for its implementation. An extensive set of modeling examples is provided to highlight the salient characteristics of polarization fringes, as well as to assess how approximate treatments such as this compare to exact but more computational expensive formulations of the problem such as Berreman's calculus.",
+  "published": "2026-02-15T05:57:11Z",
+  "link": "https://arxiv.org/abs/2602.14000v1",
+  "pdf": "https://arxiv.org/pdf/2602.14000v1.pdf",
+  "category": "physics.optics, astro-ph.IM",
+  "fetched_at": "2026-03-10T22:27:56.677614"
+}

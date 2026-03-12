@@ -1,0 +1,11 @@
+{
+  "id": "2602.03250v1",
+  "title": "Collision Detection with Analytical Derivatives of Contact Kinematics",
+  "authors": "Federico Renda",
+  "summary": "Differentiable contact kinematics are essential for gradient-based methods in robotics, yet the mapping from robot state to contact distance, location, and normal becomes non-smooth in degenerate configurations of shapes with zero or undefined curvature. We address this inherent limitation by selectively regularizing such geometries into strictly convex implicit representations, restoring uniqueness and smoothness of the contact map. Leveraging this geometric regularization, we develop iDCOL, an implicit differentiable collision detection and contact kinematics framework. iDCOL represents colliding bodies using strictly convex implicit surfaces and computes collision detection and contact kinematics by solving a fixed-size nonlinear system derived from a geometric scaling-based convex optimization formulation. By applying the Implicit Function Theorem to the resulting system residual, we derive analytical derivatives of the contact kinematic quantities. We develop a fast Newton-based solver for iDCOL and provide an open-source C++ implementation of the framework. The robustness of the approach is evaluated through extensive collision simulations and benchmarking, and applicability is demonstrated in gradient-based kinematic path planning and differentiable contact physics, including multi-body rigid collisions and a soft-robot interaction example.",
+  "published": "2026-02-03T08:34:31Z",
+  "link": "https://arxiv.org/abs/2602.03250v1",
+  "pdf": "https://arxiv.org/pdf/2602.03250v1.pdf",
+  "category": "cs.RO",
+  "fetched_at": "2026-03-10T22:27:37.899794"
+}

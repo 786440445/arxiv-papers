@@ -1,0 +1,11 @@
+{
+  "id": "2602.15206v1",
+  "title": "MAVRL: Learning Reward Functions from Multiple Feedback Types with Amortized Variational Inference",
+  "authors": "Thomas Kleine Buening",
+  "summary": "Reward learning typically relies on a single feedback type or combines multiple feedback types using manually weighted loss terms. Currently, it remains unclear how to jointly learn reward functions from heterogeneous feedback types such as demonstrations, comparisons, ratings, and stops that provide qualitatively different signals. We address this challenge by formulating reward learning from multiple feedback types as Bayesian inference over a shared latent reward function, where each feedback type contributes information through an explicit likelihood. We introduce a scalable amortized variational inference approach that learns a shared reward encoder and feedback-specific likelihood decoders and is trained by optimizing a single evidence lower bound. Our approach avoids reducing feedback to a common intermediate representation and eliminates the need for manual loss balancing. Across discrete and continuous-control benchmarks, we show that jointly inferred reward posteriors outperform single-type baselines, exploit complementary information across feedback types, and yield policies that are more robust to environment perturbations. The inferred reward uncertainty further provides interpretable signals for analyzing model confidence and consistency across feedback types.",
+  "published": "2026-02-16T21:36:28Z",
+  "link": "https://arxiv.org/abs/2602.15206v1",
+  "pdf": "https://arxiv.org/pdf/2602.15206v1.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:57.850999"
+}

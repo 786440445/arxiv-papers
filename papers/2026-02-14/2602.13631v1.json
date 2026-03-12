@@ -1,0 +1,11 @@
+{
+  "id": "2602.13631v1",
+  "title": "GEMs: Breaking the Long-Sequence Barrier in Generative Recommendation with a Multi-Stream Decoder",
+  "authors": "Guorui Zhou",
+  "summary": "While generative recommendations (GR) possess strong sequential reasoning capabilities, they face significant challenges when processing extremely long user behavior sequences: the high computational cost forces practical sequence lengths to be limited, preventing models from capturing users' lifelong interests; meanwhile, the inherent \"recency bias\" of attention mechanisms further weakens learning from long-term history. To overcome this bottleneck, we propose GEMs (Generative rEcommendation with a Multi-stream decoder), a novel and unified framework designed to break the long-sequence barrier by capturing users' lifelong interaction sequences through a multi-stream perspective. Specifically, GEMs partitions user behaviors into three temporal streams$\\unicode{x2014}$Recent, Mid-term, and Lifecycle$\\unicode{x2014}$and employs tailored inference schemes for each: a one-stage real-time extractor for immediate dynamics, a lightweight indexer for cross attention to balance accuracy and cost for mid-term sequences, and a two-stage offline-online compression module for lifelong modeling. These streams are integrated via a parameter-free fusion strategy to enable holistic interest representation. Extensive experiments on large-scale industrial datasets demonstrate that GEMs significantly outperforms state-of-the-art methods in recommendation accuracy. Notably, GEMs is the first lifelong GR framework successfully deployed in a high-concurrency industrial environment, achieving superior inference efficiency while processing user sequences of over 100,000 interactions.",
+  "published": "2026-02-14T06:42:56Z",
+  "link": "https://arxiv.org/abs/2602.13631v1",
+  "pdf": "https://arxiv.org/pdf/2602.13631v1.pdf",
+  "category": "cs.IR",
+  "fetched_at": "2026-03-10T22:27:55.307108"
+}

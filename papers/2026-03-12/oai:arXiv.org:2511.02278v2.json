@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.02278v2",
+  "title": "Multiplexing Neural Audio Watermarks",
+  "authors": "Zheqi Yuan, Yucheng Huang, Guangzhi Sun, Zengrui Jin, Chao Zhang",
+  "summary": "arXiv:2511.02278v2 Announce Type: replace \nAbstract: Audio watermarking is essential for verifying speech authenticity, yet single-watermark schemes often struggle against sophisticated distortions such as neural reconstruction and adversarial attacks. To address this limitation, we introduce a multiplexing paradigm that combines multiple watermarking techniques to leverage their inherent complementarities. We explore both parallel and sequential multiplexing strategies and propose perceptual-adaptive time-frequency multiplexing (PA-TFM), a robust training-free approach. To further enhance performance, we introduce MaskNet, a novel model-based framework designed to learn effective time-domain multiplexing. Experimental results on the LibriSpeech and Common Voice datasets under 14 diverse attack types, including high-strength white-box and neural reconstruction attacks, demonstrate that both PA-TFM and MaskNet considerably outperform existing single-watermark baselines, establishing a resilient paradigm for real-world audio protection.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.02278",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.02278v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492397"
+}

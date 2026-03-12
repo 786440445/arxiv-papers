@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09086v1",
+  "title": "Latent World Models for Automated Driving: A Unified Taxonomy, Evaluation Framework, and Open Challenges",
+  "authors": "Rongxiang Zeng, Yongqi Dong",
+  "summary": "arXiv:2603.09086v1 Announce Type: cross \nAbstract: Emerging generative world models and vision-language-action (VLA) systems are rapidly reshaping automated driving by enabling scalable simulation, long-horizon forecasting, and capability-rich decision making. Across these directions, latent representations serve as the central computational substrate: they compress high-dimensional multi-sensor observations, enable temporally coherent rollouts, and provide interfaces for planning, reasoning, and controllable generation. This paper proposes a unifying latent-space framework that synthesizes recent progress in world models for automated driving. The framework organizes the design space by the target and form of latent representations (latent worlds, latent actions, latent generators; continuous states, discrete tokens, and hybrids) and by structural priors for geometry, topology, and semantics. Building on this taxonomy, the paper articulates five cross-cutting internal mechanics (i.e, structural isomorphism, long-horizon temporal stability, semantic and reasoning alignment, value-aligned objectives and post-training, as well as adaptive computation and deliberation) and connects these design choices to robustness, generalization, and deployability. The work also proposes concrete evaluation prescriptions, including a closed-loop metric suite and a resource-aware deliberation cost, designed to reduce the open-loop / closed-loop mismatch. Finally, the paper identifies actionable research directions toward advancing latent world model for decision-ready, verifiable, and resource-efficient automated driving.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09086",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09086v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265004"
+}

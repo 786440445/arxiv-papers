@@ -1,0 +1,11 @@
+{
+  "id": "2602.14021v1",
+  "title": "Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow",
+  "authors": "Daniel Cremers",
+  "summary": "Reconstructing and tracking dynamic 3D scenes remains a fundamental challenge in computer vision. Existing approaches often decouple geometry from motion: multi-view reconstruction methods assume static scenes, while dynamic tracking frameworks rely on explicit camera pose estimation or separate motion models. We propose Flow4R, a unified framework that treats camera-space scene flow as the central representation linking 3D structure, object motion, and camera motion. Flow4R predicts a minimal per-pixel property set-3D point position, scene flow, pose weight, and confidence-from two-view inputs using a Vision Transformer. This flow-centric formulation allows local geometry and bidirectional motion to be inferred symmetrically with a shared decoder in a single forward pass, without requiring explicit pose regressors or bundle adjustment. Trained jointly on static and dynamic datasets, Flow4R achieves state-of-the-art performance on 4D reconstruction and tracking tasks, demonstrating the effectiveness of the flow-central representation for spatiotemporal scene understanding.",
+  "published": "2026-02-15T06:58:08Z",
+  "link": "https://arxiv.org/abs/2602.14021v1",
+  "pdf": "https://arxiv.org/pdf/2602.14021v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:56.678660"
+}

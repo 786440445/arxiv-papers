@@ -1,0 +1,11 @@
+{
+  "id": "2602.16453v1",
+  "title": "Benchmarking Photolysis Rates with Socrates (24.11): Species for Earth and Exoplanets",
+  "authors": "Éric Hébrard",
+  "summary": "Using the Socrates photolysis scheme, we present newly calculated photolysis rates under modern Earth atmospheric conditions for species directly relevant to Earth and species relevant to different atmospheric compositions. We compare to a previous photolysis comparison exercise, namely PhotoComp 2011. Overall, we find good agreement between our results and previous work, with discrepancies usually caused by the implementation of temperature or pressure dependent quantum yields and updated cross-section data. We provide a new set of benchmark photolysis rates for additional species both for Solar irradiance and when irradiated by an M dwarf host star. In general, the higher actinic flux at far-UV and shorter wavelengths of the M dwarf compared to the Sun drives increased photolysis rates for reactions with high threshold energies. This work provides an updated set of benchmark results for further studies of photolysis in the Earth's atmosphere and that of other planets.",
+  "published": "2026-02-18T13:40:23Z",
+  "link": "https://arxiv.org/abs/2602.16453v1",
+  "pdf": "https://arxiv.org/pdf/2602.16453v1.pdf",
+  "category": "astro-ph.EP",
+  "fetched_at": "2026-03-10T22:28:01.715508"
+}

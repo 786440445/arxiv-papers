@@ -1,0 +1,11 @@
+{
+  "id": "2602.11466v1",
+  "title": "A Dual-Branch Framework for Semantic Change Detection with Boundary and Temporal Awareness",
+  "authors": "Ke Li",
+  "summary": "Semantic Change Detection (SCD) aims to detect and categorize land-cover changes from bi-temporal remote sensing images. Existing methods often suffer from blurred boundaries and inadequate temporal modeling, limiting segmentation accuracy. To address these issues, we propose a Dual-Branch Framework for Semantic Change Detection with Boundary and Temporal Awareness, termed DBTANet. Specifically, we utilize a dual-branch Siamese encoder where a frozen SAM branch captures global semantic context and boundary priors, while a ResNet34 branch provides local spatial details, ensuring complementary feature representations. On this basis, we design a Bidirectional Temporal Awareness Module (BTAM) to aggregate multi-scale features and capture temporal dependencies in a symmetric manner. Furthermore, a Gaussian-smoothed Projection Module (GSPM) refines shallow SAM features, suppressing noise while enhancing edge information for boundary-aware constraints. Extensive experiments on two public benchmarks demonstrate that DBTANet effectively integrates global semantics, local details, temporal reasoning, and boundary awareness, achieving state-of-the-art performance.",
+  "published": "2026-02-12T00:54:22Z",
+  "link": "https://arxiv.org/abs/2602.11466v1",
+  "pdf": "https://arxiv.org/pdf/2602.11466v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:52.638443"
+}

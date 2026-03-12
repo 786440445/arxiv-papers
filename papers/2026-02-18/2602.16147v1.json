@@ -1,0 +1,11 @@
+{
+  "id": "2602.16147v1",
+  "title": "ASPEN: Spectral-Temporal Fusion for Cross-Subject Brain Decoding",
+  "authors": "Kateryna Shapovalenko",
+  "summary": "Cross-subject generalization in EEG-based brain-computer interfaces (BCIs) remains challenging due to individual variability in neural signals. We investigate whether spectral representations offer more stable features for cross-subject transfer than temporal waveforms. Through correlation analyses across three EEG paradigms (SSVEP, P300, and Motor Imagery), we find that spectral features exhibit consistently higher cross-subject similarity than temporal signals. Motivated by this observation, we introduce ASPEN, a hybrid architecture that combines spectral and temporal feature streams via multiplicative fusion, requiring cross-modal agreement for features to propagate. Experiments across six benchmark datasets reveal that ASPEN is able to dynamically achieve the optimal spectral-temporal balance depending on the paradigm. ASPEN achieves the best unseen-subject accuracy on three of six datasets and competitive performance on others, demonstrating that multiplicative multimodal fusion enables effective cross-subject generalization.",
+  "published": "2026-02-18T02:41:33Z",
+  "link": "https://arxiv.org/abs/2602.16147v1",
+  "pdf": "https://arxiv.org/pdf/2602.16147v1.pdf",
+  "category": "cs.LG, cs.AI, cs.HC, eess.SP",
+  "fetched_at": "2026-03-10T22:28:01.716814"
+}

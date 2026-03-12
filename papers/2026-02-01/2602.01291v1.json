@@ -1,0 +1,11 @@
+{
+  "id": "2602.01291v1",
+  "title": "Construction-Verification: A Benchmark for Applied Mathematics in Lean 4",
+  "authors": "Zaiwen Wen",
+  "summary": "Recent advances in large language models have demonstrated impressive capabilities in mathematical formalization. However, existing benchmarks focus on logical verification of declarative propositions, often neglecting the task of explicitly synthesizing solutions. This limitation is particularly acute in applied mathematics domains, where the goal is frequently to derive concrete values or executable algorithms rather than solely proving theorems. To address this, we introduce a Lean 4 framework that enforces a construction-verification workflow, compelling the agent to define explicit solutions before proving their correctness. We curate a comprehensive benchmark AMBER (Applied Mathematics BEnchmark for Reasoning) spanning core domains of applied mathematics, including convex analysis, optimization, numerical algebra, and high-dimensional probability. Aside from theorem proving, our benchmark features complex tasks such as evaluation, algorithm design, and representation transformation. Experiments reveal that current models face significant difficulties with these constructive tasks. Notably, we observe that general-purpose reasoning models consistently outperform specialized theorem provers. We attribute this to a degradation of instruction following capabilities in specialized models. Fine-tuning on proof corpora appears to induce ``tactical overfitting\", compromising the ability to adhere to complex constructive requirements, whereas general models retain the versatility needed for multi-task formal reasoning.",
+  "published": "2026-02-01T15:46:28Z",
+  "link": "https://arxiv.org/abs/2602.01291v1",
+  "pdf": "https://arxiv.org/pdf/2602.01291v1.pdf",
+  "category": "cs.LO",
+  "fetched_at": "2026-03-10T22:27:32.801607"
+}

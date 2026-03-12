@@ -1,0 +1,11 @@
+{
+  "id": "2602.07621v2",
+  "title": "SciClaimEval: Cross-modal Claim Verification in Scientific Papers",
+  "authors": "Akiko Aizawa",
+  "summary": "We present SciClaimEval, a new scientific dataset for the claim verification task. Unlike existing resources, SciClaimEval features authentic claims, including refuted ones, directly extracted from published papers. To create refuted claims, we introduce a novel approach that modifies the supporting evidence (figures and tables), rather than altering the claims or relying on large language models (LLMs) to fabricate contradictions. The dataset provides cross-modal evidence with diverse representations: figures are available as images, while tables are provided in multiple formats, including images, LaTeX source, HTML, and JSON. SciClaimEval contains 1,664 annotated samples from 180 papers across three domains, machine learning, natural language processing, and medicine, validated through expert annotation. We benchmark 11 multimodal foundation models, both open-source and proprietary, across the dataset. Results show that figure-based verification remains particularly challenging for all models, as a substantial performance gap remains between the best system and human baseline.",
+  "published": "2026-02-07T16:58:55Z",
+  "link": "https://arxiv.org/abs/2602.07621v2",
+  "pdf": "https://arxiv.org/pdf/2602.07621v2.pdf",
+  "category": "cs.CL",
+  "fetched_at": "2026-03-10T22:27:43.906756"
+}

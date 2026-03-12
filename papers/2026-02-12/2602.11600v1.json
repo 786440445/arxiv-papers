@@ -1,0 +1,11 @@
+{
+  "id": "2602.11600v1",
+  "title": "An optical transient candidate of $\\lesssim$ 2-second duration captured by wide-field video observations",
+  "authors": "Takuya Yamashita",
+  "summary": "Recent time-domain surveys have revealed rapid transients that evolve on timescales of $\\lesssim 10$ days, expanding the transient population into the short-duration regime. The transient search on even shorter timescales, particularly those lasting only seconds or less, remains a largely unexplored frontier. Very short-duration optical transients could serve as potential counterparts to millisecond-duration fast radio bursts (FRBs), providing clues to their origins. However, the optical search for transients on such short timescales has been limited primarily by instrumental constraints. Here we report the discovery of an optical transient candidate (TMG20200322) with a duration of $\\lesssim 2$~s by wide-field video observations in the direction of the Earth's shadow. TMG20200322 was detected in just two consecutive images of 1-second exposure time, with its shape becoming elongated in the second frame. PSF shape variability analysis of field stars reveals that such an elongated PSF cannot be explained by atmospheric fluctuations. We investigate the potential origins of TMG20200322 in two scenarios: meteoroid impact flashes on near-Earth asteroids (NEAs) and head-on meteors in the Earth's atmosphere. None of the scenarios provides a satisfactory explanation for this transient. We derive a sky-projected rate of the TMG20200322 event of $R_{\\mathrm{trans}} = (3.4 \\times 10^{-2})^{+0.13}_{-0.028}$~deg$^{-2}$~day$^{-1}$ and an upper limit on second-timescale transients with durations of $1~\\mathrm{s} \\leq τ\\lesssim 15~\\mathrm{s}$ of $R_{\\mathrm{trans}} \\lesssim 0.10$~deg$^{-2}$~day$^{-1}$ for the non-detection case. We highlight that continuous monitoring observations in the direction of the Earth's shadow could be a key strategy to unveil a new population of optical transients on timescales of seconds or less.",
+  "published": "2026-02-12T05:32:06Z",
+  "link": "https://arxiv.org/abs/2602.11600v1",
+  "pdf": "https://arxiv.org/pdf/2602.11600v1.pdf",
+  "category": "astro-ph.EP, astro-ph.HE, astro-ph.IM",
+  "fetched_at": "2026-03-10T22:27:52.637876"
+}

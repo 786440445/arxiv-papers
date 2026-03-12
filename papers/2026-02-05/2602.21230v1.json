@@ -1,0 +1,11 @@
+{
+  "id": "2602.21230v1",
+  "title": "TRACE: Trajectory-Aware Comprehensive Evaluation for Deep Research Agents",
+  "authors": "Irwin King",
+  "summary": "The evaluation of Deep Research Agents is a critical challenge, as conventional outcome-based metrics fail to capture the nuances of their complex reasoning. Current evaluation faces two primary challenges: 1) a reliance on singular metrics like Pass@1, creating a \"high-score illusion\" that ignores the quality, efficiency, and soundness of the reasoning process; and 2) the failure of static benchmarks to quantify crucial attributes like robustness and latent capability. To address these gaps, we introduce TRACE (Trajectory-Aware Comprehensive Evaluation), a framework that holistically assesses the entire problem-solving trajectory. To counter the \"high-score illusion\", we propose a Hierarchical Trajectory Utility Function that quantifies process efficiency and cognitive quality, including evidence grounding, alongside accuracy. To measure deeper attributes, TRACE introduces a Scaffolded Capability Assessment protocol, quantifying an agent's latent ability by determining the minimum guidance needed for success. Our contributions include the TRACE framework, its novel metrics, and the accompanying DeepResearch-Bench with controllable complexity. Experiments show TRACE delivers a granular ranking that uncovers critical trade-offs between agent accuracy, efficiency, and robustness entirely missed by singular metrics.",
+  "published": "2026-02-05T13:28:57Z",
+  "link": "https://arxiv.org/abs/2602.21230v1",
+  "pdf": "https://arxiv.org/pdf/2602.21230v1.pdf",
+  "category": "cs.CL",
+  "fetched_at": "2026-03-10T22:27:40.854706"
+}

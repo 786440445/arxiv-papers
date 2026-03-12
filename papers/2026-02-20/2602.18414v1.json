@@ -1,0 +1,11 @@
+{
+  "id": "2602.18414v1",
+  "title": "Pole-Expansion of the T-Matrix Based on a Matrix-Valued AAA-Algorithm",
+  "authors": "Carsten Rockstuhl",
+  "summary": "The transition matrix (T-matrix) is a complete description of an object's linear scattering response. As such, it has found wide adoption for the theoretical and computational description of multiple-scattering phenomena. In its original form, the T-matrix describes the interaction of a scatterer with a monochromatic source. In practice, however, information about the T-matrix is usually needed in an extended spectral domain. To access the frequency-dispersion, one might naively sample T-matrices over a finely resolved set of discrete frequencies and store one T-matrix per frequency. This approach has multiple drawbacks: it is computationally expensive, requires excessive memory, and it disregards the physical origin of the spectral features, weakening physical interpretability. To overcome these major limitations, we leverage a pole-expansion technique to represent the T-matrix with arbitrary frequency resolution within a selected frequency domain via a set of resonant contributions. A matrix-valued variant of the recently established adaptive Antoulas-Anderson (AAA) algorithm for rational approximation enables us to compute the pole-expansion at minimal computational cost using only a small number of direct evaluations. We demonstrate the benefits of such a representation with examples ranging from semi-analytically accessible scatterers to quasi-dual bound states in the continuum. To allow the wider community to capitalize on these findings, we provide open-source tools to perform the presented pole-expansion of the T-matrix.",
+  "published": "2026-02-20T18:31:07Z",
+  "link": "https://arxiv.org/abs/2602.18414v1",
+  "pdf": "https://arxiv.org/pdf/2602.18414v1.pdf",
+  "category": "physics.optics, physics.comp-ph",
+  "fetched_at": "2026-03-10T22:28:04.392644"
+}

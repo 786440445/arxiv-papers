@@ -1,0 +1,11 @@
+{
+  "id": "2602.05906v1",
+  "title": "Explicit representation of solutions to a linear wave equation with time delay",
+  "authors": "Ismail T. Huseynov",
+  "summary": "This paper develops an explicit spectral representation for solutions of a one-dimensional linear wave equation with a constant time delay. The model is considered on a bounded interval with non-homogeneous Dirichlet boundary data and a prescribed history function. To accommodate the loss of global smoothness in time caused by delay terms, solutions are understood in a \\textit{stepwise classical sense}, allowing jump discontinuities in the second time derivative at multiples of the delay while maintaining continuity of the solution and its first time derivative.\n  By combining separation of variables with Sturm-Liouville expansions, the delayed PDE is reduced to a family of scalar second-order delay differential equations. Using delay-dependent fundamental solutions, we derive closed-form representation formulas for the modal dynamics and reconstruct the PDE solution as a Fourier series. Convergence conditions guaranteeing uniform convergence and admissibility of termwise differentiation in space are established. A numerical example demonstrates the practical computation of truncated series solutions and their visualization.",
+  "published": "2026-02-05T17:22:14Z",
+  "link": "https://arxiv.org/abs/2602.05906v1",
+  "pdf": "https://arxiv.org/pdf/2602.05906v1.pdf",
+  "category": "math.AP",
+  "fetched_at": "2026-03-10T22:27:40.854486"
+}

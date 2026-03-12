@@ -1,0 +1,11 @@
+{
+  "id": "2602.14153v1",
+  "title": "ARport: An Augmented Reality System for Markerless Image-Guided Port Placement in Robotic Surgery",
+  "authors": "Qi Dou",
+  "summary": "Purpose: Precise port placement is a critical step in robot-assisted surgery, where port configuration influences both visual access to the operative field and instrument maneuverability. To bridge the gap between preoperative planning and intraoperative execution, we present ARport, an augmented reality (AR) system that automatically maps pre-planned trocar layouts onto the patient's body surface, providing intuitive spatial guidance during surgical preparation. Methods: ARport, implemented on an optical see-through head-mounted display (OST-HMD), operates without any external sensors or markers, simplifying setup and enhancing workflow integration. It reconstructs the operative scene from RGB, depth, and pose data captured by the OST-HMD, extracts the patient's body surface using a foundation model, and performs surface-based markerless registration to align preoperative anatomical models to the extracted patient's body surface, enabling in-situ visualization of planned trocar layouts. A demonstration video illustrating the overall workflow is available online. Results: In full-scale human-phantom experiments, ARport accurately overlaid pre-planned trocar sites onto the physical phantom, achieving consistent spatial correspondence between virtual plans and real anatomy. Conclusion: ARport provides a fully marker-free and hardware-minimal solution for visualizing preoperative trocar plans directly on the patient's body surface. The system facilitates efficient intraoperative setup and demonstrates potential for seamless integration into routine clinical workflows.",
+  "published": "2026-02-15T13:57:47Z",
+  "link": "https://arxiv.org/abs/2602.14153v1",
+  "pdf": "https://arxiv.org/pdf/2602.14153v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:56.676832"
+}

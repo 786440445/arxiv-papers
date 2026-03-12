@@ -1,0 +1,11 @@
+{
+  "id": "2602.14037v1",
+  "title": "Affine Rank Minimization is ER Complete",
+  "authors": "Angshul Majumdar",
+  "summary": "We study the decision problem Affine Rank Minimization, denoted ARM(k). The input consists of rational matrices A_1,...,A_q in Q^{m x n} and rational scalars b_1,...,b_q in Q. The question is whether there exists a real matrix X in R^{m x n} such that trace(A_l^T X) = b_l for all l in {1,...,q} and rank(X) <= k. We first prove membership: for every fixed k >= 1, ARM(k) lies in the existential theory of the reals by giving an explicit existential encoding of the rank constraint using a constant-size factorization witness. We then prove existential-theory-of-reals hardness via a polynomial-time many-one reduction from ETR to ARM(k), where the target instance uses only affine equalities together with a single global constraint rank(X) <= k. The reduction compiles an ETR formula into an arithmetic circuit in gate-equality normal form and assigns each circuit quantity to a designated entry of X. Affine semantics (constants, copies, addition, and negation) are enforced by linear constraints, while multiplicative semantics are enforced by constant-size rank-forcing gadgets. Soundness is certified by a fixed-rank gauge submatrix that removes factorization ambiguity. We prove a composition lemma showing that gadgets can be embedded without unintended interactions, yielding global soundness and completeness while preserving polynomial bounds on dimension and bit-length. Consequently, ARM(k) is complete for the existential theory of the reals; in particular, ARM(3) is complete. This shows that feasibility of purely affine constraints under a fixed constant rank bound captures the full expressive power of real algebraic feasibility.",
+  "published": "2026-02-15T07:54:59Z",
+  "link": "https://arxiv.org/abs/2602.14037v1",
+  "pdf": "https://arxiv.org/pdf/2602.14037v1.pdf",
+  "category": "cs.CC",
+  "fetched_at": "2026-03-10T22:27:56.677413"
+}

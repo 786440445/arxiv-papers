@@ -1,0 +1,11 @@
+{
+  "id": "2602.15739v1",
+  "title": "Hierarchical Decomposition of Separable Workflow-Nets",
+  "authors": "Wil M. P. van der Aalst",
+  "summary": "The Partially Ordered Workflow Language (POWL) has recently emerged as a process modeling notation, offering strong quality guarantees and high expressiveness. While early versions of POWL relied on strict block-structured operators for choices and loops, the language has recently evolved into POWL 2.0, introducing choice graphs to enable the modeling of non-block-structured decisions and cycles. To bridge the gap between the theoretical advantages of POWL and the practical need for compatibility with established notations, robust model transformations are required. This paper presents a novel algorithm for transforming safe and sound workflow nets (WF-nets) into equivalent POWL 2.0 models. The algorithm recursively identifies structural patterns within the WF-net and translates them into their POWL representation. Unlike the previous approach that required separate detection strategies for exclusive choices and loops, our new algorithm utilizes choice graphs to capture generalized decision and cyclic patterns. We formally prove the correctness of our approach, showing that the generated POWL model preserves the language of the input WF-net. Furthermore, we prove the completeness of our algorithm on the class of separable WF-nets, which corresponds to nets constructed via the hierarchical nesting of state machines and marked graphs. We evaluate our algorithm on large-scale process models to demonstrate its high scalability. Furthermore, to test its practical expressiveness, we applied it to a benchmark of 1,493 industrial and synthetic process models. Our algorithm successfully transformed all models in this benchmark, suggesting that POWL 2.0's expressive power is generally sufficient to capture the complex logic found in real-world business processes. This work paves the way for broader adoption of POWL in practical process analysis and improvement applications.",
+  "published": "2026-02-17T17:14:46Z",
+  "link": "https://arxiv.org/abs/2602.15739v1",
+  "pdf": "https://arxiv.org/pdf/2602.15739v1.pdf",
+  "category": "cs.DB",
+  "fetched_at": "2026-03-10T22:28:00.142760"
+}

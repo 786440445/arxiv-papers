@@ -1,0 +1,11 @@
+{
+  "id": "2602.17019v1",
+  "title": "Beyond Average-Channel-Based Rate Approximations: UAV Trajectory and Scheduling Optimization With Expected Rate Consideration",
+  "authors": "Kisong Lee",
+  "summary": "This paper investigates the joint optimization of trajectory, user scheduling, and time-slot duration in unmanned aerial vehicle (UAV)-assisted wireless communication systems under minimum expected spectral efficiency (SE) constraints. Unlike most existing studies that approximate the expected SE by substituting the random channel gain with its mean value, thereby evaluating the SE at the average channel realization and overestimating the true expected SE due to Jensen's inequality, we approximate the expected SE by numerically integrating the SE over the channel distributions. Specifically, instead of relying on average-channel-based approximations, we develop a conservative yet tractable quadrature-based approximation by discretizing the associated cumulative distribution functions. The resulting finite-sum representation explicitly accounts for the probabilistic LoS structure and channel fading effects, while remaining tractable for optimization. Leveraging this lower bound, we formulate a mission completion time minimization problem subject to minimum expected-SE requirements for all ground nodes. The resulting problem is a mixed-integer nonconvex optimization, which is tackled via a penalty-based block coordinate descent framework. The proposed algorithm alternately optimizes the scheduling decisions and the UAV trajectory along with adaptive time-slot durations, and maintains feasibility with respect to the original expected-SE constraints by leveraging successive convex approximation and quadratic transform techniques. Simulation results demonstrate that the proposed method strictly satisfies the minimum expected-SE constraints and achieves a significantly shorter mission completion time than conventional average-channel-based approaches, which are shown to yield infeasible or overly conservative solutions.",
+  "published": "2026-02-19T02:30:06Z",
+  "link": "https://arxiv.org/abs/2602.17019v1",
+  "pdf": "https://arxiv.org/pdf/2602.17019v1.pdf",
+  "category": "eess.SY",
+  "fetched_at": "2026-03-10T22:28:03.149685"
+}

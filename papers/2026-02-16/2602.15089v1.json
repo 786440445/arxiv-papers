@@ -1,0 +1,11 @@
+{
+  "id": "2602.15089v1",
+  "title": "Hybrid Feature Learning with Time Series Embeddings for Equipment Anomaly Prediction",
+  "authors": "Takato Yasuno",
+  "summary": "In predictive maintenance of equipment, deep learning-based time series anomaly detection has garnered significant attention; however, pure deep learning approaches often fail to achieve sufficient accuracy on real-world data. This study proposes a hybrid approach that integrates 64-dimensional time series embeddings from Granite TinyTimeMixer with 28-dimensional statistical features based on domain knowledge for HVAC equipment anomaly prediction tasks. Specifically, we combine time series embeddings extracted from a Granite TinyTimeMixer encoder fine-tuned with LoRA (Low-Rank Adaptation) and 28 types of statistical features including trend, volatility, and drawdown indicators, which are then learned using a LightGBM gradient boosting classifier. In experiments using 64 equipment units and 51,564 samples, we achieved Precision of 91--95\\% and ROC-AUC of 0.995 for anomaly prediction at 30-day, 60-day, and 90-day horizons. Furthermore, we achieved production-ready performance with a false positive rate of 1.1\\% or less and a detection rate of 88--94\\%, demonstrating the effectiveness of the system for predictive maintenance applications. This work demonstrates that practical anomaly detection systems can be realized by leveraging the complementary strengths between deep learning's representation learning capabilities and statistical feature engineering.",
+  "published": "2026-02-16T15:00:15Z",
+  "link": "https://arxiv.org/abs/2602.15089v1",
+  "pdf": "https://arxiv.org/pdf/2602.15089v1.pdf",
+  "category": "cs.LG, stat.ML",
+  "fetched_at": "2026-03-10T22:27:57.851418"
+}

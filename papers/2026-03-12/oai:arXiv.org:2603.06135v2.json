@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.06135v2",
+  "title": "A Causal Graph Approach to Oppositional Narrative Analysis",
+  "authors": "Diego Revilla, Martin Fernandez-de-Retana, Lingfeng Chen, Aritz Bilbao-Jayo, Miguel Fernandez-de-Retana",
+  "summary": "arXiv:2603.06135v2 Announce Type: replace-cross \nAbstract: Current methods for textual analysis rely on data annotated within predefined ontologies, often embedding human bias within black-box models. Despite achieving near-perfect performance, these approaches exploit unstructured, linear pattern recognition rather than modeling the structured interactions between entities that naturally emerge in discourse. In this work, we propose a graph-based framework for the detection, analysis, and classification of oppositional narratives and their underlying entities by representing narratives as entity-interaction graphs. Moreover, by incorporating causal estimation at the node level, our approach derives a causal representation of each contribution to the final classification by distilling the constructed sentence graph into a minimal causal subgraph. Building upon this representation, we introduce a classification pipeline that outperforms existing approaches to oppositional thinking classification task.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.06135",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.06135v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.794245"
+}

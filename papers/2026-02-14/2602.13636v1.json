@@ -1,0 +1,11 @@
+{
+  "id": "2602.13636v1",
+  "title": "Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness",
+  "authors": "Haohua Zhang",
+  "summary": "Visual object tracking (VOT) plays a pivotal role in unmanned aerial vehicle (UAV) applications. Addressing the trade-off between accuracy and efficiency, especially under challenging conditions like unpredictable occlusion, remains a significant challenge. This paper introduces LGTrack, a unified UAV tracking framework that integrates dynamic layer selection, efficient feature enhancement, and robust representation learning for occlusions. By employing a novel lightweight Global-Grouped Coordinate Attention (GGCA) module, LGTrack captures long-range dependencies and global contexts, enhancing feature discriminability with minimal computational overhead. Additionally, a lightweight Similarity-Guided Layer Adaptation (SGLA) module replaces knowledge distillation, achieving an optimal balance between tracking precision and inference efficiency. Experiments on three datasets demonstrate LGTrack's state-of-the-art real-time speed (258.7 FPS on UAVDT) while maintaining competitive tracking accuracy (82.8\\% precision). Code is available at https://github.com/XiaoMoc/LGTrack",
+  "published": "2026-02-14T07:02:25Z",
+  "link": "https://arxiv.org/abs/2602.13636v1",
+  "pdf": "https://arxiv.org/pdf/2602.13636v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:55.305994"
+}

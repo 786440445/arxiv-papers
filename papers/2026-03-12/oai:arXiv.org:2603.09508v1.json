@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09508v1",
+  "title": "A Fast Solver for Interpolating Stochastic Differential Equation Diffusion Models for Speech Restoration",
+  "authors": "Bunlong Lay, Timo Gerkmann",
+  "summary": "arXiv:2603.09508v1 Announce Type: new \nAbstract: Diffusion Probabilistic Models (DPMs) are a well-established class of diffusion models for unconditional image generation, while SGMSE+ is a well-established conditional diffusion model for speech enhancement. One of the downsides of diffusion models is that solving the reverse process requires many evaluations of a large Neural Network. Although advanced fast sampling solvers have been developed for DPMs, they are not directly applicable to models such as SGMSE+ due to differences in their diffusion processes. Specifically, DPMs transform between the data distribution and a standard Gaussian distribution, whereas SGMSE+ interpolates between the target distribution and a noisy observation. This work first develops a formalism of interpolating Stochastic Differential Equations (iSDEs) that includes SGMSE+, and second proposes a solver for iSDEs. The proposed solver enables fast sampling with as few as 10 Neural Network evaluations across multiple speech restoration tasks.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09508",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09508v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492314"
+}

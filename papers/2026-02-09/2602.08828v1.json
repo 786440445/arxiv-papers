@@ -1,0 +1,11 @@
+{
+  "id": "2602.08828v1",
+  "title": "VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning",
+  "authors": "Zhen Lei",
+  "summary": "The growing capability of video generation poses escalating security risks, making reliable detection increasingly essential. In this paper, we introduce VideoVeritas, a framework that integrates fine-grained perception and fact-based reasoning. We observe that while current multi-modal large language models (MLLMs) exhibit strong reasoning capacity, their granular perception ability remains limited. To mitigate this, we introduce Joint Preference Alignment and Perception Pretext Reinforcement Learning (PPRL). Specifically, rather than directly optimizing for detection task, we adopt general spatiotemporal grounding and self-supervised object counting in the RL stage, enhancing detection performance with simple perception pretext tasks. To facilitate robust evaluation, we further introduce MintVid, a light yet high-quality dataset containing 3K videos from 9 state-of-the-art generators, along with a real-world collected subset that has factual errors in content. Experimental results demonstrate that existing methods tend to bias towards either superficial reasoning or mechanical analysis, while VideoVeritas achieves more balanced performance across diverse benchmarks.",
+  "published": "2026-02-09T16:00:01Z",
+  "link": "https://arxiv.org/abs/2602.08828v1",
+  "pdf": "https://arxiv.org/pdf/2602.08828v1.pdf",
+  "category": "cs.CV",
+  "fetched_at": "2026-03-10T22:27:48.249607"
+}

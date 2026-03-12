@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09708v1",
+  "title": "Finetuning a Text-to-Audio Model for Room Impulse Response Generation",
+  "authors": "Kirak Kim, Sungyoung Kim",
+  "summary": "arXiv:2603.09708v1 Announce Type: new \nAbstract: Room Impulse Responses (RIRs) enable realistic acoustic simulation, with applications ranging from multimedia production to speech data augmentation. However, acquiring high-quality real-world RIRs is labor-intensive, and data scarcity remains a challenge for data-driven RIR generation approaches. In this paper, we propose a novel approach to RIR generation by fine-tuning a pre-trained text-to-audio model, demonstrating for the first time that large-scale generative audio priors can be effectively leveraged for the task. To address the lack of text-RIR paired data, we establish a labeling pipeline utilizing vision-language models to extract acoustic descriptions from existing image-RIR datasets. We introduce an in-context learning strategy to accommodate free-form user prompts during inference. Evaluations involving MUSHRA listening tests and downstream ASR performance demonstrate that our model generates plausible RIRs and serves as an effective tool for speech data augmentation.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09708",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09708v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492323"
+}

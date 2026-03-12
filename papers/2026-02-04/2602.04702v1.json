@@ -1,0 +1,11 @@
+{
+  "id": "2602.04702v1",
+  "title": "Fine-Grained Frame Modeling in Multi-head Self-Attention for Speech Deepfake Detection",
+  "authors": "Trang Nguyen Thi Thu",
+  "summary": "Transformer-based models have shown strong performance in speech deepfake detection, largely due to the effectiveness of the multi-head self-attention (MHSA) mechanism. MHSA provides frame-level attention scores, which are particularly valuable because deepfake artifacts often occur in small, localized regions along the temporal dimension of speech. This makes fine-grained frame modeling essential for accurately detecting subtle spoofing cues. In this work, we propose fine-grained frame modeling (FGFM) for MHSA-based speech deepfake detection, where the most informative frames are first selected through a multi-head voting (MHV) module. These selected frames are then refined via a cross-layer refinement (CLR) module to enhance the model's ability to learn subtle spoofing cues. Experimental results demonstrate that our method outperforms the baseline model and achieves Equal Error Rate (EER) of 0.90%, 1.88%, and 6.64% on the LA21, DF21, and ITW datasets, respectively. These consistent improvements across multiple benchmarks highlight the effectiveness of our fine-grained modeling for robust speech deepfake detection.",
+  "published": "2026-02-04T16:12:51Z",
+  "link": "https://arxiv.org/abs/2602.04702v1",
+  "pdf": "https://arxiv.org/pdf/2602.04702v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-10T22:27:39.429151"
+}

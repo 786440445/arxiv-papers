@@ -1,0 +1,11 @@
+{
+  "id": "2602.01199v2",
+  "title": "On Normality and Equidistribution for Separator Enumerators",
+  "authors": "Subin Pulari",
+  "summary": "A separator is a countable dense subset of $[0,1)$, and a separator enumerator is a naming scheme that assigns a real number in $[0,1)$ to each finite word so that the set of all named values is a separator. Mayordomo introduced separator enumerators to define $f$-normality and a relativized finite-state dimension $\\dim^{f}_{\\mathrm{FS}}(x)$, where finite-state dimension measures the asymptotic lower rate of finite-state information needed to approximate $x$ through its $f$-names. This framework extends classical base-$k$ normality, and Mayordomo showed that it supports a point-to-set principle for finite-state dimension. This representation-based viewpoint has since been developed further in follow-up work, including by Calvert et al., yielding strengthened randomness notions such as supernormal and highly normal numbers.\n  Mayordomo posed the following open question: can $f$-normality be characterized via equidistribution properties of the sequence $\\left(|Σ|^{n} a^{f}_{n}(x)\\right)_{n=0}^{\\infty}$, where $a^{f}_{n}(x)$ is the sequence of best approximations to $x$ from below induced by $f$? We give a strong negative answer: we construct computable separator enumerators $f_0,f_1$ and a point $x$ such that $a^{f_0}_{n}(x)=a^{f_1}_{n}(x)$ for all $n$, yet $\\dim^{f_0}_{\\mathrm{FS}}(x)=0$ while $\\dim^{f_1}_{\\mathrm{FS}}(x)=1$. Consequently, no criterion depending only on the sequence $\\left(|Σ|^{n} a^{f}_{n}(x)\\right)_{n=0}^{\\infty}$ - in particular, no equidistribution property of this sequence - can characterize $f$-normality uniformly over all separator enumerators. On the other hand, for a natural finite-state coherent class of separator enumerators we recover a complete equidistribution characterization of $f$-normality. We also show that beyond finite-state coherence, this characterization can fail even for a separator enumerator computable in nearly linear time.",
+  "published": "2026-02-01T12:41:00Z",
+  "link": "https://arxiv.org/abs/2602.01199v2",
+  "pdf": "https://arxiv.org/pdf/2602.01199v2.pdf",
+  "category": "cs.FL",
+  "fetched_at": "2026-03-10T22:27:32.801416"
+}

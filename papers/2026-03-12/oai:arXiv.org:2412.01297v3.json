@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2412.01297v3",
+  "title": "Morphological-Symmetry-Equivariant Heterogeneous Graph Neural Network for Robotic Dynamics Learning",
+  "authors": "Fengze Xie, Sizhe Wei, Yue Song, Yisong Yue, Lu Gan",
+  "summary": "arXiv:2412.01297v3 Announce Type: replace-cross \nAbstract: We present a morphological-symmetry-equivariant heterogeneous graph neural network, namely MS-HGNN, for robotic dynamics learning, that integrates robotic kinematic structures and morphological symmetries into a single graph network. These structural priors are embedded into the learning architecture as constraints, ensuring high generalizability, sample and model efficiency. The proposed MS-HGNN is a versatile and general architecture that is applicable to various multi-body dynamic systems and a wide range of dynamics learning problems. We formally prove the morphological-symmetry-equivariant property of our MS-HGNN and validate its effectiveness across multiple quadruped robot learning problems using both real-world and simulated data. Our code is made publicly available at https://github.com/lunarlab-gatech/MorphSym-HGNN/.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2412.01297",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2412.01297v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.265488"
+}

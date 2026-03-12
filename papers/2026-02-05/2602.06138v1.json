@@ -1,0 +1,11 @@
+{
+  "id": "2602.06138v1",
+  "title": "Flow Matching for Offline Reinforcement Learning with Discrete Actions",
+  "authors": "Peizhong Ju",
+  "summary": "Generative policies based on diffusion models and flow matching have shown strong promise for offline reinforcement learning (RL), but their applicability remains largely confined to continuous action spaces. To address a broader range of offline RL settings, we extend flow matching to a general framework that supports discrete action spaces with multiple objectives. Specifically, we replace continuous flows with continuous-time Markov chains, trained using a Q-weighted flow matching objective. We then extend our design to multi-agent settings, mitigating the exponential growth of joint action spaces via a factorized conditional path. We theoretically show that, under idealized conditions, optimizing this objective recovers the optimal policy. Extensive experiments further demonstrate that our method performs robustly in practical scenarios, including high-dimensional control, multi-modal decision-making, and dynamically changing preferences over multiple objectives. Our discrete framework can also be applied to continuous-control problems through action quantization, providing a flexible trade-off between representational complexity and performance.",
+  "published": "2026-02-05T19:13:44Z",
+  "link": "https://arxiv.org/abs/2602.06138v1",
+  "pdf": "https://arxiv.org/pdf/2602.06138v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:40.852921"
+}

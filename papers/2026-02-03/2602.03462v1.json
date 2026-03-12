@@ -1,0 +1,11 @@
+{
+  "id": "2602.03462v1",
+  "title": "RAL-Bench: Benchmarking for Application-Level Functional Correctness and Non-Functional Quality Attributes",
+  "authors": "Hongyu Zhang",
+  "summary": "Code generation has advanced rapidly with code-focused large language models (LLMs), especially on snippet-level tasks. However, application-level generation requires producing a runnable multi-file repository with correct structure, dependencies, and end-to-end executability, and real-world software must satisfy both functional correctness and non-functional quality (e.g., maintainability, security). Existing benchmarks provide a limited execution-based assessment of these requirements at the application level. We ask: Can current LLMs generate application-level repositories that meet both functional and non-functional criteria? We propose RAL-Bench, a benchmark and evaluation framework for application-level code generation. For each task, we distill a concise natural-language requirement from a high-quality reference project, build black-box system tests covering functional and non-functional attributes, and keep only tests that pass on the reference repository to ensure a sound oracle and an end-to-end executable suite. Functional correctness is measured by system-test pass rate. Non-functional quality is measured along five ISO/IEC 25010-inspired dimensions and aggregated with an Analytic Hierarchy Process (AHP)-derived weight vector, with per-dimension diagnostics and baseline-normalized scoring using reference measurements. Across 16 LLMs evaluated zero-shot with greedy decoding, functional correctness is the dominant bottleneck: no model exceeds a 45% functional pass rate under our requirement-driven, reference-validated tests. We release RAL-Bench at https://github.com/Wwstarry/RAL-Bench. .",
+  "published": "2026-02-03T12:35:09Z",
+  "link": "https://arxiv.org/abs/2602.03462v1",
+  "pdf": "https://arxiv.org/pdf/2602.03462v1.pdf",
+  "category": "cs.SE",
+  "fetched_at": "2026-03-10T22:27:37.899372"
+}

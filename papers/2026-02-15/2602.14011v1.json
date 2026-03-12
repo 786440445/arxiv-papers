@@ -1,0 +1,11 @@
+{
+  "id": "2602.14011v1",
+  "title": "KoopGen: Koopman Generator Networks for Representing and Predicting Dynamical Systems with Continuous Spectra",
+  "authors": "Zongben Xu",
+  "summary": "Representing and predicting high-dimensional and spatiotemporally chaotic dynamical systems remains a fundamental challenge in dynamical systems and machine learning. Although data-driven models can achieve accurate short-term forecasts, they often lack stability, interpretability, and scalability in regimes dominated by broadband or continuous spectra. Koopman-based approaches provide a principled linear perspective on nonlinear dynamics, but existing methods rely on restrictive finite-dimensional assumptions or explicit spectral parameterizations that degrade in high-dimensional settings. Against these issues, we introduce KoopGen, a generator-based neural Koopman framework that models dynamics through a structured, state-dependent representation of Koopman generators. By exploiting the intrinsic Cartesian decomposition into skew-adjoint and self-adjoint components, KoopGen separates conservative transport from irreversible dissipation while enforcing exact operator-theoretic constraints during learning. Across systems ranging from nonlinear oscillators to high-dimensional chaotic and spatiotemporal dynamics, KoopGen improves prediction accuracy and stability, while clarifying which components of continuous-spectrum dynamics admit interpretable and learnable representations.",
+  "published": "2026-02-15T06:32:23Z",
+  "link": "https://arxiv.org/abs/2602.14011v1",
+  "pdf": "https://arxiv.org/pdf/2602.14011v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-10T22:27:56.677552"
+}

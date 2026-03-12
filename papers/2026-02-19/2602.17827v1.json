@@ -1,0 +1,11 @@
+{
+  "id": "2602.17827v1",
+  "title": "Avoid What You Know: Divergent Trajectory Balance for GFlowNets",
+  "authors": "Diego Mesquita",
+  "summary": "Generative Flow Networks (GFlowNets) are a flexible family of amortized samplers trained to generate discrete and compositional objects with probability proportional to a reward function. However, learning efficiency is constrained by the model's ability to rapidly explore diverse high-probability regions during training. To mitigate this issue, recent works have focused on incentivizing the exploration of unvisited and valuable states via curiosity-driven search and self-supervised random network distillation, which tend to waste samples on already well-approximated regions of the state space. In this context, we propose Adaptive Complementary Exploration (ACE), a principled algorithm for the effective exploration of novel and high-probability regions when learning GFlowNets. To achieve this, ACE introduces an exploration GFlowNet explicitly trained to search for high-reward states in regions underexplored by the canonical GFlowNet, which learns to sample from the target distribution. Through extensive experiments, we show that ACE significantly improves upon prior work in terms of approximation accuracy to the target distribution and discovery rate of diverse high-reward states.",
+  "published": "2026-02-19T20:47:28Z",
+  "link": "https://arxiv.org/abs/2602.17827v1",
+  "pdf": "https://arxiv.org/pdf/2602.17827v1.pdf",
+  "category": "cs.LG, stat.ML",
+  "fetched_at": "2026-03-10T22:28:03.148711"
+}

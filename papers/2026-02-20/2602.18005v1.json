@@ -1,0 +1,11 @@
+{
+  "id": "2602.18005v1",
+  "title": "Multi-Modal Sensing Residual-Corrected GNN for mmWave Path Loss Prediction via Synesthesia of Machines",
+  "authors": "Xiang Cheng",
+  "summary": "To support sixth-generation (6G)-enabled intelligent transportation systems (ITSs), a multi-modal sensing residual-corrected graph neural network (MM-ResGNN) framework is proposed for millimeter-wave (mmWave) path loss prediction in vehicular communications for the first time. The propagation environment is formulated as an environment sensing path loss graph (ESPL-Graph), where nodes represent the transmitter (Tx) and receiver (Rx) entities and edges jointly describe Tx--Rx transmission links and Rx--Rx spatial correlation links. Meanwhile, a geometry-driven physical baseline is introduced to decouple deterministic attenuation trends from stochastic residual variations. A vehicular multi-modal path loss dataset (VMMPL) is constructed, which covers three representative scenarios, including the urban wide lane, urban crossroad, and suburban forking road environments, and achieves precise alignment between RGB images and global semantic information in the physical space, and link-level ray-tracing (RT)-based path loss data in the electromagnetic space. In MM-ResGNN, topology-aware graph representations and fine-grained visual semantics are synergistically integrated through a gated fusion mechanism to estimate the path loss residual relative to the physical baseline. Experimental results demonstrate that MM-ResGNN achieves significant improvements over empirical models and conventional data-driven baselines, with a normalized mean squared error (NMSE) of 0.0098, a mean absolute error (MAE) of 5.7991~dB, and a mean absolute percentage error (MAPE) of 5.0498\\%. Furthermore, MM-ResGNN exhibits robust cross-scenario generalization through a few-shot fine-tuning strategy, enabling accurate path loss prediction in unseen vehicular environments with limited labeled data.",
+  "published": "2026-02-20T05:33:03Z",
+  "link": "https://arxiv.org/abs/2602.18005v1",
+  "pdf": "https://arxiv.org/pdf/2602.18005v1.pdf",
+  "category": "eess.SP",
+  "fetched_at": "2026-03-10T22:28:04.394453"
+}

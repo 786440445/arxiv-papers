@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08856v1",
+  "title": "Unpacking Interpretability: Human-Centered Criteria for Optimal Combinatorial Solutions",
+  "authors": "Dominik Pegler, Frank J\\\"akel, David Steyrl, Frank Scharnowski, Filip Melinscak",
+  "summary": "arXiv:2603.08856v1 Announce Type: cross \nAbstract: Algorithmic support systems often return optimal solutions that are hard to understand. Effective human-algorithm collaboration, however, requires interpretability. When machine solutions are equally optimal, humans must select one, but a precise account of what makes one solution more interpretable than another remains missing. To identify structural properties of interpretable machine solutions, we present an experimental paradigm in which participants chose which of two equally optimal solutions for packing items into bins was easier to understand. We show that preferences reliably track three quantifiable properties of solution structure: alignment with a greedy heuristic, simple within-bin composition, and ordered visual representation. The strongest associations were observed for ordered representations and heuristic alignment, with compositional simplicity also showing a consistent association. Reaction-time evidence was mixed, with faster responses observed primarily when heuristic differences were larger, and aggregate webcam-based gaze did not show reliable effects of complexity. These results provide a concrete, feature-based account of interpretability in optimal packing solutions, linking solution structure to human preference. By identifying actionable properties (simple compositions, ordered representation, and heuristic alignment), our findings enable interpretability-aware optimization and presentation of machine solutions, and outline a path to quantify trade-offs between optimality and interpretability in real-world allocation and design tasks.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08856",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08856v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-12T11:00:21.793284"
+}

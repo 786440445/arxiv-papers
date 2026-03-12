@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.23553v3",
+  "title": "Human-CLAP: Human-perception-based contrastive language-audio pretraining",
+  "authors": "Taisei Takano, Yuki Okamoto, Yusuke Kanamori, Yuki Saito, Ryotaro Nagase, Hiroshi Saruwatari",
+  "summary": "arXiv:2506.23553v3 Announce Type: replace-cross \nAbstract: Contrastive language-audio pretraining (CLAP) is widely used for audio generation and recognition tasks. For example, CLAPScore, which utilizes the similarity of CLAP embeddings, has been a major metric for the evaluation of the relevance between audio and text in text-to-audio. However, the relationship between CLAPScore and human subjective evaluation scores is still unclarified. We show that CLAPScore has a low correlation with human subjective evaluation scores. Additionally, we propose a human-perception-based CLAP called Human-CLAP by training a contrastive language-audio model using the subjective evaluation score. In our experiments, the results indicate that our Human-CLAP improved the Spearman's rank correlation coefficient (SRCC) between the CLAPScore and the subjective evaluation scores by more than 0.25 compared with the conventional CLAP.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.23553",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.23553v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-12T11:00:17.195646"
+}

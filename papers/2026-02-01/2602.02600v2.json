@@ -1,0 +1,11 @@
+{
+  "id": "2602.02600v2",
+  "title": "Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models",
+  "authors": "Chaim Baskin",
+  "summary": "Diffusion language models (DLMs) have recently emerged as a promising alternative to autoregressive (AR) models, offering parallel decoding and controllable sampling dynamics while achieving competitive generation quality at scale. Despite this progress, the role of sampling mechanisms in shaping refusal behavior and jailbreak robustness remains poorly understood. In this work, we present a fundamental analytical framework for step-wise refusal dynamics, enabling comparison between AR and diffusion sampling. Our analysis reveals that the sampling strategy itself plays a central role in safety behavior, as a factor distinct from the underlying learned representations. Motivated by this analysis, we introduce the Step-Wise Refusal Internal Dynamics (SRI) signal, which supports interpretability and improved safety for both AR and DLMs. We demonstrate that the geometric structure of SRI captures internal recovery dynamics, and identifies anomalous behavior in harmful generations as cases of \\emph{incomplete internal recovery} that are not observable at the text level. This structure enables lightweight inference-time detectors that generalize to unseen attacks while matching or outperforming existing defenses with over $100\\times$ lower inference overhead.",
+  "published": "2026-02-01T17:41:32Z",
+  "link": "https://arxiv.org/abs/2602.02600v2",
+  "pdf": "https://arxiv.org/pdf/2602.02600v2.pdf",
+  "category": "cs.LG, cs.AI",
+  "fetched_at": "2026-03-10T22:27:32.801813"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "2602.16979v1",
+  "title": "Characterizing the Predictive Impact of Modalities with Supervised Latent-Variable Modeling",
+  "authors": "Kyunghyun Cho",
+  "summary": "Despite the recent success of Multimodal Large Language Models (MLLMs), existing approaches predominantly assume the availability of multiple modalities during training and inference. In practice, multimodal data is often incomplete because modalities may be missing, collected asynchronously, or available only for a subset of examples. In this work, we propose PRIMO, a supervised latent-variable imputation model that quantifies the predictive impact of any missing modality within the multimodal learning setting. PRIMO enables the use of all available training examples, whether modalities are complete or partial. Specifically, it models the missing modality through a latent variable that captures its relationship with the observed modality in the context of prediction. During inference, we draw many samples from the learned distribution over the missing modality to both obtain the marginal predictive distribution (for the purpose of prediction) and analyze the impact of the missing modalities on the prediction for each instance. We evaluate PRIMO on a synthetic XOR dataset, Audio-Vision MNIST, and MIMIC-III for mortality and ICD-9 prediction. Across all datasets, PRIMO obtains performance comparable to unimodal baselines when a modality is fully missing and to multimodal baselines when all modalities are available. PRIMO quantifies the predictive impact of a modality at the instance level using a variance-based metric computed from predictions across latent completions. We visually demonstrate how varying completions of the missing modality result in a set of plausible labels.",
+  "published": "2026-02-19T00:37:28Z",
+  "link": "https://arxiv.org/abs/2602.16979v1",
+  "pdf": "https://arxiv.org/pdf/2602.16979v1.pdf",
+  "category": "cs.CV, cs.CL, cs.LG",
+  "fetched_at": "2026-03-10T22:28:03.149798"
+}

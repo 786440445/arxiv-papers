@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08931v1",
+  "title": "Optimizing Reinforcement Learning Training over Digital Twin Enabled Multi-fidelity Networks",
+  "authors": "Hanzhi Yu, Hasan Farooq, Julien Forgeat, Shruti Bothe, Kristijonas Cyras, Md Moin Uddin Chowdhury, Mingzhe Chen",
+  "summary": "arXiv:2603.08931v1 Announce Type: cross \nAbstract: In this paper, we investigate a novel digital network twin (DNT) assisted deep learning (DL) model training framework. In particular, we consider a physical network where a base station (BS) uses several antennas to serve multiple mobile users, and a DNT that is a virtual representation of the physical network. The BS must adjust its antenna tilt angles to optimize the data rates of all users. Due to user mobility, the BS may not be able to accurately track network dynamics such as wireless channels and user mobilities. Hence, a reinforcement learning (RL) approach is used to dynamically adjust the antenna tilt angles. To train the RL, we can use data collected from the physical network and the DNT. The data collected from the physical network is more accurate but incurs more communication overhead compared to the data collected from the DNT. Therefore, it is necessary to determine the ratio of data collected from the physical network and the DNT to improve the training of the RL model. We formulate this problem as an optimization problem whose goal is to jointly optimize the tilt angle adjustment policy and the data collection strategy, aiming to maximize the data rates of all users while constraining the time delay introduced by collecting data from the physical network. To solve this problem, we propose a hierarchical RL framework that integrates robust adversarial loss and proximal policy optimization (PPO). Simulation results show that our proposed method reduces the physical network data collection delay by up to 28.01% and 1x compared to a hierarchical RL that uses vanilla PPO as the first level RL, and the baseline that uses robust-RL at the first level and selects the data collection ratio randomly.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08931",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08931v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-12T11:00:20.264939"
+}

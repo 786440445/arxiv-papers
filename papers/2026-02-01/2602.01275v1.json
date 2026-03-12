@@ -1,0 +1,11 @@
+{
+  "id": "2602.01275v1",
+  "title": "Some classifications of finite-dimensional Hopf algebras over the Hopf algebra $H_{b:x^2y}$ of Kashina",
+  "authors": "Naihong Hu",
+  "summary": "Let $H$ be the $16$-dimensional nontrivial (namely, noncommutative and noncocommutative) semisimple Hopf algebra $H_{b:x^2y}$ classified by Kashina. We figure out all simple Yetter-Drinfeld $H$-modules, and then determine all finite-dimensional Nichols algebras satisfying the constraint condition $\\mathcal{B}(V)\\cong \\bigotimes_{i\\in I}\\mathcal{B}(V_i)$, where $V=\\bigoplus_{i\\in I}V_i$, each $V_i$ is a simple object in $_H^H\\mathcal{YD}$. Finally, we describe some liftings of the corresponding Radford biproducts $\\mathcal{B}(V)\\sharp H$, which provide some classifications of finite dimensional Hopf algebras with $H$ as their coradical.",
+  "published": "2026-02-01T15:13:08Z",
+  "link": "https://arxiv.org/abs/2602.01275v1",
+  "pdf": "https://arxiv.org/pdf/2602.01275v1.pdf",
+  "category": "math.QA",
+  "fetched_at": "2026-03-10T22:27:32.802112"
+}

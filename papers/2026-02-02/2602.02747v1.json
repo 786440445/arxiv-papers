@@ -1,0 +1,11 @@
+{
+  "id": "2602.02747v1",
+  "title": "Visualizing the Matrix Product as a Transformation: A Task Design Using GeoGebra in Secondary Mathematics Education",
+  "authors": "Felix De La Cruz Serrano",
+  "summary": "The teaching of matrix multiplication in secondary education is often limited to the mechanical application of the row-by-column algorithm, leaving aside its interpretation as a geometric transformation. This study analyzes the impact of a GeoGebra-mediated instructional sequence, grounded in the Mathematical Working Space (MWS) framework, on students learning of the matrix product. Ten fifth-year secondary students from a school in Lima (Peru) participated in the study. The intervention was carried out over four sessions, combining manual activities with digital exploration using GeoGebra. The results show notable progress in students semiotic genesis, reflected in the coordination of algebraic, graphical, and numerical representations; in instrumental genesis, through the increasingly meaningful use of GeoGebra as a cognitive tool; and in discursive genesis, as students developed explanations of the geometric effects of matrices. A transition is observed from an algorithmic execution of matrix multiplication toward a conceptual understanding based on linear transformations. These findings suggest that task designs integrating manual work, dynamic visualization, and mathematical argumentation support deeper understanding of matrix multiplication and provide criteria for the reflective use of digital technologies in secondary linear algebra instruction.",
+  "published": "2026-02-02T20:02:17Z",
+  "link": "https://arxiv.org/abs/2602.02747v1",
+  "pdf": "https://arxiv.org/pdf/2602.02747v1.pdf",
+  "category": "math.HO",
+  "fetched_at": "2026-03-10T22:27:34.175515"
+}

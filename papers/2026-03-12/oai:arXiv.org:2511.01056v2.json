@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.01056v2",
+  "title": "WhisperVC: Decoupled Cross-Domain Alignment and Speech Generation for Low-Resource Whisper-to-Normal Conversion",
+  "authors": "Dong Liu, Juan Liu, Wei Ju, Yao Tian, Ming Li",
+  "summary": "arXiv:2511.01056v2 Announce Type: replace \nAbstract: Whispered speech lacks vocal-fold excitation, making intelligible conversion challenging. We propose WhisperVC, a three-stage framework for low-resource whisper-to-normal (W2N) conversion that decouples cross-domain alignment from speech generation. Stage 1 uses limited paired whisper-normal data with a content encoder and a Conformer-based variational autoencoder (VAE) with soft-DTW alignment to learn domain-invariant semantic representations. Stage 2, trained only on normal speech, employs a Length-Channel Aligner and a two-stage speaker-conditioned mel generator for timbre and prosody modeling. Stage 3 fine-tunes a HiFi-GAN vocoder for waveform synthesis. Experimental results on AISHELL6-Whisper show competitive quality (DNSMOS 3.07, UTMOS 2.83, CER 16.93%) and WavLM speaker similarity (0.95). The framework also supports privacy-preserving communication as well as non-vocal communication and a rehabilitation tool for post-surgical vocal-fold patients. Samples are available online.",
+  "published": "Wed, 11 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.01056",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.01056v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-12T11:00:18.492392"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10332v1",
+  "title": "Does Reasoning Make Search More Fair? Comparing Fairness in Reasoning and Non-Reasoning Rerankers",
+  "authors": [
+    "Saron Samuel, Benjamin Van Durme, Eugene Yang"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10332v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10332v1 Announce Type: cross \nAbstract: While reasoning rerankers, such as Rank1, have demonstrated strong abilities in improving ranking relevance, it is unclear how they perform on other retrieval qualities such as fairness. We conduct the first systematic comparison of fairness between reasoning and non-reasoning rerankers. Using the TREC 2022 Fair Ranking Track dataset, we evaluate six reranking models across multiple retrieval settings and demographic attributes. Our findings demonstrate reasoning neither improve nor harm fairness compared to non-reasoning approaches. Our fairness metric, Attention-Weighted Rank Fairness (AWRF) remained stable (0.33-0.35) across all models, even as relevance varies substantially (nDCG 0.247-1.000). Demographic breakdown analysis revealed fairness gaps for geographic attributes regardless of model architecture. These results indicate that future work in specializing reasoning models to be aware of fairness attributes could lead to improvements, as current implementations preserve the fairness characteristics of their input ranking.",
+  "title_zh": "Does 推理 Make 搜索 More Fair? Comparing 公平性 in 推理 and Non-推理 Rerankers",
+  "summary_zh": "arXiv:2603.10332v1 Announce Type: cross \n摘要: While 推理 rerankers, such as Rank1, have demonstrated strong abilities in improving ranking relevance, it is unclear how they perform on other 检索 qualities such as 公平性. We conduct the first systematic comparison of 公平性 between 推理 and non-推理 rerankers. Using the TREC 2022 Fair Ranking Track 数据集, we evaluate six reranking models across multiple 检索 settings and demographic attributes. Our findings demonstrate 推理 neither improve nor harm 公平性 compared to non-推理 approaches. Our 公平性 metric, 注意力-Weighted Rank 公平性 (AWRF) remained stable (0.33-0.35) across all models, even as relevance varies substantially (nDCG 0.247-1.000). Demographic breakdown analysis revealed 公平性 gaps for geographic attributes regardless of 模型 架构. These results indicate that 未来工作 in specializing 推理 models to be aware of 公平性 attributes could lead to improvements, as current implementations preserve the 公平性 characteristics of their input ranking."
+}

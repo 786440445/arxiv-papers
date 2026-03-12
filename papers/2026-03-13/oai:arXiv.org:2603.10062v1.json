@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10062v1",
+  "title": "Multi-Agent Memory from a Computer Architecture Perspective: Visions and Challenges Ahead",
+  "authors": [
+    "Zhongming Yu, Naicheng Yu, Hejia Zhang, Wentao Ni, Mingrui Yin, Jiaying Yang, Yujie Zhao, Jishen Zhao"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10062v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10062v1 Announce Type: cross \nAbstract: As LLM agents evolve into collaborative multi-agent systems, their memory requirements grow rapidly in complexity. This position paper frames multi-agent memory as a computer architecture problem. We distinguish shared and distributed memory paradigms, propose a three-layer memory hierarchy (I/O, cache, and memory), and identify two critical protocol gaps: cache sharing across agents and structured memory access control. We argue that the most pressing open challenge is multi-agent memory consistency. Our architectural framing provides a foundation for building reliable, scalable multi-agent systems.",
+  "title_zh": "Multi-智能体 内存 from a Computer 架构 Perspective: Visions and Challenges Ahead",
+  "summary_zh": "arXiv:2603.10062v1 Announce Type: cross \n摘要: As 大语言模型 agents evolve into collaborative multi-智能体 systems, their 内存 requirements grow rapidly in complexity. This position 论文 frames multi-智能体 内存 as a computer 架构 problem. We distinguish shared and 分布式 内存 paradigms, propose a three-layer 内存 hierarchy (I/O, cache, and 内存), and identify two critical protocol gaps: cache sharing across agents and structured 内存 access 控制. We argue that the most pressing open challenge is multi-智能体 内存 consistency. Our architectural framing provides a foundation for building reliable, 可扩展 multi-智能体 systems."
+}

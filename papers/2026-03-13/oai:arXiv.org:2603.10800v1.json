@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10800v1",
+  "title": "AI-Enhanced Spatial Cellular Traffic Demand Prediction with Contextual Clustering and Error Correction for 5G/6G Planning",
+  "authors": [
+    "Mohamad Alkadamani, Colin Brown, Halim Yanikomeroglu"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10800v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10800v1 Announce Type: cross \nAbstract: Accurate spatial prediction of cellular traffic demand is essential for 5G NR capacity planning, network densification, and data-driven 6G planning. Although machine learning can fuse heterogeneous geospatial and socio-economic layers to estimate fine-grained demand maps, spatial autocorrelation can cause neighborhood leakage under naive train/test splits, inflating accuracy and weakening planning reliability. This paper presents an AI-driven framework that reduces leakage and improves spatial generalization via a context-aware two-stage splitting strategy with residual spatial error correction. Experiments using crowdsourced usage indicators across five major Canadian cities show consistent mean absolute error (MAE) reductions relative to location-only clustering, supporting more reliable bandwidth provisioning and evidence-based spectrum planning and sharing assessments.",
+  "title_zh": "AI-Enhanced Spatial Cellular Traffic Demand Prediction with Contextual Clustering and Error Correction for 5G/6G 规划",
+  "summary_zh": "arXiv:2603.10800v1 Announce Type: cross \n摘要: 准确 spatial prediction of cellular traffic demand is essential for 5G NR capacity 规划, 网络 densification, and data-driven 6G 规划. Although machine 学习 can fuse heterogeneous geospatial and socio-economic layers to estimate fine-grained demand maps, spatial autocorrelation can cause neighborhood leakage under naive train/test splits, inflating accuracy and weakening 规划 reliability. This 论文 presents an AI-driven 框架 that reduces leakage and improves spatial 泛化 via a context-aware two-stage splitting strategy with residual spatial error correction. Experiments using crowdsourced usage indicators across five major Canadian cities show consistent mean absolute error (MAE) reductions relative to location-only clustering, supporting more reliable 带宽 provisioning and evidence-based spectrum 规划 and sharing assessments."
+}

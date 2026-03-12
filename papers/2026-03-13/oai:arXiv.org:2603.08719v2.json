@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.08719v2",
+  "title": "SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation",
+  "authors": [
+    "Mu-Chi Chen, Yu-Hung Kao, Po-Hsuan Huang, Shao-Chun Ho, Hsiang-Yu Tsou, I-Ting Wu, En-Ming Huang, Yu-Kai Hung, Wei-Po Hsin, Cheng Liang, Chia-Heng Tu, Shih-Hao Hung, H. T. Kung"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.08719v2",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.08719v2 Announce Type: replace-cross \nAbstract: Large language models (LLMs) have recently emerged as a promising approach for automating Verilog code generation; however, existing methods primarily emphasize syntactic correctness and often rely on commercial models or external verification tools, which introduces concerns regarding cost, data privacy, and limited guarantees of functional correctness. This work proposes a unified multi-agent framework for reasoning-oriented training data generation with integrated testbench-driven verification, enabling locally fine-tuned LLMs, SiliconMind-V1, to iteratively generate, test, and debug Register-Transfer Level (RTL) designs through test-time scaling. Experimental results on representative benchmarks (VerilogEval-v2, RTLLM-v2, and CVDP) demonstrate that the proposed approach outperforms the state-of-the-art QiMeng-CodeV-R1 in functional correctness while using fewer training resources.",
+  "title_zh": "SiliconMind-V1: Multi-智能体 Distillation and Debug-推理 Workflows for Verilog 代码 生成",
+  "summary_zh": "arXiv:2603.08719v2 Announce Type: replace-cross \n摘要: Large language models (LLMs) have recently emerged as a promising 方案 for automating Verilog 代码 生成; however, existing methods primarily emphasize syntactic correctness and often rely on commercial models or external verification tools, which introduces concerns regarding cost, data 隐私, and limited guarantees of functional correctness. This work proposes a unified multi-智能体 框架 for 推理-oriented 训练 data 生成 with integrated testbench-driven verification, enabling locally fine-tuned LLMs, SiliconMind-V1, to iteratively generate, test, and debug Register-Transfer Level (RTL) designs through test-time scaling. Experimental results on representative benchmarks (VerilogEval-v2, RTLLM-v2, and CVDP) demonstrate that the proposed 方案 outperforms the 状态-of-the-art QiMeng-CodeV-R1 in functional correctness while using fewer 训练 resources."
+}

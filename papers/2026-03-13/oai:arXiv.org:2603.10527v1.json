@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10527v1",
+  "title": "World Model for Battery Degradation Prediction Under Non-Stationary Aging",
+  "authors": [
+    "Kai Chin Lim, Khay Wai See"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10527v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10527v1 Announce Type: new \nAbstract: Degradation prognosis for lithium-ion cells requires forecasting the state-of-health (SOH) trajectory over future cycles. Existing data-driven approaches can produce trajectory outputs through direct regression, but lack a mechanism to propagate degradation dynamics forward in time. This paper formulates battery degradation prognosis as a world model problem, encoding raw voltage, current, and temperature time-series from each cycle into a latent state and propagating it forward via a learned dynamics transition to produce a future trajectory spanning 80 cycles. To investigate whether electrochemical knowledge improves the learned dynamics, a Single Particle Model (SPM) constraint is incorporated into the training loss. Three configurations are evaluated on the Severson LiFePO4 (LFP) dataset of 138 cells. Iterative rollout halves the trajectory forecast error compared to direct regression from the same encoder. The SPM constraint improves prediction at the degradation knee where the resistance to SOH relationship is most applicable, without changing aggregate accuracy.",
+  "title_zh": "World 模型 for Battery Degradation Prediction Under Non-Stationary Aging",
+  "summary_zh": "arXiv:2603.10527v1 Announce Type: new \n摘要: Degradation prognosis for lithium-ion cells requires forecasting the 状态-of-health (SOH) 轨迹 over future cycles. Existing data-driven approaches can produce 轨迹 outputs through direct regression, but lack a mechanism to propagate degradation dynamics 前向 in time. This 论文 formulates battery degradation prognosis as a world 模型 problem, encoding raw voltage, current, and temperature time-series from each cycle into a 隐变量 状态 and propagating it 前向 via a learned dynamics 转移 to produce a future 轨迹 spanning 80 cycles. To investigate whether electrochemical knowledge improves the learned dynamics, a Single Particle 模型 (SPM) constraint is incorporated into the 训练 损失. Three configurations are evaluated on the Severson LiFePO4 (LFP) 数据集 of 138 cells. Iterative rollout halves the 轨迹 forecast error compared to direct regression from the same encoder. The SPM constraint improves prediction at the degradation knee where the resistance to SOH relationship is most applicable, without changing aggregate accuracy."
+}

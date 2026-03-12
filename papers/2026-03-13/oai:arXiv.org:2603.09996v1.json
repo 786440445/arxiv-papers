@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.09996v1",
+  "title": "There Are No Silly Questions: Evaluation of Offline LLM Capabilities from a Turkish Perspective",
+  "authors": [
+    "Edibe Yilmaz, Kahraman Kostas"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.09996v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.09996v1 Announce Type: cross \nAbstract: The integration of large language models (LLMs) into educational processes introduces significant constraints regarding data privacy and reliability, particularly in pedagogically vulnerable contexts such as Turkish heritage language education. This study aims to systematically evaluate the robustness and pedagogical safety of locally deployable offline LLMs within the context of Turkish heritage language education. To this end, a Turkish Anomaly Suite (TAS) consisting of 10 original edge-case scenarios was developed to assess the models' capacities for epistemic resistance, logical consistency, and pedagogical safety. Experiments conducted on 14 different models ranging from 270M to 32B parameters reveal that anomaly resistance is not solely dependent on model scale and that sycophancy bias can pose pedagogical risks even in large-scale models. The findings indicate that reasoning-oriented models in the 8B--14B parameter range represent the most balanced segment in terms of cost-safety trade-off for language learners.",
+  "title_zh": "There Are No Silly Questions: 评估 of 离线 大语言模型 Capabilities from a Turkish Perspective",
+  "summary_zh": "arXiv:2603.09996v1 Announce Type: cross \n摘要: The integration of large language models (LLMs) into educational processes introduces significant constraints regarding data 隐私 and reliability, particularly in pedagogically vulnerable contexts such as Turkish heritage language education. This study aims to systematically evaluate the 鲁棒性 and pedagogical safety of locally deployable 离线 LLMs within the context of Turkish heritage language education. To this end, a Turkish Anomaly Suite (TAS) consisting of 10 original edge-case scenarios was developed to assess the models' capacities for epistemic resistance, logical consistency, and pedagogical safety. Experiments conducted on 14 different models ranging from 270M to 32B parameters reveal that anomaly resistance is not solely dependent on 模型 scale and that sycophancy 偏见 can pose pedagogical risks even in large-scale models. The findings indicate that 推理-oriented models in the 8B--14B parameter range represent the most balanced segment in terms of cost-safety trade-off for language learners."
+}

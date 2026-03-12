@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10881v1",
+  "title": "LAtte: Hyperbolic Lorentz Attention for Cross-Subject EEG Classification",
+  "authors": [
+    "Johannes Burchert, Ahmad Bdeir, Tom Hanika, Lars Schmidt-Thieme, Niels Landwehr"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10881v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10881v1 Announce Type: new \nAbstract: Electroencephalogram (EEG) classification is critical for applications ranging from medical diagnostics to brain-computer interfaces, yet it remains challenging due to the inherently low signal-to-noise ratio (SNR) and high inter-subject variability. To address these issues, we propose LAtte, a novel framework that integrates a Lorentz Attention Module with an InceptionTime-based encoder to enable robust and generalizable EEG classification. Unlike prior work, which evaluates primarily on single-subject performance, LAtte focuses on cross-subject training. First, we learn a shared baseline signal across all subjects using pretraining tasks to capture common underlying patterns. Then, we utilize novel Lorentz low-rank adapters to learn subject-specific embeddings that model individual differences. This allows us to learn a shared model that performs robustly across subjects, and can be subsequently finetuned for individual subjects or used to generalize to unseen subjects. We evaluate LAtte on three well-established EEG datasets, achieving a substantial improvement in performance over current state-of-the-art methods.",
+  "title_zh": "LAtte: Hyperbolic Lorentz 注意力 for Cross-Subject EEG 分类",
+  "summary_zh": "arXiv:2603.10881v1 Announce Type: new \n摘要: Electroencephalogram (EEG) 分类 is critical for applications ranging from medical diagnostics to brain-computer interfaces, yet it remains challenging due to the inherently low signal-to-noise ratio (SNR) and high inter-subject variability. To address these issues, we propose LAtte, a novel 框架 that integrates a Lorentz 注意力 Module with an InceptionTime-based encoder to enable 鲁棒 and generalizable EEG 分类. Unlike prior work, which evaluates primarily on single-subject 性能, LAtte focuses on cross-subject 训练. First, we learn a shared baseline signal across all subjects using pretraining tasks to capture common underlying patterns. Then, we utilize novel Lorentz low-rank adapters to learn subject-specific embeddings that 模型 individual differences. This allows us to learn a shared 模型 that performs robustly across subjects, and can be subsequently finetuned for individual subjects or used to generalize to unseen subjects. We evaluate LAtte on three well-established EEG datasets, achieving a substantial improvement in 性能 over current 状态-of-the-art methods."
+}

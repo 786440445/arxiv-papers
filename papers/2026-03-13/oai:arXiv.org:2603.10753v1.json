@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10753v1",
+  "title": "A PUF-Based Approach for Copy Protection of Intellectual Property in Neural Network Models",
+  "authors": [
+    "Daniel Dorfmeister, Flavio Ferrarotti, Bernhard Fischer, Martin Schwandtner, Hannes Sochor"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10753v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10753v1 Announce Type: cross \nAbstract: More and more companies' Intellectual Property (IP) is being integrated into Neural Network (NN) models. This IP has considerable value for companies and, therefore, requires adequate protection. For example, an attacker might replicate a production machines' hardware and subsequently simply copy associated software and NN models onto the cloned hardware. To make copying NN models onto cloned hardware infeasible, we present an approach to bind NN models - and thus also the IP contained within them - to their underlying hardware. For this purpose, we link an NN model's weights, which are crucial for its operation, to unique and unclonable hardware properties by leveraging Physically Unclonable Functions (PUFs). By doing so, sufficient accuracy can only be achieved using the target hardware to restore the original weights, rendering proper execution of the NN model on cloned hardware impossible. We demonstrate that our approach accomplishes the desired degradation of accuracy on various NN models and outline possible future improvements.",
+  "title_zh": "A PUF-Based 方案 for Copy Protection of Intellectual Property in 神经 网络 Models",
+  "summary_zh": "arXiv:2603.10753v1 Announce Type: cross \n摘要: More and more companies' Intellectual Property (IP) is being integrated into 神经 网络 (NN) models. This IP has considerable 价值 for companies and, therefore, requires adequate protection. For example, an attacker might replicate a production machines' hardware and subsequently simply copy associated software and NN models onto the cloned hardware. To make copying NN models onto cloned hardware infeasible, we present an 方案 to bind NN models - and thus also the IP contained within them - to their underlying hardware. For this purpose, we 链接 an NN 模型's weights, which are crucial for its operation, to unique and unclonable hardware properties by leveraging Physically Unclonable Functions (PUFs). By doing so, sufficient accuracy can only be achieved using the 目标 hardware to restore the original weights, rendering proper execution of the NN 模型 on cloned hardware impossible. We demonstrate that our 方案 accomplishes the desired degradation of accuracy on various NN models and outline possible future improvements."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.09988v1",
+  "title": "Causally Grounded Mechanistic Interpretability for LLMs with Faithful Natural-Language Explanations",
+  "authors": [
+    "Ajay Pravin Mahale"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.09988v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.09988v1 Announce Type: cross \nAbstract: Mechanistic interpretability identifies internal circuits responsible for model behaviors, yet translating these findings into human-understandable explanations remains an open problem. We present a pipeline that bridges circuit-level analysis and natural language explanations by (i) identifying causally important attention heads via activation patching, (ii) generating explanations using both template-based and LLM-based methods, and (iii) evaluating faithfulness using ERASER-style metrics adapted for circuit-level attribution. We evaluate on the Indirect Object Identification (IOI) task in GPT-2 Small (124M parameters), identifying six attention heads accounting for 61.4% of the logit difference. Our circuit-based explanations achieve 100% sufficiency but only 22% comprehensiveness, revealing distributed backup mechanisms. LLM-generated explanations outperform template baselines by 64% on quality metrics. We find no correlation (r = 0.009) between model confidence and explanation faithfulness, and identify three failure categories explaining when explanations diverge from mechanisms.",
+  "title_zh": "Causally Grounded Mechanistic Interpretability for LLMs with Faithful Natural-Language Explanations",
+  "summary_zh": "arXiv:2603.09988v1 Announce Type: cross \n摘要: Mechanistic interpretability identifies internal circuits responsible for 模型 behaviors, yet translating these findings into human-understandable explanations remains an open problem. We present a pipeline that bridges circuit-level analysis and natural language explanations by (i) identifying causally important 注意力 heads via activation patching, (ii) generating explanations using both template-based and 大语言模型-based methods, and (iii) evaluating faithfulness using ERASER-style metrics adapted for circuit-level attribution. We evaluate on the Indirect Object Identification (IOI) task in GPT-2 Small (124M parameters), identifying six 注意力 heads accounting for 61.4% of the logit difference. Our circuit-based explanations achieve 100% sufficiency but only 22% comprehensiveness, revealing 分布式 backup mechanisms. 大语言模型-generated explanations outperform template baselines by 64% on quality metrics. We find no correlation (r = 0.009) between 模型 confidence and explanation faithfulness, and identify three failure categories explaining when explanations diverge from mechanisms."
+}

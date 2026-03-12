@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.09990v1",
+  "title": "A Two-Stage Architecture for NDA Analysis: LLM-based Segmentation and Transformer-based Clause Classification",
+  "authors": [
+    "Ana Begnini, Matheus Vicente, Leonardo Souza"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.09990v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.09990v1 Announce Type: cross \nAbstract: In business-to-business relations, it is common to establish NonDisclosure Agreements (NDAs). However, these documents exhibit significant variation in format, structure, and writing style, making manual analysis slow and error-prone. We propose an architecture based on LLMs to automate the segmentation and clauses classification within these contracts. We employed two models: LLaMA-3.1-8B-Instruct for NDA segmentation (clause extraction) and a fine-tuned Legal-Roberta-Large for clause classification. In the segmentation task, we achieved a ROUGE F1 of 0.95 +/- 0.0036; for classification, we obtained a weighted F1 of 0.85, demonstrating the feasibility and precision of the approach.",
+  "title_zh": "A Two-Stage 架构 for NDA Analysis: 大语言模型-based 分割 and Transformer-based Clause 分类",
+  "summary_zh": "arXiv:2603.09990v1 Announce Type: cross \n摘要: In business-to-business relations, it is common to establish NonDisclosure Agreements (NDAs). However, these documents exhibit significant variation in format, structure, and writing style, making manual analysis slow and error-prone. We propose an 架构 based on LLMs to automate the 分割 and clauses 分类 within these contracts. We employed two models: LLaMA-3.1-8B-Instruct for NDA 分割 (clause extraction) and a fine-tuned Legal-Roberta-Large for clause 分类. In the 分割 task, we achieved a ROUGE F1 of 0.95 +/- 0.0036; for 分类, we obtained a weighted F1 of 0.85, demonstrating the feasibility and precision of the 方案."
+}

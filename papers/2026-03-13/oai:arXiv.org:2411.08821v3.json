@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2411.08821v3",
+  "title": "Conditional Local Importance by Quantile Expectations",
+  "authors": [
+    "Kelvyn K. Bladen, Adele Cutler, D. Richard Cutler, Kevin R. Moon"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2411.08821v3",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2411.08821v3 Announce Type: replace-cross \nAbstract: Global variable importance measures are commonly used to interpret the results of machine learning models. Local variable importance techniques assess how variables contribute to individual observations. Current, popular methods, including LIME and SHAP, typically fail to accurately reflect locally dependent relationships between variables and instead focus on marginal importance values. Additionally, they are not natively adapted for multi-class classification problems. We propose a new model-agnostic method for calculating local variable importance, CLIQUE, that captures locally dependent relationships, provides improvements over permutation-based methods, and can be directly applied to multi-class classification problems. Simulated and real-world examples show that CLIQUE emphasizes locally dependent information, captures interaction behavior beyond what can be evaluated by correlations, and properly reduces bias in regions where variables do not affect the response.",
+  "title_zh": "Conditional Local Importance by Quantile Expectations",
+  "summary_zh": "arXiv:2411.08821v3 Announce Type: replace-cross \n摘要: Global variable importance measures are commonly used to interpret the results of machine 学习 models. Local variable importance techniques assess how variables contribute to individual observations. Current, popular methods, including LIME and SHAP, typically fail to accurately reflect locally dependent relationships between variables and instead focus on marginal importance values. Additionally, they are not natively adapted for multi-class 分类 problems. We propose a new 模型-agnostic 方法 for calculating local variable importance, CLIQUE, that captures locally dependent relationships, provides improvements over permutation-based methods, and can be directly applied to multi-class 分类 problems. Simulated and real-world examples show that CLIQUE emphasizes locally dependent information, captures interaction behavior beyond what can be evaluated by correlations, and properly reduces 偏见 in regions where variables do not affect the response."
+}

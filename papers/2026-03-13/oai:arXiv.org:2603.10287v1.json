@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10287v1",
+  "title": "MultiwayPAM: Multiway Partitioning Around Medoids for LLM-as-a-Judge Score Analysis",
+  "authors": [
+    "Chihiro Watanabe, Jingyu Sun"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10287v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10287v1 Announce Type: cross \nAbstract: LLM-as-a-Judge is a flexible framework for text evaluation, which allows us to obtain scores for the quality of a given text from various perspectives by changing the prompt template. Two main challenges in using LLM-as-a-Judge are computational cost of LLM inference, especially when evaluating a large number of texts, and inherent bias of an LLM evaluator. To address these issues and reveal the structure of score bias caused by an LLM evaluator, we propose to apply a tensor clustering method to a given LLM-as-a-Judge score tensor, whose entries are the scores for different combinations of questions, answerers, and evaluators. Specifically, we develop a new tensor clustering method MultiwayPAM, with which we can simultaneously estimate the cluster membership and the medoids for each mode of a given data tensor. By observing the medoids obtained by MultiwayPAM, we can gain knowledge about the membership of each question/answerer/evaluator cluster. We experimentally show the effectiveness of MultiwayPAM by applying it to the score tensors for two practical datasets.",
+  "title_zh": "MultiwayPAM: Multiway Partitioning Around Medoids for 大语言模型-as-a-Judge Score Analysis",
+  "summary_zh": "arXiv:2603.10287v1 Announce Type: cross \n摘要: 大语言模型-as-a-Judge is a flexible 框架 for text 评估, which allows us to obtain scores for the quality of a given text from various perspectives by changing the prompt template. Two main challenges in using 大语言模型-as-a-Judge are computational cost of 大语言模型 推理, especially when evaluating a large number of texts, and inherent 偏见 of an 大语言模型 evaluator. To address these issues and reveal the structure of score 偏见 caused by an 大语言模型 evaluator, we propose to apply a tensor clustering 方法 to a given 大语言模型-as-a-Judge score tensor, whose entries are the scores for different combinations of questions, answerers, and evaluators. Specifically, we develop a new tensor clustering 方法 MultiwayPAM, with which we can simultaneously estimate the 集群 membership and the medoids for each mode of a given data tensor. By observing the medoids obtained by MultiwayPAM, we can gain knowledge about the membership of each question/answerer/evaluator 集群. We experimentally show the effectiveness of MultiwayPAM by applying it to the score tensors for two practical datasets."
+}

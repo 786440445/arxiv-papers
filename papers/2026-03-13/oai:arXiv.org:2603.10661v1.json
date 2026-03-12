@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10661v1",
+  "title": "FAME: Formal Abstract Minimal Explanation for Neural Networks",
+  "authors": [
+    "Ryma Boumazouza, Raya Elsaleh, Melanie Ducoffe, Shahaf Bassan, Guy Katz"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10661v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10661v1 Announce Type: new \nAbstract: We propose FAME (Formal Abstract Minimal Explanations), a new class of abductive explanations grounded in abstract interpretation. FAME is the first method to scale to large neural networks while reducing explanation size. Our main contribution is the design of dedicated perturbation domains that eliminate the need for traversal order. FAME progressively shrinks these domains and leverages LiRPA-based bounds to discard irrelevant features, ultimately converging to a formal abstract minimal explanation. To assess explanation quality, we introduce a procedure that measures the worst-case distance between an abstract minimal explanation and a true minimal explanation. This procedure combines adversarial attacks with an optional VERIX+ refinement step. We benchmark FAME against VERIX+ and demonstrate consistent gains in both explanation size and runtime on medium- to large-scale neural networks.",
+  "title_zh": "FAME: Formal 摘要 Minimal Explanation for 神经 Networks",
+  "summary_zh": "arXiv:2603.10661v1 Announce Type: new \n摘要: We propose FAME (Formal 摘要 Minimal Explanations), a new class of abductive explanations grounded in 摘要 interpretation. FAME is the first 方法 to scale to large 神经 networks while reducing explanation size. Our main contribution is the design of dedicated perturbation domains that eliminate the need for traversal order. FAME progressively shrinks these domains and leverages LiRPA-based bounds to discard irrelevant features, ultimately converging to a formal 摘要 minimal explanation. To assess explanation quality, we introduce a procedure that measures the worst-case distance between an 摘要 minimal explanation and a true minimal explanation. This procedure combines 对抗 attacks with an optional VERIX+ refinement step. We 基准 FAME against VERIX+ and demonstrate consistent gains in both explanation size and runtime on medium- to large-scale 神经 networks."
+}

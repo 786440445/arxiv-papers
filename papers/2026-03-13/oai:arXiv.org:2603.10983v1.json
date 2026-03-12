@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10983v1",
+  "title": "Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks",
+  "authors": [
+    "Maria Lamprini Bartsioka, Ioannis A. Bartsiokas, Athanasios D. Panagopoulos, Dimitra I. Kaklamani, Iakovos S. Venieris"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10983v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10983v1 Announce Type: new \nAbstract: Low Earth Orbit (LEO) Non-Terrestrial Networks (NTNs) require efficient beam management under dynamic propagation conditions. This work investigates Federated Learning (FL)-based beam selection in LEO satellite constellations, where orbital planes operate as distributed learners through the utilization of High-Altitude Platform Stations (HAPS). Two models, a Multi-Layer Perceptron (MLP) and a Graph Neural Network (GNN), are evaluated using realistic channel and beamforming data. Results demonstrate that GNN surpasses MLP in beam prediction accuracy and stability, particularly at low elevation angles, enabling lightweight and intelligent beam management for future NTN deployments.",
+  "title_zh": "Federated 学习-driven Beam Management in LEO 6G Non-Terrestrial Networks",
+  "summary_zh": "arXiv:2603.10983v1 Announce Type: new \n摘要: Low Earth Orbit (LEO) Non-Terrestrial Networks (NTNs) require 高效 beam management under 动态 propagation conditions. This work investigates Federated 学习 (FL)-based beam 选择 in LEO satellite constellations, where orbital planes operate as 分布式 learners through the utilization of High-Altitude Platform Stations (HAPS). Two models, a Multi-Layer Perceptron (MLP) and a Graph 神经 网络 (GNN), are evaluated using realistic channel and beamforming data. Results demonstrate that GNN surpasses MLP in beam prediction accuracy and stability, particularly at low elevation angles, enabling lightweight and intelligent beam management for future NTN deployments."
+}

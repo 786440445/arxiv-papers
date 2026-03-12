@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10156v1",
+  "title": "Mashup Learning: Faster Finetuning by Remixing Past Checkpoints",
+  "authors": [
+    "Sofia Maria Lo Cicero Vaina, Artem Chumachenko, Max Ryabinin"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10156v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10156v1 Announce Type: cross \nAbstract: Finetuning on domain-specific data is a well-established method for enhancing LLM performance on downstream tasks. Training on each dataset produces a new set of model weights, resulting in a multitude of checkpoints saved in-house or on open-source platforms. However, these training artifacts are rarely reused for subsequent experiments despite containing improved model abilities for potentially similar tasks. In this paper, we propose Mashup Learning, a simple method to leverage the outputs of prior training runs to enhance model adaptation to new tasks. Our procedure identifies the most relevant historical checkpoints for a target dataset, aggregates them with model merging, and uses the result as an improved initialization for training. Across 8 standard LLM benchmarks, four models, and two collections of source checkpoints, Mashup Learning consistently improves average downstream accuracy by 0.5-5 percentage points over training from scratch. It also accelerates convergence, requiring 41-46% fewer training steps and up to 37% less total wall-clock time to match from-scratch accuracy, including all selection and merging overhead.",
+  "title_zh": "Mashup 学习: Faster Finetuning by Remixing Past Checkpoints",
+  "summary_zh": "arXiv:2603.10156v1 Announce Type: cross \n摘要: Finetuning on domain-specific data is a well-established 方法 for enhancing 大语言模型 性能 on downstream tasks. 训练 on each 数据集 produces a new set of 模型 weights, resulting in a multitude of checkpoints saved in-house or on open-source platforms. However, these 训练 artifacts are rarely reused for subsequent experiments despite containing improved 模型 abilities for potentially similar tasks. In this 论文, we propose Mashup 学习, a simple 方法 to leverage the outputs of prior 训练 runs to enhance 模型 adaptation to new tasks. Our procedure identifies the most relevant historical checkpoints for a 目标 数据集, aggregates them with 模型 merging, and uses the 结果 as an improved initialization for 训练. Across 8 standard 大语言模型 benchmarks, four models, and two collections of source checkpoints, Mashup 学习 consistently improves average downstream accuracy by 0.5-5 percentage points over 训练 from scratch. It also accelerates convergence, requiring 41-46% fewer 训练 steps and up to 37% less total wall-clock time to match from-scratch accuracy, including all 选择 and merging overhead."
+}

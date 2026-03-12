@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10701v1",
+  "title": "AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow",
+  "authors": [
+    "Duojia Li, Shuhan Zhang, Zihan Qian, Wenxuan Wu, Shuai Wang, Qingyang Hong, Lin Li, Haizhou Li"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10701v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10701v1 Announce Type: cross \nAbstract: In target speaker extraction (TSE), we aim to recover target speech from a multi-talker mixture using a short enrollment utterance as reference. Recent studies on diffusion and flow-matching generators have improved target-speech fidelity. However, multi-step sampling increases latency, and one-step solutions often rely on a mixture-dependent time coordinate that can be unreliable for real-world conversations. We present AlphaFlowTSE, a one-step conditional generative model trained with a Jacobian-vector product (JVP)-free AlphaFlow objective. AlphaFlowTSE learns mean-velocity transport along a mixture-to-target trajectory starting from the observed mixture, eliminating auxiliary mixing-ratio prediction, and stabilizes training by combining flow matching with an interval-consistency teacher-student target. Experiments on Libri2Mix and REAL-T confirm that AlphaFlowTSE improves target-speaker similarity and real-mixture generalization for downstream automatic speech recognition (ASR).",
+  "title_zh": "AlphaFlowTSE: One-Step 生成式 目标 说话人 Extraction via Conditional AlphaFlow",
+  "summary_zh": "arXiv:2603.10701v1 Announce Type: cross \n摘要: In 目标 说话人 extraction (TSE), we aim to recover 目标 语音 from a multi-talker mixture using a short enrollment utterance as reference. Recent studies on diffusion and flow-matching generators have improved 目标-语音 fidelity. However, multi-step 采样 increases 延迟, and one-step solutions often rely on a mixture-dependent time coordinate that can be unreliable for real-world conversations. We present AlphaFlowTSE, a one-step conditional 生成式 模型 trained with a Jacobian-向量 product (JVP)-free AlphaFlow objective. AlphaFlowTSE learns mean-velocity transport along a mixture-to-目标 轨迹 starting from the observed mixture, eliminating auxiliary mixing-ratio prediction, and stabilizes 训练 by combining flow matching with an interval-consistency teacher-student 目标. Experiments on Libri2Mix and REAL-T confirm that AlphaFlowTSE improves 目标-说话人 similarity and real-mixture 泛化 for downstream automatic 语音 识别 (语音识别)."
+}

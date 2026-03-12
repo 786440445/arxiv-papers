@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10010v1",
+  "title": "FERRET: Framework for Expansion Reliant Red Teaming",
+  "authors": [
+    "Ninareh Mehrabi, Vitor Albiero, Maya Pavlova, Joanna Bitton"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10010v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10010v1 Announce Type: cross \nAbstract: We introduce a multi-faceted automated red teaming framework in which the goal is to generate multi-modal adversarial conversations that would break a target model and introduce various expansions that would result in more effective and efficient adversarial conversations. The introduced expansions include: 1. Horizontal expansion in which the goal is for the red team model to self-improve and generate more effective conversation starters that would shape a conversation. 2. Vertical expansion in which the goal is to take these conversation starters that are discovered in the horizontal expansion phase and expand them into effective multi-modal conversations and 3. Meta expansion in which the goal is for the red team model to discover more effective multi-modal attack strategies during the course of a conversation. We call our framework FERRET (Framework for Expansion Reliant Red Teaming) and compare it with various existing automated red teaming approaches. In our experiments, we demonstrate the effectiveness of FERRET in generating effective multi-modal adversarial conversations and its superior performance against existing state of the art approaches.",
+  "title_zh": "FERRET: 框架 for Expansion Reliant Red Teaming",
+  "summary_zh": "arXiv:2603.10010v1 Announce Type: cross \n摘要: We introduce a multi-faceted automated red teaming 框架 in which the goal is to generate 多模态 对抗 conversations that would break a 目标 模型 and introduce various expansions that would 结果 in more effective and 高效 对抗 conversations. The introduced expansions include: 1. Horizontal expansion in which the goal is for the red team 模型 to self-improve and generate more effective conversation starters that would shape a conversation. 2. Vertical expansion in which the goal is to take these conversation starters that are discovered in the horizontal expansion phase and expand them into effective 多模态 conversations and 3. Meta expansion in which the goal is for the red team 模型 to discover more effective 多模态 attack strategies during the course of a conversation. We call our 框架 FERRET (框架 for Expansion Reliant Red Teaming) and compare it with various existing automated red teaming approaches. In our experiments, we demonstrate the effectiveness of FERRET in generating effective 多模态 对抗 conversations and its superior 性能 against existing 状态 of the art approaches."
+}

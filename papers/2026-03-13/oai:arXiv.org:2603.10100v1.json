@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10100v1",
+  "title": "Hardware Efficient Approximate Convolution with Tunable Error Tolerance for CNNs",
+  "authors": [
+    "Vishal Shashidhar, Anupam Kumari, Roy P Paily"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10100v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10100v1 Announce Type: cross \nAbstract: Modern CNNs' high computational demands hinder edge deployment, as traditional ``hard'' sparsity (skipping mathematical zeros) loses effectiveness in deep layers or with smooth activations like Tanh. We propose a ``soft sparsity'' paradigm using a hardware efficient Most Significant Bit (MSB) proxy to skip negligible non-zero multiplications. Integrated as a custom RISC-V instruction and evaluated on LeNet-5 (MNIST), this method reduces ReLU MACs by 88.42% and Tanh MACs by 74.87% with zero accuracy loss--outperforming zero-skipping by 5x. By clock-gating inactive multipliers, we estimate power savings of 35.2\\% for ReLU and 29.96\\% for Tanh. While memory access makes power reduction sub-linear to operation savings, this approach significantly optimizes resource-constrained inference.",
+  "title_zh": "Hardware 高效 Approximate 卷积 with Tunable Error Tolerance for CNNs",
+  "summary_zh": "arXiv:2603.10100v1 Announce Type: cross \n摘要: Modern CNNs' high computational demands hinder edge 部署, as traditional ``hard'' sparsity (skipping mathematical zeros) loses effectiveness in 深度 layers or with smooth activations like Tanh. We propose a ``soft sparsity'' paradigm using a hardware 高效 Most Significant Bit (MSB) 代理 to skip negligible non-zero multiplications. Integrated as a custom RISC-V instruction and evaluated on LeNet-5 (MNIST), this 方法 reduces ReLU MACs by 88.42% and Tanh MACs by 74.87% with zero accuracy 损失--outperforming zero-skipping by 5x. By clock-gating inactive multipliers, we estimate power savings of 35.2\\% for ReLU and 29.96\\% for Tanh. While 内存 access makes power reduction sub-linear to operation savings, this 方案 significantly optimizes resource-constrained 推理."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10230v1",
+  "title": "A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming Method",
+  "authors": [
+    "Yuchen Fang, Jihun Kim, Sen Na, James Demmel, Javad Lavaei"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10230v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10230v1 Announce Type: cross \nAbstract: In this paper, we propose a trust-region interior-point stochastic sequential quadratic programming (TR-IP-SSQP) method for solving optimization problems with a stochastic objective and deterministic nonlinear equality and inequality constraints. In this setting, exact evaluations of the objective function and its gradient are unavailable, but their stochastic estimates can be constructed. In particular, at each iteration our method builds stochastic oracles, which estimate the objective value and gradient to satisfy proper adaptive accuracy conditions with a fixed probability. To handle inequality constraints, we adopt an interior-point method (IPM), in which the barrier parameter follows a prescribed decaying sequence. Under standard assumptions, we establish global almost-sure convergence of the proposed method to first-order stationary points. We implement the method on a subset of problems from the CUTEst test set, as well as on logistic regression problems, to demonstrate its practical performance.",
+  "title_zh": "A Trust-Region Interior-Point Stochastic Sequential Quadratic Programming 方法",
+  "summary_zh": "arXiv:2603.10230v1 Announce Type: cross \n摘要: In this 论文, we propose a trust-region interior-point stochastic sequential quadratic programming (TR-IP-SSQP) 方法 for solving 优化 problems with a stochastic objective and deterministic nonlinear equality and inequality constraints. In this setting, exact evaluations of the objective function and its 梯度 are unavailable, but their stochastic estimates can be constructed. In particular, at each 迭代 our 方法 builds stochastic oracles, which estimate the objective 价值 and 梯度 to satisfy proper adaptive accuracy conditions with a fixed probability. To handle inequality constraints, we adopt an interior-point 方法 (IPM), in which the barrier parameter follows a prescribed decaying sequence. Under standard assumptions, we establish global almost-sure convergence of the proposed 方法 to first-order stationary points. We implement the 方法 on a subset of problems from the CUTEst test set, as well as on logistic regression problems, to demonstrate its practical 性能."
+}

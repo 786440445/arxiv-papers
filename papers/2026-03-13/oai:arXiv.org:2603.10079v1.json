@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10079v1",
+  "title": "Large Spikes in Stochastic Gradient Descent: A Large-Deviations View",
+  "authors": [
+    "Benjamin Gess, Daniel Heydecker"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10079v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10079v1 Announce Type: new \nAbstract: We analyse SGD training of a shallow, fully connected network in the NTK scaling and provide a quantitative theory of the catapult phase. We identify an explicit criterion separating two behaviours: When an explicit function $G$, depending only on the kernel, learning rate $\\eta$ and data, is positive, SGD produces large NTK-flattening spikes with high probability; when $G<0$, their probability decays like $(n/\\eta)^{-\\vartheta/2}$, for an explicitly characterised $\\vartheta\\in (0,\\infty)$. This yields a concrete parameter-dependent explanation for why such spikes may still be observed at practical widths.",
+  "title_zh": "Large Spikes in Stochastic 梯度 Descent: A Large-Deviations View",
+  "summary_zh": "arXiv:2603.10079v1 Announce Type: new \n摘要: We analyse SGD 训练 of a shallow, fully connected 网络 in the NTK scaling and provide a quantitative theory of the catapult phase. We identify an explicit criterion separating two behaviours: When an explicit function $G$, depending only on the kernel, 学习 rate $\\eta$ and data, is positive, SGD produces large NTK-flattening spikes with high probability; when $G<0$, their probability decays like $(n/\\eta)^{-\\vartheta/2}$, for an explicitly characterised $\\vartheta\\in (0,\\infty)$. This yields a concrete parameter-dependent explanation for why such spikes may still be observed at practical widths."
+}

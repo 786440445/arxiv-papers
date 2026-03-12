@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10802v1",
+  "title": "Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks",
+  "authors": [
+    "Mohamad Alkadamani, Amir Ghasemi, Halim Yanikomeroglu"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10802v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10802v1 Announce Type: cross \nAbstract: The growing demand for wireless connectivity, combined with limited spectrum resources, calls for more efficient spectrum management. Spectrum sharing is a promising approach; however, regulators need accurate methods to characterize demand dynamics and guide allocation decisions. This paper builds and validates a spectrum demand proxy from public deployment records and uses a graph attention network in a hierarchical, multi-resolution setup (HR-GAT) to estimate spectrum demand at fine spatial scales. The model captures both neighborhood effects and cross-scale patterns, reducing spatial autocorrelation and improving generalization. Evaluated across five Canadian cities and against eight competitive baselines, HR-GAT reduces median RMSE by roughly 21% relative to the best alternative and lowers residual spatial bias. The resulting demand maps are regulator-accessible and support spectrum sharing and spectrum allocation in wireless networks.",
+  "title_zh": "Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph 神经 Networks",
+  "summary_zh": "arXiv:2603.10802v1 Announce Type: cross \n摘要: The growing demand for wireless connectivity, combined with limited spectrum resources, calls for more 高效 spectrum management. Spectrum sharing is a promising 方案; however, regulators need 准确 methods to characterize demand dynamics and guide allocation decisions. This 论文 builds and validates a spectrum demand 代理 from public 部署 records and uses a graph 注意力 网络 in a hierarchical, multi-resolution setup (HR-GAT) to estimate spectrum demand at fine spatial scales. The 模型 captures both neighborhood effects and cross-scale patterns, reducing spatial autocorrelation and improving 泛化. Evaluated across five Canadian cities and against eight competitive baselines, HR-GAT reduces median RMSE by roughly 21% relative to the best alternative and lowers residual spatial 偏见. The resulting demand maps are regulator-accessible and support spectrum sharing and spectrum allocation in wireless networks."
+}

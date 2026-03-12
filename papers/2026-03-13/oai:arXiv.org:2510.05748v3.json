@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2510.05748v3",
+  "title": "Communication Enables Cooperation in LLM Agents: A Comparison with Curriculum-Based Approaches",
+  "authors": [
+    "Hachem Madmoun, Salem Lahlou"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2510.05748v3",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2510.05748v3 Announce Type: replace \nAbstract: Eliciting cooperation in multi-agent LLM systems is critical for AI alignment. We investigate two approaches: direct communication and curriculum learning. In a 4-player Stag Hunt, a one-word \"cheap talk\" channel increases cooperation from 0% to 96.7%, demonstrating communication as a robust coordination mechanism. In contrast, we find that curriculum learning is highly sensitive to design choices: our pedagogical curriculum through progressively complex games reduced agent payoffs by 27.4% in an Iterated Public Goods Game with Punishment, demonstrating that optimizing for short-term rationality can actively undermine alignment goals. Qualitative analysis reveals that curricula emphasizing defection-equilibrium games can induce \"learned pessimism\" in agents. These findings suggest that for coordination problems, simple communication protocols may be more reliable than experience-based training, and that curriculum design for social dilemmas requires careful attention to the strategic lessons embedded in game sequences.",
+  "title_zh": "Communication Enables Cooperation in 大语言模型 Agents: A Comparison with Curriculum-Based Approaches",
+  "summary_zh": "arXiv:2510.05748v3 Announce Type: replace \n摘要: Eliciting cooperation in multi-智能体 大语言模型 systems is critical for AI alignment. We investigate two approaches: direct communication and curriculum 学习. In a 4-player Stag Hunt, a one-word \"cheap talk\" channel increases cooperation from 0% to 96.7%, demonstrating communication as a 鲁棒 coordination mechanism. In contrast, we find that curriculum 学习 is highly sensitive to design choices: our pedagogical curriculum through progressively complex games reduced 智能体 payoffs by 27.4% in an Iterated Public Goods Game with Punishment, demonstrating that optimizing for short-term rationality can actively undermine alignment goals. Qualitative analysis reveals that curricula emphasizing defection-equilibrium games can induce \"learned pessimism\" in agents. These findings suggest that for coordination problems, simple communication protocols may be more reliable than experience-based 训练, and that curriculum design for social dilemmas requires careful 注意力 to the strategic lessons embedded in game sequences."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10885v1",
+  "title": "Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements",
+  "authors": [
+    "Jonathan Liu, Kia Ghods"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10885v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10885v1 Announce Type: cross \nAbstract: We present a parameter-efficient Diffusion Transformer (DiT) for generating 200bp cell-type-specific regulatory DNA sequences. By replacing the U-Net backbone of DNA-Diffusion with a transformer denoiser equipped with a 2D CNN input encoder, our model matches the U-Net's best validation loss in 13 epochs (60$\\times$ fewer) and converges 39% lower, while reducing memorization from 5.3% to 1.7% of generated sequences aligning to training data via BLAT. Ablations show the CNN encoder is essential: without it, validation loss increases 70% regardless of positional embedding choice. We further apply DDPO finetuning using Enformer as a reward model, achieving a 38$\\times$ improvement in predicted regulatory activity. Cross-validation against DRAKES on an independent prediction task confirms that improvements reflect genuine regulatory signal rather than reward model overfitting.",
+  "title_zh": "Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements",
+  "summary_zh": "arXiv:2603.10885v1 Announce Type: cross \n摘要: We present a parameter-高效 Diffusion Transformer (DiT) for generating 200bp cell-type-specific regulatory DNA sequences. By replacing the U-Net backbone of DNA-Diffusion with a Transformer denoiser equipped with a 2D CNN input encoder, our 模型 matches the U-Net's best validation 损失 in 13 epochs (60$\\times$ fewer) and converges 39% lower, while reducing memorization from 5.3% to 1.7% of generated sequences aligning to 训练 data via BLAT. Ablations show the CNN encoder is essential: without it, validation 损失 increases 70% regardless of positional 嵌入 choice. We further apply DDPO finetuning using Enformer as a 奖励 模型, achieving a 38$\\times$ improvement in predicted regulatory activity. Cross-validation against DRAKES on an independent prediction task confirms that improvements reflect genuine regulatory signal rather than 奖励 模型 overfitting."
+}

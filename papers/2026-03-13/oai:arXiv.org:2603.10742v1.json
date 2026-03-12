@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10742v1",
+  "title": "A Grammar of Machine Learning Workflows",
+  "authors": [
+    "Simon Roth"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10742v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10742v1 Announce Type: new \nAbstract: Data leakage affected 294 published papers across 17 scientific fields (Kapoor & Narayanan, 2023). The dominant response has been documentation: checklists, linters, best-practice guides. Documentation does not prevent these failures. This paper proposes a structural remedy: a grammar that decomposes the supervised learning lifecycle into 7 kernel primitives connected by a typed directed acyclic graph (DAG), with four hard constraints that reject the two most damaging leakage classes at call time. The grammar's core contribution is the terminal assess constraint: a runtime-enforced evaluate/assess boundary where repeated test-set assessment is rejected by a guard on a nominally distinct Evidence type. A companion study across 2,047 experimental instances quantifies why this matters: selection leakage inflates performance by d_z = 0.93 and memorization leakage by d_z = 0.53-1.11. Three separate implementations (Python, R, and Julia) confirm the claims. The appendix specification lets anyone build a conforming version.",
+  "title_zh": "A Grammar of Machine 学习 Workflows",
+  "summary_zh": "arXiv:2603.10742v1 Announce Type: new \n摘要: Data leakage affected 294 发布日期 papers across 17 scientific fields (Kapoor & Narayanan, 2023). The dominant response has been documentation: checklists, linters, best-practice guides. Documentation does not prevent these failures. This 论文 proposes a structural remedy: a grammar that decomposes the 有监督 学习 lifecycle into 7 kernel primitives connected by a typed directed acyclic graph (DAG), with four hard constraints that 拒绝 the two most damaging leakage classes at call time. The grammar's core contribution is the terminal assess constraint: a runtime-enforced evaluate/assess boundary where repeated test-set assessment is rejected by a guard on a nominally distinct Evidence type. A companion study across 2,047 experimental instances quantifies why this matters: 选择 leakage inflates 性能 by d_z = 0.93 and memorization leakage by d_z = 0.53-1.11. Three separate implementations (Python, R, and Julia) confirm the claims. The 附录 specification lets anyone build a conforming version."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10263v1",
+  "title": "From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning",
+  "authors": [
+    "Zhanyi Sun, Shuran Song"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10263v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10263v1 Announce Type: cross \nAbstract: We introduce Distribution Contractive Reinforcement Learning (DICE-RL), a framework that uses reinforcement learning (RL) as a \"distribution contraction\" operator to refine pretrained generative robot policies. DICE-RL turns a pretrained behavior prior into a high-performing \"pro\" policy by amplifying high-success behaviors from online feedback. We pretrain a diffusion- or flow-based policy for broad behavioral coverage, then finetune it with a stable, sample-efficient residual off-policy RL framework that combines selective behavior regularization with value-guided action selection. Extensive experiments and analyses show that DICE-RL reliably improves performance with strong stability and sample efficiency. It enables mastery of complex long-horizon manipulation skills directly from high-dimensional pixel inputs, both in simulation and on a real robot. Project website: https://zhanyisun.github.io/dice.rl.2026/.",
+  "title_zh": "From Prior to Pro: 高效 Skill Mastery via Distribution Contractive RL Finetuning",
+  "summary_zh": "arXiv:2603.10263v1 Announce Type: cross \n摘要: We introduce Distribution Contractive 强化 学习 (DICE-RL), a 框架 that uses 强化 学习 (RL) as a \"distribution contraction\" operator to refine pretrained 生成式 robot policies. DICE-RL turns a pretrained behavior prior into a high-performing \"pro\" 策略 by amplifying high-success behaviors from 在线 feedback. We pretrain a diffusion- or flow-based 策略 for broad behavioral coverage, then finetune it with a stable, sample-高效 residual off-策略 RL 框架 that combines selective behavior 正则化 with 价值-guided 动作 选择. Extensive experiments and analyses show that DICE-RL reliably improves 性能 with strong stability and sample efficiency. It enables mastery of complex long-视野 manipulation skills directly from high-dimensional pixel inputs, both in simulation and on a real robot. Project website: https://zhanyisun.GitHub.io/dice.rl.2026/."
+}

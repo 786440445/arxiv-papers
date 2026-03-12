@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.08823v2",
+  "title": "Fish Audio S2 Technical Report",
+  "authors": [
+    "Shijia Liao, Yuxuan Wang, Songting Liu, Yifan Cheng, Ruoyi Zhang, Tianyu Li, Shidong Li, Yisheng Zheng, Xingwei Liu, Qingzheng Wang, Zhizhuo Zhou, Jiahua Liu, Xin Chen, Dawei Han"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.08823v2",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.08823v2 Announce Type: replace-cross \nAbstract: We introduce Fish Audio S2, an open-sourced text-to-speech system featuring multi-speaker, multi-turn generation, and, most importantly, instruction-following control via natural-language descriptions. To scale training, we develop a multi-stage training recipe together with a staged data pipeline covering video captioning and speech captioning, voice-quality assessment, and reward modeling. To push the frontier of open-source TTS, we release our model weights, fine-tuning code, and an SGLang-based inference engine. The inference engine is production-ready for streaming, achieving an RTF of 0.195 and a time-to-first-audio below 100 ms.Our code and weights are available on GitHub (https://github.com/fishaudio/fish-speech) and Hugging Face (https://huggingface.co/fishaudio/s2-pro). We highly encourage readers to visit https://fish.audio to try custom voices.",
+  "title_zh": "Fish 音频 S2 技术报告",
+  "summary_zh": "arXiv:2603.08823v2 Announce Type: replace-cross \n摘要: We introduce Fish 音频 S2, an open-sourced text-to-语音 系统 featuring multi-说话人, multi-turn 生成, and, most importantly, instruction-following 控制 via natural-language descriptions. To scale 训练, we develop a multi-stage 训练 recipe together with a staged data pipeline covering 视频 captioning and 语音 captioning, 声纹-quality assessment, and 奖励 modeling. To push the frontier of open-source 文本转语音, we release our 模型 weights, fine-tuning 代码, and an SGLang-based 推理 engine. The 推理 engine is production-ready for 流式, achieving an RTF of 0.195 and a time-to-first-音频 below 100 ms.Our 代码 and weights are available on GitHub (https://GitHub.com/fishaudio/fish-语音) and Hugging Face (https://huggingface.co/fishaudio/s2-pro). We highly encourage readers to visit https://fish.音频 to try custom voices."
+}

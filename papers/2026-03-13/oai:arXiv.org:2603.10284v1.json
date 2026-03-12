@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10284v1",
+  "title": "Copula-ResLogit: A Deep-Copula Framework for Unobserved Confounding Effects",
+  "authors": [
+    "Kimia Kamal, Bilal Farooq"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10284v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10284v1 Announce Type: new \nAbstract: A key challenge in travel demand analysis is the presence of unobserved factors that may generate non-causal dependencies, obscuring the true causal effects. To address the issue, the study introduces a novel deep learning based fully interpretable joint modelling framework, Copula-ResLogit, which integrates the flexibility of Residual Neural Network (ResNet) architectures with the dependence capturing capabilities of copula models. This hybrid structure enables us to first detect unobserved confounding through traditional copula function based joint modelling and then mitigate these hidden associations by incorporating deep learning components. The study applies this framework to two case studies, including the relationship between stress levels and wait time of pedestrians when crossing mid block in VR and the dependencies between travel mode choice and travel distance in London travel behaviour data. Results show that Copula-ResLogit substantially reduces or eliminates the dependencies, demonstrating the ability of residual layers to account for hidden confounding effects.",
+  "title_zh": "Copula-ResLogit: A 深度-Copula 框架 for Unobserved Confounding Effects",
+  "summary_zh": "arXiv:2603.10284v1 Announce Type: new \n摘要: A key challenge in travel demand analysis is the presence of unobserved factors that may generate non-因果 dependencies, obscuring the true 因果 effects. To address the issue, the study introduces a novel 深度 学习 based fully 可解释 joint modelling 框架, Copula-ResLogit, which integrates the flexibility of Residual 神经 网络 (ResNet) architectures with the dependence capturing capabilities of copula models. This hybrid structure enables us to first detect unobserved confounding through traditional copula function based joint modelling and then mitigate these hidden associations by incorporating 深度 学习 components. The study applies this 框架 to two case studies, including the relationship between stress levels and wait time of pedestrians when crossing mid block in VR and the dependencies between travel mode choice and travel distance in London travel behaviour data. Results show that Copula-ResLogit substantially reduces or eliminates the dependencies, demonstrating the ability of residual layers to account for hidden confounding effects."
+}

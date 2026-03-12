@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10219v1",
+  "title": "A Diffusion Analysis of Policy Gradient for Stochastic Bandits",
+  "authors": [
+    "Tor Lattimore"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10219v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10219v1 Announce Type: cross \nAbstract: We study a continuous-time diffusion approximation of policy gradient for $k$-armed stochastic bandits. We prove that with a learning rate $\\eta = O(\\Delta^2/\\log(n))$ the regret is $O(k \\log(k) \\log(n) / \\eta)$ where $n$ is the horizon and $\\Delta$ the minimum gap. Moreover, we construct an instance with only logarithmically many arms for which the regret is linear unless $\\eta = O(\\Delta^2)$.",
+  "title_zh": "A Diffusion Analysis of 策略 梯度 for Stochastic Bandits",
+  "summary_zh": "arXiv:2603.10219v1 Announce Type: cross \n摘要: We study a continuous-time diffusion approximation of 策略 梯度 for $k$-armed stochastic bandits. We prove that with a 学习 rate $\\eta = O(\\Delta^2/\\log(n))$ the regret is $O(k \\log(k) \\log(n) / \\eta)$ where $n$ is the 视野 and $\\Delta$ the minimum gap. Moreover, we construct an instance with only logarithmically many arms for which the regret is linear unless $\\eta = O(\\Delta^2)$."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10078v1",
+  "title": "Stochastic Port-Hamiltonian Neural Networks: Universal Approximation with Passivity Guarantees",
+  "authors": [
+    "Luca Di Persio, Matthias Ehrhardt, Youness Outaleb"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10078v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10078v1 Announce Type: new \nAbstract: Stochastic port-Hamiltonian systems represent open dynamical systems with dissipation, inputs, and stochastic forcing in an energy based form. We introduce stochastic port-Hamiltonian neural networks, SPH-NNs, which parameterize the Hamiltonian with a feedforward network and enforce skew symmetry of the interconnection matrix and positive semidefiniteness of the dissipation matrix. For It\\^o dynamics we establish a weak passivity inequality in expectation under an explicit generator condition, stated for a stopped process on a compact set. We also prove a universal approximation result showing that, on any compact set and finite horizon, SPH-NNs approximate the coefficients of a target stochastic port-Hamiltonian system with $C^2$ accuracy of the Hamiltonian and yield coupled solutions that remain close in mean square up to the exit time. Experiments on noisy mass spring, Duffing, and Van der Pol oscillators show improved long horizon rollouts and reduced energy error relative to a multilayer perceptron baseline.",
+  "title_zh": "Stochastic Port-Hamiltonian 神经 Networks: Universal Approximation with Passivity Guarantees",
+  "summary_zh": "arXiv:2603.10078v1 Announce Type: new \n摘要: Stochastic port-Hamiltonian systems represent open dynamical systems with dissipation, inputs, and stochastic forcing in an energy based form. We introduce stochastic port-Hamiltonian 神经 networks, SPH-NNs, which parameterize the Hamiltonian with a feedforward 网络 and enforce skew symmetry of the interconnection matrix and positive semidefiniteness of the dissipation matrix. For It\\^o dynamics we establish a weak passivity inequality in expectation under an explicit generator condition, stated for a stopped process on a compact set. We also prove a universal approximation 结果 showing that, on any compact set and finite 视野, SPH-NNs approximate the coefficients of a 目标 stochastic port-Hamiltonian 系统 with $C^2$ accuracy of the Hamiltonian and yield coupled solutions that remain close in mean square up to the exit time. Experiments on noisy mass spring, Duffing, and Van der Pol oscillators show improved long 视野 rollouts and reduced energy error relative to a multilayer perceptron baseline."
+}

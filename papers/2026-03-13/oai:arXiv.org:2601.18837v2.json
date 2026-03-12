@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2601.18837v2",
+  "title": "Time series forecasting with Hahn Kolmogorov-Arnold networks",
+  "authors": [
+    "Md Zahidul Hasan, A. Ben Hamza, Nizar Bouguila"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2601.18837v2",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2601.18837v2 Announce Type: replace \nAbstract: Recent Transformer- and MLP-based models have demonstrated strong performance in long-term time series forecasting, yet Transformers remain limited by their quadratic complexity and permutation-equivariant attention, while MLPs exhibit spectral bias. We propose HaKAN, a versatile model based on Kolmogorov-Arnold Networks (KANs), leveraging Hahn polynomial-based learnable activation functions and providing a lightweight and interpretable alternative for multivariate time series forecasting. Our model integrates channel independence, patching, a stack of Hahn-KAN blocks with residual connections, and a bottleneck structure comprised of two fully connected layers. The Hahn-KAN block consists of inter- and intra-patch KAN layers to effectively capture both global and local temporal patterns. Extensive experiments on various forecasting benchmarks demonstrate that our model consistently outperforms recent state-of-the-art methods, with ablation studies validating the effectiveness of its core components.",
+  "title_zh": "Time series forecasting with Hahn Kolmogorov-Arnold networks",
+  "summary_zh": "arXiv:2601.18837v2 Announce Type: replace \n摘要: Recent Transformer- and MLP-based models have demonstrated strong 性能 in long-term time series forecasting, yet Transformers remain limited by their quadratic complexity and permutation-equivariant 注意力, while MLPs exhibit spectral 偏见. We propose HaKAN, a versatile 模型 based on Kolmogorov-Arnold Networks (KANs), leveraging Hahn polynomial-based learnable activation functions and providing a lightweight and 可解释 alternative for multivariate time series forecasting. Our 模型 integrates channel independence, patching, a stack of Hahn-KAN blocks with residual connections, and a bottleneck structure comprised of two fully connected layers. The Hahn-KAN block consists of inter- and intra-patch KAN layers to effectively capture both global and local temporal patterns. Extensive experiments on various forecasting benchmarks demonstrate that our 模型 consistently outperforms recent 状态-of-the-art methods, with ablation studies validating the effectiveness of its core components."
+}

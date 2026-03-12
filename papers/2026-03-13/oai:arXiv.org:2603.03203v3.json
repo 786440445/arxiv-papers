@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.03203v3",
+  "title": "No Memorization, No Detection: Output Distribution-Based Contamination Detection in Small Language Models",
+  "authors": [
+    "Omer Sela (Tel Aviv University)"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.03203v3",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.03203v3 Announce Type: replace \nAbstract: CDD, or Contamination Detection via output Distribution, identifies data contamination by measuring the peakedness of a model's sampled outputs. We study the conditions under which this approach succeeds and fails on small language models ranging from 70M to 410M parameters. Using controlled contamination experiments on GSM8K, HumanEval, and MATH, we find that CDD's effectiveness depends critically on whether fine-tuning produces verbatim memorization. In the majority of conditions we test, CDD performs at chance level even when the data is verifiably contaminated and detectable by simpler methods. We show that probability-based methods, specifically perplexity and Min-k\\% Prob, outperform CDD in all conditions where any method exceeds chance, suggesting that CDD's peakedness-based approach is insufficient for contamination detection in small language models. Our code is available at https://github.com/Sela-Omer/Contamination-Detection-Small-LM",
+  "title_zh": "No Memorization, No 检测: Output Distribution-Based Contamination 检测 in Small Language Models",
+  "summary_zh": "arXiv:2603.03203v3 Announce Type: replace \n摘要: CDD, or Contamination 检测 via output Distribution, identifies data contamination by measuring the peakedness of a 模型's sampled outputs. We study the conditions under which this 方案 succeeds and fails on small language models ranging from 70M to 410M parameters. Using controlled contamination experiments on GSM8K, HumanEval, and MATH, we find that CDD's effectiveness depends critically on whether fine-tuning produces verbatim memorization. In the majority of conditions we test, CDD performs at chance level even when the data is verifiably contaminated and detectable by simpler methods. We show that probability-based methods, specifically perplexity and Min-k\\% Prob, outperform CDD in all conditions where any 方法 exceeds chance, suggesting that CDD's peakedness-based 方案 is insufficient for contamination 检测 in small language models. Our 代码 is available at https://GitHub.com/Sela-Omer/Contamination-检测-Small-LM"
+}

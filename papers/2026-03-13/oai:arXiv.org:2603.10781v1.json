@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10781v1",
+  "title": "Taking Shortcuts for Categorical VQA Using Super Neurons",
+  "authors": [
+    "Pierre Musacchio, Jaeyi Jeong, Dahun Kim, Jaesik Park"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10781v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10781v1 Announce Type: cross \nAbstract: Sparse Attention Vectors (SAVs) have emerged as an excellent training-free alternative to supervised finetuning or low-rank adaptation to improve the performance of Vision Language Models (VLMs). At their heart, SAVs select a few accurate attention heads for a task of interest and use them as classifiers, rather than relying on the model's prediction. In a similar spirit, we find that directly probing the raw activations of the VLM, in the form of scalar values, is sufficient to yield accurate classifiers on diverse visually grounded downstream tasks. Shifting focus from attention vectors to scalar activations dramatically increases the search space for accurate parameters, allowing us to find more discriminative neurons immediately from the first generated token. We call such activations Super Neurons (SNs). In this probing setting, we discover that enough SNs appear in the shallower layers of the large language model to allow for extreme early exiting from the first layer of the model at the first generated token. Compared to the original network, SNs robustly improve the classification performance while achieving a speedup of up to 5.10x.",
+  "title_zh": "Taking Shortcuts for Categorical VQA Using Super Neurons",
+  "summary_zh": "arXiv:2603.10781v1 Announce Type: cross \n摘要: Sparse 注意力 Vectors (SAVs) have emerged as an excellent 训练-free alternative to 有监督 finetuning or low-rank adaptation to improve the 性能 of Vision Language Models (VLMs). At their heart, SAVs select a few 准确 注意力 heads for a task of interest and use them as classifiers, rather than relying on the 模型's prediction. In a similar spirit, we find that directly probing the raw activations of the VLM, in the form of scalar values, is sufficient to yield 准确 classifiers on diverse visually grounded downstream tasks. Shifting focus from 注意力 vectors to scalar activations dramatically increases the 搜索 space for 准确 parameters, allowing us to find more 判别式 neurons immediately from the first generated token. We call such activations Super Neurons (SNs). In this probing setting, we discover that enough SNs appear in the shallower layers of the large language 模型 to allow for extreme early exiting from the first layer of the 模型 at the first generated token. Compared to the original 网络, SNs robustly improve the 分类 性能 while achieving a speedup of up to 5.10x."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10750v1",
+  "title": "Deep Randomized Distributed Function Computation (DeepRDFC): Neural Distributed Channel Simulation",
+  "authors": [
+    "Didrik Bergstr\\\"om, Onur G\\\"unl\\\"u"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10750v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10750v1 Announce Type: cross \nAbstract: The randomized distributed function computation (RDFC) framework, which unifies many cutting-edge distributed computation and learning applications, is considered. An autoencoder (AE) architecture is proposed to minimize the total variation distance between the probability distribution simulated by the AE outputs and an unknown target distribution, using only data samples. We illustrate significantly high RDFC performance with communication load gains from our AEs compared to data compression methods. Our designs establish deep learning-based RDFC methods and aim to facilitate the use of RDFC methods, especially when the amount of common randomness is limited and strong function computation guarantees are required.",
+  "title_zh": "深度 Randomized 分布式 Function Computation (DeepRDFC): 神经 分布式 Channel Simulation",
+  "summary_zh": "arXiv:2603.10750v1 Announce Type: cross \n摘要: The randomized 分布式 function computation (RDFC) 框架, which unifies many cutting-edge 分布式 computation and 学习 applications, is considered. An autoencoder (AE) 架构 is proposed to minimize the total variation distance between the probability distribution simulated by the AE outputs and an unknown 目标 distribution, using only data samples. We illustrate significantly high RDFC 性能 with communication load gains from our AEs compared to data compression methods. Our designs establish 深度 学习-based RDFC methods and aim to facilitate the use of RDFC methods, especially when the amount of common randomness is limited and strong function computation guarantees are required."
+}

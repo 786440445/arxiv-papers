@@ -32,16 +32,16 @@ arxiv:
 github:
   repo_url: "git@github.com:786440445/arxiv-papers.git"
   use_ssh: true
-  branch: "main"
+  branch: "master"
   layout: "date"
   commit_template: "Daily arXiv update: {date} ({count} papers)"
 
 # Feishu通知
-feishu:
-  target_type: "self"  # 发送给当前用户
-  format: "summary"
-  include_abstract: false
-
+# feishu:
+#   target_type: "self"  # 发送给当前用户
+#   format: "summary"
+#   include_abstract: false
+# 
 # 日志
 logging:
   level: "INFO"

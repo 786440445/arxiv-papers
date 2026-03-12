@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2509.18404v2",
+  "title": "Zero-Shot Transferable Solution Method for Parametric Optimal Control Problems",
+  "authors": [
+    "Xingjian Li, Kelvin Kan, Deepanshu Verma, Krishna Kumar, Stanley Osher, J\\'an Drgo\\v{n}a"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2509.18404v2",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2509.18404v2 Announce Type: replace-cross \nAbstract: This paper presents a transferable solution method for optimal control problems with varying objectives using function encoder (FE) policies. Traditional optimization-based approaches must be re-solved whenever objectives change, resulting in prohibitive computational costs for applications requiring frequent evaluation and adaptation. The proposed method learns a reusable set of neural basis functions that spans the control policy space, enabling efficient zero-shot adaptation to new tasks through either projection from data or direct mapping from problem specifications. The key idea is an offline-online decomposition: basis functions are learned once during offline imitation learning, while online adaptation requires only lightweight coefficient estimation. Numerical experiments across diverse dynamics, dimensions, and cost structures show our method delivers near-optimal performance with minimal overhead when generalizing across tasks, enabling semi-global feedback policies suitable for real-time deployment.",
+  "title_zh": "零样本 Transferable Solution 方法 for Parametric Optimal 控制 Problems",
+  "summary_zh": "arXiv:2509.18404v2 Announce Type: replace-cross \n摘要: This 论文 presents a transferable solution 方法 for optimal 控制 problems with varying objectives using function encoder (FE) policies. Traditional 优化-based approaches must be re-solved whenever objectives change, resulting in prohibitive computational costs for applications requiring frequent 评估 and adaptation. The proposed 方法 learns a reusable set of 神经 basis functions that spans the 控制 策略 space, enabling 高效 零样本 adaptation to new tasks through either projection from data or direct mapping from problem specifications. The key idea is an 离线-在线 decomposition: basis functions are learned once during 离线 imitation 学习, while 在线 adaptation requires only lightweight coefficient estimation. Numerical experiments across diverse dynamics, dimensions, and cost structures show our 方法 delivers near-optimal 性能 with minimal overhead when generalizing across tasks, enabling semi-global feedback policies suitable for 实时 部署."
+}

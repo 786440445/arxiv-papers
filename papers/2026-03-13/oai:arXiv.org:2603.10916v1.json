@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10916v1",
+  "title": "NCAA Bracket Prediction Using Machine Learning and Combinatorial Fusion Analysis",
+  "authors": [
+    "Yuanhong Wu, Isaiah Smith, Tushar Marwah, Michael Schroeter, Mohamed Rahouti, D. Frank Hsu"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10916v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10916v1 Announce Type: new \nAbstract: Machine learning models have demonstrated remarkable success in sports prediction in the past years, often treating sports prediction as a classification task within the field. This paper introduces new perspectives for analyzing sports data to predict outcomes more accurately. We leverage rankings to generate team rankings for the 2024 dataset using Combinatorial Fusion Analysis (CFA), a new paradigm for combining multiple scoring systems through the rank-score characteristic (RSC) function and cognitive diversity (CD). Our result based on rank combination with respect to team ranking has an accuracy rate of $74.60\\%$, which is higher than the best of the ten popular public ranking systems ($73.02\\%$). This exhibits the efficacy of CFA in enhancing the precision of sports prediction through different lens.",
+  "title_zh": "NCAA Bracket Prediction Using Machine 学习 and Combinatorial Fusion Analysis",
+  "summary_zh": "arXiv:2603.10916v1 Announce Type: new \n摘要: Machine 学习 models have demonstrated remarkable success in sports prediction in the past years, often treating sports prediction as a 分类 task within the field. This 论文 introduces new perspectives for analyzing sports data to predict outcomes more accurately. We leverage rankings to generate team rankings for the 2024 数据集 using Combinatorial Fusion Analysis (CFA), a new paradigm for combining multiple scoring systems through the rank-score characteristic (RSC) function and cognitive diversity (CD). Our 结果 based on rank combination with respect to team ranking has an accuracy rate of $74.60\\%$, which is higher than the best of the ten popular public ranking systems ($73.02\\%$). This exhibits the efficacy of CFA in enhancing the precision of sports prediction through different lens."
+}

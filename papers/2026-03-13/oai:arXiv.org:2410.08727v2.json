@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2410.08727v2",
+  "title": "Losing dimensions: Geometric memorization in generative diffusion",
+  "authors": [
+    "Beatrice Achilli, Enrico Ventura, Gianluigi Silvestri, Bao Pham, Gabriel Raya, Dmitry Krotov, Carlo Lucibello, Luca Ambrogioni"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2410.08727v2",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2410.08727v2 Announce Type: replace-cross \nAbstract: Diffusion models power leading generative AI, but when and how they memorize training data, especially on low-dimensional manifolds, remains unclear. We find memorization emerges gradually, not abruptly: as data become scarce, diffusion models experience a smooth collapse where their capacity to vary across independent directions diminishes. Measuring latent dimensionality via the learned score field, we reveal how generative behavior increasingly centers on a few examples while other variations \"freeze out\". We propose a geometric memorization theory, showing that salient features collapse first, then finer details, leading to near point-wise replication. This mirrors physical systems condensing into a few low-energy configurations. Our theoretical predictions align with both synthetic and real data, identifying geometric memorization as a distinct phase between generalization and exact copying.",
+  "title_zh": "Losing dimensions: Geometric memorization in 生成式 diffusion",
+  "summary_zh": "arXiv:2410.08727v2 Announce Type: replace-cross \n摘要: Diffusion models power leading 生成式 AI, but when and how they memorize 训练 data, especially on low-dimensional manifolds, remains unclear. We find memorization emerges gradually, not abruptly: as data become scarce, diffusion models experience a smooth collapse where their capacity to vary across independent directions diminishes. Measuring 隐变量 dimensionality via the learned score field, we reveal how 生成式 behavior increasingly centers on a few examples while other variations \"freeze out\". We propose a geometric memorization theory, showing that salient features collapse first, then finer details, leading to near point-wise replication. This mirrors physical systems condensing into a few low-energy configurations. Our theoretical predictions align with both synthetic and real data, identifying geometric memorization as a distinct phase between 泛化 and exact copying."
+}

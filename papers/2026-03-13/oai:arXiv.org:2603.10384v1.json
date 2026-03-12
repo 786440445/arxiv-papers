@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10384v1",
+  "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
+  "authors": [
+    "Xinyan Jiang, Ninghao Liu, Di Wang, Lijie Hu"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10384v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10384v1 Announce Type: new \nAbstract: Evaluating LLM reliability via scalar probabilities often fails to capture the structural dynamics of reasoning. We introduce TRACED, a framework that assesses reasoning quality through theoretically grounded geometric kinematics. By decomposing reasoning traces into Progress (displacement) and Stability (curvature), we reveal a distinct topological divergence: correct reasoning manifests as high-progress, stable trajectories, whereas hallucinations are characterized by low-progress, unstable patterns (stalled displacement with high curvature fluctuations). Leveraging these signatures, our probabilistic framework achieves competitive performance and superior robustness across diverse benchmarks. Crucially, TRACED bridges geometry and cognition by mapping high curvature to ''Hesitation Loops'' and displacement to ''Certainty Accumulation'', offering a physical lens to decode the internal dynamics of machine thought.",
+  "title_zh": "Beyond Scalars: Evaluating and Understanding 大语言模型 推理 via Geometric Progress and Stability",
+  "summary_zh": "arXiv:2603.10384v1 Announce Type: new \n摘要: Evaluating 大语言模型 reliability via scalar probabilities often fails to capture the structural dynamics of 推理. We introduce TRACED, a 框架 that assesses 推理 quality through theoretically grounded geometric kinematics. By decomposing 推理 traces into Progress (displacement) and Stability (curvature), we reveal a distinct topological divergence: correct 推理 manifests as high-progress, stable trajectories, whereas hallucinations are characterized by low-progress, unstable patterns (stalled displacement with high curvature fluctuations). Leveraging these signatures, our 概率 框架 achieves competitive 性能 and superior 鲁棒性 across diverse benchmarks. Crucially, TRACED bridges geometry and cognition by mapping high curvature to ''Hesitation Loops'' and displacement to ''Certainty Accumulation'', offering a physical lens to 解码 the internal dynamics of machine thought."
+}

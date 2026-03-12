@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10559v1",
+  "title": "A Bipartite Graph Approach to U.S.-China Cross-Market Return Forecasting",
+  "authors": [
+    "Jing Liu, Maria Grith, Xiaowen Dong, Mihai Cucuringu"
+  ],
+  "category": "cs.LG",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10559v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10559v1 Announce Type: new \nAbstract: This paper studies cross-market return predictability through a machine learning framework that preserves economic structure. Exploiting the non-overlapping trading hours of the U.S. and Chinese equity markets, we construct a directed bipartite graph that captures time-ordered predictive linkages between stocks across markets. Edges are selected via rolling-window hypothesis testing, and the resulting graph serves as a sparse, economically interpretable feature-selection layer for downstream machine learning models. We apply a range of regularized and ensemble methods to forecast open-to-close returns using lagged foreign-market information. Our results reveal a pronounced directional asymmetry: U.S. previous-close-to-close returns contain substantial predictive information for Chinese intraday returns, whereas the reverse effect is limited. This informational asymmetry translates into economically meaningful performance differences and highlights how structured machine learning frameworks can uncover cross-market dependencies while maintaining interpretability.",
+  "title_zh": "A Bipartite Graph 方案 to U.S.-China Cross-Market 回报 Forecasting",
+  "summary_zh": "arXiv:2603.10559v1 Announce Type: new \n摘要: This 论文 studies cross-market 回报 predictability through a machine 学习 框架 that preserves economic structure. Exploiting the non-overlapping trading hours of the U.S. and Chinese equity markets, we construct a directed bipartite graph that captures time-ordered predictive linkages between stocks across markets. Edges are selected via rolling-window hypothesis testing, and the resulting graph serves as a sparse, economically 可解释 特征-选择 layer for downstream machine 学习 models. We apply a range of regularized and ensemble methods to forecast open-to-close returns using lagged foreign-market information. Our results reveal a pronounced directional asymmetry: U.S. previous-close-to-close returns contain substantial predictive information for Chinese intraday returns, whereas the reverse effect is limited. This informational asymmetry translates into economically meaningful 性能 differences and highlights how structured machine 学习 frameworks can uncover cross-market dependencies while maintaining interpretability."
+}

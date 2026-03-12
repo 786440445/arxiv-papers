@@ -1,0 +1,13 @@
+{
+  "id": "oai:arXiv.org:2603.10072v1",
+  "title": "Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation",
+  "authors": [
+    "Amir Al-Maamari"
+  ],
+  "category": "cs.AI",
+  "link": "https://arxiv.org/abs/oai:arXiv.org:2603.10072v1",
+  "published": "Thu, 12 Mar 2026 00:00:00 -0400",
+  "summary": "arXiv:2603.10072v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) show promise for Automated Program Repair (APR), yet their effectiveness on security vulnerabilities remains poorly characterized. This study analyzes 319 LLM-generated security patchesacross 64 Java vulnerabilities from the Vul4J benchmark. Using tri-axis evaluation (compilation, security via PoV tests, functionality via test suites), the analysis reveals that only 24.8% of patches achieve full correctness, while 51.4% fail both security and functionality. The dominant failure mode is semantic misunderstanding: LLMs produce syntactically valid code but apply incorrect repair strategies. The proposed Security Repair Score (SRS) quantifies this gap, showing LLMs preserve functionality (mean 0.832) but struggle with security (mean 0.251). Vulnerability type strongly predicts difficulty, with fix rates ranging from 0% (input validation) to 45% (infinite loop). These findings demonstrate that LLM security patches require rigorous validation before deployment.",
+  "title_zh": "Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch 生成",
+  "summary_zh": "arXiv:2603.10072v1 Announce Type: cross \n摘要: Large Language Models (LLMs) show promise for Automated Program Repair (APR), yet their effectiveness on security vulnerabilities remains poorly characterized. This study analyzes 319 大语言模型-generated security patchesacross 64 Java vulnerabilities from the Vul4J 基准. Using tri-axis 评估 (compilation, security via PoV tests, functionality via test suites), the analysis reveals that only 24.8% of patches achieve full correctness, while 51.4% fail both security and functionality. The dominant failure mode is semantic misunderstanding: LLMs produce syntactically valid 代码 but apply incorrect repair strategies. The proposed Security Repair Score (SRS) quantifies this gap, showing LLMs preserve functionality (mean 0.832) but struggle with security (mean 0.251). Vulnerability type strongly predicts difficulty, with fix rates ranging from 0% (input validation) to 45% (infinite loop). These findings demonstrate that 大语言模型 security patches require rigorous validation before 部署."
+}

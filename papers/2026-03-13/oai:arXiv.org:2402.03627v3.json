@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2402.03627v3",
+  "title": "Partially Recentralization Softmax Loss for Vision-Language Models Robustness",
+  "authors": "Hao Wang, Jinzhe Jiang, Xin Zhang, Chen Li",
+  "summary": "arXiv:2402.03627v3 Announce Type: replace-cross \nAbstract: As Large Language Models make a breakthrough in natural language processing tasks (NLP), multimodal technique becomes extremely popular. However, it has been shown that multimodal NLP are vulnerable to adversarial attacks, where the outputs of a model can be dramatically changed by a perturbation to the input. While several defense techniques have been proposed both in computer vision and NLP models, the multimodal robustness of models have not been fully explored. In this paper, we study the adversarial robustness provided by modifying loss function of pre-trained multimodal models, by restricting top K softmax outputs. Based on the evaluation and scoring, our experiments show that after a fine-tuning, adversarial robustness of pre-trained models can be significantly improved, against popular attacks. Further research should be studying, such as output diversity, generalization and the robustness-performance trade-off of this kind of loss functions. Our code will be available after this paper is accepted",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2402.03627",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2402.03627v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.057023"
+}

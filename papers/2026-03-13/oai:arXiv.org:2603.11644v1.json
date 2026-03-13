@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11644v1",
+  "title": "IDRL: An Individual-Aware Multimodal Depression-Related Representation Learning Framework for Depression Diagnosis",
+  "authors": "Chongxiao Wang, Junjie Liang, Peng Cao, Jinzhu Yang, Osmar R. Zaiane",
+  "summary": "arXiv:2603.11644v1 Announce Type: cross \nAbstract: Depression is a severe mental disorder, and reliable identification plays a critical role in early intervention and treatment. Multimodal depression detection aims to improve diagnostic performance by jointly modeling complementary information from multiple modalities. Recently, numerous multimodal learning approaches have been proposed for depression analysis; however, these methods suffer from the following limitations: 1) inter-modal inconsistency and depression-unrelated interference, where depression-related cues may conflict across modalities while substantial irrelevant content obscures critical depressive signals, and 2) diverse individual depressive presentations, leading to individual differences in modality and cue importance that hinder reliable fusion. To address these issues, we propose Individual-aware Multimodal Depression-related Representation Learning Framework (IDRL) for robust depression diagnosis. Specifically, IDRL 1) disentangles multimodal representations into a modality-common depression space, a modality-specific depression space, and a depression-unrelated space to enhance modality alignment while suppressing irrelevant information, and 2) introduces an individual-aware modality-fusion module (IAF) that dynamically adjusts the weights of disentangled depression-related features based on their predictive significance, thereby achieving adaptive cross-modal fusion for different individuals. Extensive experiments demonstrate that IDRL achieves superior and robust performance for multimodal depression detection.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11644",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11644v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.056392"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.21038v2",
+  "title": "On the Theoretical Limitations of Embedding-Based Retrieval",
+  "authors": "Orion Weller, Michael Boratko, Iftekhar Naim, Jinhyuk Lee",
+  "summary": "arXiv:2508.21038v2 Announce Type: replace-cross \nAbstract: Vector embeddings have been tasked with an ever-increasing set of retrieval tasks over the years, with a nascent rise in using them for reasoning, instruction-following, coding, and more. These new benchmarks push embeddings to work for any query and any notion of relevance that could be given. While prior works have pointed out theoretical limitations of vector embeddings, there is a common assumption that these difficulties are exclusively due to unrealistic queries, and those that are not can be overcome with better training data and larger models. In this work, we demonstrate that we may encounter these theoretical limitations in realistic settings with extremely simple queries. We connect known results in learning theory, showing that the number of top-k subsets of documents capable of being returned as the result of some query is limited by the dimension of the embedding. We empirically show that this holds true even if we directly optimize on the test set with free parameterized embeddings. Using free embeddings, we then demonstrate that returning all pairs of documents requires a relatively high dimension. We then create a realistic dataset called LIMIT that stress tests embedding models based on these theoretical results, and observe that even state-of-the-art models fail on this dataset despite the simple nature of the task. Our work shows the limits of embedding models under the existing single vector paradigm and calls for future research to develop new techniques that can resolve this fundamental limitation.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.21038",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.21038v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.905194"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11462v1",
+  "title": "Bridging Discrete Marks and Continuous Dynamics: Dual-Path Cross-Interaction for Marked Temporal Point Processes",
+  "authors": "Yuxiang Liu, Qiao Liu, Tong Luo, Yanglei Gan, Peng He, Yao LIu",
+  "summary": "arXiv:2603.11462v1 Announce Type: new \nAbstract: Predicting irregularly spaced event sequences with discrete marks poses significant challenges due to the complex, asynchronous dependencies embedded within continuous-time data streams.Existing sequential approaches capture dependencies among event tokens but ignore the continuous evolution between events, while Neural Ordinary Differential Equation (Neural ODE) methods model smooth dynamics yet fail to account for how event types influence future timing.To overcome these limitations, we propose NEXTPP, a dual-channel framework that unifies discrete and continuous representations via Event-granular Neural Evolution with Cross-Interaction for Marked Temporal Point Processes. Specifically, NEXTPP encodes discrete event marks via a self-attention mechanism, simultaneously evolving a latent continuous-time state using a Neural ODE. These parallel streams are then fused through a crossattention module to enable explicit bidirectional interaction between continuous and discrete representations. The fused representations drive the conditional intensity function of the neural Hawkes process, while an iterative thinning sampler is employed to generate future events. Extensive evaluations on five real-world datasets demonstrate that NEXTPP consistently outperforms state-of-the-art models. The source code can be found at https://github.com/AONE-NLP/NEXTPP.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11462",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11462v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.903947"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11133v1",
+  "title": "Higher-Order Modular Attention: Fusing Pairwise and Triadic Interactions for Protein Sequences",
+  "authors": "Shirin Amiraslani, Xin Gao",
+  "summary": "arXiv:2603.11133v1 Announce Type: new \nAbstract: Transformer self-attention computes pairwise token interactions, yet protein sequence to phenotype relationships often involve cooperative dependencies among three or more residues that dot product attention does not capture explicitly. We introduce Higher-Order Modular Attention, HOMA, a unified attention operator that fuses pairwise attention with an explicit triadic interaction pathway. To make triadic attention practical on long sequences, HOMA employs block-structured, windowed triadic attention. We evaluate on three TAPE benchmarks for Secondary Structure, Fluorescence, and Stability. Our attention mechanism yields consistent improvements across all tasks compared with standard self-attention and efficient variants including block-wise attention and Linformer. These results suggest that explicit triadic terms provide complementary representational capacity for protein sequence prediction at controllable additional computational cost.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11133",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11133v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.903733"
+}

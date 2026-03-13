@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11542v1",
+  "title": "ReHARK: Refined Hybrid Adaptive RBF Kernels for Robust One-Shot Vision-Language Adaptation",
+  "authors": "Md Jahidul Islam",
+  "summary": "arXiv:2603.11542v1 Announce Type: cross \nAbstract: The adaptation of large-scale Vision-Language Models (VLMs) like CLIP to downstream tasks with extremely limited data -- specifically in the one-shot regime -- is often hindered by a significant \"Stability-Plasticity\" dilemma. While efficient caching mechanisms have been introduced by training-free methods such as Tip-Adapter, these approaches often function as local Nadaraya-Watson estimators. Such estimators are characterized by inherent boundary bias and a lack of global structural regularization. In this paper, ReHARK (Refined Hybrid Adaptive RBF Kernels) is proposed as a synergistic training-free framework that reinterprets few-shot adaptation through global proximal regularization in a Reproducing Kernel Hilbert Space (RKHS). A multistage refinement pipeline is introduced, consisting of: (1) Hybrid Prior Construction, where zero-shot textual knowledge from CLIP and GPT-3 is fused with visual class prototypes to form a robust semantic-visual anchor; (2) Support Set Augmentation (Bridging), where intermediate samples are generated to smooth the transition between visual and textual modalities; (3) Adaptive Distribution Rectification, where test feature statistics are aligned with the augmented support set to mitigate domain shifts; and (4) Multi-Scale RBF Kernels, where an ensemble of kernels is employed to capture complex feature geometries across diverse scales. Superior stability and accuracy are demonstrated through extensive experiments on 11 diverse benchmarks. A new state-of-the-art for one-shot adaptation is established by ReHARK, which achieves an average accuracy of 65.83%, significantly outperforming existing baselines. Code is available at https://github.com/Jahid12012021/ReHARK.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11542",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11542v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.056310"
+}

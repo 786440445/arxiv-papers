@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11841v1",
+  "title": "ReDimNet2: Scaling Speaker Verification via Time-Pooled Dimension Reshaping",
+  "authors": "Ivan Yakovlev, Anton Okhotnikov",
+  "summary": "arXiv:2603.11841v1 Announce Type: new \nAbstract: We present ReDimNet2, an improved neural network architecture for extracting utterance-level speaker representations that builds upon the ReDimNet dimension-reshaping framework. The key modification in ReDimNet2 is the introduction of pooling over the time dimension within the 1D processing pathway. This operation preserves the nature of the 1D feature space, since 1D features remain a reshaped version of 2D features regardless of temporal resolution, while enabling significantly more aggressive scaling of the channel dimension without proportional compute increase. We introduce a family of seven model configurations (B0-B6) ranging from 1.1M to 12.3M parameters and 0.33 to 13 GMACS. Experimental results on VoxCeleb1 benchmarks demonstrate that ReDimNet2 improves the Pareto front of computational cost versus accuracy at every scale point compared to ReDimNet, achieving 0.287% EER on Vox1-O with 12.3M parameters and 13 GMACS.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11841",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11841v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-13T20:43:32.911295"
+}

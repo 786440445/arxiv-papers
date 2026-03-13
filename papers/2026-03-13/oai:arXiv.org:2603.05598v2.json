@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.05598v2",
+  "title": "On the Value of Tokeniser Pretraining in Physics Foundation Models",
+  "authors": "Hadi Sotoudeh, Payel Mukhopadhyay, Ruben Ohana, Michael McCabe, Neil D. Lawrence, Shirley Ho, Miles Cranmer",
+  "summary": "arXiv:2603.05598v2 Announce Type: replace \nAbstract: We investigate the impact of tokeniser pretraining on the accuracy and efficiency of physics emulation. Modern high-resolution simulations produce vast volumes of data spanning diverse physical regimes and scales. Training foundation models to learn the dynamics underlying such data enables the modelling of complex multiphysics phenomena, especially in data-limited settings. The emerging class of physics foundation models typically aims to learn two tasks jointly: (i) extracting compact representations of high-resolution spatiotemporal data, and (ii) capturing governing physical dynamics. However, learning both tasks from scratch simultaneously can impede the effectiveness of either process. We show that pretraining the tokeniser with an autoencoding objective prior to training the dynamics model enhances computational efficiency for physics emulation. Notably, the magnitude of this benefit depends on domain alignment: pretraining on the same physical system as the emulation task yields the largest improvements, while pretraining on other systems provides moderate gains. In-domain pretraining reduces VRMSE by 64% after 10,500 training steps compared to training from scratch. To our knowledge, this is the first systematic investigation of tokeniser pretraining for physics foundation models. We further introduce flexible spatiotemporal compression operations that extend causal convolutions to support runtime-adjustable compression ratios, enabling efficient adaptation to diverse downstream tasks. Our findings provide practical guidance for training efficient physics emulators and highlight the importance of strategic pretraining data selection.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.05598",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.05598v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.905013"
+}

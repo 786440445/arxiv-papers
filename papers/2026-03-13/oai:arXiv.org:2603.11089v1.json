@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11089v1",
+  "title": "V2A-DPO: Omni-Preference Optimization for Video-to-Audio Generation",
+  "authors": "Nolan Chan, Timmy Gang, Yongqian Wang, Yuzhe Liang, Dingdong Wang",
+  "summary": "arXiv:2603.11089v1 Announce Type: new \nAbstract: This paper introduces V2A-DPO, a novel Direct Preference Optimization (DPO) framework tailored for flow-based video-to-audio generation (V2A) models, incorporating key adaptations to effectively align generated audio with human preferences. Our approach incorporates three core innovations: (1) AudioScore-a comprehensive human preference-aligned scoring system for assessing semantic consistency, temporal alignment, and perceptual quality of synthesized audio; (2) an automated AudioScore-driven pipeline for generating large-scale preference pair data for DPO optimization; (3) a curriculum learning-empowered DPO optimization strategy specifically tailored for flow-based generative models. Experiments on benchmark VGGSound dataset demonstrate that human-preference aligned Frieren and MMAudio using V2A-DPO outperform their counterparts optimized using Denoising Diffusion Policy Optimization (DDPO) as well as pre-trained baselines. Furthermore, our DPO-optimized MMAudio achieves state-of-the-art performance across multiple metrics, surpassing published V2A models.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11089",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11089v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280486"
+}

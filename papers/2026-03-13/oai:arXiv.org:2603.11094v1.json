@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11094v1",
+  "title": "Fingerprinting Concepts in Data Streams with Supervised and Unsupervised Meta-Information",
+  "authors": "Ben Halstead, Yun Sing Koh, Patricia Riddle, Mykola Pechenizkiy, Albert Bifet, Russel Pears",
+  "summary": "arXiv:2603.11094v1 Announce Type: new \nAbstract: Streaming sources of data are becoming more common as the ability to collect data in real-time grows. A major concern in dealing with data streams is concept drift, a change in the distribution of data over time, for example, due to changes in environmental conditions. Representing concepts (stationary periods featuring similar behaviour) is a key idea in adapting to concept drift. By testing the similarity of a concept representation to a window of observations, we can detect concept drift to a new or previously seen recurring concept. Concept representations are constructed using meta-information features, values describing aspects of concept behaviour. We find that previously proposed concept representations rely on small numbers of meta-information features. These representations often cannot distinguish concepts, leaving systems vulnerable to concept drift. We propose FiCSUM, a general framework to represent both supervised and unsupervised behaviours of a concept in a fingerprint, a vector of many distinct meta-information features able to uniquely identify more concepts. Our dynamic weighting strategy learns which meta-information features describe concept drift in a given dataset, allowing a diverse set of meta-information features to be used at once. FiCSUM outperforms state-of-the-art methods over a range of 11 real world and synthetic datasets in both accuracy and modeling underlying concept drift.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11094",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11094v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.903674"
+}

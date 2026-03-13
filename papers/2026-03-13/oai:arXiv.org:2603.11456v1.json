@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11456v1",
+  "title": "UniHetCO: A Unified Heterogeneous Representation for Multi-Problem Learning in Unsupervised Neural Combinatorial Optimization",
+  "authors": "Kien X. Nguyen, Ilya Safro",
+  "summary": "arXiv:2603.11456v1 Announce Type: new \nAbstract: Unsupervised neural combinatorial optimization (NCO) offers an appealing alternative to supervised approaches by training learning-based solvers without ground-truth solutions, directly minimizing instance objectives and constraint violations. Yet for graph node subset-selection problems (e.g., Maximum Clique and Maximum Independent Set), existing unsupervised methods are typically specialized to a single problem class and rely on problem-specific surrogate losses, which hinders learning across classes within a unified framework. In this work, we propose UniHetCO, a unified heterogeneous graph representation for constrained quadratic programming-based combinatorial optimization that encodes problem structure, objective terms, and linear constraints in a single input. This formulation enables training a single model across multiple problem classes with a unified label-free objective. To improve stability under multi-problem learning, we employ a gradient-norm-based dynamic weighting scheme that alleviates gradient imbalance among classes. Experiments on multiple datasets and four constrained problem classes demonstrate competitive performance with state-of-the-art unsupervised NCO baselines, strong cross-problem adaptation potential, and effective warm starts for a commercial classical solver under tight time limits.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11456",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11456v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.903941"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11409v1",
+  "title": "Speak or Stay Silent: Context-Aware Turn-Taking in Multi-Party Dialogue",
+  "authors": "Kratika Bhagtani, Mrinal Anand, Yu Chen Xu, Amit Kumar Singh Yadav",
+  "summary": "arXiv:2603.11409v1 Announce Type: new \nAbstract: Existing voice AI assistants treat every detected pause as an invitation to speak. This works in dyadic dialogue, but in multi-party settings, where an AI assistant participates alongside multiple speakers, pauses are abundant and ambiguous. An assistant that speaks on every pause becomes disruptive rather than useful. In this work, we formulate context-aware turn-taking: at every detected pause, given the full conversation context, our method decides whether the assistant should speak or stay silent. We introduce a benchmark of over 120K labeled conversations spanning three multi-party corpora. Evaluating eight recent large language models, we find that they consistently fail at context-aware turn-taking under zero-shot prompting. We then propose a supervised fine-tuning approach with reasoning traces, improving balanced accuracy by up to 23 percentage points. Our findings suggest that context-aware turn-taking is not an emergent capability; it must be explicitly trained.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11409",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11409v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.055615"
+}

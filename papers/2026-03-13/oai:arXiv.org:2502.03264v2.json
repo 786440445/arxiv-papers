@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2502.03264v2",
+  "title": "GTM: A General Time-series Model for Enhanced Representation Learning of Time-Series Data",
+  "authors": "Cheng He, Xu Huang, Gangwei Jiang, Zhaoyi Li, Defu Lian, Hong Xie, Enhong Chen, Xijie Liang, Zengrong Zheng, Patrick P. C. Lee",
+  "summary": "arXiv:2502.03264v2 Announce Type: replace \nAbstract: Despite recent progress in time-series foundation models, challenges persist in improving representation learning and adapting to diverse downstream tasks. We introduce a General Time-series Model (GTM), which advances representation learning via a novel frequency-domain attention mechanism that captures time-granularity-aware features, an aspect underexplored in prior research. We further propose a novel pre-training strategy that unifies reconstruction and autoregressive objectives through a hybrid masking mechanism. Our pre-training strategy, combined with 2D positional encoding and span shuffling, enhances the robustness and generalization of representations. GTM is established as the first generative-task-agnostic model for time-series analysis, enabling seamless adaptation to various generative tasks without any task-specific modifications. Extensive experiments demonstrate that GTM consistently outperforms SOTA models on various generative tasks and achieves strong classification results with minimal adaptation. Furthermore, GTM exhibits clear scaling behavior, with accuracy improving as model size and pre-training data increase.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2502.03264",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2502.03264v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904854"
+}

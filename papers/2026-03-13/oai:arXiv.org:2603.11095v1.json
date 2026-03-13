@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11095v1",
+  "title": "Multimodal Self-Attention Network with Temporal Alignment for Audio-Visual Emotion Recognition",
+  "authors": "Inyong Koo, yeeun Seong, Minseok Son, Jaehyuk Jang, Changick Kim",
+  "summary": "arXiv:2603.11095v1 Announce Type: cross \nAbstract: Audio-visual emotion recognition (AVER) methods typically fuse utterance-level features, and even frame-level attention models seldom address the frame-rate mismatch across modalities. In this paper, we propose a Transformer-based framework focusing on the temporal alignment of multimodal features. Our design employs a multimodal self-attention encoder that simultaneously captures intra- and inter-modal dependencies within a shared feature space. To address heterogeneous sampling rates, we incorporate Temporally-aligned Rotary Position Embeddings (TaRoPE), which implicitly synchronize audio and video tokens. Furthermore, we introduce a Cross-Temporal Matching (CTM) loss that enforces consistency among temporally proximate pairs, guiding the encoder toward better alignment. Experiments on CREMA-D and RAVDESS datasets demonstrate consistent improvements over recent baselines, suggesting that explicitly addressing frame-rate mismatch helps preserve temporal cues and enhances cross-modal fusion.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11095",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11095v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280574"
+}

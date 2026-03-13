@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11241v1",
+  "title": "Cough activity detection for automatic tuberculosis screening",
+  "authors": "Joshua Jansen van V\\\"uren, Devendra Singh Parihar, Daphne Naidoo, Kimsey Zajac, Willy Ssengooba, Grant Theron, Thomas Niesler",
+  "summary": "arXiv:2603.11241v1 Announce Type: cross \nAbstract: The automatic identification of cough segments in audio through the determination of start and end points is pivotal to building scalable screening tools in health technologies for pulmonary related diseases. We propose the application of two current pre-trained architectures to the task of cough activity detection. A dataset of recordings containing cough from patients symptomatic for tuberculosis (TB) who self-present at community-level care centres in South Africa and Uganda is employed. When automatic start and end points are determined using XLS-R, an average precision of 0.96 and an area under the receiver-operating characteristic of 0.99 are achieved for the test set. We show that best average precision is achieved by utilising only the first three layers of the network, which has the dual benefits of reduced computational and memory requirements, pivotal for smartphone-based applications. This XLS-R configuration is shown to outperform an audio spectrogram transformer (AST) as well as a logistic regression baseline by 9% and 27% absolute in test set average precision respectively. Furthermore, a downstream TB classification model trained using the coughs automatically isolated by XLS-R comfortably outperforms a model trained on the coughs isolated by AST, and is only narrowly outperformed by a classifier trained on the ground truth coughs. We conclude that the application of large pre-trained transformer models is an effective approach to identifying cough end-points and that the integration of such a model into a screening tool is feasible.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11241",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11241v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280594"
+}

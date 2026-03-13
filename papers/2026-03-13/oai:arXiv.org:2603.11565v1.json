@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11565v1",
+  "title": "CAETC: Causal Autoencoding and Treatment Conditioning for Counterfactual Estimation over Time",
+  "authors": "Nghia D. Nguyen, Pablo Robles-Granda, Lav R. Varshney",
+  "summary": "arXiv:2603.11565v1 Announce Type: new \nAbstract: Counterfactual estimation over time is important in various applications, such as personalized medicine. However, time-dependent confounding bias in observational data still poses a significant challenge in achieving accurate and efficient estimation. We introduce causal autoencoding and treatment conditioning (CAETC), a novel method for this problem. Built on adversarial representation learning, our method leverages an autoencoding architecture to learn a partially invertible and treatment-invariant representation, where the outcome prediction task is cast as applying a treatment-specific conditioning on the representation. Our design is independent of the underlying sequence model and can be applied to existing architectures such as long short-term memories (LSTMs) or temporal convolution networks (TCNs). We conduct extensive experiments on synthetic, semi-synthetic, and real-world data to demonstrate that CAETC yields significant improvement in counterfactual estimation over existing methods.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11565",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11565v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904028"
+}

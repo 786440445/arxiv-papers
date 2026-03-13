@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11601v1",
+  "title": "See, Symbolize, Act: Grounding VLMs with Spatial Representations for Better Gameplay",
+  "authors": "Ashish Baghel, Paras Chopra",
+  "summary": "arXiv:2603.11601v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) excel at describing visual scenes, yet struggle to translate perception into precise, grounded actions. We investigate whether providing VLMs with both the visual frame and the symbolic representation of the scene can improve their performance in interactive environments. We evaluate three state-of-the-art VLMs across Atari games, VizDoom, and AI2-THOR, comparing frame-only, frame with self-extracted symbols, frame with ground-truth symbols, and symbol-only pipelines. Our results indicate that all models benefit when the symbolic information is accurate. However, when VLMs extract symbols themselves, performance becomes dependent on model capability and scene complexity. We further investigate how accurately VLMs can extract symbolic information from visual inputs and how noise in these symbols affects decision-making and gameplay performance. Our findings reveal that symbolic grounding is beneficial in VLMs only when symbol extraction is reliable, and highlight perception quality as a central bottleneck for future VLM-based agents.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11601",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11601v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.055677"
+}

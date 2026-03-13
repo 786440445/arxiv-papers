@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11482v1",
+  "title": "AnimeScore: A Preference-Based Dataset and Framework for Evaluating Anime-Like Speech Style",
+  "authors": "Joonyong Park, Jerry Li",
+  "summary": "arXiv:2603.11482v1 Announce Type: new \nAbstract: Evaluating 'anime-like' voices currently relies on costly subjective judgments, yet no standardized objective metric exists. A key challenge is that anime-likeness, unlike naturalness, lacks a shared absolute scale, making conventional Mean Opinion Score (MOS) protocols unreliable. To address this gap, we propose AnimeScore, a preference-based framework for automatic anime-likeness evaluation via pairwise ranking. We collect 15,000 pairwise judgments from 187 evaluators with free-form descriptions, and acoustic analysis reveals that perceived anime-likeness is driven by controlled resonance shaping, prosodic continuity, and deliberate articulation rather than simple heuristics such as high pitch. We show that handcrafted acoustic features reach a 69.3% AUC ceiling, while SSL-based ranking models achieve up to 90.8% AUC, providing a practical metric that can also serve as a reward signal for preference-based optimization of generative speech models.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11482",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11482v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280536"
+}

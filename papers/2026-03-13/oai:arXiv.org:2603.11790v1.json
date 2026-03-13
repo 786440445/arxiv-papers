@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11790v1",
+  "title": "Disentangled Representation Learning through Unsupervised Symmetry Group Discovery",
+  "authors": "Dang-Nhu Barth\\'el\\'emy, Annabi Louis, Argentieri Sylvain",
+  "summary": "arXiv:2603.11790v1 Announce Type: new \nAbstract: Symmetry-based disentangled representation learning leverages the group structure of environment transformations to uncover the latent factors of variation. Prior approaches to symmetry-based disentanglement have required strong prior knowledge of the symmetry group's structure, or restrictive assumptions about the subgroup properties. In this work, we remove these constraints by proposing a method whereby an embodied agent autonomously discovers the group structure of its action space through unsupervised interaction with the environment. We prove the identifiability of the true symmetry group decomposition under minimal assumptions, and derive two algorithms: one for discovering the group decomposition from interaction data, and another for learning Linear Symmetry-Based Disentangled (LSBD) representations without assuming specific subgroup properties. Our method is validated on three environments exhibiting different group decompositions, where it outperforms existing LSBD approaches.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11790",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11790v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904124"
+}

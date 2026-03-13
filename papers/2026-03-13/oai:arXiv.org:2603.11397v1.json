@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11397v1",
+  "title": "Edge-Cloud Collaborative Speech Emotion Captioning via Token-Level Speculative Decoding in Audio-Language Models",
+  "authors": "Xiangyuan Xue, Jiajun Lu, Yan Gao, Gongping Huang, Ting Dang, Hong Jia",
+  "summary": "arXiv:2603.11397v1 Announce Type: new \nAbstract: Speech Emotion Captioning (SEC) leverages large audio-language models to generate rich, context-aware affective descriptions from speech. However, real-world deployment remains challenging due to the substantial computational demands on resource-constrained edge devices and the privacy risks of transmitting biometric audio. While smaller audio-language models enable efficient on-device SEC, their limited capacity often weakens subtle paralinguistic modeling and fine-grained affective grounding. We propose an edge-cloud collaborative framework based on Uncertainty-Guided Speculative Decoding (UGSD). A lightweight edge model drafts captions locally, and only high-uncertainty token blocks are selectively escalated to a stronger cloud verifier for validation. Experiments on the MER2024 benchmark demonstrate substantial BLEU improvements up to 62.7%. UGSD further achieves 1.4x lower latency and 8.5x higher token throughput compared to an edge-only model. These results empirically characterize the quality-efficiency-privacy trade-off in deployable SEC systems.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11397",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11397v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280529"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2412.12213v2",
+  "title": "Finance-Informed Neural Network: Learning the Geometry of Option Pricing",
+  "authors": "Amine M. Aboussalah, Xuanze Li, Cheng Chi, Raj Patel",
+  "summary": "arXiv:2412.12213v2 Announce Type: replace \nAbstract: We propose a Finance-Informed Neural Network (FINN) for option pricing and hedging that integrates financial theory directly into machine learning. Instead of training on observed option prices, FINN is learned through a self-supervised replication objective based on dynamic hedging, ensuring economic consistency by construction. We show theoretically that minimizing replication error recovers the arbitrage-free pricing operator and yields economically meaningful sensitivities. Empirically, FINN accurately recovers classical Black--Scholes prices and performs robustly in stochastic volatility environments, including the Heston model, while remaining stable in settings where analytical solutions are unavailable or unreliable. Fundamental pricing relationships such as put--call parity emerge endogenously. When applied to implied-volatility surface reconstruction, FINN produces surfaces that are consistently closer to observed market-implied volatilities than those obtained from Heston calibrations, indicating superior out-of-sample adaptability and reduced structural bias. Importantly, FINN extends beyond liquid option markets: it can be trained directly on historical spot prices to construct coherent option prices and Greeks for assets with no listed options. More broadly, FINN defines a new paradigm for financial pricing, in which prices are learned from replication and risk-control principles rather than inferred from parametric assumptions or direct supervision on option prices. By reframing option pricing as the learning of a pricing operator rather than the fitting of prices, FINN offers practitioners a practical and scalable tool for pricing, hedging, and risk management across both established and emerging financial markets.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2412.12213",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2412.12213v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904833"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11472v1",
+  "title": "HawkesRank: Event-Driven Centrality for Real-Time Importance Ranking",
+  "authors": "Didier Sornette, Yishan Luo, Sandro Claudio Lera",
+  "summary": "arXiv:2603.11472v1 Announce Type: cross \nAbstract: Quantifying influence in networks is important across science, economics, and public health, yet widely used centrality measures remain limited: they rely on static representations, heuristic network constructions, and purely endogenous notions of importance, while offering little semantic connection to observable activity. We introduce HawkesRank, a dynamic framework grounded in multivariate Hawkes point processes that models exogenous drivers (intrinsic contributions) and endogenous amplification (self- and cross-excitation). This yields a principled, empirically calibrated, and adaptive importance measure. Classical indices such as Katz centrality and PageRank emerge as mean-field limits of the framework, clarifying both their validity and their limitations. Unlike static averages, HawkesRank measures importance through instantaneous event intensities, enabling prediction, transparent endo-exo decomposition, and adaptability to shocks. Using both simulations and empirical analysis of emotion dynamics in online communication platforms, we show that HawkesRank closely tracks system activity and consistently outperforms static centrality metrics.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11472",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11472v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904595"
+}

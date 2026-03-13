@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11847v1",
+  "title": "Reconstruction of the Vocal Tract from Speech via Phonetic Representations Using MRI Data",
+  "authors": "Sofiane Azzouz, Pierre-Andr\\'e Vuissoz, Yves Laprie",
+  "summary": "arXiv:2603.11847v1 Announce Type: new \nAbstract: Articulatory acoustic inversion aims to reconstruct the complete geometry of the vocal tract from the speech signal. In this paper, we present a comparative study of several levels of phonetic segmentation accuracy, together with a comparison to the baseline introduced in our previous work, which is based on Mel-Frequency Cepstral Coefficients (MFCCs). All the approaches considered are based on a denoised speech signal and aim to investigate the impact of incorporating phonetic information through three successive levels: an uncorrected automatic transcription, a temporally aligned phonetic segmentation, and an expert manual correction following alignment. The models are trained to predict articulatory contours extracted from vocal tract MRI images using an automatic contour tracking method. The results show that, among the models relying on phonetic representations, manual correction after alignment yields the best performance, approaching that of the baseline.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11847",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11847v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-13T20:43:32.911308"
+}

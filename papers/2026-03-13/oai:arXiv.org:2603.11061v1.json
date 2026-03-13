@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11061v1",
+  "title": "Hybrid Quantum-Classical Encoding for Accurate Residue-Level pKa Prediction",
+  "authors": "Van Le, Tan Le",
+  "summary": "arXiv:2603.11061v1 Announce Type: cross \nAbstract: Accurate prediction of residue-level pKa values is essential for understanding protein function, stability, and reactivity. While existing resources such as DeepKaDB and CpHMD-derived datasets provide valuable training data, their descriptors remain primarily classical and often struggle to generalize across diverse biochemical environments. We introduce a reproducible hybrid quantum-classical framework that enriches residue-level representations with a Gaussian kernel-based quantum-inspired feature mapping. These quantum-enhanced descriptors are combined with normalized structural features to form a unified hybrid encoding processed by a Deep Quantum Neural Network (DQNN). This architecture captures nonlinear relationships in residue microenvironments that are not accessible to classical models. Benchmarking across multiple curated descriptor sets demonstrates that the DQNN achieves improved cross-context generalization relative to classical baselines. External evaluation on the PKAD-R experimental benchmark and an A$\\beta$40 case study further highlights the robustness and transferability of the quantum-inspired representation. By integrating quantum-inspired feature transformations with classical biochemical descriptors, this work establishes a scalable and experimentally transferable approach for residue-level pKa prediction and broader applications in protein electrostatics.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11061",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11061v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.055972"
+}

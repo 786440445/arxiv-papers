@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.20823v2",
+  "title": "RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerlines",
+  "authors": "Roman Naeem, David Hagerman, Jennifer Alv\\'en, Fredrik Kahl",
+  "summary": "arXiv:2511.20823v2 Announce Type: replace-cross \nAbstract: Tubular tree structures such as blood vessels and lung airways are central to many clinical tasks, including diagnosis, treatment planning, and surgical navigation. Accurate centerline extraction with correct topology is essential, as missing small branches can lead to incomplete assessments or overlooked abnormalities. We propose RefTr, a 3D image-to-graph framework that generates vascular centerlines via recurrent refinement of confluent trajectories. RefTr adopts a Transformer-based Producer-Refiner architecture in which the Producer predicts candidate trajectories and a shared Refiner iteratively refines them toward the target branches. The confluent trajectory representation enables whole-branch refinement while explicitly enforcing valid topology. This recurrent scheme improves precision and reduces decoder parameters by 2.4x compared to the state-of-the-art. We further introduce an efficient non-maximum suppression algorithm for spatial tree graphs to merge duplicate branches and extend evaluation metrics to be radius-aware for robust comparison. Experiments on multiple public datasets demonstrate stronger overall performance, faster inference, and substantially fewer parameters, highlighting the effectiveness of RefTr for 3D vascular tree analysis.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.20823",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.20823v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.905258"
+}

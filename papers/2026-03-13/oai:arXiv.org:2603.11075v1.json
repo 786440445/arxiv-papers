@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11075v1",
+  "title": "Unifying Logical and Physical Layout Representations via Heterogeneous Graphs for Circuit Congestion Prediction",
+  "authors": "Runbang Hu, Bo Fang, Bingzhe Li, Yuede Ji",
+  "summary": "arXiv:2603.11075v1 Announce Type: cross \nAbstract: As Very Large Scale Integration (VLSI) designs continue to scale in size and complexity, layout verification has become a central challenge in modern Electronic Design Automation (EDA) workflows. In practice, congestion can only be accurately identified after detailed routing, making traditional verification both time-consuming and costly. Learning-based approaches have therefore been explored to enable early-stage congestion prediction and reduce routing iterations. However, although prior methods incorporate both netlist connectivity and layout features, they often model the two in a loosely coupled manner and primarily produce numerical congestion estimates. We propose VeriHGN, a verification framework built on an enhanced heterogeneous graph that unifies circuit components and spatial grids into a single relational representation, enabling more faithful modeling of the interaction between logical intent and physical realization. Experiments on industrial benchmarks, including ISPD2015, CircuitNet-N14, and CircuitNet-N28, demonstrate consistent improvements over state-of-the-art methods in prediction accuracy and correlation metrics.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11075",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11075v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.056006"
+}

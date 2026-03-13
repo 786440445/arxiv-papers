@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11468v1",
+  "title": "Stage-Adaptive Reliability Modeling for Continuous Valence-Arousal Estimation",
+  "authors": "Yubeen Lee, Sangeun Lee, Junyeop Cha, Eunil Park",
+  "summary": "arXiv:2603.11468v1 Announce Type: cross \nAbstract: Continuous valence-arousal estimation in real-world environments is challenging due to inconsistent modality reliability and interaction-dependent variability in audio-visual signals. Existing approaches primarily focus on modeling temporal dynamics, often overlooking the fact that modality reliability can vary substantially across interaction stages. To address this issue, we propose SAGE, a Stage-Adaptive reliability modeling framework that explicitly estimates and calibrates modality-wise confidence during multimodal integration. SAGE introduces a reliability-aware fusion mechanism that dynamically rebalances audio and visual representations according to their stage-dependent informativeness, preventing unreliable signals from dominating the prediction process. By separating reliability estimation from feature representation, the proposed framework enables more stable emotion estimation under cross-modal noise, occlusion, and varying interaction conditions. Extensive experiments on the Aff-Wild2 benchmark demonstrate that SAGE consistently improves concordance correlation coefficient scores compared with existing multimodal fusion approaches, highlighting the effectiveness of reliability-driven modeling for continuous affect prediction.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11468",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11468v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280600"
+}

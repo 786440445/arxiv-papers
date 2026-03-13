@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11360v1",
+  "title": "Fair-Gate: Fairness-Aware Interpretable Risk Gating for Sex-Fair Voice Biometrics",
+  "authors": "Yangyang Qu, Todisco Massimiliano, Galdi Chiara, Evans Nicholas",
+  "summary": "arXiv:2603.11360v1 Announce Type: new \nAbstract: Voice biometric systems can exhibit sex-related performance gaps even when overall verification accuracy is strong. We attribute these gaps to two practical mechanisms: (i) demographic shortcut learning, where speaker classification training exploits spurious correlations between sex and speaker identity, and (ii) feature entanglement, where sex-linked acoustic variation overlaps with identity cues and cannot be removed without degrading speaker discrimination. We propose Fair-Gate, a fairness-aware and interpretable risk-gating framework that addresses both mechanisms in a single pipeline. Fair-Gate applies risk extrapolation to reduce variation in speaker-classification risk across proxy sex groups, and introduces a local complementary gate that routes intermediate features into an identity branch and a sex branch. The gate provides interpretability by producing an explicit routing mask that can be inspected to understand which features are allocated to identity versus sex-related pathways. Experiments on VoxCeleb1 show that Fair-Gate improves the utility--fairness trade-off, yielding more sex-fair ASV performance under challenging evaluation conditions.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11360",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11360v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280515"
+}

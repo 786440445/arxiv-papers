@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11907v1",
+  "title": "Causal Representation Learning with Optimal Compression under Complex Treatments",
+  "authors": "Wanting Liang, Haoang Chi, Zhiheng Zhang",
+  "summary": "arXiv:2603.11907v1 Announce Type: new \nAbstract: Estimating Individual Treatment Effects (ITE) in multi-treatment scenarios faces two critical challenges: the Hyperparameter Selection Dilemma for balancing weights and the Curse of Dimensionality in computational scalability. This paper derives a novel multi-treatment generalization bound and proposes a theoretical estimator for the optimal balancing weight $\\alpha$, eliminating expensive heuristic tuning. We investigate three balancing strategies: Pairwise, One-vs-All (OVA), and Treatment Aggregation. While OVA achieves superior precision in low-dimensional settings, our proposed Treatment Aggregation ensures both accuracy and O(1) scalability as the treatment space expands. Furthermore, we extend our framework to a generative architecture, Multi-Treatment CausalEGM, which preserves the Wasserstein geodesic structure of the treatment manifold. Experiments on semi-synthetic and image datasets demonstrate that our approach significantly outperforms traditional models in estimation accuracy and efficiency, particularly in large-scale intervention scenarios.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11907",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11907v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904165"
+}

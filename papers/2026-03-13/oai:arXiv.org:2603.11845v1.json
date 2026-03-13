@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11845v1",
+  "title": "Acoustic-to-Articulatory Inversion of Clean Speech Using an MRI-Trained Model",
+  "authors": "Sofiane Azzouz, Pierre-Andr\\'e Vuissoz, Yves Laprie",
+  "summary": "arXiv:2603.11845v1 Announce Type: new \nAbstract: Articulatory acoustic inversion reconstructs vocal tract shapes from speech. Real-time magnetic resonance imaging (rt-MRI) allows simultaneous acquisition of both the acoustic speech signal and articulatory information. Besides the complexity of rt-MRI acquisition, the recorded audio is heavily corrupted by scanner noise and requires denoising to be usable. For practical use, it must be possible to invert speech recorded without MRI noise. In this study, we investigate the use of speech recorded in a clean acoustic environment as an alternative to denoised MRI speech. To this end we compare two signals from the same speaker with identical sentences which are aligned using phonetic segmentation. A model trained on denoised MRI speech is evaluated on both denoised MRI and clean speech. We also assess a model trained and tested only on clean speech. Results show that clean speech supports articulatory inversion effectively, achieving an RMSE of 1.56 mm, close to MRI-based performance.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11845",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11845v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-13T20:43:32.911302"
+}

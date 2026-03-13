@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11678v1",
+  "title": "RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis",
+  "authors": "Yongjoon Lee, Jung-Woo Choi",
+  "summary": "arXiv:2603.11678v1 Announce Type: cross \nAbstract: We propose Relativistic Adversarial Feedback (RAF), a novel training objective for GAN vocoders that improves in-domain fidelity and generalization to unseen scenarios. Although modern GAN vocoders employ advanced architectures, their training objectives often fail to promote generalizable representations. RAF addresses this problem by leveraging speech self-supervised learning models to assist discriminators in evaluating sample quality, encouraging the generator to learn richer representations. Furthermore, we utilize relativistic pairing for real and fake waveforms to improve the modeling of the training data distribution. Experiments across multiple datasets show consistent gains in both objective and subjective metrics on GAN-based vocoders. Importantly, the RAF-trained BigVGAN-base outperforms the LSGAN-trained BigVGAN in perceptual quality using only 12\\% of the parameters. Comparative studies further confirm the effectiveness of RAF as a training framework for GAN vocoders.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11678",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11678v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280623"
+}

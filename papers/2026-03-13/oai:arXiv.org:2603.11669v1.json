@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11669v1",
+  "title": "SEMamba++: A General Speech Restoration Framework Leveraging Global, Local, and Periodic Spectral Patterns",
+  "authors": "Yongjoon Lee, Jung-Woo Choi",
+  "summary": "arXiv:2603.11669v1 Announce Type: cross \nAbstract: General speech restoration demands techniques that can interpret complex speech structures under various distortions. While State-Space Models like SEMamba have advanced the state-of-the-art in speech denoising, they are not inherently optimized for critical speech characteristics, such as spectral periodicity or multi-resolution frequency analysis. In this work, we introduce an architecture tailored to incorporate speech-specific features as inductive biases. In particular, we propose Frequency GLP, a frequency feature extraction block that effectively and efficiently leverages the properties of frequency bins. Then, we design a multi-resolution parallel time-frequency dual-processing block to capture diverse spectral patterns, and a learnable mapping to further enhance model performance. With all our ideas combined, the proposed SEMamba++ achieves the best performance among multiple baseline models while remaining computationally efficient.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11669",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11669v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280613"
+}

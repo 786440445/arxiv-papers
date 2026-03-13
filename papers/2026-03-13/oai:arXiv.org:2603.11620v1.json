@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11620v1",
+  "title": "Personalized Federated Learning via Gaussian Generative Modeling",
+  "authors": "Peng Hu, Jianwei Ma",
+  "summary": "arXiv:2603.11620v1 Announce Type: new \nAbstract: Federated learning has emerged as a paradigm to train models collaboratively on inherently distributed client data while safeguarding privacy. In this context, personalized federated learning tackles the challenge of data heterogeneity by equipping each client with a dedicated model. A prevalent strategy decouples the model into a shared feature extractor and a personalized classifier head, where the latter actively guides the representation learning. However, previous works have focused on classifier head-guided personalization, neglecting the potential personalized characteristics in the representation distribution. Building on this insight, we propose pFedGM, a method based on Gaussian generative modeling. The approach begins by training a Gaussian generator that models client heterogeneity via weighted re-sampling. A balance between global collaboration and personalization is then struck by employing a dual objective: a shared objective that maximizes inter-class distance across clients, and a local objective that minimizes intra-class distance within them. To achieve this, we decouple the conventional Gaussian classifier into a navigator for global optimization, and a statistic extractor for capturing distributional statistics. Inspired by the Kalman gain, the algorithm then employs a dual-scale fusion framework at global and local levels to equip each client with a personalized classifier head. In this framework, we model the global representation distribution as a prior and the client-specific data as the likelihood, enabling Bayesian inference for class probability estimation. The evaluation covers a comprehensive range of scenarios: heterogeneity in class counts, environmental corruption, and multiple benchmark datasets and configurations. pFedGM achieves superior or competitive performance compared to state-of-the-art methods.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11620",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11620v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-13T20:43:33.904063"
+}

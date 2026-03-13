@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.18899v2",
+  "title": "[b]=[d]-[t]+[p]: Self-supervised Speech Models Discover Phonological Vector Arithmetic",
+  "authors": "Kwanghee Choi, Eunjung Yeo, Cheol Jun Cho, David Harwath, David R. Mortensen",
+  "summary": "arXiv:2602.18899v2 Announce Type: replace-cross \nAbstract: Self-supervised speech models (S3Ms) are known to encode rich phonetic information, yet how this information is structured remains underexplored. We conduct a comprehensive study across 96 languages to analyze the underlying structure of S3M representations, with particular attention to phonological vectors. We first show that there exist linear directions within the model's representation space that correspond to phonological features. We further demonstrate that the scale of these phonological vectors correlate to the degree of acoustic realization of their corresponding phonological features in a continuous manner. For example, the difference between [d] and [t] yields a voicing vector: adding this vector to [p] produces [b], while scaling it results in a continuum of voicing. Together, these findings indicate that S3Ms encode speech using phonologically interpretable and compositional vectors, demonstrating phonological vector arithmetic. All code and interactive demos are available at https://github.com/juice500ml/phonetic-arithmetic .",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.18899",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.18899v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280674"
+}

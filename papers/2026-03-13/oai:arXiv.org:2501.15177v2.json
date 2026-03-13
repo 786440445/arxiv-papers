@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2501.15177v2",
+  "title": "Audio-Language Models for Audio-Centric Tasks: A Systematic Survey",
+  "authors": "Yi Su, Jisheng Bai, Qisheng Xu, Kele Xu, Yong Dou",
+  "summary": "arXiv:2501.15177v2 Announce Type: replace \nAbstract: Audio-Language Models (ALMs), trained on paired audio-text data, are designed to process, understand, and reason about audio-centric multimodal content. Unlike traditional supervised approaches that use predefined labels, ALMs leverage natural language supervision to better handle complex real-world audio scenes with multiple overlapping events. While demonstrating impressive zero-shot and task generalization capabilities, there is still a notable lack of systematic surveys that comprehensively organize and analyze developments. In this paper, we present the first systematic review of ALMs with three main contributions: (1) comprehensive coverage of ALM works across speech, music, and sound from a general audio perspective; (2) a unified taxonomy of ALM foundations, including model architectures and training objectives; (3) establishment of a research landscape capturing mutual promotion and constraints among different research aspects, aiding in summarizing evaluations, limitations, concerns and promising directions. Our review contributes to helping researchers understand the development of existing technologies and future trends, while also providing valuable references for implementation in practical applications.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2501.15177",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2501.15177v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-13T20:43:32.280642"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11783v1",
+  "title": "HELM: Hierarchical and Explicit Label Modeling with Graph Learning for Multi-Label Image Classification",
+  "authors": "Marjan Stoimchev, Boshko Koloski, Jurica Levati\\'c, Dragi Kocev, Sa\\v{s}o D\\v{z}eroski",
+  "summary": "arXiv:2603.11783v1 Announce Type: cross \nAbstract: Hierarchical multi-label classification (HMLC) is essential for modeling complex label dependencies in remote sensing. Existing methods, however, struggle with multi-path hierarchies where instances belong to multiple branches, and they rarely exploit unlabeled data. We introduce HELM (\\textit{Hierarchical and Explicit Label Modeling}), a novel framework that overcomes these limitations. HELM: (i) uses hierarchy-specific class tokens within a Vision Transformer to capture nuanced label interactions; (ii) employs graph convolutional networks to explicitly encode the hierarchical structure and generate hierarchy-aware embeddings; and (iii) integrates a self-supervised branch to effectively leverage unlabeled imagery. We perform a comprehensive evaluation on four remote sensing image (RSI) datasets (UCM, AID, DFC-15, MLRSNet). HELM achieves state-of-the-art performance, consistently outperforming strong baselines in both supervised and semi-supervised settings, demonstrating particular strength in low-label scenarios.",
+  "published": "Fri, 13 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11783",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11783v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-13T20:43:35.056466"
+}

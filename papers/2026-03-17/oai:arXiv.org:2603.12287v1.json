@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12287v1",
+  "title": "Context-Enriched Natural Language Descriptions of Vessel Trajectories",
+  "authors": "Kostas Patroumpas, Alexandros Troupiotis-Kapeliaris, Giannis Spiliopoulos, Panagiotis Betchavas, Dimitrios Skoutas, Dimitris Zissis, Nikos Bikakis",
+  "summary": "arXiv:2603.12287v1 Announce Type: new \nAbstract: We address the problem of transforming raw vessel trajectory data collected from AIS into structured and semantically enriched representations interpretable by humans and directly usable by machine reasoning systems. We propose a context-aware trajectory abstraction framework that segments noisy AIS sequences into distinct trips each consisting of clean, mobility-annotated episodes. Each episode is further enriched with multi-source contextual information, such as nearby geographic entities, offshore navigation features, and weather conditions. Crucially, such representations can support generation of controlled natural language descriptions using LLMs. We empirically examine the quality of such descriptions generated using several LLMs over AIS data along with open contextual features. By increasing semantic density and reducing spatiotemporal complexity, this abstraction can facilitate downstream analytics and enable integration with LLMs for higher-level maritime reasoning tasks.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12287",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12287v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004012"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12459v1",
+  "title": "Bases of Steerable Kernels for Equivariant CNNs: From 2D Rotations to the Lorentz Group",
+  "authors": "Alan Garbarz",
+  "summary": "arXiv:2603.12459v1 Announce Type: new \nAbstract: We present an alternative way of solving the steerable kernel constraint that appears in the design of steerable equivariant convolutional neural networks. We find explicit real and complex bases which are ready to use, for different symmetry groups and for feature maps of arbitrary tensor type. A major advantage of this method is that it bypasses the need to numerically or analytically compute Clebsch-Gordan coefficients and works directly with the representations of the input and output feature maps. The strategy is to find a basis of kernels that respect a simpler invariance condition at some point $x_0$, and then \\textit{steer} it with the defining equation of steerability to move to some arbitrary point $x=g\\cdot x_0$. This idea has already been mentioned in the literature before, but not advanced in depth and with some generality. Here we describe how it works with minimal technical tools to make it accessible for a general audience.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12459",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12459v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369876"
+}

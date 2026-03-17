@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12350v1",
+  "title": "TASTE-Streaming: Towards Streamable Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling",
+  "authors": "Liang-Hsuan Tseng, Hung-yi Lee",
+  "summary": "arXiv:2603.12350v1 Announce Type: cross \nAbstract: Text-speech joint spoken language modeling (SLM) aims at natural and intelligent speech-based interactions, but developing such a system may suffer from modality mismatch: speech unit sequences are much longer than text tokens. Prior work reduces this gap with text-aligned tokenization and embedding (TASTE), producing speech tokens that align in lengths with their textual counterparts. However, the dependence on an external ASR system and the use of a non-causal decoder limits streaming use. To address this limitation, we propose TASTE-S, a streamable extension of TASTE suitable for real-time usage. TASTE-S integrates a CTC-based ASR module into the encoder for instant dual-modality encoding. We also redesign the unit decoder to enable on-the-fly decoding. With joint training, we show that TASTE-S matches TASTE's performance while significantly reducing latency. Further investigations reveal that TASTE-S remains robust to transcriptions and enables long-form encoding and decoding.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12350",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12350v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954070"
+}

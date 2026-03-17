@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12606v1",
+  "title": "Mastering Negation: Boosting Grounding Models via Grouped Opposition-Based Learning",
+  "authors": "Zesheng Yang, Xi Jiang, Bingzhang Hu, Weili Guan, Runmin Cong, Guo-Jun Qi, Feng Zheng",
+  "summary": "arXiv:2603.12606v1 Announce Type: cross \nAbstract: Current vision-language detection and grounding models predominantly focus on prompts with positive semantics and often struggle to accurately interpret and ground complex expressions containing negative semantics. A key reason for this limitation is the lack of high-quality training data that explicitly captures discriminative negative samples and negation-aware language descriptions.\n  To address this challenge, we introduce D-Negation, a new dataset that provides objects annotated with both positive and negative semantic descriptions. Building upon the observation that negation reasoning frequently appears in natural language, we further propose a grouped opposition-based learning framework that learns negation-aware representations from limited samples. Specifically, our method organizes opposing semantic descriptions from D-Negation into structured groups and formulates two complementary loss functions that encourage the model to reason about negation and semantic qualifiers.\n  We integrate the proposed dataset and learning strategy into a state-of-the-art language-based grounding model. By fine-tuning fewer than 10 percent of the model parameters, our approach achieves improvements of up to 4.4 mAP and 5.7 mAP on positive and negative semantic evaluations, respectively. These results demonstrate that explicitly modeling negation semantics can substantially enhance the robustness and localization accuracy of vision-language grounding models.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12606",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12606v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004333"
+}

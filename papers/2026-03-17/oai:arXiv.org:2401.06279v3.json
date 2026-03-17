@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2401.06279v3",
+  "title": "Sampling and Uniqueness Sets in Graphon Signal Processing",
+  "authors": "Alejandro Parada-Mayorga, Alejandro Ribeiro",
+  "summary": "arXiv:2401.06279v3 Announce Type: replace \nAbstract: In this work, we study the properties of sampling sets on families of large graphs by leveraging the theory of graphons and graph limits. To this end, we extend to graphon signals the notion of removable and uniqueness sets, which was developed originally for the analysis of signals on graphs. We state the formal definition of a $\\Lambda-$removable set and conditions under which a bandlimited graphon signal can be represented in a unique way when its samples are obtained from the complement of a given $\\Lambda-$removable set in the graphon. By leveraging such results we show that graphon representations of graphs and graph signals can be used as a common framework to compare sampling sets between graphs with different numbers of nodes and edges, and different node labelings. Additionally, given a sequence of graphs that converges to a graphon, we show that the sequences of sampling sets whose graphon representation is identical in $[0,1]$ are convergent as well. We exploit the convergence results to provide an algorithm that obtains approximately close to optimal sampling sets. Performing a set of numerical experiments, we evaluate the quality of these sampling sets. Our results open the door for the efficient computation of optimal sampling sets in graphs of large size.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2401.06279",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2401.06279v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370534"
+}

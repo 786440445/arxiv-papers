@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.15369v2",
+  "title": "OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation",
+  "authors": "Letian Zhang, Sucheng Ren, Yanqing Liu, Xianhang Li, Zeyu Wang, Yuyin Zhou, Huaxiu Yao, Zeyu Zheng, Weili Nie, Guilin Liu, Zhiding Yu, Cihang Xie",
+  "summary": "arXiv:2601.15369v2 Announce Type: replace-cross \nAbstract: This paper presents a family of advanced vision encoder, named OpenVision 3, that learns a single, unified visual representation that can serve both image understanding and image generation. Our core architecture is simple: we feed VAE-compressed image latents to a ViT encoder and train its output to support two complementary roles. First, the encoder output is passed to the ViT-VAE decoder to reconstruct the original image, encouraging the representation to capture generative structure. Second, the same representation is optimized with contrastive learning and image-captioning objectives, strengthening semantic features. By jointly optimizing reconstruction- and semantics-driven signals in a shared latent space, the encoder learns representations that synergize and generalize well across both regimes. We validate this unified design through extensive downstream evaluations with the encoder frozen. For generation, we test it under the RAE framework: ours substantially surpasses the standard CLIP-based encoder (e.g., gFID: 1.87 vs. 2.54 on ImageNet). For multimodal understanding, we plug the encoder into the LLaVA-1.5 and LLaVA-NeXT framework: it performs comparably with a standard CLIP vision encoder (e.g., 63.3 vs. 61.2 on SeedBench, and 59.2 vs. 58.1 on GQA). We provide empirical evidence that generation and understanding are mutually beneficial in our architecture, while further underscoring the critical role of the VAE latent space. We hope this work can spur future research on unified modeling.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.15369",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.15369v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.005053"
+}

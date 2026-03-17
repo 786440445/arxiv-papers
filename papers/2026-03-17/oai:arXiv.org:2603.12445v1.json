@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12445v1",
+  "title": "Unmasking Biases and Reliability Concerns in Convolutional Neural Networks Analysis of Cancer Pathology Images",
+  "authors": "Michael Okonoda, Eder Martinez, Abhilekha Dalal, Lior Shamir",
+  "summary": "arXiv:2603.12445v1 Announce Type: cross \nAbstract: Convolutional Neural Networks have shown promising effectiveness in identifying different types of cancer from radiographs. However, the opaque nature of CNNs makes it difficult to fully understand the way they operate, limiting their assessment to empirical evaluation. Here we study the soundness of the standard practices by which CNNs are evaluated for the purpose of cancer pathology. Thirteen highly used cancer benchmark datasets were analyzed, using four common CNN architectures and different types of cancer, such as melanoma, carcinoma, colorectal cancer, and lung cancer. We compared the accuracy of each model with that of datasets made of cropped segments from the background of the original images that do not contain clinically relevant content. Because the rendered datasets contain no clinical information, the null hypothesis is that the CNNs should provide mere chance-based accuracy when classifying these datasets. The results show that the CNN models provided high accuracy when using the cropped segments, sometimes as high as 93\\%, even though they lacked biomedical information. These results show that some CNN architectures are more sensitive to bias than others. The analysis shows that the common practices of machine learning evaluation might lead to unreliable results when applied to cancer pathology. These biases are very difficult to identify, and might mislead researchers as they use available benchmark datasets to test the efficacy of CNN methods.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12445",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12445v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370293"
+}

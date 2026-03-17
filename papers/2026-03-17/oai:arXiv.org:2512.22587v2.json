@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.22587v2",
+  "title": "Structural Incompatibility of Differentiable Sorting and Within-Vector Rank Normalization",
+  "authors": "Taeyun Kim",
+  "summary": "arXiv:2512.22587v2 Announce Type: replace \nAbstract: We show that differentiable sorting and ranking operators are structurally incompatible with within-vector rank normalization. We formalize admissibility through monotone invariance (C1), batch independence (C2), and a rank-space stability condition (C3). Gap-sensitive relaxations such as SoftSort violate (C1) by a quantitative margin that depends on the temperature and input scale. Batchwise rank relaxations such as SinkhornSort violate (C2): the same sample can be assigned outputs arbitrarily close to 0 or 1 depending solely on batch context. Condition (C3) implies (C1) under the rank representation used here and should not be read as a third independent failure mode. We also characterize the admissible class: any admissible operator must factor through the rank representation via a Lipschitz function.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.22587",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.22587v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370697"
+}

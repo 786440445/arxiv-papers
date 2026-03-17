@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.26471v2",
+  "title": "On Deepfake Voice Detection -- It's All in the Presentation",
+  "authors": "H\\'ector Delgado, Giorgio Ramondetti, Emanuele Dalmasso, Gennady Karvitsky, Daniele Colibro, Haydar Talib",
+  "summary": "arXiv:2509.26471v2 Announce Type: replace \nAbstract: While the technologies empowering malicious audio deepfakes have dramatically evolved in recent years due to generative AI advances, the same cannot be said of global research into spoofing (deepfake) countermeasures. This paper highlights how current deepfake datasets and research methodologies led to systems that failed to generalize to real world application. The main reason is due to the difference between raw deepfake audio, and deepfake audio that has been presented through a communication channel, e.g. by phone. We propose a new framework for data creation and research methodology, allowing for the development of spoofing countermeasures that would be more effective in real-world scenarios. By following the guidelines outlined here we improved deepfake detection accuracy by 39% in more robust and realistic lab setups, and by 57% on a real-world benchmark. We also demonstrate how improvement in datasets would have a bigger impact on deepfake detection accuracy than the choice of larger SOTA models would over smaller models; that is, it would be more important for the scientific community to make greater investment on comprehensive data collection programs than to simply train larger models with higher computational demands.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.26471",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.26471v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-17T11:00:17.151597"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.01112v3",
+  "title": "The causal structure of galactic astrophysics",
+  "authors": "Harry Desmond, Joseph Ramsey",
+  "summary": "arXiv:2510.01112v3 Announce Type: replace-cross \nAbstract: Data-driven astrophysics currently relies on the detection and characterisation of correlations between objects' properties, which are then used to test physical theories that make predictions for them. This process fails to utilise information in the data that forms a crucial part of the theories' predictions, namely which variables are directly correlated (as opposed to accidentally correlated through others), the directions of these determinations, and the presence or absence of confounders that correlate variables in the dataset but are themselves absent from it. We propose to recover this information through causal discovery, a well-developed methodology for inferring the causal structure of datasets that is however almost entirely unknown to astrophysics. We develop a causal discovery algorithm suitable for large astrophysical datasets and illustrate it on $\\sim$4.5$\\times10^5$ nearby galaxies from the Nasa Sloan Atlas, demonstrating its ability to distinguish physical mechanisms that are degenerate on the basis of correlations alone.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.01112",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.01112v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370895"
+}

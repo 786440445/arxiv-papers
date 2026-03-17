@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.00304v2",
+  "title": "Invariant Graph Transformer for Out-of-Distribution Generalization",
+  "authors": "Tianyin Liao, Ziwei Zhang, Yufei Sun, Chunyu Hu, Jianxin Li",
+  "summary": "arXiv:2508.00304v2 Announce Type: replace \nAbstract: Graph Transformers (GTs) have demonstrated great effectiveness across various graph analytical tasks. However, the existing GTs focus on training and testing graph data originated from the same distribution, but fail to generalize under distribution shifts. Graph invariant learning, aiming to capture generalizable graph structural patterns with labels under distribution shifts, is potentially a promising solution, but how to design attention mechanisms and positional and structural encodings (PSEs) based on graph invariant learning principles remains challenging. To solve these challenges, we introduce Graph Out-Of-Distribution generalized Transformer (GOODFormer), aiming to learn generalized graph representations by capturing invariant relationships between predictive graph structures and labels through jointly optimizing three modules. Specifically, we first develop a GT-based entropy-guided invariant subgraph disentangler to separate invariant and variant subgraphs while preserving the sharpness of the attention function. Next, we design an evolving subgraph positional and structural encoder to effectively and efficiently capture the encoding information of dynamically changing subgraphs during training. Finally, we propose an invariant learning module utilizing subgraph node representations and encodings to derive generalizable graph representations that can to unseen graphs. We also provide theoretical justifications for our method. Extensive experiments on benchmark datasets demonstrate the superiority of our method over state-of-the-art baselines under distribution shifts.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.00304",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.00304v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370603"
+}

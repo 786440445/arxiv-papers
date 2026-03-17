@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11545v2",
+  "title": "One Supervisor, Many Modalities: Adaptive Tool Orchestration for Autonomous Queries",
+  "authors": "Mayank Saini, Arit Kumar Bishwas",
+  "summary": "arXiv:2603.11545v2 Announce Type: replace-cross \nAbstract: We present an agentic AI framework for autonomous multimodal query processing that coordinates specialized tools across text, image, audio, video, and document modalities. A central Supervisor dynamically decomposes user queries, delegates subtasks to modality-appropriate tools (e.g., object detection, OCR, speech transcription), and synthesizes results through adaptive routing strategies rather than predetermined decision trees. For text-only queries, the framework uses learned routing via RouteLLM, while non-text paths use SLM-assisted modality decomposition. Evaluated on 2,847 queries across 15 task categories, our framework achieves 72% reduction in time-to-accurate-answer, 85% reduction in conversational rework, and 67% cost reduction compared to the matched hierarchical baseline while maintaining accuracy parity. These results demonstrate that intelligent centralized orchestration fundamentally improves multimodal AI deployment economics.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11545",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11545v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370979"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12684v1",
+  "title": "Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers",
+  "authors": "Yue Zhang, Chuanlong Qiu, Xinfa Liao, Yiqun Zhang",
+  "summary": "arXiv:2603.12684v1 Announce Type: new \nAbstract: Federated Clustering (FC) is an emerging and promising solution in exploring data distribution patterns from distributed and privacy-protected data in an unsupervised manner. Existing FC methods implicitly rely on the assumption that clients are with a known number of uniformly sized clusters. However, the true number of clusters is typically unknown, and cluster sizes are naturally imbalanced in real scenarios. Furthermore, the privacy-preserving transmission constraints in federated learning inevitably reduce usable information, making the development of robust and accurate FC extremely challenging. Accordingly, we propose a novel FC framework named Fed-$k^*$-HC, which can automatically determine an optimal number of clusters $k^*$ based on the data distribution explored through hierarchical clustering. To obtain the global data distribution for $k^*$ determination, we let each client generate micro-subclusters. Their prototypes are then uploaded to the server for hierarchical merging. The density-based merging design allows exploring clusters of varying sizes and shapes, and the progressive merging process can self-terminate according to the neighboring relationships among the prototypes to determine $k^*$. Extensive experiments on diverse datasets demonstrate the FC capability of the proposed Fed-$k^*$-HC in accurately exploring a proper number of clusters.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12684",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12684v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370035"
+}

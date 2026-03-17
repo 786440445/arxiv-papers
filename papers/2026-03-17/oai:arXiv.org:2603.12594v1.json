@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12594v1",
+  "title": "Maximizing Incremental Information Entropy for Contrastive Learning",
+  "authors": "Jiansong Zhang, Zhuoqin Yang, Xu Wu, Xiaoling Luo, Peizhong Liu, Linlin Shen",
+  "summary": "arXiv:2603.12594v1 Announce Type: new \nAbstract: Contrastive learning has achieved remarkable success in self-supervised representation learning, often guided by information-theoretic objectives such as mutual information maximization. Motivated by the limitations of static augmentations and rigid invariance constraints, we propose IE-CL (Incremental-Entropy Contrastive Learning), a framework that explicitly optimizes the entropy gain between augmented views while preserving semantic consistency. Our theoretical framework reframes the challenge by identifying the encoder as an information bottleneck and proposes a joint optimization of two components: a learnable transformation for entropy generation and an encoder regularizer for its preservation. Experiments on CIFAR-10/100, STL-10, and ImageNet demonstrate that IE-CL consistently improves performance under small-batch settings. Moreover, our core modules can be seamlessly integrated into existing frameworks. This work bridges theoretical principles and practice, offering a new perspective in contrastive learning.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12594",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12594v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369973"
+}

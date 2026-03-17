@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12278v1",
+  "title": "Predictive Analytics for Foot Ulcers Using Time-Series Temperature and Pressure Data",
+  "authors": "Md Tanvir Hasan Turja",
+  "summary": "arXiv:2603.12278v1 Announce Type: cross \nAbstract: Diabetic foot ulcers (DFUs) are a severe complication of diabetes, often resulting in significant morbidity. This paper presents a predictive analytics framework utilizing time-series data captured by wearable foot sensors -- specifically NTC thin-film thermocouples for temperature measurement and FlexiForce pressure sensors for plantar load monitoring. Data was collected from healthy subjects walking on an instrumented pathway. Unsupervised machine learning algorithms, Isolation Forest and K-Nearest Neighbors (KNN), were applied to detect anomalies that may indicate early ulcer risk. Through rigorous data preprocessing and targeted feature engineering, physiologic patterns were extracted to identify subtle changes in foot temperature and pressure. Results demonstrate Isolation Forest is sensitive to micro-anomalies, while KNN is effective in flagging extreme deviations, albeit at a higher false-positive rate. Strong correlations between temperature and pressure readings support combined sensor monitoring for improved predictive accuracy. These findings provide a basis for real-time diabetic foot health surveillance, aiming to facilitate earlier intervention and reduce DFU incidence.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12278",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12278v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370240"
+}

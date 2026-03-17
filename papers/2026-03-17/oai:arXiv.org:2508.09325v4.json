@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.09325v4",
+  "title": "SegDAC: Visual Generalization in Reinforcement Learning via Dynamic Object Tokens",
+  "authors": "Alexandre Brown, Glen Berseth",
+  "summary": "arXiv:2508.09325v4 Announce Type: replace-cross \nAbstract: Visual reinforcement learning policies trained on pixel observations often struggle to generalize when visual conditions change at test time. Object-centric representations are a promising alternative, but most approaches use fixed-size slot representations, require image reconstruction, or need auxiliary losses to learn object decompositions. As a result, it remains unclear how to learn RL policies directly from object-level inputs without these constraints. We propose SegDAC, a Segmentation-Driven Actor-Critic that operates on a variable-length set of object token embeddings. At each timestep, text-grounded segmentation produces object masks from which spatially aware token embeddings are extracted. A transformer-based actor-critic processes these dynamic tokens, using segment positional encoding to preserve spatial information across objects. We ablate these design choices and show that both segment positional encoding and variable-length processing are individually necessary for strong performance. We evaluate SegDAC on 8 ManiSkill3 manipulation tasks under 12 visual perturbation types across 3 difficulty levels. SegDAC improves over prior visual generalization methods by 15% on easy, 66% on medium, and 88% on the hardest settings. SegDAC matches the sample efficiency of the state-of-the-art visual RL methods while achieving improved generalization under visual changes. Project Page: https://segdac.github.io/",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.09325",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.09325v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370859"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.20133v3",
+  "title": "Token Distillation: Attention-aware Input Embeddings For New Tokens",
+  "authors": "Konstantin Dobler, Desmond Elliott, Gerard de Melo",
+  "summary": "arXiv:2505.20133v3 Announce Type: replace-cross \nAbstract: Current language models rely on static vocabularies determined at pretraining time, which can lead to decreased performance and increased computational cost for domains underrepresented in the original vocabulary. New tokens can be added to solve this problem, when coupled with a good initialization for their new embeddings. However, existing embedding initialization methods require expensive further training or pretraining of additional modules. In this paper, we propose Token Distillation and show that by distilling representations obtained using the original tokenization, we can quickly learn high-quality input embeddings for new tokens. Experimental results with a wide range of open-weight models show that Token Distillation outperforms even strong baselines.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.20133",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.20133v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370829"
+}

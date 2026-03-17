@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12557v1",
+  "title": "Lyapunov Stable Graph Neural Flow",
+  "authors": "Haoyu Chu, Xiaotong Chen, Wei Zhou, Wenjun Cui, Kai Zhao, Shikui Wei, Qiyu Kang",
+  "summary": "arXiv:2603.12557v1 Announce Type: new \nAbstract: Graph Neural Networks (GNNs) are highly vulnerable to adversarial perturbations in both topology and features, making the learning of robust representations a critical challenge. In this work, we bridge GNNs with control theory to introduce a novel defense framework grounded in integer- and fractional-order Lyapunov stability. Unlike conventional strategies that rely on resource-heavy adversarial training or data purification, our approach fundamentally constrains the underlying feature-update dynamics of the GNN. We propose an adaptive, learnable Lyapunov function paired with a novel projection mechanism that maps the network's state into a stable space, thereby offering theoretically provable stability guarantees. Notably, this mechanism is orthogonal to existing defenses, allowing for seamless integration with techniques like adversarial training to achieve cumulative robustness. Extensive experiments demonstrate that our Lyapunov-stable graph neural flows substantially outperform base neural flows and state-of-the-art baselines across standard benchmarks and various adversarial attack scenarios.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12557",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12557v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369958"
+}

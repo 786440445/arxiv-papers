@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12552v1",
+  "title": "Asymptotic and Finite-Time Guarantees for Langevin-Based Temperature Annealing in InfoNCE",
+  "authors": "Faris Chaudhry",
+  "summary": "arXiv:2603.12552v1 Announce Type: new \nAbstract: The InfoNCE loss in contrastive learning depends critically on a temperature parameter, yet its dynamics under fixed versus annealed schedules remain poorly understood. We provide a theoretical analysis by modeling embedding evolution under Langevin dynamics on a compact Riemannian manifold. Under mild smoothness and energy-barrier assumptions, we show that classical simulated annealing guarantees extend to this setting: slow logarithmic inverse-temperature schedules ensure convergence in probability to a set of globally optimal representations, while faster schedules risk becoming trapped in suboptimal minima. Our results establish a link between contrastive learning and simulated annealing, providing a principled basis for understanding and tuning temperature schedules.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12552",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12552v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369944"
+}

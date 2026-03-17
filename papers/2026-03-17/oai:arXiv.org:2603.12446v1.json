@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12446v1",
+  "title": "RadEar: A Self-Supervised RF Backscatter System for Voice Eavesdropping and Separation",
+  "authors": "Qijun Wang, Peihao Yan, Chunqi Qian, Huacheng Zeng",
+  "summary": "arXiv:2603.12446v1 Announce Type: cross \nAbstract: Eavesdropping on voice conversations presents a growing threat to personal privacy and information security. In this paper, we present RadEar, a novel RF backscatter-based system designed to enable covert voice eavesdropping through walls. RadEar consists of two key components: (i) a batteryless RF backscatter tag covertly deployed inside the target space, and (ii) an RF reader located outside the room that performs signal demodulation, voice separation, and denoising. The tag features a compact, dual-resonator design that achieves energy-efficient frequency modulation for continuous voice eavesdropping while mitigating self-interference by separating excitation and reflection frequencies. To overcome the challenges of weak signal reception and overlapping speech, the RF reader employs self-supervised learning models for voice separation and denoising, trained using a remix-based objective without requiring ground-truth labels. We fabricate and evaluate RadEar in real-world scenarios, demonstrating its ability to recover and separate human speech with high fidelity under practical constraints.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12446",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12446v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954076"
+}

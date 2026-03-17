@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.07664v2",
+  "title": "Ref-DGS: Reflective Dual Gaussian Splatting",
+  "authors": "Ningjing Fan, Yiqun Wang, Dongming Yan, Peter Wonka",
+  "summary": "arXiv:2603.07664v2 Announce Type: replace-cross \nAbstract: Reflective appearance, especially strong and typically near-field specular reflections, poses a fundamental challenge for accurate surface reconstruction and novel view synthesis. Existing Gaussian splatting methods either fail to model near-field specular reflections or rely on explicit ray tracing at substantial computational cost. We present Ref-DGS, a reflective dual Gaussian splatting framework that addresses this trade-off by decoupling surface reconstruction from specular reflection within an efficient rasterization-based pipeline. Ref-DGS introduces a dual Gaussian scene representation consisting of geometry Gaussians and complementary local reflection Gaussians that capture near-field specular interactions without explicit ray tracing, along with a global environment reflection field for modeling far-field specular reflections. To predict specular radiance, we further propose a lightweight, physically-aware adaptive mixing shader that fuses global and local reflection features. Experiments demonstrate that Ref-DGS achieves state-of-the-art performance on reflective scenes while training substantially faster than ray-based Gaussian methods.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.07664",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.07664v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.005160"
+}

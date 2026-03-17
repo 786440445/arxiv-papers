@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12722v1",
+  "title": "CognitionCapturerPro: Towards High-Fidelity Visual Decoding from EEG/MEG via Multi-modal Information and Asymmetric Alignment",
+  "authors": "Kaifan Zhang, Lihuo He, Junjie Ke, Yuqi Ji, Lukun Wu, Lizi Wang, Xinbo Gao",
+  "summary": "arXiv:2603.12722v1 Announce Type: cross \nAbstract: Visual stimuli reconstruction from EEG remains challenging due to fidelity loss and representation shift. We propose CognitionCapturerPro, an enhanced framework that integrates EEG with multi-modal priors (images, text, depth, and edges) via collaborative training. Our core contributions include an uncertainty-weighted similarity scoring mechanism to quantify modality-specific fidelity and a fusion encoder for integrating shared representations. By employing a simplified alignment module and a pre-trained diffusion model, our method significantly outperforms the original CognitionCapturer on the THINGS-EEG dataset, improving Top-1 and Top-5 retrieval accuracy by 25.9% and 10.6%, respectively. Code is available at: https://github.com/XiaoZhangYES/CognitionCapturerPro.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12722",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12722v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004450"
+}

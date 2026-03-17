@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12340v1",
+  "title": "Optimizing Task Completion Time Updates Using POMDPs",
+  "authors": "Duncan Eddy, Esen Yel, Emma Passmore, Niles Egan, Grayson Armour, Dylan M. Asmar, Mykel J. Kochenderfer",
+  "summary": "arXiv:2603.12340v1 Announce Type: cross \nAbstract: Managing announced task completion times is a fundamental control problem in project management. While extensive research exists on estimating task durations and task scheduling, the problem of when and how to update completion times communicated to stakeholders remains understudied. Organizations must balance announcement accuracy against the costs of frequent timeline updates, which can erode stakeholder trust and trigger costly replanning. Despite the prevalence of this problem, current approaches rely on static predictions or ad-hoc policies that fail to account for the sequential nature of announcement management. In this paper, we formulate the task announcement problem as a Partially Observable Markov Decision Process (POMDP) where the control policy must decide when to update announced completion times based on noisy observations of true task completion. Since most state variables (current time and previous announcements) are fully observable, we leverage the Mixed Observability MDP (MOMDP) framework to enable more efficient policy optimization. Our reward structure captures the dual costs of announcement errors and update frequency, enabling synthesis of optimal announcement control policies. Using off-the-shelf solvers, we generate policies that act as feedback controllers, adaptively managing announcements based on belief state evolution. Simulation results demonstrate significant improvements in both accuracy and announcement stability compared to baseline strategies, achieving up to 75\\% reduction in unnecessary updates while maintaining or improving prediction accuracy.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12340",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12340v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004184"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12837v1",
+  "title": "Mask2Flow-TSE: Two-Stage Target Speaker Extraction with Masking and Flow Matching",
+  "authors": "Junwon Moon, Hyunjin Choi, Hansol Park, Heeseung Kim, Kyuhong Shim",
+  "summary": "arXiv:2603.12837v1 Announce Type: new \nAbstract: Target speaker extraction (TSE) extracts the target speaker's voice from overlapping speech mixtures given a reference utterance. Existing approaches typically fall into two categories: discriminative and generative. Discriminative methods apply time-frequency masking for fast inference but often over-suppress the target signal, while generative methods synthesize high-quality speech at the cost of numerous iterative steps. We propose Mask2Flow-TSE, a two-stage framework combining the strengths of both paradigms. The first stage applies discriminative masking for coarse separation, and the second stage employs flow matching to refine the output toward target speech. Unlike generative approaches that synthesize speech from Gaussian noise, our method starts from the masked spectrogram, enabling high-quality reconstruction in a single inference step. Experiments show that Mask2Flow-TSE achieves comparable performance to existing generative TSE methods with approximately 85M parameters.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12837",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12837v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954053"
+}

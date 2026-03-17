@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12324v1",
+  "title": "Thermodynamics of Reinforcement Learning Curricula",
+  "authors": "Jacob Adamczyk, Juan Sebastian Rojas, Rahul V. Kulkarni",
+  "summary": "arXiv:2603.12324v1 Announce Type: new \nAbstract: Connections between statistical mechanics and machine learning have repeatedly proven fruitful, providing insight into optimization, generalization, and representation learning. In this work, we follow this tradition by leveraging results from non-equilibrium thermodynamics to formalize curriculum learning in reinforcement learning (RL). In particular, we propose a geometric framework for RL by interpreting reward parameters as coordinates on a task manifold. We show that, by minimizing the excess thermodynamic work, optimal curricula correspond to geodesics in this task space. As an application of this framework, we provide an algorithm, \"MEW\" (Minimum Excess Work), to derive a principled schedule for temperature annealing in maximum-entropy RL.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12324",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12324v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369828"
+}

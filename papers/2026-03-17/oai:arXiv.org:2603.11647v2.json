@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11647v2",
+  "title": "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation",
+  "authors": "Yaofeng Su, Yuming Li, Zeyue Xue, Jie Huang, Siming Fu, Haoran Li, Ying Li, Zezhong Qian, Haoyang Huang, Nan Duan",
+  "summary": "arXiv:2603.11647v2 Announce Type: replace-cross \nAbstract: Recent joint audio-visual diffusion models achieve remarkable generation quality but suffer from high latency due to their bidirectional attention dependencies, hindering real-time applications. We propose OmniForcing, the first framework to distill an offline, dual-stream bidirectional diffusion model into a high-fidelity streaming autoregressive generator. However, naively applying causal distillation to such dual-stream architectures triggers severe training instability, due to the extreme temporal asymmetry between modalities and the resulting token sparsity. We address the inherent information density gap by introducing an Asymmetric Block-Causal Alignment with a zero-truncation Global Prefix that prevents multi-modal synchronization drift. The gradient explosion caused by extreme audio token sparsity during the causal shift is further resolved through an Audio Sink Token mechanism equipped with an Identity RoPE constraint. Finally, a Joint Self-Forcing Distillation paradigm enables the model to dynamically self-correct cumulative cross-modal errors from exposure bias during long rollouts. Empowered by a modality-independent rolling KV-cache inference scheme, OmniForcing achieves state-of-the-art streaming generation at $\\sim$25 FPS on a single GPU, maintaining multi-modal synchronization and visual quality on par with the bidirectional teacher.\\textbf{Project Page:} \\href{https://omniforcing.com}{https://omniforcing.com}",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11647",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11647v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954110"
+}

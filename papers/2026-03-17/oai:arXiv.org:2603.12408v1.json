@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12408v1",
+  "title": "Beyond Motion Imitation: Is Human Motion Data Alone Sufficient to Explain Gait Control and Biomechanics?",
+  "authors": "Xinyi Liu, Jangwhan Ahn, Edgar Lobaton, Jennie Si, He Huang",
+  "summary": "arXiv:2603.12408v1 Announce Type: cross \nAbstract: With the growing interest in motion imitation learning (IL) for human biomechanics and wearable robotics, this study investigates how additional foot-ground interaction measures, used as reward terms, affect human gait kinematics and kinetics estimation within a reinforcement learning-based IL framework. Results indicate that accurate reproduction of forward kinematics alone does not ensure biomechanically plausible joint kinetics. Adding foot-ground contacts and contact forces to the IL reward terms enables the prediction of joint moments in forward walking simulation, which are significantly closer to those computed by inverse dynamics. This finding highlights a fundamental limitation of motion-only IL approaches, which may prioritize kinematics matching over physical consistency. Incorporating kinetic constraints, particularly ground reaction force and center of pressure information, significantly enhances the realism of internal and external kinetics. These findings suggest that, when imitation learning is applied to human-related research domains such as biomechanics and wearable robot co-design, kinetics-based reward shaping is necessary to achieve physically consistent gait representations.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12408",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12408v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370279"
+}

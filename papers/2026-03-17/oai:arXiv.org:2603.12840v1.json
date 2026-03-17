@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12840v1",
+  "title": "DAST: A Dual-Stream Voice Anonymization Attacker with Staged Training",
+  "authors": "Ridwan Arefeen, Xiaoxiao Miao, Rong Tong, Aik Beng Ng, Simon See, Timothy Liu",
+  "summary": "arXiv:2603.12840v1 Announce Type: new \nAbstract: Voice anonymization masks vocal traits while preserving linguistic content, which may still leak speaker-specific patterns. To assess and strengthen privacy evaluation, we propose a dual-stream attacker that fuses spectral and self-supervised learning features via parallel encoders with a three-stage training strategy. Stage I establishes foundational speaker-discriminative representations. Stage II leverages the shared identity-transformation characteristics of voice conversion and anonymization, exposing the model to diverse converted speech to build cross-system robustness. Stage III provides lightweight adaptation to target anonymized data. Results on the VoicePrivacy Attacker Challenge (VPAC) dataset demonstrate that Stage II is the primary driver of generalization, enabling strong attacking performance on unseen anonymization datasets. With Stage III, fine-tuning on only 10\\% of the target anonymization dataset surpasses current state-of-the-art attackers in terms of EER.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12840",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12840v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954060"
+}

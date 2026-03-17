@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.17914v2",
+  "title": "NeuCo-Bench: A Novel Benchmark Framework for Neural Embeddings in Earth Observation",
+  "authors": "Rikard Vinge, Isabelle Wittmann, Jannik Schneider, Michael Marszalek, Luis Gilch, Thomas Brunschwiler, Conrad M Albrecht",
+  "summary": "arXiv:2510.17914v2 Announce Type: replace \nAbstract: We introduce NeuCo-Bench, a novel benchmark framework for evaluating (lossy) neural compression and representation learning in the context of Earth Observation (EO). Our approach builds on fixed-size embeddings that act as compact, task-agnostic representations applicable to a broad range of downstream tasks. NeuCo-Bench comprises three components: (i) an evaluation pipeline built around embeddings, (ii) a challenge mode with a hidden-task leaderboard designed to mitigate pretraining bias, and (iii) a scoring system that balances accuracy and stability. To support reproducibility, we release SSL4EO-S12-downstream, a curated multispectral, multitemporal EO dataset. We present results from a public challenge at the 2025 CVPR EARTHVISION workshop and conduct ablations with state-of-the-art foundation models. NeuCo-Bench provides a step towards community-driven, standardized evaluation of neural embeddings for EO and beyond.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.17914",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.17914v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370661"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13083v1",
+  "title": "Human-in-the-Loop LLM Grading for Handwritten Mathematics Assessments",
+  "authors": "Arne Vanhoyweghen, Vincent Holst, Melika Mobini, Lukas Van de Voorde, Tibo Vanleke, Bert Verbruggen, Brecht Verbeken, Andres Algaba, Sam Verboven, Marie-Anne Guerry, Filip Van Droogenbroeck, Vincent Ginis",
+  "summary": "arXiv:2603.13083v1 Announce Type: cross \nAbstract: Providing timely and individualised feedback on handwritten student work is highly beneficial for learning but difficult to achieve at scale. This challenge has become more pressing as generative AI undermines the reliability of take-home assessments, shifting emphasis toward supervised, in-class evaluation. We present a scalable, end-to-end workflow for LLM-assisted grading of short, pen-and-paper assessments. The workflow spans (1) constructing solution keys, (2) developing detailed rubric-style grading keys used to guide the LLM, and (3) a grading procedure that combines automated scanning and anonymisation, multi-pass LLM scoring, automated consistency checks, and mandatory human verification. We deploy the system in two undergraduate mathematics courses using six low-stakes in-class tests. Empirically, LLM assistance reduces grading time by approximately 23% while achieving agreement comparable to, and in several cases tighter than, fully manual grading. Occasional model errors occur but are effectively contained by the hybrid design. Overall, our results show that carefully embedded human-in-the-loop LLM grading can substantially reduce workload while maintaining fairness and accuracy.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13083",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13083v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004636"
+}

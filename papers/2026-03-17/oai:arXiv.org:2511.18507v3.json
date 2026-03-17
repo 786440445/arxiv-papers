@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.18507v3",
+  "title": "Multimodal Continual Learning with MLLMs from Multi-scenario Perspectives",
+  "authors": "Kai Jiang, Siqi Huang, Xiangyu Chen, Jiawei Shao, Hongyuan Zhang, Ping Luo, Xuelong Li",
+  "summary": "arXiv:2511.18507v3 Announce Type: replace-cross \nAbstract: Multimodal large language models (MLLMs) deployed on devices must adapt to continuously changing visual scenarios such as variations in background and perspective, to effectively perform complex visual tasks. To investigate catastrophic forgetting under real-world scenario shifts, we construct a multimodal visual understanding dataset (MSVQA), covering four distinct scenarios and perspectives: high-altitude, underwater, low-altitude, and indoor environments. Furthermore, we propose UNIFIER (mUltimodal coNtInual learning with MLLMs From multi-scenarIo pERspectives), a continual learning (CL) framework designed to address visual discrepancies while learning different scenarios. Compared to existing CL methods, UNIFIER enables knowledge accumulation within the same scenario and mutual enhancement across different scenarios via Vision Representation Expansion (VRE) and Vision Consistency Constraint (VCC). Experimental results show that UNIFIER improves the last-step VQA scores by 2.70%~10.62% and the last-step F1 scores by 3.40%~7.69% compared to the state-of-the-art method, QUAD, in 20-step cross-scenario continual learning tasks. MSVQA dataset is available at https://huggingface.co/datasets/Kaij00/MSVQA.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.18507",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.18507v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004984"
+}

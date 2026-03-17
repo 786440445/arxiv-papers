@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12538v1",
+  "title": "Spatio-Semantic Expert Routing Architecture with Mixture-of-Experts for Referring Image Segmentation",
+  "authors": "Alaa Dalaq, Muzammil Behzad",
+  "summary": "arXiv:2603.12538v1 Announce Type: cross \nAbstract: Referring image segmentation aims to produce a pixel-level mask for the image region described by a natural-language expression. Although pretrained vision-language models have improved semantic grounding, many existing methods still rely on uniform refinement strategies that do not fully match the diverse reasoning requirements of referring expressions. Because of this mismatch, predictions often contain fragmented regions, inaccurate boundaries, or even the wrong object, especially when pretrained backbones are frozen for computational efficiency. To address these limitations, we propose SERA, a Spatio-Semantic Expert Routing Architecture for referring image segmentation. SERA introduces lightweight, expression-aware expert refinement at two complementary stages within a vision-language framework. First, we design SERA-Adapter, which inserts an expression-conditioned adapter into selected backbone blocks to improve spatial coherence and boundary precision through expert-guided refinement and cross-modal attention. We then introduce SERA-Fusion, which strengthens intermediate visual representations by reshaping token features into spatial grids and applying geometry-preserving expert transformations before multimodal interaction. In addition, a lightweight routing mechanism adaptively weights expert contributions while remaining compatible with pretrained representations. To make this routing stable under frozen encoders, SERA uses a parameter-efficient tuning strategy that updates only normalization and bias terms, affecting less than 1% of the backbone parameters. Experiments on standard referring image segmentation benchmarks show that SERA consistently outperforms strong baselines, with especially clear gains on expressions that require accurate spatial localization and precise boundary delineation.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12538",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12538v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004277"
+}

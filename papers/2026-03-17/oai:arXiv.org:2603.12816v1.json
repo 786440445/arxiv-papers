@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12816v1",
+  "title": "Residual SODAP: Residual Self-Organizing Domain-Adaptive Prompting with Structural Knowledge Preservation for Continual Learning",
+  "authors": "Gyutae Oh, Jungwoo Bae, Jitae Shin",
+  "summary": "arXiv:2603.12816v1 Announce Type: new \nAbstract: Continual learning (CL) suffers from catastrophic forgetting, which is exacerbated in domain-incremental learning (DIL) where task identifiers are unavailable and storing past data is infeasible. While prompt-based CL (PCL) adapts representations with a frozen backbone, we observe that prompt-only improvements are often insufficient due to suboptimal prompt selection and classifier-level instability under domain shifts. We propose Residual SODAP, which jointly performs prompt-based representation adaptation and classifier-level knowledge preservation. Our framework combines $\\alpha$-entmax sparse prompt selection with residual aggregation, data-free distillation with pseudo-feature replay, prompt-usage--based drift detection, and uncertainty-aware multi-loss balancing. Across three DIL benchmarks without task IDs or extra data storage, Residual SODAP achieves state-of-the-art AvgACC/AvgF of 0.850/0.047 (DR), 0.760/0.031 (Skin Cancer), and 0.995/0.003 (CORe50).",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12816",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12816v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370081"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12726v1",
+  "title": "Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems",
+  "authors": "Yonghun Jeong, David Yoon Suk Kang, Yeon-Chang Lee",
+  "summary": "arXiv:2603.12726v1 Announce Type: cross \nAbstract: Multimodal recommender systems (MMRS) leverage images, text, and interaction signals to enrich item representations. However, recent alignment based MMRSs that enforce a unified embedding space often blur modality specific structures and exacerbate ID dominance. Therefore, we propose AnchorRec, a multimodal recommendation framework that performs indirect, anchor based alignment in a lightweight projection domain. By decoupling alignment from representation learning, AnchorRec preserves each modality's native structure while maintaining cross modal consistency and avoiding positional collapse. Experiments on four Amazon datasets show that AnchorRec achieves competitive top N recommendation accuracy, while qualitative analyses demonstrate improved multimodal expressiveness and coherence. The codebase of AnchorRec is available at https://github.com/hun9008/AnchorRec.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12726",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12726v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370401"
+}

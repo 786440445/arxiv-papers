@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12988v1",
+  "title": "Fair Lung Disease Diagnosis from Chest CT via Gender-Adversarial Attention Multiple Instance Learning",
+  "authors": "Aditya Parikh, Aasa Feragen",
+  "summary": "arXiv:2603.12988v1 Announce Type: cross \nAbstract: We present a fairness-aware framework for multi-class lung disease diagnosis from chest CT volumes, developed for the Fair Disease Diagnosis Challenge at the PHAROS-AIF-MIH Workshop (CVPR 2026). The challenge requires classifying CT scans into four categories -- Healthy, COVID-19, Adenocarcinoma, and Squamous Cell Carcinoma -- with performance measured as the average of per-gender macro F1 scores, explicitly penalizing gender-inequitable predictions. Our approach addresses two core difficulties: the sparse pathological signal across hundreds of slices, and a severe demographic imbalance compounded across disease class and gender. We propose an attention-based Multiple Instance Learning (MIL) model on a ConvNeXt backbone that learns to identify diagnostically relevant slices without slice-level supervision, augmented with a Gradient Reversal Layer (GRL) that adversarially suppresses gender-predictive structure in the learned scan representation. Training incorporates focal loss with label smoothing, stratified cross-validation over joint (class, gender) strata, and targeted oversampling of the most underrepresented subgroup. At inference, all five-fold checkpoints are ensembled with horizontal-flip test-time augmentation via soft logit voting and out-of-the-fold threshold optimization for robustness. Our model achieves a mean validation competition score of 0.685 (std - 0.030), with the best single fold reaching 0.759. All training and inference code is publicly available at https://github.com/ADE-17/cvpr-fair-chest-ct",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12988",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12988v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004575"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.04120v2",
+  "title": "Towards Contextual Sensitive Data Detection",
+  "authors": "Liang Telkamp, Madelon Hulsebos",
+  "summary": "arXiv:2512.04120v2 Announce Type: replace-cross \nAbstract: The emergence of open data portals necessitates more attention to protecting sensitive data before datasets get published and exchanged. To do so effectively, we observe the need to refine and broaden our definitions of sensitive data, and argue that the sensitivity of data depends on its context. Following this definition, we introduce a contextual data sensitivity framework building on two core concepts: 1) type contextualization, which considers the type of the data values at hand within the overall context of the dataset or document to assess their true sensitivity, and 2) domain contextualization, which assesses the sensitivity of data values informed by domain-specific information external to the dataset, such as geographic origin of a dataset. Experiments instrumented with language models confirm that: 1) type-contextualization significantly reduces the number of false positives for type-based sensitive data detection and reaches a recall of 94% compared to 63% with commercial tools, and 2) domain-contextualization leveraging sensitivity rule retrieval effectively grounds sensitive data detection in relevant context in non-standard data domains. A case study with humanitarian data experts also illustrates that context-grounded explanations provide useful guidance in manual data auditing processes. We open-source the implementation of the mechanisms and annotated datasets at https://github.com/trl-lab/sensitive-data-detection.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.04120",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.04120v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004998"
+}

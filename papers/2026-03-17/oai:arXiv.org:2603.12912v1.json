@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12912v1",
+  "title": "FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts",
+  "authors": "Xin Xu, Weilong Li, Wei Liu, Wenke Huang, Zhixi Yu, Bin Yang, Xiaoying Liao, Kui Jiang",
+  "summary": "arXiv:2603.12912v1 Announce Type: cross \nAbstract: Federated Domain Generalization for Person Re-Identification (FedDG-ReID) learns domain-invariant representations from decentralized data. While Vision Transformer (ViT) is widely adopted, its global attention often fails to distinguish pedestrians from high similarity backgrounds or diverse viewpoints -- a challenge amplified by cross-client distribution shifts in FedDG-ReID. To address this, we propose Federated Body Distribution Aware Visual Prompt (FedBPrompt), introducing learnable visual prompts to guide Transformer attention toward pedestrian-centric regions. FedBPrompt employs a Body Distribution Aware Visual Prompts Mechanism (BAPM) comprising: Holistic Full Body Prompts to suppress cross-client background noise, and Body Part Alignment Prompts to capture fine-grained details robust to pose and viewpoint variations. To mitigate high communication costs, we design a Prompt-based Fine-Tuning Strategy (PFTS) that freezes the ViT backbone and updates only lightweight prompts, significantly reducing communication overhead while maintaining adaptability. Extensive experiments demonstrate that BAPM effectively enhances feature discrimination and cross-domain generalization, while PFTS achieves notable performance gains within only a few aggregation rounds. Moreover, both BAPM and PFTS can be easily integrated into existing ViT-based FedDG-ReID frameworks, making FedBPrompt a flexible and effective solution for federated person re-identification. The code is available at https://github.com/leavlong/FedBPrompt.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12912",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12912v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004538"
+}

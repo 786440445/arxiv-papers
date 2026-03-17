@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.16736v2",
+  "title": "Backward Oversmoothing: why is it hard to train deep Graph Neural Networks?",
+  "authors": "Nicolas Keriven",
+  "summary": "arXiv:2505.16736v2 Announce Type: replace \nAbstract: Oversmoothing has long been identified as a major limitation of Graph Neural Networks (GNNs): input node features are smoothed at each layer and converge to a non-informative representation, if the weights of the GNN are sufficiently bounded. This assumption is crucial: if, on the contrary, the weights are sufficiently large, then oversmoothing may not happen. Theoretically, GNN could thus learn to not oversmooth. However it does not really happen in practice, which prompts us to examine oversmoothing from an optimization point of view. In this paper, we analyze backward oversmoothing, that is, the notion that backpropagated errors used to compute gradients are also subject to oversmoothing from output to input. With non-linear activation functions, we outline the key role of the interaction between forward and backward smoothing. Moreover, we show that, due to backward oversmoothing, GNNs provably exhibit many spurious stationary points: as soon as the last layer is trained, the whole GNN is at a stationary point. As a result, we can exhibit regions where gradients are near-zero while the loss stays high. The proof relies on the fact that, unlike forward oversmoothing, backward errors are subjected to a linear oversmoothing even in the presence of non-linear activation function, such that the average of the output error plays a key role. Additionally, we show that this phenomenon is specific to deep GNNs, and exhibit counter-example Multi-Layer Perceptron. This paper is a step toward a more complete comprehension of the optimization landscape specific to GNNs.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.16736",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.16736v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370589"
+}

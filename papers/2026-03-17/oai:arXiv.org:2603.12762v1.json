@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12762v1",
+  "title": "TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation",
+  "authors": "Nazar Puriy, Johannes Jakubik, Benedikt Blumenstiel, Konrad Schindler",
+  "summary": "arXiv:2603.12762v1 Announce Type: cross \nAbstract: We propose TerraFlow, a novel approach to multimodal, multitemporal learning for Earth observation. TerraFlow builds on temporal training objectives that enable sequence-aware learning across space, time, and modality, while remaining robust to the variable-length inputs commonly encountered in real-world Earth observation data. Our experiments demonstrate superiority of TerraFlow over state-of-the-art foundation models for Earth observation across all temporal tasks of the GEO-Bench-2 benchmark. We additionally demonstrate that TerraFlow is able to make initial steps towards deep-learning based risk map prediction for natural disasters -- a task on which other state-of-the-art foundation models frequently collapse. TerraFlow outperforms state-of-the-art foundation models by up to 50% in F1 score and 24% in Brier score.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12762",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12762v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370426"
+}

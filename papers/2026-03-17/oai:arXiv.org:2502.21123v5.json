@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2502.21123v5",
+  "title": "Causality Is Key to Understand and Balance Multiple Goals in Trustworthy ML and Foundation Models",
+  "authors": "Ruta Binkyte, Ivaxi Sheth, Zhijing Jin, Mohammad Havaei, Bernhard Sch\\\"olkopf, Mario Fritz",
+  "summary": "arXiv:2502.21123v5 Announce Type: replace \nAbstract: Ensuring trustworthiness in machine learning (ML) systems is crucial as they become increasingly embedded in high-stakes domains. This paper advocates for integrating causal methods into machine learning to navigate the trade-offs among key principles of trustworthy ML, including fairness, privacy, robustness, accuracy, and explainability. While these objectives should ideally be satisfied simultaneously, they are often addressed in isolation, leading to conflicts and suboptimal solutions. Drawing on existing applications of causality in ML that successfully align goals such as fairness and accuracy or privacy and robustness, this paper argues that a causal approach is essential for balancing multiple competing objectives in both trustworthy ML and foundation models. Beyond highlighting these trade-offs, we examine how causality can be practically integrated into ML and foundation models, offering solutions to enhance their reliability and interpretability. Finally, we discuss the challenges, limitations, and opportunities in adopting causal frameworks, paving the way for more accountable and ethically sound AI systems.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2502.21123",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2502.21123v5.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370570"
+}

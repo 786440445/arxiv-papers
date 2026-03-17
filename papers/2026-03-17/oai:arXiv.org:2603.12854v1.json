@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12854v1",
+  "title": "Perpetual Dialogues: A Computational Analysis of Voice-Guitar Interaction in Carlos Paredes's Discography",
+  "authors": "Gilberto Bernardes, N\\'adia Moura, Ant\\'onio S\\'a Pinto",
+  "summary": "arXiv:2603.12854v1 Announce Type: new \nAbstract: Computational musicology enables systematic analysis of performative and structural traits in recorded music, yet existing approaches remain largely tailored to notated, score-based repertoires. This study advances a methodology for analyzing voice-guitar interaction in Carlos Paredes's vocal collaborations - an oral-tradition context where compositional and performative layers co-emerge. Using source-separated stems, physics-informed harmonic modelling, and beat-level audio descriptors, we examine melodic, harmonic, and rhythmic relationships across eight recordings with four singers. Our commonality-diversity framework, combining multi-scale correlation analysis with residual-based detection of structural deviations, reveals that expressive coordination is predominantly piece-specific rather than corpus-wide. Diversity events systematically align with formal boundaries and textural shifts, demonstrating that the proposed approach can identify musically salient reorganizations with minimal human annotation. The framework further offers a generalizable computational strategy for repertoires without notated blueprints, extending Music Performance Analysis into oral-tradition and improvisation-inflected practices.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12854",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12854v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954065"
+}

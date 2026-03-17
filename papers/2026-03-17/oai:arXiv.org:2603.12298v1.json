@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12298v1",
+  "title": "Global Evolutionary Steering: Refining Activation Steering Control via Cross-Layer Consistency",
+  "authors": "Xinyan Jiang, Wenjing Yu, Di Wang, Lijie Hu",
+  "summary": "arXiv:2603.12298v1 Announce Type: new \nAbstract: Activation engineering enables precise control over Large Language Models (LLMs) without the computational cost of fine-tuning. However, existing methods deriving vectors from static activation differences are susceptible to high-dimensional noise and layer-wise semantic drift, often capturing spurious correlations rather than the target intent. To address this, we propose Global Evolutionary Refined Steering (GER-steer), a training-free framework that grounded in the geometric stability of the network's representation evolution. GER-steer exploits this global signal to rectify raw steering vectors, effectively decoupling robust semantic intent from orthogonal artifacts. Extensive evaluations confirm that GER-steer consistently outperforms baselines, delivering superior efficacy and generalization without layer-specific tuning, establishing a universal solution for reliable model alignment.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12298",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12298v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369813"
+}

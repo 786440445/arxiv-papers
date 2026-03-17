@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12721v1",
+  "title": "CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration",
+  "authors": "Dongxu Zhang, Yingsen Wang, Yiding Sun, Haoran Xu, Peilin Fan, Jihua Zhu",
+  "summary": "arXiv:2603.12721v1 Announce Type: cross \nAbstract: Robust point cloud registration is a fundamental task in 3D computer vision and geometric deep learning, essential for applications such as large-scale 3D reconstruction, augmented reality, and scene understanding. However, the performance of established learning-based methods often degrades in complex, real world scenarios characterized by incomplete data, sensor noise, and low overlap regions. To address these limitations, we propose CMHANet, a novel Cross-Modal Hybrid Attention Network. Our method integrates the fusion of rich contextual information from 2D images with the geometric detail of 3D point clouds, yielding a comprehensive and resilient feature representation. Furthermore, we introduce an innovative optimization function based on contrastive learning, which enforces geometric consistency and significantly improves the model's robustness to noise and partial observations. We evaluated CMHANet on the 3DMatch and the challenging 3DLoMatch datasets. \\rev{Additionally, zero-shot evaluations on the TUM RGB-D SLAM dataset verify the model's generalization capability to unseen domains.} The experimental results demonstrate that our method achieves substantial improvements in both registration accuracy and overall robustness, outperforming current techniques. We also release our code in \\href{https://github.com/DongXu-Zhang/CMHANet}{https://github.com/DongXu-Zhang/CMHANet}.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12721",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12721v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004445"
+}

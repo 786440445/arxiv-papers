@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.19861v5",
+  "title": "Quantum-Informed Machine Learning for Predicting Spatiotemporal Chaos with Practical Quantum Advantage",
+  "authors": "Maida Wang, Xiao Xue, Mingyang Gao, Peter V. Coveney",
+  "summary": "arXiv:2507.19861v5 Announce Type: replace-cross \nAbstract: We introduce a quantum-informed machine learning (QIML) framework for modelling the long-term behaviour of high-dimensional chaotic systems. QIML combines a one-time, offline-trained quantum generative model with a classical autoregressive predictor for spatiotemporal field generation. The quantum model learns a quantum prior (Q-Prior) that guides the representation of small-scale interactions and improves the modelling of fine-scale dynamics. We evaluate QIML on the Kuramoto-Sivashinsky equation, two-dimensional Kolmogorov flow, and the three-dimensional turbulent channel flow used as a realistic inflow condition. Across these systems, QIML improves predictive distribution accuracy by up to 17.25% and full-spectrum fidelity by up to 29.36% relative to classical baselines. For turbulent channel inflow, the Q-Prior is trained on a superconducting quantum processor and proves essential: without it, predictions become unstable, whereas QIML produces physically consistent long-term forecasts that outperform leading PDE solvers. Beyond accuracy, QIML offers a memory advantage by compressing multi-megabyte datasets into a kilobyte-scale Q-Prior, enabling scalable integration of quantum resources into scientific modelling.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2507.19861",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.19861v5.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370845"
+}

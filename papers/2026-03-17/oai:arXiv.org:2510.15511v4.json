@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.15511v4",
+  "title": "Language Models are Injective and Hence Invertible",
+  "authors": "Giorgos Nikolaou, Tommaso Mencattini, Donato Crisostomi, Andrea Santilli, Yannis Panagakis, Emanuele Rodol\\`a",
+  "summary": "arXiv:2510.15511v4 Announce Type: replace \nAbstract: Transformer components such as non-linear activations and normalization are inherently non-injective, suggesting that different inputs could map to the same output and prevent exact recovery of the input from a model's representations. In this paper, we challenge this view. First, we prove mathematically that transformer language models mapping discrete input sequences to their corresponding sequence of continuous representations are injective and therefore lossless, a property established at initialization and preserved during training. Second, we confirm this result empirically through billions of collision tests on six state-of-the-art language models, and observe no collisions. Third, we operationalize injectivity: we introduce SipIt, the first algorithm that provably and efficiently reconstructs the exact input text from hidden activations, establishing linear-time guarantees and demonstrating exact invertibility in practice. Overall, our work establishes injectivity as a fundamental and exploitable property of language models, with direct implications for transparency, interpretability, and safe deployment.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.15511",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.15511v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370656"
+}

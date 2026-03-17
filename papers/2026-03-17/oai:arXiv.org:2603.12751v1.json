@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12751v1",
+  "title": "Show, Don't Tell: Detecting Novel Objects by Watching Human Videos",
+  "authors": "James Akl, Jose Nicolas Avendano Arbelaez, James Barabas, Jennifer L. Barry, Kalie Ching, Noam Eshed, Jiahui Fu, Michel Hidalgo, Andrew Hoelscher, Tushar Kusnur, Andrew Messing, Zachary Nagler, Brian Okorn, Mauro Passerino, Tim J. Perkins, Eric Rosen, Ankit Shah, Tanmay Shankar, Scott Shaw",
+  "summary": "arXiv:2603.12751v1 Announce Type: cross \nAbstract: How can a robot quickly identify and recognize new objects shown to it during a human demonstration? Existing closed-set object detectors frequently fail at this because the objects are out-of-distribution. While open-set detectors (e.g., VLMs) sometimes succeed, they often require expensive and tedious human-in-the-loop prompt engineering to uniquely recognize novel object instances. In this paper, we present a self-supervised system that eliminates the need for tedious language descriptions and expensive prompt engineering by training a bespoke object detector on an automatically created dataset, supervised by the human demonstration itself. In our approach, \"Show, Don't Tell,\" we show the detector the specific objects of interest during the demonstration, rather than telling the detector about these objects via complex language descriptions. By bypassing language altogether, this paradigm enables us to quickly train bespoke detectors tailored to the relevant objects observed in human task demonstrations. We develop an integrated on-robot system to deploy our \"Show, Don't Tell\" paradigm of automatic dataset creation and novel object-detection on a real-world robot. Empirical results demonstrate that our pipeline significantly outperforms state-of-the-art detection and recognition methods for manipulated objects, leading to improved task completion for the robot.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12751",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12751v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370416"
+}

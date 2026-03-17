@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.19583v2",
+  "title": "Lightweight speech enhancement guided target speech extraction in noisy multi-speaker scenarios",
+  "authors": "Ziling Huang, Junnan Wu, Lichun Fan, Zhenbo Luo, Jian Luan, Haixin Guan, Yanhua Long",
+  "summary": "arXiv:2508.19583v2 Announce Type: replace \nAbstract: Target speech extraction (TSE) has achieved strong performance in relatively simple conditions such as one-speaker-plus-noise and two-speaker mixtures, but its performance remains unsatisfactory in noisy multi-speaker scenarios. To address this issue, we introduce a lightweight speech enhancement model, GTCRN, to better guide TSE in noisy environments. Building on our competitive previous speaker embedding/encoder-free framework SEF-PNet, we propose two extensions: LGTSE and D-LGTSE. LGTSE incorporates noise-agnostic enrollment guidance by denoising the input noisy speech before context interaction with enrollment speech, thereby reducing noise interference. D-LGTSE further improves system robustness against speech distortion by leveraging denoised speech as an additional noisy input during training, expanding the dynamic range of noisy conditions and enabling the model to directly learn from distorted signals. Furthermore, we propose a two-stage training strategy, first with GTCRN enhancement-guided pre-training and then joint fine-tuning, to fully exploit model potential.Experiments on the Libri2Mix dataset demonstrate significant improvements of 0.89 dB in SISDR, 0.16 in PESQ, and 1.97% in STOI, validating the effectiveness of our approach.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.19583",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.19583v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-17T11:00:17.151586"
+}

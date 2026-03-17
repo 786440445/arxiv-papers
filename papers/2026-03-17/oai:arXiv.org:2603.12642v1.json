@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12642v1",
+  "title": "Self-Supervised Speech Models Encode Phonetic Context via Position-dependent Orthogonal Subspaces",
+  "authors": "Kwanghee Choi, Eunjung Yeo, Cheol Jun Cho, David R. Mortensen, David Harwath",
+  "summary": "arXiv:2603.12642v1 Announce Type: cross \nAbstract: Transformer-based self-supervised speech models (S3Ms) are often described as contextualized, yet what this entails remains unclear. Here, we focus on how a single frame-level S3M representation can encode phones and their surrounding context. Prior work has shown that S3Ms represent phones compositionally; for example, phonological vectors such as voicing, bilabiality, and nasality vectors are superposed in the S3M representation of [m]. We extend this view by proposing that phonological information from a sequence of neighboring phones is also compositionally encoded in a single frame, such that vectors corresponding to previous, current, and next phones are superposed within a single frame-level representation. We show that this structure has several properties, including orthogonality between relative positions, and emergence of implicit phonetic boundaries. Together, our findings advance our understanding of context-dependent S3M representations.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12642",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12642v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-17T11:00:12.954080"
+}

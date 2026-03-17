@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12734v1",
+  "title": "VecMol: Vector-Field Representations for 3D Molecule Generation",
+  "authors": "Yuchen Hua, Xingang Peng, Jianzhu Ma, Muhan Zhang",
+  "summary": "arXiv:2603.12734v1 Announce Type: cross \nAbstract: Generative modeling of three-dimensional (3D) molecules is a fundamental yet challenging problem in drug discovery and materials science. Existing approaches typically represent molecules as 3D graphs and co-generate discrete atom types with continuous atomic coordinates, leading to intrinsic learning difficulties such as heterogeneous modality entanglement and geometry-chemistry coherence constraints. We propose VecMol, a paradigm-shifting framework that reimagines molecular representation by modeling 3D molecules as continuous vector fields over Euclidean space, where vectors point toward nearby atoms and implicitly encode molecular structure. The vector field is parameterized by a neural field and generated using a latent diffusion model, avoiding explicit graph generation and decoupling structure learning from discrete atom instantiation. Experiments on the QM9 and GEOM-Drugs benchmarks validate the feasibility of this novel approach, suggesting vector-field-based representations as a promising new direction for 3D molecular generation.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12734",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12734v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370406"
+}

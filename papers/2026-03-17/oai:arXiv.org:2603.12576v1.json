@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12576v1",
+  "title": "A Spectral Revisit of the Distributional Bellman Operator under the Cram\\'er Metric",
+  "authors": "Keru Wang, Yixin Deng, Yao Lyu, Stephen Redmond, Shengbo Eben Li",
+  "summary": "arXiv:2603.12576v1 Announce Type: new \nAbstract: Distributional reinforcement learning (DRL) studies the evolution of full return distributions under Bellman updates rather than focusing on expected values. A classical result is that the distributional Bellman operator is contractive under the Cram\\'er metric, which corresponds to an $L^2$ geometry on differences of cumulative distribution functions (CDFs). While this contraction ensures stability of policy evaluation, existing analyses remain largely metric, focusing on contraction properties without elucidating the structural action of the Bellman update on distributions. In this work, we analyse distributional Bellman dynamics directly at the level of CDFs, treating the Cram\\'er geometry as the intrinsic analytical setting. At this level, the Bellman update acts affinely on CDFs and linearly on differences between CDFs, and its contraction property yields a uniform bound on this linear action. Building on this intrinsic formulation, we construct a family of regularised spectral Hilbert representations that realise the CDF-level geometry by exact conjugation, without modifying the underlying Bellman dynamics. The regularisation affects only the geometry and vanishes in the zero-regularisation limit, recovering the native Cram\\'er metric. This framework clarifies the operator structure underlying distributional Bellman updates and provides a foundation for further functional and operator-theoretic analyses in DRL.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12576",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12576v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369963"
+}

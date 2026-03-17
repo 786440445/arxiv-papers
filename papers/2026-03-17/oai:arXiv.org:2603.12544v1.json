@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12544v1",
+  "title": "Deep Distance Measurement Method for Unsupervised Multivariate Time Series Similarity Retrieval",
+  "authors": "Susumu Naito, Kouta Nakata, Yasunori Taguchi",
+  "summary": "arXiv:2603.12544v1 Announce Type: new \nAbstract: We propose the Deep Distance Measurement Method (DDMM) to improve retrieval accuracy in unsupervised multivariate time series similarity retrieval. DDMM enables learning of minute differences within states in the entire time series and thereby recognition of minute differences between states, which are of interest to users in industrial plants. To achieve this, DDMM uses a learning algorithm that assigns a weight to each pair of an anchor and a positive sample, arbitrarily sampled from the entire time series, based on the Euclidean distance within the pair and learns the differences within the pairs weighted by the weights. This algorithm allows both learning minute differences within states and sampling pairs from the entire time series. Our empirical studies showed that DDMM significantly outperformed state-of-the-art time series representation learning methods on the Pulp-and-paper mill dataset and demonstrated the effectiveness of DDMM in industrial plants. Furthermore, we showed that accuracy can be further improved by linking DDMM with existing feature extraction methods through experiments with the combined model.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12544",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12544v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.369939"
+}

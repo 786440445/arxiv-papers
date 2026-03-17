@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2412.00547v4",
+  "title": "Motion Dreamer: Boundary Conditional Motion Reasoning for Physically Coherent Video Generation",
+  "authors": "Tianshuo Xu, Zhifei Chen, Leyi Wu, Hao Lu, Yuying Chen, Lihui Jiang, Bingbing Liu, Yingcong Chen",
+  "summary": "arXiv:2412.00547v4 Announce Type: replace-cross \nAbstract: Recent advances in video generation have shown promise for generating future scenarios, critical for planning and control in autonomous driving and embodied intelligence. However, real-world applications demand more than visually plausible predictions; they require reasoning about object motions based on explicitly defined boundary conditions, such as initial scene image and partial object motion. We term this capability Boundary Conditional Motion Reasoning. Current approaches either neglect explicit user-defined motion constraints, producing physically inconsistent motions, or conversely demand complete motion inputs, which are rarely available in practice. Here we introduce Motion Dreamer, a two-stage framework that explicitly separates motion reasoning from visual synthesis, addressing these limitations. Our approach introduces instance flow, a sparse-to-dense motion representation enabling effective integration of partial user-defined motions, and the motion inpainting strategy to robustly enable reasoning motions of other objects. Extensive experiments demonstrate that Motion Dreamer significantly outperforms existing methods, achieving superior motion plausibility and visual realism, thus bridging the gap towards practical boundary conditional motion reasoning. Our webpage is available: https://envision-research.github.io/MotionDreamer/.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2412.00547",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2412.00547v4.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-17T11:00:26.004838"
+}

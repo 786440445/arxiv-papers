@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13068v1",
+  "title": "GeoChemAD: Benchmarking Unsupervised Geochemical Anomaly Detection for Mineral Exploration",
+  "authors": "Yihao Ding, Yiran Zhang, Chris Gonzalez, Eun-Jung Holden, Wei Liu",
+  "summary": "arXiv:2603.13068v1 Announce Type: new \nAbstract: Geochemical anomaly detection plays a critical role in mineral exploration as deviations from regional geochemical baselines may indicate mineralization. Existing studies suffer from two key limitations: (1) single region scenarios which limit model generalizability; (2) proprietary datasets, which makes result reproduction unattainable. In this work, we introduce \\textbf{GeoChemAD}, an open-source benchmark dataset compiled from government-led geological surveys, covering multiple regions, sampling sources, and target elements. The dataset comprises eight subsets representing diverse spatial scales and sampling conditions. To establish strong baselines, we reproduce and benchmark a range of unsupervised anomaly detection methods, including statistical models, generative and transformer-based approaches. Furthermore, we propose \\textbf{GeoChemFormer}, a transformer-based framework that leverages self-supervised pretraining to learn target-element-aware geochemical representations for spatial samples. Extensive experiments demonstrate that GeoChemFormer consistently achieves superior and robust performance across all eight subsets, outperforming existing unsupervised methods in both anomaly detection accuracy and generalization capability. The proposed dataset and framework provide a foundation for reproducible research and future development in this direction.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13068",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13068v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-17T11:00:21.370167"
+}

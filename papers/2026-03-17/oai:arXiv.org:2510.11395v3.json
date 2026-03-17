@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.11395v3",
+  "title": "Dynamically Slimmable Speech Enhancement Network with Metric-Guided Training",
+  "authors": "Haixin Zhao, Kaixuan Yang, Nilesh Madhu",
+  "summary": "arXiv:2510.11395v3 Announce Type: replace \nAbstract: To further reduce the complexity of lightweight speech enhancement models, we introduce a gating-based Dynamically Slimmable Network (DSN). The DSN comprises static and dynamic components. For architecture-independent applicability, we introduce distinct dynamic structures targeting the commonly used components, namely, grouped recurrent neural network units, multi-head attention, convolutional, and fully connected layers. A policy module adaptively governs the use of dynamic parts at a frame-wise resolution according to the input signal quality, controlling computational load. We further propose Metric-Guided Training (MGT) to explicitly guide the policy module in assessing input speech quality. Experimental results demonstrate that the DSN achieves comparable enhancement performance in instrumental metrics to the state-of-the-art lightweight baseline, while using only 73% of its computational load on average. Evaluations of dynamic component usage ratios indicate that the MGT-DSN can appropriately allocate network resources according to the severity of input signal distortion.",
+  "published": "Mon, 16 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.11395",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.11395v3.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-17T11:00:17.151603"
+}

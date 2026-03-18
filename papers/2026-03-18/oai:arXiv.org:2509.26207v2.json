@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.26207v2",
+  "title": "The silence of the weights: a structural pruning strategy for attention-based audio signal architectures with second order metrics",
+  "authors": "Andrea Diecidue, Carlo Alberto Barbano, Piero Fraternali, Mathieu Fontaine, Enzo Tartaglione",
+  "summary": "arXiv:2509.26207v2 Announce Type: replace \nAbstract: Transformer-based models have become the state of the art across multiple domains, from natural language processing to machine listening, thanks to the attention mechanisms. However, the attention layers require a large number of parameters and high-end hardware for both training and inference. We propose a novel channel-pruning technique explicitly targeted at the attention mechanism, decoupling the pruning of each head and the four layers in the attention block: query, key, value, and output projection matrices, employing a second-order metric to score the network's parameters. We compare our technique against head-pruning strategies and magnitude-driven scoring metrics, investigating the effects of pruning on Audio Spectrogram Transformer (AST) and Whisper. Our results show that even after pruning 50\\% of the parameters in the attention block, performance is largely preserved.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.26207",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.26207v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039777"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13911v1",
+  "title": "The Phenomenology of Hallucinations",
+  "authors": "Valeria Ruscio, Keiran Thompson",
+  "summary": "arXiv:2603.13911v1 Announce Type: cross \nAbstract: We show that language models hallucinate not because they fail to detect uncertainty, but because of a failure to integrate it into output generation. Across architectures, uncertain inputs are reliably identified, occupying high-dimensional regions with 2-3$\\times$ the intrinsic dimensionality of factual inputs. However, this internal signal is weakly coupled to the output layer: uncertainty migrates into low-sensitivity subspaces, becoming geometrically amplified yet functionally silent. Topological analysis shows that uncertainty representations fragment rather than converging to a unified abstention state, while gradient and Fisher probes reveal collapsing sensitivity along the uncertainty direction. Because cross-entropy training provides no attractor for abstention and uniformly rewards confident prediction, associative mechanisms amplify these fractured activations until residual coupling forces a committed output despite internal detection. Causal interventions confirm this account by restoring refusal when uncertainty is directly connected to logits.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13911",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13911v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517257"
+}

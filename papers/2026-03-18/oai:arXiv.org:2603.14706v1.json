@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14706v1",
+  "title": "AdapterTune: Zero-Initialized Low-Rank Adapters for Frozen Vision Transformers",
+  "authors": "Salim Khazem",
+  "summary": "arXiv:2603.14706v1 Announce Type: cross \nAbstract: Frozen-backbone transfer with Vision Transformers faces two under-addressed issues: optimization instability when adapters are naively inserted into a fixed feature extractor, and the absence of principled guidance for setting adapter capacity. We introduce AdapterTune, which augments each transformer block with a residual low-rank bottleneck whose up-projection is zero-initialized, guaranteeing that the adapted network starts exactly at the pretrained function and eliminates early-epoch representation drift. On the analytical side, we formalize adapter rank as a capacity budget for approximating downstream task shifts in feature space. The resulting excess-risk decomposition predicts monotonic but diminishing accuracy gains with increasing rank, an ``elbow'' behavior we confirm through controlled sweeps. We evaluate on 9 datasets and 3 backbone scales with multi-seed reporting throughout. On a core 5 dataset transfer suite, AdapterTune improves top-1 accuracy over head-only transfer by +14.9 points on average while training only 0.92 of the parameters required by full fine-tuning, and outperforms full fine-tuning on 10 of 15 dataset-backbone pairs. Across the full benchmark, AdapterTune improves over head-only transfer on every dataset-backbone pair tested. Ablations on rank, placement, and initialization isolate each design choice. The code is available at: https://github.com/salimkhazem/adaptertune",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14706",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14706v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517560"
+}

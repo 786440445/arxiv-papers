@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.06107v3",
+  "title": "Distributional Semantics Tracing: A Framework for Explaining Hallucinations in Large Language Models",
+  "authors": "Gagan Bhatia, Somayajulu G Sripada, Kevin Allan, Jacobo Azcona",
+  "summary": "arXiv:2510.06107v3 Announce Type: replace-cross \nAbstract: Hallucinations in large language models (LLMs) produce fluent continuations that are not supported by the prompt, especially under minimal contextual cues and ambiguity. We introduce Distributional Semantics Tracing (DST), a model-native method that builds layer-wise semantic maps at the answer position by decoding residual-stream states through the unembedding, selecting a compact top-$K$ concept set, and estimating directed concept-to-concept support via lightweight causal tracing. Using these traces, we test a representation-level hypothesis: hallucinations arise from correlation-driven representational drift across depth, where the residual stream is pulled toward a locally coherent but context-inconsistent concept neighborhood reinforced by training co-occurrences. On Racing Thoughts dataset, DST yields more faithful explanations than attribution, probing, and intervention baselines under an LLM-judge protocol, and the resulting Contextual Alignment Score (CAS) strongly predicts failures, supporting this drift hypothesis.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.06107",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.06107v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.544227"
+}

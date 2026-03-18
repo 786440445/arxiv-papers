@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13459v1",
+  "title": "Reconciling In-Context and In-Weight Learning via Dual Representation Space Encoding",
+  "authors": "Guanyu Chen, Ruichen Wang, Tianren Zhang, Feng Chen",
+  "summary": "arXiv:2603.13459v1 Announce Type: new \nAbstract: In-context learning (ICL) is a valuable capability exhibited by Transformers pretrained on diverse sequence tasks. However, previous studies have observed that ICL often conflicts with the model's inherent in-weight learning (IWL) ability. By examining the representation space learned by a toy model in synthetic experiments, we identify the shared encoding space for context and samples in Transformers as a potential source of this conflict. To address this, we modify the model architecture to separately encode the context and samples into two distinct spaces: a task representation space and a sample representation space. We model these two spaces under a simple yet principled framework, assuming a linear representational structure and treating them as a pair of dual spaces. Both theoretical analysis and empirical results demonstrate the effectiveness of our proposed architecture, CoQE, in the single-value answer setting. It not only enhances ICL performance through improved representation learning, but also successfully reconciles ICL and IWL capabilities across synthetic few-shot classification and a newly designed pseudo-arithmetic task. Code: https://github.com/McGuinnessChen/dual-representation-space-encoding",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13459",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13459v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515803"
+}

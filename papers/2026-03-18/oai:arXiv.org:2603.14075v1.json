@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14075v1",
+  "title": "Enhancing Mental Health Classification with Layer-Attentive Residuals and Contrastive Feature Learning",
+  "authors": "Menna Elgabry, Ali Hamdi, Khaled Shaban",
+  "summary": "arXiv:2603.14075v1 Announce Type: new \nAbstract: The classification of mental health is challenging for a variety of reasons. For one, there is overlap between the mental health issues. In addition, the signs of mental health issues depend on the context of the situation, making classification difficult. Although fine-tuning transformers has improved the performance for mental health classification, standard cross-entropy training tends to create entangled feature spaces and fails to utilize all the information the transformers contain. We present a new framework that focuses on representations to improve mental health classification. This is done using two methods. First, \\textbf{layer-attentive residual aggregation} which works on residual connections to to weigh and fuse representations from all transformer layers while maintaining high-level semantics. Second, \\textbf{supervised contrastive feature learning} uses temperature-scaled supervised contrastive learning with progressive weighting to increase the geometric margin between confusable mental health problems and decrease class overlap by restructuring the feature space. With a score of \\textbf{74.36\\%}, the proposed method is the best performing on the SWMH benchmark and outperforms models that are domain-specialized, such as \\textit{MentalBERT} and \\textit{MentalRoBERTa} by margins of (3.25\\% - 2.2\\%) and 2.41 recall points over the highest achieving model. These findings show that domain-adaptive pretraining for mental health text classification can be surpassed by carefully designed representation geometry and layer-aware residual integration, which also provide enhanced interpretability through learnt layer importance.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14075",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14075v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516035"
+}

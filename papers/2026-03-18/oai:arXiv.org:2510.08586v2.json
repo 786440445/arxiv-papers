@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.08586v2",
+  "title": "Dynamic Stress Detection: A Study of Temporal Progression Modelling of Stress in Speech",
+  "authors": "Vishakha Lall, Yisi Liu",
+  "summary": "arXiv:2510.08586v2 Announce Type: replace-cross \nAbstract: Detecting psychological stress from speech is critical in high-pressure settings. While prior work has leveraged acoustic features for stress detection, most treat stress as a static label. In this work, we model stress as a temporally evolving phenomenon influenced by historical emotional state. We propose a dynamic labelling strategy that derives fine-grained stress annotations from emotional labels and introduce cross-attention-based sequential models, a Unidirectional LSTM and a Transformer Encoder, to capture temporal stress progression. Our approach achieves notable accuracy gains on MuSE (+5%) and StressID (+18%) over existing baselines, and generalises well to a custom real-world dataset. These results highlight the value of modelling stress as a dynamic construct in speech.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.08586",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.08586v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039856"
+}

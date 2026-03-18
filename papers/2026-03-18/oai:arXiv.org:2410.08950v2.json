@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2410.08950v2",
+  "title": "On the Adversarial Transferability of Generalized \"Skip Connections\"",
+  "authors": "Yisen Wang, Yichuan Mo, Dongxian Wu, Mingjie Li, Xingjun Ma, Zhouchen Lin",
+  "summary": "arXiv:2410.08950v2 Announce Type: replace \nAbstract: Skip connection is an essential ingredient for modern deep models to be deeper and more powerful. Despite their huge success in normal scenarios (state-of-the-art classification performance on natural examples), we investigate and identify an interesting property of skip connections under adversarial scenarios, namely, the use of skip connections allows easier generation of highly transferable adversarial examples. Specifically, in ResNet-like models (with skip connections), we find that biasing backpropagation to favor gradients from skip connections--while suppressing those from residual modules via a decay factor--allows one to craft adversarial examples with high transferability. Based on this insight, we propose the Skip Gradient Method (SGM). Although starting from ResNet-like models in vision domains, we further extend SGM to more advanced architectures, including Vision Transformers (ViTs), models with varying-length paths, and other domains such as natural language processing. We conduct comprehensive transfer-based attacks against diverse model families, including ResNets, Transformers, Inceptions, Neural Architecture Search-based models, and Large Language Models (LLMs). The results demonstrate that employing SGM can greatly improve the transferability of crafted attacks in almost all cases. Furthermore, we demonstrate that SGM can still be effective under more challenging settings such as ensemble-based attacks, targeted attacks, and against defense equipped models. At last, we provide theoretical explanations and empirical insights on how SGM works. Our findings not only motivate new adversarial research into the architectural characteristics of models but also open up further challenges for secure model architecture design. Our code is available at https://github.com/mo666666/SGM.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2410.08950",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2410.08950v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517895"
+}

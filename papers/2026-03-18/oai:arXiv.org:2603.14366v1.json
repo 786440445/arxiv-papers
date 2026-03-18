@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14366v1",
+  "title": "Representation Alignment for Just Image Transformers is not Easier than You Think",
+  "authors": "Jaeyo Shin, Jiwook Kim, Hyunjung Shim",
+  "summary": "arXiv:2603.14366v1 Announce Type: cross \nAbstract: Representation Alignment (REPA) has emerged as a simple way to accelerate Diffusion Transformers training in latent space. At the same time, pixel-space diffusion transformers such as Just image Transformers (JiT) have attracted growing attention because they remove a dependency on a pretrained tokenizer, and then avoid the reconstruction bottleneck of latent diffusion. This paper shows that the REPA can fail for JiT. REPA yields worse FID for JiT as training proceeds and collapses diversity on image subsets that are tightly clustered in the representation space of pretrained semantic encoder on ImageNet. We trace the failure to an information asymmetry: denoising occurs in the high dimensional image space, while the semantic target is strongly compressed, making direct regression a shortcut objective. We propose PixelREPA, which transforms the alignment target and constrains alignment with a Masked Transformer Adapter that combines a shallow transformer adapter with partial token masking. PixelREPA improves both training convergence and final quality. PixelREPA reduces FID from 3.66 to 3.17 for JiT-B$/16$ and improves Inception Score (IS) from 275.1 to 284.6 on ImageNet $256 \\times 256$, while achieving $> 2\\times$ faster convergence. Finally, PixelREPA-H$/16$ achieves FID$=1.81$ and IS$=317.2$. Our code is available at https://github.com/kaist-cvml/PixelREPA.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14366",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14366v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517415"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14294v1",
+  "title": "Seeking Physics in Diffusion Noise",
+  "authors": "Chujun Tang, Lei Zhong, Fangqiang Ding",
+  "summary": "arXiv:2603.14294v1 Announce Type: cross \nAbstract: Do video diffusion models encode signals predictive of physical plausibility? We probe intermediate denoising representations of a pretrained Diffusion Transformer (DiT) and find that physically plausible and implausible videos are partially separable in mid-layer feature space across noise levels. This separability cannot be fully attributed to visual quality or generator identity, suggesting recoverable physics-related cues in frozen DiT features. Leveraging this observation, we introduce progressive trajectory selection, an inference-time strategy that scores parallel denoising trajectories at a few intermediate checkpoints using a lightweight physics verifier trained on frozen features, and prunes low-scoring candidates early. Extensive experiments on PhyGenBench demonstrate that our method improves physical consistency while reducing inference cost, achieving comparable results to Best-of-K sampling with substantially fewer denoising steps.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14294",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14294v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517389"
+}

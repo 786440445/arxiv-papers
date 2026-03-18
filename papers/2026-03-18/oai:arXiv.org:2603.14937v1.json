@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14937v1",
+  "title": "LLM as Graph Kernel: Rethinking Message Passing on Text-Rich Graphs",
+  "authors": "Ying Zhang, Hang Yu, Haipeng Zhang, Peng Di",
+  "summary": "arXiv:2603.14937v1 Announce Type: new \nAbstract: Text-rich graphs, which integrate complex structural dependencies with abundant textual information, are ubiquitous yet remain challenging for existing learning paradigms. Conventional methods and even LLM-hybrids compress rich text into static embeddings or summaries before structural reasoning, creating an information bottleneck and detaching updates from the raw content. We argue that in text-rich graphs, the text is not merely a node attribute but the primary medium through which structural relationships are manifested. We introduce RAMP, a Raw-text Anchored Message Passing approach that moves beyond using LLMs as mere feature extractors and instead recasts the LLM itself as a graph-native aggregation operator. RAMP exploits the text-rich nature of the graph via a novel dual-representation scheme: it anchors inference on each node's raw text during each iteration while propagating dynamically optimized messages from neighbors. It further handles both discriminative and generative tasks under a single unified generative formulation. Extensive experiments show that RAMP effectively bridges the gap between graph propagation and deep text reasoning, achieving competitive performance and offering new insights into the role of LLMs as graph kernels for general-purpose graph learning.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14937",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14937v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516489"
+}

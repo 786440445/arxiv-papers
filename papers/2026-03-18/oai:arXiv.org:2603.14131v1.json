@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14131v1",
+  "title": "Is the reconstruction loss culprit? An attempt to outperform JEPA",
+  "authors": "Alexey Potapov, Oleg Shcherbakov, Ivan Kravchenko",
+  "summary": "arXiv:2603.14131v1 Announce Type: new \nAbstract: We evaluate JEPA-style predictive representation learning versus reconstruction-based autoencoders on a controlled \"TV-series\" linear dynamical system with known latent state and a single noise parameter. While an initial comparison suggests JEPA is markedly more robust to noise, further diagnostics show that autoencoder failures are strongly influenced by asymmetries in objectives and by bottleneck/component-selection effects (confirmed by PCA baselines). Motivated by these findings, we introduce gated predictive autoencoders that learn to select predictable components, mimicking the beneficial feature-selection behavior observed in over-parameterized PCA. On this toy testbed, the proposed gated model is stable across noise levels and matches or outperforms JEPA.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14131",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14131v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516076"
+}

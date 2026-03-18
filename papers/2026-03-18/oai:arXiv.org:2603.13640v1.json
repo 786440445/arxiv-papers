@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13640v1",
+  "title": "SemRep: Generative Code Representation Learning with Code Transformations",
+  "authors": "Weichen Li, Jiamin Song, Bogdan Alexandru Stoica, Arav Dhoot, Gabriel Ryan, Shengyu Fu, Kexin Pei",
+  "summary": "arXiv:2603.13640v1 Announce Type: new \nAbstract: Code transformation is a foundational capability in the software development process, where its effectiveness relies on constructing a high-quality code representation to characterize the input code semantics and guide the transformation. Existing approaches treat code transformation as an end-to-end learning task, leaving the construction of the representation needed for semantic reasoning implicit in model weights or relying on rigid compiler-level abstractions. We present SemRep, a framework that improves code transformation through generative code representation learning. Our key insight is to employ the semantics-preserving transformations as the intermediate representation, which serves as both a generative mid-training task and the guidance for subsequent instruction-specific code transformations. Across general code editing and optimization tasks (e.g., GPU kernel optimization), SemRep outperforms the extensively finetuned baselines with strictly the same training budget by 6.9% in correctness, 1.1x in performance, 13.9% in generalization, and 6.7% in robustness. With the improved exploration of diverse code transformations, SemRep is particularly amenable to evolutionary search. Combined with an evolutionary coding agent, SemRep finds optimizations that 685B larger-weight baselines fail to discover while achieving the same performance with 25% less inference compute.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13640",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13640v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515868"
+}

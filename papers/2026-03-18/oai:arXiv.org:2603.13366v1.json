@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13366v1",
+  "title": "Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding",
+  "authors": "Zhongxing Xu, Zhonghua Wang, Zhe Qian, Dachuan Shi, Feilong Tang, Ming Hu, Shiyan Su, Xiaocheng Zou, Wei Feng, Dwarikanath Mahapatra, Yifan Peng, Mingquan Lin, Zongyuan Ge",
+  "summary": "arXiv:2603.13366v1 Announce Type: cross \nAbstract: Recent advancements in multimodal large reasoning models (MLRMs) have significantly improved performance in visual question answering. However, we observe that transition words (e.g., because, however, and wait) are closely associated with hallucinations and tend to exhibit high-entropy states. We argue that adequate contextual reasoning information can be directly extracted from the token probability distribution. Inspired by superposed representation theory, we propose leveraging latent superposed reasoning to integrate multiple candidate semantics and maintain latent reasoning trajectories. The hypothesis is that reliance on discrete textual inputs may drive the model toward sequential explicit reasoning, underutilizing dense contextual cues during high-entropy reasoning stages. Therefore, we propose constructing rich semantic representations from the token probability distributions to enhance in-context reasoning. With this goal, we present Latent Entropy-Aware Decoding (LEAD), an efficient plug-and-play decoding strategy that leverages semantic context to achieve reliable reasoning. The heart of our method lies in entropy-aware reasoning mode switching. The model employs probability-weighted continuous embeddings under high-entropy states and transitions back to discrete token embeddings as entropy decreases. Moreover, we propose a prior-guided visual anchor injection strategy that encourages the model to focus on visual information. Extensive experiments show that LEAD effectively mitigates hallucinations across various MLRMs on multiple benchmarks.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13366",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13366v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542041"
+}

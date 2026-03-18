@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13689v1",
+  "title": "Quantum-Enhanced Vision Transformer for Flood Detection using Remote Sensing Imagery",
+  "authors": "Soumyajit Maity, Behzad Ghanbarian",
+  "summary": "arXiv:2603.13689v1 Announce Type: new \nAbstract: Reliable flood detection is critical for disaster management, yet classical deep learning models often struggle with the high-dimensional, nonlinear complexities inherent in remote sensing data. To mitigate these limitations, we introduced a novel Quantum-Enhanced Vision Transformer (ViT) that synergizes the global context-awareness of transformers with the expressive feature extraction capabilities of quantum computing. Using remote sensing imagery, we developed a hybrid architecture that processes inputs through parallel pathways, a ViT backbone and a quantum branch utilizing a 4-qubit parameterized quantum circuit for localized feature mapping. These distinct representations were fused to optimize binary classification. Results showed that the proposed hybrid model significantly outperformed a classical ViT baseline, increased overall accuracy from 84.48% to 94.47% and the F1-score from 0.841 to 0.944. Notably, the quantum integration substantially improved discriminative power in complex terrains for both class. These findings validate the potential of quantum-classical hybrid models to enhance precision in hydrological monitoring and earth observation applications.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13689",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13689v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515889"
+}

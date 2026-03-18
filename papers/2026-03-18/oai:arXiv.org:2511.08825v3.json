@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.08825v3",
+  "title": "Neural Value Iteration",
+  "authors": "Yang You, Ufuk \\c{C}ak{\\i}r, Alex Schutz, Nick Hawes",
+  "summary": "arXiv:2511.08825v3 Announce Type: replace \nAbstract: The value function of a POMDP exhibits the piecewise-linear-convex (PWLC) property and can be represented as a finite set of hyperplanes, known as $\\alpha$-vectors. Most state-of-the-art POMDP solvers (offline planners) follow the point-based value iteration scheme, which performs Bellman backups on $\\alpha$-vectors at reachable belief points until convergence. However, since each $\\alpha$-vector is $|S|$-dimensional, these methods quickly become intractable for large-scale problems due to the prohibitive computational cost of Bellman backups. In this work, we demonstrate that the PWLC property allows a POMDP's value function to be alternatively represented as a finite set of neural networks. This insight enables a novel POMDP planning algorithm called \\emph{Neural Value Iteration}, which combines the generalization capability of neural networks with the classical value iteration framework. Our approach achieves near-optimal solutions even in extremely large POMDPs that are intractable for existing offline solvers.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.08825",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.08825v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.543665"
+}

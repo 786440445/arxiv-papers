@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.04658v2",
+  "title": "LAMB: LLM-based Audio Captioning with Modality Gap Bridging via Cauchy-Schwarz Divergence",
+  "authors": "Hyeongkeun Lee, Jongmin Choi, KiHyun Nam, Joon Son Chung",
+  "summary": "arXiv:2601.04658v2 Announce Type: replace \nAbstract: Automated Audio Captioning aims to describe the semantic content of input audio. Recent works have employed large language models (LLMs) as a text decoder to leverage their reasoning capabilities. However, prior approaches that project audio features into the LLM embedding space without considering cross-modal alignment fail to fully utilize these capabilities. To address this, we propose LAMB, an LLM-based audio captioning framework that bridges the modality gap between audio embeddings and the LLM text embedding space. LAMB incorporates a Cross-Modal Aligner that minimizes Cauchy-Schwarz divergence while maximizing mutual information, yielding tighter alignment between audio and text at both global and token levels. We further design a Two-Stream Adapter that extracts semantically enriched audio embeddings, thereby delivering richer information to the Cross-Modal Aligner. Finally, leveraging the aligned audio embeddings, a proposed Token Guide directly computes scores within the LLM text embedding space to steer the output logits of generated captions. Experimental results confirm that our framework strengthens the reasoning capabilities of the LLM decoder, achieving state-of-the-art performance on AudioCaps.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.04658",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.04658v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039796"
+}

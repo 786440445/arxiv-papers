@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14343v1",
+  "title": "Localizing and Editing Knowledge in Large Audio-Language Models",
+  "authors": "Sung Kyun Chung, Jiaheng Dong, Qiuchi Hu, Gongping Huang, Hong Jia, Ting Dang",
+  "summary": "arXiv:2603.14343v1 Announce Type: new \nAbstract: Large Audio-Language Models (LALMs) have shown strong performance in speech understanding, making speech a natural interface for accessing factual information. Yet they are trained on static corpora and may encode incorrect facts. Existing model editing methods localize and update facts in text-only LLMs, but do not account for continuous speech representations, or where knowledge is stored across acoustic or language modules, or their cross-modal module. We construct the first audio benchmark for knowledge localization and editing in LALMs and propose a speech-driven locate-then-edit framework. First, we use speech-aware causal tracing to localize layers and modules that support factual retrieval and then apply editing at identified sites. Experiments show that factual knowledge is jointly encoded in audio and text modules, and that audio editing yields more effective updates than text editing or fine-tuning, enabling fine-grained knowledge control in speech AI systems.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14343",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14343v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516177"
+}

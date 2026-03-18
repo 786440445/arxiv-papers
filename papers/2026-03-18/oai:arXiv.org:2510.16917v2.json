@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.16917v2",
+  "title": "SAKE: Towards Editing Auditory Attribute Knowledge of Large Audio-Language Models",
+  "authors": "Chih-Kai Yang, Yen-Ting Piao, Tzu-Wen Hsu, Szu-Wei Fu, Zhehuai Chen, Ke-Han Lu, Sung-Feng Huang, Chao-Han Huck Yang, Yu-Chiang Frank Wang, Yun-Nung Chen, Hung-yi Lee",
+  "summary": "arXiv:2510.16917v2 Announce Type: replace \nAbstract: Knowledge editing enables targeted updates without retraining, but prior work focuses on textual or visual facts, leaving abstract auditory perceptual knowledge underexplored. We introduce SAKE, the first benchmark for editing perceptual auditory attribute knowledge in large audio-language models (LALMs), which requires modifying acoustic generalization rather than isolated facts. We evaluate eight diverse editing methods on three LALMs across reliability, generality, locality, and portability, under single and sequential edits. Results show that most methods enforce edits reliably but struggle with auditory generalization, intra-attribute locality, and multimodal knowledge propagation, and often exhibit forgetting or degeneration in sequential editing. Additionally, fine-tuning the modality connector emerges as a more robust and balanced baseline compared with directly editing the LLM backbones. SAKE reveals key limitations of current methods and provides a foundation for developing auditory-specific LALM editing techniques.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.16917",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.16917v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039786"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.06387v3",
+  "title": "Model-based Implicit Neural Representation for sub-wavelength Radio Localization",
+  "authors": "Baptiste Chatelier (IETR, INSA Rennes, MERCE-France), Vincent Corlay (MERCE-France), Musa Furkan Keskin (INSA Rennes, IETR), Matthieu Crussi\\`ere (INSA Rennes, IETR), Henk Wymeersch (INSA Rennes, IETR), Luc Le Magoarou (INSA Rennes, IETR)",
+  "summary": "arXiv:2506.06387v3 Announce Type: replace-cross \nAbstract: The increasing deployment of large antenna arrays at base stations has significantly improved the spatial resolution and localization accuracy of radio-localization methods. However, traditional signal processing techniques struggle in complex radio environments, particularly in scenarios dominated by non line of sight (NLoS) propagation paths, resulting in degraded localization accuracy. Recent developments in machine learning have facilitated the development of machine learning-assisted localization techniques, enhancing localization accuracy in complex radio environments. However, these methods often involve substantial computational complexity during both the training and inference phases. This work extends the well-established fingerprinting-based localization framework by simultaneously reducing its memory requirements and improving its accuracy. Specifically, a model-based neural network is used to learn the location-to-channel mapping, and then serves as a generative neural channel model. This generative model augments the fingerprinting comparison dictionary while reducing the memory requirements. The proposed method outperforms fingerprinting baselines by achieving sub-wavelength localization accuracy, even in complex static NLoS environments. Remarkably, it offers an improvement by several orders of magnitude in localization accuracy, while simultaneously reducing memory requirements by an order of magnitude compared to classical fingerprinting methods.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.06387",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.06387v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518760"
+}

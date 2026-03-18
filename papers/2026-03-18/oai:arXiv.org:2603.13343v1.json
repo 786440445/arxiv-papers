@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13343v1",
+  "title": "AI-Driven Predictive Maintenance with Real-Time Contextual Data Fusion for Connected Vehicles: A Multi-Dataset Evaluation",
+  "authors": "Kushal Khemani (Independent Researcher, India), Anjum Nazir Qureshi (Rajiv Gandhi College of Engineering Research,Technology)",
+  "summary": "arXiv:2603.13343v1 Announce Type: new \nAbstract: Most vehicle predictive maintenance systems rely exclusively on internal diagnostic signals and are validated on deterministic synthetic data, limiting the credibility of reported metrics. This paper presents a simulation-validated proof-of-concept framework for V2X-augmented predictive maintenance, integrating on-board sensor streams with external contextual signals -- road quality, weather, traffic density, and driver behaviour -- acquired via V2X communication and third-party APIs, with inference at the vehicle edge. Field validation on instrumented vehicles is identified as the required next step. Three experiments address common shortcomings of prior work. A feature group ablation study shows that V2X contextual features contribute a 2.6-point F1 gain, with full context removal reducing macro F1 from 0.855 to 0.807. On the AI4I 2020 real-world industrial failure dataset (10,000 samples, five failure modes), LightGBM achieves AUC-ROC of 0.973 under 5-fold stratified CV with SMOTE confined to training folds. A noise sensitivity analysis shows macro F1 remains above 0.88 under low noise and degrades to 0.74 under very high noise. SHAP analysis confirms that V2X and engineered interaction features rank among the top 15 predictors. Edge inference is estimated to reduce latency from 3.5s to under 1.0s versus cloud-only processing.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13343",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13343v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515727"
+}

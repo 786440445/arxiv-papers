@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2404.02289v4",
+  "title": "Federated Multi-Agent Mapping for Planetary Exploration",
+  "authors": "Tiberiu-Ioan Szatmari, Abhishek Cauligi",
+  "summary": "arXiv:2404.02289v4 Announce Type: replace-cross \nAbstract: Multi-agent robotic exploration stands to play an important role in space exploration as the next generation of robotic systems ventures to far-flung environments. A key challenge in this new paradigm will be to effectively share and utilize the vast amount of data generated onboard while operating in bandwidth-constrained regimes typical of space missions. Federated learning (FL) is a promising tool for bridging this gap. Drawing inspiration from the upcoming CADRE Lunar rover mission, we propose a federated multi-agent mapping approach that jointly trains a global map model across agents without transmitting raw data. Our method leverages implicit neural mapping to generate parsimonious, adaptable representations, reducing data transmission by up to 93.8% compared to raw maps. Furthermore, we enhance this approach with meta-initialization on Earth-based traversability datasets to significantly accelerate map convergence; reducing iterations required to reach target performance by 80% compared to random initialization. We demonstrate the efficacy of our approach on Martian terrains and glacier datasets, achieving downstream path planning F1 scores as high as 0.95 while outperforming on map reconstruction losses.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2404.02289",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2404.02289v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518625"
+}

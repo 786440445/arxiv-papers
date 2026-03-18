@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14003v1",
+  "title": "The Taxonomies, Training, and Applications of Event Stream Modelling for Electronic Health Records",
+  "authors": "Mingcheng Zhu, Yu Liu, Zhiyao Luo, Tingting Zhu",
+  "summary": "arXiv:2603.14003v1 Announce Type: cross \nAbstract: The widespread adoption of electronic health records (EHRs) enables the acquisition of heterogeneous clinical data, spanning lab tests, vital signs, medications, and procedures, which offer transformative potential for artificial intelligence in healthcare. Although traditional modelling approaches have typically relied on multivariate time series, they often struggle to accommodate the inherent sparsity and irregularity of real-world clinical workflows. Consequently, research has shifted toward event stream representation, which treats patient records as continuous sequences, thereby preserving the precise temporal structure of the patient journey. However, the existing literature remains fragmented, characterised by inconsistent definitions, disparate modelling architectures, and varying training protocols. To address these gaps, this review establishes a unified definition of EHR event streams and introduces a novel taxonomy that categorises models based on their handling of event time, type, and value. We systematically review training strategies, ranging from supervised learning to self-supervised methods, and provide a comprehensive discussion of applications across clinical scenarios. Finally, we identify open critical challenges and future directions, with the aim of clarifying the current landscape and guiding the development of next-generation healthcare models.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14003",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14003v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517291"
+}

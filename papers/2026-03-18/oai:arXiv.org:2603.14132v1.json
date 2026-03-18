@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14132v1",
+  "title": "DualSwinFusionSeg: Multimodal Martian Landslide Segmentation via Dual Swin Transformer with Multi-Scale Fusion and UNet++",
+  "authors": "Shahriar Kabir, Abdullah Muhammed Amimul Ehsan, Istiak Ahmmed Rifti, Md Kaykobad Reza",
+  "summary": "arXiv:2603.14132v1 Announce Type: cross \nAbstract: Automated segmentation of Martian landslides, particularly in tectonically active regions such as Valles Marineris,is important for planetary geology, hazard assessment, and future robotic exploration. However, detecting landslides from planetary imagery is challenging due to the heterogeneous nature of available sensing modalities and the limited number of labeled samples. Each observation combines RGB imagery with geophysical measurements such as digital elevation models, slope maps, thermal inertia, and contextual grayscale imagery, which differ significantly in resolution and statistical properties. To address these challenges, we propose DualSwinFusionSeg, a multimodal segmentation architecture that separates modality-specific feature extraction and performs multi-scale cross-modal fusion. The model employs two parallel Swin Transformer V2 encoders to independently process RGB and auxiliary geophysical inputs, producing hierarchical feature representations. Corresponding features from the two streams are fused at multiple scales and decoded using a UNet++ decoder with dense nested skip connections to preserve fine boundary details. Extensive ablation studies evaluate modality contributions, loss functions, decoder architectures, and fusion strategies. Experiments on the MMLSv2 dataset from the PBVS 2026 Mars-LS Challenge show that modality-specific encoders and simple concatenation-based fusion improve segmentation accuracy under limited training data. The final model achieves 0.867 mIoU and 0.905 F1 on the development benchmark and 0.783 mIoU on the held-out test set, demonstrating strong performance for multimodal planetary surface segmentation.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14132",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14132v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517355"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13603v1",
+  "title": "The Equivalence Theorem: First-Class Relationships for Structurally Complete Database Systems",
+  "authors": "Matthew Alford",
+  "summary": "arXiv:2603.13603v1 Announce Type: cross \nAbstract: We prove The Equivalence Theorem: structurally complete knowledge representation requires exactly four mutually entailing capabilities -- n-ary relationships with attributes, temporal validity, uncertainty quantification, and causal relationships between relationships -- collectively equivalent to treating relationships as first-class objects. Any system implementing one capability necessarily requires all four; any system missing one cannot achieve structural completeness. This result is constructive: we exhibit an Attributed Temporal Causal Hypergraph (ATCH) framework satisfying all four conditions simultaneously. The theorem yields a strict expressiveness hierarchy -- SQL < LPG < TypeDB < ATCH -- with witness queries that are structurally inexpressible at each lower level. We establish computational complexity bounds showing NP-completeness for general queries but polynomial-time tractability for practical query classes (acyclic patterns, bounded-depth causal chains, windowed temporal queries). As direct corollaries, we derive solutions to classical AI problems: the Frame Problem (persistence by default from temporal validity), conflict resolution (contradictions as unresolved metadata with hidden variable discovery), and common sense reasoning (defaults with causal inhibitors). A prototype PostgreSQL extension in C validates practical feasibility within the established complexity bounds.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13603",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13603v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542283"
+}

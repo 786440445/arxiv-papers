@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14222v1",
+  "title": "Membership Inference for Contrastive Pre-training Models with Text-only PII Queries",
+  "authors": "Ruoxi Cheng, Yizhong Ding, Hongyi Zhang, Yiyan Huang",
+  "summary": "arXiv:2603.14222v1 Announce Type: cross \nAbstract: Contrastive pretraining models such as CLIP and CLAP underpin many vision-language and audio-language systems, yet their reliance on web-scale data raises growing concerns about memorizing Personally Identifiable Information (PII). Auditing such models via membership inference is challenging in practice: shadow-model MIAs are computationally prohibitive for large multimodal backbones, and existing multimodal attacks typically require querying the target with paired biometric inputs, thereby directly exposing sensitive biometric information to the target model. We propose Unimodal Membership Inference Detector (UMID), a text-only auditing framework that performs text-guided cross-modal latent inversion and extracts two complementary signals, similarity (alignment to the queried text) and variability (consistency across randomized inversions). UMID compares these statistics to a lightweight non-member reference constructed from synthetic gibberish and makes decisions via an ensemble of unsupervised anomaly detectors. Comprehensive experiments across diverse CLIP and CLAP architectures demonstrate that UMID significantly improves the effectiveness and efficiency over prior MIAs, delivering strong detection performance with sub-second auditing cost while complying with realistic privacy constraints.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14222",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14222v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542682"
+}

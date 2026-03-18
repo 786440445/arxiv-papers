@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13410v1",
+  "title": "Bridging the Visual-to-Physical Gap: Physically Aligned Representations for Fall Risk Analysis",
+  "authors": "Xianqi Zhang",
+  "summary": "arXiv:2603.13410v1 Announce Type: cross \nAbstract: Vision-based fall analysis has advanced rapidly, but a key bottleneck remains: visually similarmotions can correspond to very different physical outcomes because small differences in contactmechanics and protective responses are hard to infer from appearance alone. Most existingapproaches handle this by supervised injury prediction, which depends on reliable injury labels.In practice, such labels are difficult to obtain: video evidence is often ambiguous (occlusion,viewpoint limits), and true injury events are rare and cannot be safely staged, leading to noisysupervision. We address this problem with PHARL (PHysics-aware Alignment RepresentationLearning), which learns physically meaningful fall representations without requiring clinicaloutcome labels. PHARL regularizes motion embeddings with two complementary constraints:(1) trajectory-level temporal consistency for stable representation learning, and (2) multi-classphysics alignment, where simulation-derived contact outcomes shape embedding geometry. Bypairing video windows with temporally aligned simulation descriptors, PHARL captures localimpact-relevant dynamics while keeping inference purely feed-forward. Experiments on fourpublic datasets show that PHARL consistently improves risk-aligned representation quality overvisual-only baselines while maintaining strong fall-detection performance. Notably, PHARL alsoexhibits zero-shot ordinality: an interpretable severity structure (Head > Trunk > Supported)emerges without explicit ordinal supervision.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13410",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13410v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542112"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14803v1",
+  "title": "VorTEX: Various overlap ratio for Target speech EXtraction",
+  "authors": "Ro-hoon Oh, Jihwan Seol, Bugeun Kim",
+  "summary": "arXiv:2603.14803v1 Announce Type: new \nAbstract: Target speech extraction (TSE) aims to recover a target speaker's voice from a mixture. While recent text-prompted approaches have shown promise, most approaches assume fully overlapped mixtures, limiting insight into behavior across realistic overlap ratios. We introduce VorTEX (Various overlap ratio for Target speech EXtraction), a text-prompted TSE architecture with a Decoupled Adaptive Multi-branch (DAM) Fusion block that separates primary extraction from auxiliary regularization pathways. To enable controlled analysis, we construct PORTE, a two-speaker dataset spanning overlap ratios from 0% to 100%. We further propose Suppression Ratio on Energy (SuRE), a diagnostic metric that detects suppression behavior not captured by conventional measures. Experiments show that existing models exhibit suppression or residual interference under overlap, whereas VorTEX achieves the highest separation fidelity across 20-100% overlap (e.g., 5.50 dB at 20% and 2.04 dB at 100%) while maintaining zero SuRE, indicating robust extraction without suppression-driven artifacts.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14803",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14803v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039662"
+}

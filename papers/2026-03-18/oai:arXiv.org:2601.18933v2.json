@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.18933v2",
+  "title": "BabyReasoningBench: Generating Developmentally-Inspired Reasoning Tasks for Evaluating Baby Language Models",
+  "authors": "Kaustubh D. Dhole",
+  "summary": "arXiv:2601.18933v2 Announce Type: replace-cross \nAbstract: Traditional evaluations of reasoning capabilities of language models are dominated by adult-centric benchmarks that presuppose broad world knowledge, complex instruction following, and mature pragmatic competence. These assumptions are mismatched to baby language models trained on developmentally plausible input such as child-directed speech and early-childhood narratives, and they obscure which reasoning abilities (if any) emerge under such constraints. We introduce BabyReasoningBench, a GPT-5.2 generated benchmark of 19 reasoning tasks grounded in classic paradigms from developmental psychology, spanning theory of mind, analogical and relational reasoning, causal inference and intervention selection, and core reasoning primitives that are known to be confounded by memory and pragmatics. We find that two GPT-2 based baby language models (pretrained on 10M and 100M of child-directed speech text) show overall low but uneven performance, with dissociations across task families: scaling improves several causal and physical reasoning tasks, while belief attribution and pragmatics-sensitive tasks remain challenging. BabyReasoningBench provides a developmentally grounded lens for analyzing what kinds of reasoning are supported by child-like training distributions, and for testing mechanistic hypotheses about how such abilities emerge.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.18933",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.18933v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.544480"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14032v1",
+  "title": "Beyond Two-stage Diffusion TTS: Joint Structure and Content Refinement via Jump Diffusion",
+  "authors": "Jiabao Ai, Minghui Zhao, Anton Ragni",
+  "summary": "arXiv:2603.14032v1 Announce Type: new \nAbstract: Diffusion and flow matching TTS faces a tension between discrete temporal structure and continuous spectral modeling. Two-stage models diffuse on fixed alignments, often collapsing to mean prosody; single-stage models avoid explicit durations but suffer alignment instability. We propose a jump-diffusion framework where discrete jumps model temporal structure and continuous diffusion refines spectral content within one process. Even in its one-shot degenerate form, our framework achieves 3.37% WER vs. 4.38% for Grad-TTS with improved UTMOSv2 on LJSpeech. The full iterative UDD variant further enables adaptive prosody, autonomously inserting natural pauses in out-of-distribution slow speech rather than stretching uniformly. Audio samples are available at https://anonymousinterpseech.github.io/TTS_Demo/.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14032",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14032v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635132"
+}

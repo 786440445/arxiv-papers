@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14224v1",
+  "title": "Self-Indexing KVCache: Predicting Sparse Attention from Compressed Keys",
+  "authors": "Xu Yang, Jiapeng Zhang, Dongyang Zhao, Guo Chen, Zhuo Tang",
+  "summary": "arXiv:2603.14224v1 Announce Type: new \nAbstract: The KV cache in self-attention has emerged as a major bottleneck in long-context and large-batch inference for LLMs. Existing approaches often treat sparsity prediction and compression as separate modules, relying on auxiliary index structures to select relevant tokens, and on complex quantization schemes to reduce memory usage. This fragmented design introduces redundant overhead and limits scalability.\n  In this paper, we propose a novel paradigm: treating the compressed key representation not merely as storage, but as a self-indexing structure that directly enables efficient sparse attention. By designing a sign-based 1-bit vector quantization (VQ) scheme, our method unifies compression and retrieval in a single, hardware-friendly format. This approach eliminates the need for external indices or learning-based predictors, offering a lightweight yet robust solution for memory-constrained inference. All components are designed to be hardware-efficient and easy to implement. By implementing custom CUDA kernels, our method integrates seamlessly with FlashAttention, minimizing additional runtime and memory overhead. Experimental results demonstrate that our approach delivers both effectiveness and efficiency.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14224",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14224v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516125"
+}

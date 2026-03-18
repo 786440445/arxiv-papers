@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.08362v2",
+  "title": "Circuit Representations of Random Forests with Applications to XAI",
+  "authors": "Chunxi Ji, Adnan Darwiche",
+  "summary": "arXiv:2602.08362v2 Announce Type: replace-cross \nAbstract: We make three contributions in this paper. First, we present an approach for compiling a random forest classifier into a set of circuits, where each circuit directly encodes the instances in some class of the classifier. We show empirically that our proposed approach is significantly more efficient than existing similar approaches. Next, we utilize this approach to further obtain circuits that are tractable for computing the complete and general reasons of a decision, which are instance abstractions that play a fundamental role in computing explanations. Finally, we propose algorithms for computing the robustness of a decision and all shortest ways to flip it. We illustrate the utility of our contributions by using them to enumerate all sufficient reasons, necessary reasons and contrastive explanations of decisions; to compute the robustness of decisions; and to identify all shortest ways to flip the decisions made by random forest classifiers learned from a wide range of datasets.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.08362",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.08362v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.519005"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.01716v2",
+  "title": "SemBench: A Benchmark for Semantic Query Processing Engines",
+  "authors": "Jiale Lao, Andreas Zimmerer, Olga Ovcharenko, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma \\\"Ozcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer",
+  "summary": "arXiv:2511.01716v2 Announce Type: replace-cross \nAbstract: We present a benchmark targeting a novel class of systems: semantic query processing engines. Those systems rely inherently on generative and reasoning capabilities of state-of-the-art large language models (LLMs). They extend SQL with semantic operators, configured by natural language instructions, that are evaluated via LLMs and enable users to perform various operations on multimodal data.\n  Our benchmark introduces diversity across three key dimensions: scenarios, modalities, and operators. Included are scenarios ranging from movie review analysis to car damage detection. Within these scenarios, we cover different data modalities, including images, audio, and text. Finally, the queries involve a diverse set of operators, including semantic filters, joins, mappings, ranking, and classification operators.\n  We evaluated our benchmark on three academic systems (LOTUS, Palimpzest, and ThalamusDB) and one industrial system, Google BigQuery. Although these results reflect a snapshot of systems under continuous development, our study offers crucial insights into their current strengths and weaknesses, illuminating promising directions for future research.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.01716",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.01716v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518907"
+}

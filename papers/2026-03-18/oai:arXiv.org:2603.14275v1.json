@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14275v1",
+  "title": "Controllable Accent Normalization via Discrete Diffusion",
+  "authors": "Qibing Bai, Yuhan Du, Tom Ko, Shuai Wang, Yannan Wang, Haizhou Li",
+  "summary": "arXiv:2603.14275v1 Announce Type: cross \nAbstract: Existing accent normalization methods do not typically offer control over accent strength, yet many applications-such as language learning and dubbing-require tunable accent retention. We propose DLM-AN, a controllable accent normalization system built on masked discrete diffusion over self-supervised speech tokens. A Common Token Predictor identifies source tokens that likely encode native pronunciation; these tokens are selectively reused to initialize the reverse diffusion process. This provides a simple yet effective mechanism for controlling accent strength: reusing more tokens preserves more of the original accent. DLM-AN further incorporates a flow-matching Duration Ratio Predictor that automatically adjusts the total duration to better match the native rhythm. Experiments on multi-accent English data show that DLM-AN achieves the lowest word error rate among all compared systems while delivering competitive accent reduction and smooth, interpretable accent strength control.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14275",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14275v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039749"
+}

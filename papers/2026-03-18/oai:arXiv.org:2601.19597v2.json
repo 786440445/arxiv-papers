@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.19597v2",
+  "title": "The Geometric Mechanics of Contrastive Learning: Alignment Potentials, Entropic Dispersion, and Modality Gap",
+  "authors": "Yichao Cai, Zhen Zhang, Yuhang Liu, Javen Qinfeng Shi",
+  "summary": "arXiv:2601.19597v2 Announce Type: replace \nAbstract: InfoNCE-based contrastive learning is often characterized as promoting alignment and uniformity, yet the induced population geometry and the reasons multimodal training can preserve a modality gap remain underexplored. We present a measure-theoretic view where training reshapes probability measures on a fixed embedding manifold. In the large-batch limit, we prove value and gradient consistency, showing that stochastic InfoNCE tracks a closed-form deterministic energy and revealing a geometric bifurcation between unimodal and symmetric multimodal regimes. Unimodally, the intrinsic functional over the representation measures is strictly convex with a unique Gibbs equilibrium; at low temperature, entropy only breaks ties among well-aligned solutions, so uniformity is entropic dispersion within the alignment basin. Multimodally, symmetric InfoNCE contains a persistent negative symmetric divergence coupling: at fixed temperature, each modality's marginal acts as a logarithmic barrier shaping the other's effective landscape, which can structurally favor a population-level modality gap under conditional heterogeneity. We validate these predictions in controlled synthetic settings and by measuring the divergence gap on pretrained CLIP embeddings on real-world data. Our analysis shifts the lens from pointwise discrimination to population geometry, suggesting that closing the modality gap requires explicitly regularizing cross-modal divergence in addition to pairwise alignment.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.19597",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.19597v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518276"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15034v1",
+  "title": "Interpretable Predictability-Based AI Text Detection: A Replication Study",
+  "authors": "Adam Skurla, Dominik Macko, Jakub Simko",
+  "summary": "arXiv:2603.15034v1 Announce Type: cross \nAbstract: This paper replicates and extends the system used in the AuTexTification 2023 shared task for authorship attribution of machine-generated texts. First, we tried to reproduce the original results. Exact replication was not possible because of differences in data splits, model availability, and implementation details. Next, we tested newer multilingual language models and added 26 document-level stylometric features. We also applied SHAP analysis to examine which features influence the model's decisions. We replaced the original GPT-2 models with newer generative models such as Qwen and mGPT for computing probabilistic features. For contextual representations, we used mDeBERTa-v3-base and applied the same configuration to both English and Spanish. This allowed us to use one shared configuration for Subtask 1 and Subtask 2. Our experiments show that the additional stylometric features improve performance in both tasks and both languages. The multilingual configuration achieves the results that are comparable to or better than language-specific models. The study also shows that clear documentation is important for reliable replication and fair comparison of systems.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15034",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15034v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517679"
+}

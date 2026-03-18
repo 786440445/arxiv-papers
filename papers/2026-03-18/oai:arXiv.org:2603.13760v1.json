@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13760v1",
+  "title": "Multimodal Emotion Regression with Multi-Objective Optimization and VAD-Aware Audio Modeling for the 10th ABAW EMI Track",
+  "authors": "Jiawen Huang, Chenxi Huang, Zhuofan Wen, Hailiang Yao, Shun Chen, Longjiang Yang, Cong Yu, Fengyu Zhang, Ran Liu, Bin Liu",
+  "summary": "arXiv:2603.13760v1 Announce Type: cross \nAbstract: We participated in the 10th ABAW Challenge, focusing on the Emotional Mimicry Intensity (EMI) Estimation track on the Hume-Vidmimic2 dataset. This task aims to predict six continuous emotion dimensions: Admiration, Amusement, Determination, Empathic Pain, Excitement, and Joy. Through systematic multimodal exploration of pretrained high-level features, we found that, under our pretrained feature setting, direct feature concatenation outperformed the more complex fusion strategies we tested. This empirical finding motivated us to design a systematic approach built upon three core principles: (i) preserving modality-specific attributes through feature-level concatenation; (ii) improving training stability and metric alignment via multi-objective optimization; and (iii) enriching acoustic representations with a VAD-inspired latent prior. Our final framework integrates concatenation-based multimodal fusion, a shared six-dimensional regression head, multi-objective optimization with MSE, Pearson-correlation, and auxiliary branch supervision, EMA for parameter stabilization, and a VAD-inspired latent prior for the acoustic branch. On the official validation set, the proposed scheme achieved our best mean Pearson Correlation Coefficient of 0.478567.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13760",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13760v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039715"
+}

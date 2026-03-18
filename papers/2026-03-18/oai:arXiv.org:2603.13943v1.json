@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13943v1",
+  "title": "Sat-JEPA-Diff: Bridging Self-Supervised Learning and Generative Diffusion for Remote Sensing",
+  "authors": "Kursat Komurcu, Linas Petkevicius",
+  "summary": "arXiv:2603.13943v1 Announce Type: cross \nAbstract: Predicting satellite imagery requires a balance between structural accuracy and textural detail. Standard deterministic methods like PredRNN or SimVP minimize pixel-based errors but suffer from the \"regression to the mean\" problem, producing blurry outputs that obscure subtle geographic-spatial features. Generative models provide realistic textures but often misleadingly reveal structural anomalies. To bridge this gap, we introduce Sat-JEPA-Diff, which combines Self-Supervised Learning (SSL) with Hidden Diffusion Models (LDM). An IJEPA module predicts stable semantic representations, which then route a frozen Stable Diffusion backbone via a lightweight cross-attention adapter. This ensures that the synthesized high-accuracy textures are based on absolutely accurate structural predictions. Evaluated on a global Sentinel-2 dataset, Sat-JEPA-Diff excels at resolving sharp boundaries. It achieves leading perceptual scores (GSSIM: 0.8984, FID: 0.1475) and significantly outperforms deterministic baselines, despite standard autoregressive stability limits. The code and dataset are publicly available on https://github.com/VU-AIML/SAT-JEPA-DIFF.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13943",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13943v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517267"
+}

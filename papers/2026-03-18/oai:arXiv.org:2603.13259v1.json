@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13259v1",
+  "title": "How Transformers Reject Wrong Answers: Rotational Dynamics of Factual Constraint Processing",
+  "authors": "Javier Mar\\'in",
+  "summary": "arXiv:2603.13259v1 Announce Type: cross \nAbstract: When a language model is fed a wrong answer, what happens inside the network? Current understanding treats truthfulness as a static property of individual-layer representations-a direction to be probed, a feature to be extracted. Less is known about the dynamics: how internal representations diverge across the full depth of the network when the model processes correct versus incorrect continuations.\n  We introduce forced-completion probing, a method that presents identical queries with known correct and incorrect single-token continuations and tracks five geometric measurements across every layer of four decoder-only models(1.5B-13B parameters). We report three findings. First, correct and incorrect paths diverge through rotation, not rescaling: displacement vectors maintain near-identical magnitudes while their angular separation increases, meaning factual selection is encoded in direction on an approximate hypersphere. Second, the model does not passively fail on incorrect input-it actively suppresses the correct answer, driving internal probability away from the right token. Third, both phenomena are entirely absent below a parameter threshold and emerge at 1.6B, suggesting a phase transition in factual processing capability.\n  These results show that factual constraint processing has a specific geometric character-rotational, not scalar; active, not passive-that is invisible to methods based on single-layer probes or magnitude comparisons.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13259",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13259v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541770"
+}

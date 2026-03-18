@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13768v1",
+  "title": "Causal Tracing of Audio-Text Fusion in Large Audio Language Models",
+  "authors": "Wei-Chih Chen, Chien-yu Huang, Hung-yi Lee",
+  "summary": "arXiv:2603.13768v1 Announce Type: new \nAbstract: Despite the strong performance of large audio language models (LALMs) in various tasks, exactly how and where they integrate acoustic features with textual context remains unclear. We adapt causal tracing to investigate the internal information flow of LALMs during audio comprehension. By conducting layer-wise and token-wise analyses across DeSTA, Qwen, and Voxtral, we evaluate the causal effects of individual hidden states. Layer-wise analysis identifies different fusion strategies, from progressive integration in DeSTA to abrupt late-stage fusion in Qwen. Token-wise analysis shows that the final sequence token acts as an informational bottleneck where the network decisively retrieves relevant information from the audio. We also observe an attention-like query mechanism at intermediate token positions that triggers the model to pull task-relevant audio context. These findings provide a clear characterization of when and where multi-modal integration occurs within LALMs.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13768",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13768v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039618"
+}

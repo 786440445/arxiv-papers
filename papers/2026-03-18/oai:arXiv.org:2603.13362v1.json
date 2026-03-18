@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13362v1",
+  "title": "Patient-Level Multimodal Question Answering from Multi-Site Auscultation Recordings",
+  "authors": "Fan Wu, Tsai-Ning Wang, Nicolas Zumarraga, Ning Wang, Markus Kreft, Kevin O'Sullivan, Elgar Fleisch, Oliver Aalami, Paul Schmiedmayer, Robert Jakob, Patrick Langer",
+  "summary": "arXiv:2603.13362v1 Announce Type: new \nAbstract: Auscultation is a vital diagnostic tool, yet its utility is often limited by subjective interpretation. While general-purpose Audio-Language Models (ALMs) excel in general domains, they struggle with the nuances of physiological signals. We propose a framework that aligns multi-site auscultation recordings directly with a frozen Large Language Model (LLM) embedding space via gated cross-attention. By leveraging the LLM's latent world knowledge, our approach moves beyond isolated classification toward holistic, patient-level assessment. On the CaReSound benchmark, our model achieves a state-of-the-art 0.865 F1-macro and 0.952 BERTScore. We demonstrate that lightweight, domain-specific encoders rival large-scale ALMs and that multi-site aggregation provides spatial redundancy that mitigates temporal truncation. This alignment of medical acoustics with text foundations offers a scalable path for bridging signal processing and clinical assessment.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13362",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13362v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039596"
+}

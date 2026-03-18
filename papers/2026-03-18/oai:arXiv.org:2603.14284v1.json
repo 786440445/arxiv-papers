@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14284v1",
+  "title": "High-Fidelity Compression of Seismic Velocity Models via SIREN Auto-Decoders",
+  "authors": "Caiyun Liu, Xiaoxue Luo, Jie Xiong",
+  "summary": "arXiv:2603.14284v1 Announce Type: new \nAbstract: Implicit Neural Representations (INRs) have emerged as a powerful paradigm for representing continuous signals independently of grid resolution. In this paper, we propose a high-fidelity neural compression framework based on a SIREN (Sinusoidal Representation Networks) auto-decoder to represent multi-structural seismic velocity models from the OpenFWI benchmark. Our method compresses each 70x70 velocity map (4,900 points) into a compact 256-dimensional latent vector, achieving a compression ratio of 19:1. We evaluate the framework on 1,000 samples across five diverse geological families: FlatVel, CurveVel, FlatFault, CurveFault, and Style. Experimental results demonstrate an average PSNR of 32.47 dB and SSIM of 0.956, indicating high-quality reconstruction. Furthermore, we showcase two key advantages of our implicit representation: (1) smooth latent space interpolation that generates plausible intermediate velocity structures, and (2) zero-shot super-resolution capability that reconstructs velocity fields at arbitrary resolutions up to 280x280 without additional training. The results highlight the potential of INR-based auto-decoders for efficient storage, multi-scale analysis, and downstream geophysical applications such as full waveform inversion.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14284",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14284v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516151"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09205v2",
+  "title": "Emotion is Not Just a Label: Latent Emotional Factors in LLM Processing",
+  "authors": "Benjamin Reichman, Adar Avsian, Samuel Webster, Larry Heck",
+  "summary": "arXiv:2603.09205v2 Announce Type: replace-cross \nAbstract: Large language models are routinely deployed on text that varies widely in emotional tone, yet their reasoning behavior is typically evaluated without accounting for emotion as a source of representational variation. Prior work has largely treated emotion as a prediction target, for example in sentiment analysis or emotion classification. In contrast, we study emotion as a latent factor that shapes how models attend to and reason over text. We analyze how emotional tone systematically alters attention geometry in transformer models, showing that metrics such as locality, center-of-mass distance, and entropy vary across emotions and correlate with downstream question-answering performance. To facilitate controlled study of these effects, we introduce Affect-Uniform ReAding QA (AURA-QA), a question-answering dataset with emotionally balanced, human-authored context passages. Finally, an emotional regularization framework is proposed that constrains emotion-conditioned representational drift during training. Experiments across multiple QA benchmarks demonstrate that this approach improves reading comprehension in both emotionally-varying and non-emotionally varying datasets, yielding consistent gains under distribution shift and in-domain improvements on several benchmarks.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09205",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09205v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.519119"
+}

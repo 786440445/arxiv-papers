@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14646v1",
+  "title": "Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models",
+  "authors": "Thuy Ngoc Nguyen, Duy Nhat Phan, Cleotilde Gonzalez",
+  "summary": "arXiv:2603.14646v1 Announce Type: new \nAbstract: Theory of Mind (ToM) is central to social cognition and human-AI interaction, and Large Language Models (LLMs) have been used to help understand and represent ToM. However, most evaluations treat ToM as a static judgment at a single moment, primarily relying on tests of false beliefs. This overlooks a key dynamic dimension of ToM: the ability to represent, update, and retrieve others' beliefs over time. We investigate dynamic ToM as a temporally extended representational memory problem, asking whether LLMs can track belief trajectories across interactions rather than only inferring current beliefs. We introduce DToM-Track, an evaluation framework to investigate temporal belief reasoning in controlled multiturn conversations, testing the recall of beliefs held prior to an update, the inference of current beliefs, and the detection of belief change. Using LLMs as computational probes, we find a consistent asymmetry: models reliably infer an agent's current belief but struggle to maintain and retrieve prior belief states once updates occur. This pattern persists across LLM model families and scales, and is consistent with recency bias and interference effects well documented in cognitive science. These results suggest that tracking belief trajectories over time poses a distinct challenge beyond classical false-belief reasoning. By framing ToM as a problem of temporal representation and retrieval, this work connects ToM to core cognitive mechanisms of memory and interference and exposes the implications for LLM models of social reasoning in extended human-AI interactions.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14646",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14646v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541480"
+}

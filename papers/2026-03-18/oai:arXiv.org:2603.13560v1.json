@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13560v1",
+  "title": "Task-Oriented Wireless Transmission of 3D Point Clouds: Geometric Versus Semantic Robustness",
+  "authors": "Vukan Ninkovic, Tamara Sobot, Vladimir Vincan, Gorana Gojic, Dragisa Miskovic, Dejan Vukobratovic",
+  "summary": "arXiv:2603.13560v1 Announce Type: cross \nAbstract: Wireless transmission of high-dimensional 3D point clouds (PCs) is increasingly required in industrial collaborative robotics systems. Conventional compression methods prioritize geometric fidelity, although many practical applications ultimately depend on reliable task-level inference rather than exact coordinate reconstruction. In this paper, we propose an end-to-end semantic communication framework for wireless 3D PC transmission and conduct a systematic study of the relationship between geometric reconstruction fidelity and semantic robustness under channel impairments. The proposed architecture jointly supports geometric recovery and object classification from a shared transmitted representation, enabling direct comparison between coordinate-level and task-level sensitivity to noise. Experimental evaluation on a real industrial dataset reveals a pronounced asymmetry: semantic inference remains stable across a broad signal-to-noise ratio (SNR) range even when geometric reconstruction quality degrades significantly. These results demonstrate that reliable task execution does not require high-fidelity geometric recovery and provide design insights for task-oriented wireless perception systems in bandwidth- and power-constrained industrial environments.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13560",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13560v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517125"
+}

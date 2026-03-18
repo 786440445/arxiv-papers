@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14830v1",
+  "title": "Dataset Distillation Efficiently Encodes Low-Dimensional Representations from Gradient-Based Learning of Non-Linear Tasks",
+  "authors": "Yuri Kinoshita, Naoki Nishikawa, Taro Toyoizumi",
+  "summary": "arXiv:2603.14830v1 Announce Type: new \nAbstract: Dataset distillation, a training-aware data compression technique, has recently attracted increasing attention as an effective tool for mitigating costs of optimization and data storage. However, progress remains largely empirical. Mechanisms underlying the extraction of task-relevant information from the training process and the efficient encoding of such information into synthetic data points remain elusive. In this paper, we theoretically analyze practical algorithms of dataset distillation applied to the gradient-based training of two-layer neural networks with width $L$. By focusing on a non-linear task structure called multi-index model, we prove that the low-dimensional structure of the problem is efficiently encoded into the resulting distilled data. This dataset reproduces a model with high generalization ability for a required memory complexity of $\\tilde{\\Theta}$$(r^2d+L)$, where $d$ and $r$ are the input and intrinsic dimensions of the task. To the best of our knowledge, this is one of the first theoretical works that include a specific task structure, leverage its intrinsic dimensionality to quantify the compression rate and study dataset distillation implemented solely via gradient-based algorithms.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14830",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14830v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516435"
+}

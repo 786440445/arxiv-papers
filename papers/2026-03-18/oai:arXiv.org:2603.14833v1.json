@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14833v1",
+  "title": "Ablate and Rescue: A Causal Analysis of Residual Stream Hyper-Connections",
+  "authors": "William Peng, Josheev Rai, Kevin Tseng, Siwei Wang, Sean Wu",
+  "summary": "arXiv:2603.14833v1 Announce Type: new \nAbstract: Multi-stream transformer architectures have recently been proposed as a promising direction for managing representation collapse and the vanishing gradient problem for residual connections, yet their internal mechanisms remain unexplored. In particular, the recently introduced Manifold-Constrained Hyper-Connections (mHC) architecture posits multiple residual streams with constrained interaction, but lacks in-depth mechanistic analysis. We present the first open-source mHC language model (https://huggingface.co/wgpeng/mhc-780m) and analyze the multiple-stream architecture with a suite of representation-level metrics and causal interventions to probe how parallel streams encode and utilize information. Specifically, we introduce a systematic stream ablation-and-rescue framework that enables direct causal comparison of residual streams during inference. Through targeted pairwise interventions and controlled recovery experiments, we distinguish functional redundancy from asymmetric utilization and reveal how information is distributed across streams beyond what is observable from representational similarity alone.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14833",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14833v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516440"
+}

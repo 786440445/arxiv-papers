@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13328v1",
+  "title": "Self-Supervised Multi-Stage Domain Unlearning for White-Matter Lesion Segmentation",
+  "authors": "Domen Prelo\\v{z}nik, \\v{Z}iga \\v{S}piclin",
+  "summary": "arXiv:2603.13328v1 Announce Type: cross \nAbstract: Inter-scanner variability of magnetic resonance imaging has an adverse impact on the diagnostic and prognostic quality of the scans and necessitates the development of models robust to domain shift inflicted by the unseen scanner data. Review of recent advances in domain adaptation showed that efficacy of strategies involving modifications or constraints on the latent space appears to be contingent upon the level and/or depth of supervision during model training. In this paper, we therefore propose an unsupervised domain adaptation technique based on self-supervised multi-stage unlearning (SSMSU). Building upon the state-of-the-art segmentation framework nnU-Net, we employ deep supervision at deep encoder stages using domain classifier unlearning, applied sequentially across the deep stages to suppress domain-related latent features. Following self-configurable approach of the nnU-Net, the auxiliary feedback loop implements a self-supervised backpropagation schedule for the unlearning process, since continuous unlearning was found to have a detrimental effect on the main segmentation task. Experiments were carried out on four public datasets for benchmarking white-matter lesion segmentation methods. Five benchmark models and/or strategies, covering passive to active unsupervised domain adaptation, were tested. In comparison, the SSMSU demonstrated the advantage of unlearning by enhancing lesion sensitivity and limiting false detections, which resulted in higher overall segmentation quality in terms of segmentation overlap and relative lesion volume error. The proposed model inputs only the FLAIR modality, which simplifies preprocessing pipelines, eliminates the need for inter-modality registration errors and harmonization, which can introduce variability. Source code is available on https://github.com/Pubec/nnunetv2-unlearning.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13328",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13328v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516963"
+}

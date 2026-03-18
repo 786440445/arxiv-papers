@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14458v1",
+  "title": "Distilling Reasoning Without Knowledge: A Framework for Reliable LLMs",
+  "authors": "Auksarapak Kietkajornrit, Jad Tarifi, Nima Asgharbeygi",
+  "summary": "arXiv:2603.14458v1 Announce Type: cross \nAbstract: Fact-seeking question answering with large language models (LLMs) remains unreliable when answers depend on up-to-date or conflicting information. Although retrieval-augmented and tool-using LLMs reduce hallucinations, they often rely on implicit planning, leading to inefficient tool usage. We propose a modular framework that explicitly separates planning from factual retrieval and answer synthesis. A lightweight student planner is trained via a teacher-student framework to generate structured decompositions consisting of abstract reasoning steps and searchable fact requests. The supervision signals contain only planning traces and fact requests, without providing factual answers or retrieved evidence. At inference, the planner produces plans, while prompt-engineered modules perform retrieval and response synthesis. We evaluate the proposed framework on SEAL-0, an extremely challenging benchmark for search-augmented LLMs. Results show that supervised planning improves both accuracy and latency compared to monolithic reasoning models and prompt-based tool-augmented frameworks, demonstrating that explicitly learned planning structures are essential for reliable fact-seeking LLMs.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14458",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14458v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542865"
+}

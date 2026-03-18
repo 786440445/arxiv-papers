@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13537v1",
+  "title": "AMES: Approximate Multi-modal Enterprise Search via Late Interaction Retrieval",
+  "authors": "Tony Joseph, Carlos Pareja, David Lopes Pegna, Abhishek Singh",
+  "summary": "arXiv:2603.13537v1 Announce Type: cross \nAbstract: We present AMES (Approximate Multimodal Enterprise Search), a unified multimodal late interaction retrieval architecture which is backend agnostic. AMES demonstrates that fine-grained multimodal late interaction retrieval can be deployed within a production grade enterprise search engine without architectural redesign. Text tokens, image patches, and video frames are embedded into a shared representation space using multi-vector encoders, enabling cross-modal retrieval without modality specific retrieval logic. AMES employs a two-stage pipeline: parallel token level ANN search with per document Top-M MaxSim approximation, followed by accelerator optimized Exact MaxSim re-ranking. Experiments on the ViDoRe V3 benchmark show that AMES achieves competitive ranking performance within a scalable, production ready Solr based system.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13537",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13537v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517109"
+}

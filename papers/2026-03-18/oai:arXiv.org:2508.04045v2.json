@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.04045v2",
+  "title": "FeDaL: Federated Dataset Learning for General Time Series Foundation Models",
+  "authors": "Shengchao Chen, Guodong Long, Michael Blumenstein, Jing Jiang",
+  "summary": "arXiv:2508.04045v2 Announce Type: replace \nAbstract: Dataset-level heterogeneity introduces significant domain biases that fundamentally degrade generalization on general Time Series Foundation Models (TSFMs), yet this challenge remains underexplored. This paper rethinks the from-scratch training of TSFMs using the paradigm of federated learning. We propose a novel Federated Dataset Learning (FeDaL) approach to tackle heterogeneous time series by learning dataset-agnostic temporal representations. Specifically, the distributed architecture of federated learning is a nature solution to decompose heterogeneous TS datasets into shared generalized knowledge and preserved personalized knowledge. Moreover, based on the TSFM architecture, FeDaL explicitly mitigates both local and global biases by adding two complementary mechanisms: Domain Bias Elimination (DBE) and Global Bias Elimination (GBE). FeDaL`s cross-dataset generalization has been extensively evaluated in real-world datasets spanning eight tasks (including various regression and classification), against 54 baselines. We further analyze federated scaling behavior, showing how data volume, client count, and join rate affect model performance under decentralization. Our code is publicly available at https://github.com/shengchaochen82/FeDaL",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.04045",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.04045v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518083"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15164v1",
+  "title": "HindSight: Evaluating Research Idea Generation via Future Impact",
+  "authors": "Bo Jiang",
+  "summary": "arXiv:2603.15164v1 Announce Type: cross \nAbstract: Evaluating AI-generated research ideas typically relies on LLM judges or human panels -- both subjective and disconnected from actual research impact. We introduce \\hs{}, a time-split evaluation framework that measures idea quality by matching generated ideas against real future publications and scoring them by citation impact and venue acceptance. Using a temporal cutoff~$T$, we restrict an idea generation system to pre-$T$ literature, then evaluate its outputs against papers published in the subsequent 30 months. Experiments across 10 AI/ML research topics reveal a striking disconnect: LLM-as-Judge finds no significant difference between retrieval-augmented and vanilla idea generation ($p{=}0.584$), while \\hs{} shows the retrieval-augmented system produces 2.5$\\times$ higher-scoring ideas ($p{<}0.001$). Moreover, \\hs{} scores are \\emph{negatively} correlated with LLM-judged novelty ($\\rho{=}{-}0.29$, $p{<}0.01$), suggesting that LLMs systematically overvalue novel-sounding ideas that never materialize in real research.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15164",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15164v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517730"
+}

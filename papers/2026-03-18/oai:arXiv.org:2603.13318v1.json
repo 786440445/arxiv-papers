@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13318v1",
+  "title": "Residual Stream Analysis of Overfitting And Structural Disruptions",
+  "authors": "Quan Liu, Han Zhou, Wenquan Wu, Hua Wu, Sen Su",
+  "summary": "arXiv:2603.13318v1 Announce Type: new \nAbstract: Ensuring that large language models (LLMs) remain both helpful and harmless poses a significant challenge: fine-tuning on repetitive safety datasets, where unsafe prompts are paired with standard refusal templates, often leads to false refusals, in which benign queries are declined. We first quantify this effect, showing that safety data exhibits substantially lower token entropy and 2-gram diversity (0.048) compared to general instruction data. To uncover the root cause, we introduce FlowLens, a stable PCA-based tool for residual-stream geometry analysis, and reveal that higher proportions of safety examples concentrate variance along a few components, reducing representational smoothness and driving false refusals (false refusal rate rises from 63 percent to 84 percent as safety data increases from 0 percent to 40 percent). Guided by these insights, we propose Variance Concentration Loss (VCL), an auxiliary regularizer that penalizes excessive variance concentration in mid-layer residuals. Empirical results demonstrate that VCL reduces false refusals by over 35 percentage points while maintaining or improving performance on general benchmarks such as MMLU and GSM8K.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13318",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13318v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515677"
+}

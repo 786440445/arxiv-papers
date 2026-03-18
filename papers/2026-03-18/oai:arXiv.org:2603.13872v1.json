@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13872v1",
+  "title": "On Interpolation Formulas Describing Neural Network Generalization",
+  "authors": "Jin Guo, Roy Y. He, Jean-Michel Morel",
+  "summary": "arXiv:2603.13872v1 Announce Type: new \nAbstract: In 2020 Domingos introduced an interpolation formula valid for \"every model trained by gradient descent\". He concluded that such models behave approximately as kernel machines. In this work, we extend the Domingos formula to stochastic training. We introduce a stochastic gradient kernel that extends the deterministic version via a continuous-time diffusion approximation. We prove stochastic Domingos theorems and show that the expected network output admits a kernel-machine representation with optimizer-specific weighting. It reveals that training samples contribute through loss-dependent weights and gradient alignment along the training trajectory. We then link the generalization error to the null space of the integral operator induced by the stochastic gradient kernel. The same path-kernel viewpoint provides a unified interpretation of diffusion models and GANs: diffusion induces stage-wise, noise-localized corrections, whereas GANs induce distribution-guided corrections shaped by discriminator geometry. We visualize the evolution of implicit kernels during optimization and quantify out-of-distribution behaviors through a series of numerical experiments. Our results support a feature-space memory view of learning: training stores data-dependent information in an evolving tangent feature geometry, and predictions at test time arise from kernel-weighted retrieval and aggregation of these stored features, with generalization governed by alignment between test points and the learned feature memory.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13872",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13872v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515971"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14694v1",
+  "title": "Robust Building Damage Detection in Cross-Disaster Settings Using Domain Adaptation",
+  "authors": "Asmae Mouradi, Shruti Kshirsagar",
+  "summary": "arXiv:2603.14694v1 Announce Type: cross \nAbstract: Rapid structural damage assessment from remote sensing imagery is essential for timely disaster response. Within human-machine systems (HMS) for disaster management, automated damage detection provides decision-makers with actionable situational awareness. However, models trained on multi-disaster benchmarks often underperform in unseen geographic regions due to domain shift - a distributional mismatch between training and deployment data that undermines human trust in automated assessments. We explore a two-stage ensemble approach using supervised domain adaptation (SDA) for building damage classification across four severity classes. The pipeline adapts the xView2 first-place method to the Ida-BD dataset using SDA and systematically investigates the effect of individual augmentation components on classification performance. Comprehensive ablation experiments on the unseen Ida-BD test split demonstrate that SDA is indispensable: removing it causes damage detection to fail entirely. Our pipeline achieves the most robust performance using SDA with unsharp-enhanced RGB input, attaining a Macro-F1 of 0.5552. These results underscore the critical role of domain adaptation in building trustworthy automated damage assessment modules for HMS-integrated disaster response.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14694",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14694v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517544"
+}

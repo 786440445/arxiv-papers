@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13241v1",
+  "title": "A Hybrid Tsallis-Polarization Impurity Measure for Decision Trees: Theoretical Foundations and Empirical Evaluation",
+  "authors": "Edouard Lansiaux, Idriss Jairi, Hayfa Zgaya-Biau",
+  "summary": "arXiv:2603.13241v1 Announce Type: cross \nAbstract: We introduce the Integrated Tsallis Combination (ITC), a hybrid impurity measure for decision tree learning that combines normalized Tsallis entropy with an exponential polarization component. While many existing measures sacrifice theoretical soundness for computational efficiency or vice versa, ITC provides a mathematically principled framework that balances both aspects. The core innovation lies in the complementarity between Tsallis entropy's information-theoretic foundations and the polarization component's sensitivity to distributional asymmetry. We establish key theoretical properties-concavity under explicit parameter conditions, proper boundary conditions, and connections to classical measures-and provide a rigorous justification for the hybridization strategy. Through an extensive comparative evaluation on seven benchmark datasets comparing 23 impurity measures with five-fold repetition, we show that simple parametric measures (Tsallis $\\alpha=0.5$) achieve the highest average accuracy ($91.17\\%$), while ITC variants yield competitive results ($88.38-89.16\\%$) with strong theoretical guarantees. Statistical analysis (Friedman test: $\\chi^2=3.89$, $p=0.692$) reveals no significant global differences among top performers, indicating practical equivalence for many applications. ITC's value resides in its solid theoretical grounding-proven concavity under suitable conditions, flexible parameterization ($\\alpha$, $\\beta$, $\\gamma$), and computational efficiency $O(K)$-making it a rigorous, generalizable alternative when theoretical guarantees are paramount. We provide guidelines for measure selection based on application priorities and release an open-source implementation to foster reproducibility and further research.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13241",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13241v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516892"
+}

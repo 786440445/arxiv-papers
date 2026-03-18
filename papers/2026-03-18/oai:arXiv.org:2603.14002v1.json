@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14002v1",
+  "title": "LightBeam: An Accurate and Memory-Efficient CTC Decoder for Speech Neuroprostheses",
+  "authors": "Ebrahim Feghhi, Junlin Hu, Nima Hadidi, Jonathan C. Kao",
+  "summary": "arXiv:2603.14002v1 Announce Type: cross \nAbstract: A promising pathway for restoring communication in patients with dysarthria and anarthria is speech neuroprostheses, which directly decode speech from cortical neural activity. Two benchmarks, Brain-to-Text '24 and '25, released intracranial recordings from patients with dysarthria along with a baseline algorithm trained with Connectionist Temporal Classification (CTC). Despite significant innovation on these benchmarks, all leading published prior work relies on a WFST-based CTC decoder that requires ${\\sim}$320 GB of RAM. These memory requirements limit accessibility for both patients and researchers. Here, we propose LightBeam, a non-WFST based CTC decoder that requires only ${\\sim}$10 GB of RAM and achieves state-of-the-art performance on both benchmarks. LightBeam achieves this by integrating an LLM into the beam-search process via delayed fusion, obviating the prior need for using a large N-gram LM. LightBeam is implemented in Python and is open-source.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14002",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14002v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039735"
+}

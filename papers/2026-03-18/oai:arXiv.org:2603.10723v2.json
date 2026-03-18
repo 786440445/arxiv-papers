@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.10723v2",
+  "title": "MOS-Bias: From Hidden Gender Bias to Gender-Aware Speech Quality Assessment",
+  "authors": "Wenze Ren, Yi-Cheng Lin, Wen-Chin Huang, Erica Cooper, Ryandhimas E. Zezario, Hsin-Min Wang, Hung-yi Lee, Yu Tsao",
+  "summary": "arXiv:2603.10723v2 Announce Type: replace \nAbstract: The Mean Opinion Score (MOS) serves as the standard metric for speech quality assessment, yet biases in human annotations remain underexplored. We conduct the first systematic analysis of gender bias in MOS, revealing that male listeners consistently assign higher scores than female listeners--a gap that is most pronounced in low-quality speech and gradually diminishes as quality improves. This quality-dependent structure proves difficult to eliminate through simple calibration. We further demonstrate that automated MOS models trained on aggregated labels exhibit predictions skewed toward male standards of perception. To address this, we propose a gender-aware model that learns gender-specific scoring patterns through abstracting binary group embeddings, thereby improving overall and gender-specific prediction accuracy. This study establishes that gender bias in MOS constitutes a systematic, learnable pattern demanding attention in equitable speech evaluation.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.10723",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.10723v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635272"
+}

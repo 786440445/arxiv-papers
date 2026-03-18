@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15507v1",
+  "title": "Federated Learning of Binary Neural Networks: Enabling Low-Cost Inference",
+  "authors": "Nitin Priyadarshini Shankar, Soham Lahiri, Sheetal Kalyani, Saurav Prakash",
+  "summary": "arXiv:2603.15507v1 Announce Type: new \nAbstract: Federated Learning (FL) preserves privacy by distributing training across devices. However, using DNNs is computationally intensive at the low-powered edge during inference. Edge deployment demands models that simultaneously optimize memory footprint and computational efficiency, a dilemma where conventional DNNs fail by exceeding resource limits. Traditional post-training binarization reduces model size but suffers from severe accuracy loss due to quantization errors. To address these challenges, we propose FedBNN, a rotation-aware binary neural network framework that learns binary representations directly during local training. By encoding each weight as a single bit $\\{+1, -1\\}$ instead of a $32$-bit float, FedBNN shrinks the model footprint, significantly reducing runtime (during inference) FLOPs and memory requirements in comparison to federated methods using real models. Evaluations across multiple benchmark datasets demonstrate that FedBNN significantly reduces resource consumption while performing similarly to existing federated methods using real-valued models.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15507",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15507v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516807"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.08682v2",
+  "title": "Structural Causal Bottleneck Models",
+  "authors": "Simon Bing, Jonas Wahl, Jakob Runge",
+  "summary": "arXiv:2603.08682v2 Announce Type: replace-cross \nAbstract: We introduce structural causal bottleneck models (SCBMs), a novel class of structural causal models. At the core of SCBMs lies the assumption that causal effects between high-dimensional variables only depend on low-dimensional summary statistics, or bottlenecks, of the causes. SCBMs provide a flexible framework for task-specific dimension reduction while being estimable via standard, simple learning algorithms in practice. We analyse identifiability in SCBMs, connect them to information bottlenecks in the sense of Tishby & Zaslavsky (2015), and illustrate how to estimate them experimentally. We also demonstrate the benefit of bottlenecks for effect estimation in low-sample transfer learning settings. We argue that SCBMs provide an alternative to existing causal dimension reduction frameworks like causal representation learning or causal abstraction learning.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.08682",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.08682v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.519109"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14792v1",
+  "title": "LaPro-DTA: Latent Dual-View Drug Representations and Salient Protein Feature Extraction for Generalizable Drug--Target Affinity Prediction",
+  "authors": "Zihan Dun, Liuyi Xu, An-Yang Lu, Shuang Li, Yining Qian",
+  "summary": "arXiv:2603.14792v1 Announce Type: new \nAbstract: Drug--target affinity prediction is pivotal for accelerating drug discovery, yet existing methods suffer from significant performance degradation in realistic cold-start scenarios (unseen drugs/targets/pairs), primarily driven by overfitting to training instances and information loss from irrelevant target sequences. In this paper, we propose LaPro-DTA, a framework designed to achieve robust and generalizable DTA prediction. To tackle overfitting, we devise a latent dual-view drug representation mechanism. It synergizes an instance-level view to capture fine-grained substructures with stochastic perturbation and a distribution-level view to distill generalized chemical scaffolds via semantic remapping, thereby enforcing the model to learn transferable structural rules rather than memorizing specific samples. To mitigate information loss, we introduce a salient protein feature extraction strategy using pattern-aware top-$k$ pooling, which effectively filters background noise and isolates high-response bioactive regions. Furthermore, a cross-view multi-head attention mechanism fuses these purified features to model comprehensive interactions. Extensive experiments on benchmark datasets demonstrate that LaPro-DTA significantly outperforms state-of-the-art methods, achieving an 8\\% MSE reduction on the Davis dataset in the challenging unseen-drug setting, while offering interpretable insights into binding mechanisms.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14792",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14792v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516410"
+}

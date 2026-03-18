@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13374v1",
+  "title": "Geometry-Aware Semantic Reasoning for Training Free Video Anomaly Detection",
+  "authors": "Ali Zia, Usman Ali, Muhammad Umer Ramzan, Hamza Abid, Abdul Rehman, Wei Xiang",
+  "summary": "arXiv:2603.13374v1 Announce Type: cross \nAbstract: Training-free video anomaly detection (VAD) has recently emerged as a scalable alternative to supervised approaches, yet existing methods largely rely on static prompting and geometry-agnostic feature fusion. As a result, anomaly inference is often reduced to shallow similarity matching over Euclidean embeddings, leading to unstable predictions and limited interpretability, especially in complex or hierarchically structured scenes. We introduce MM-VAD, a geometry-aware semantic reasoning framework for training free VAD that reframes anomaly detection as adaptive test-time inference rather than fixed feature comparison. Our approach projects caption-derived scene representations into hyperbolic space to better preserve hierarchical structure and performs anomaly assessment through an adaptive question answering process over a frozen large language model. A lightweight, learnable prompt is optimised at test time using an unsupervised confidence-sparsity objective, enabling context-specific calibration without updating any backbone parameters. To further ground semantic predictions in visual evidence, we incorporate a covariance-aware Mahalanobis refinement that stabilises cross-modal alignment. Across four benchmarks, MM-VAD consistently improves over prior training-free methods, achieving 90.03% AUC on XD-Violence and 83.24%, 96.95%, and 98.81% on UCF-Crime, ShanghaiTech, and UCSD Ped2, respectively. Our results demonstrate that geometry-aware representation and adaptive semantic calibration provide a principled and effective alternative to static Euclidean matching in training-free VAD.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13374",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13374v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542067"
+}

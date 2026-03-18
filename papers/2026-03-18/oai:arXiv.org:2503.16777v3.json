@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2503.16777v3",
+  "title": "Physics-Informed Deep B-Spline Networks",
+  "authors": "Zhuoyuan Wang, Raffaele Romagnoli, Saviz Mowlavi, Yorie Nakahira",
+  "summary": "arXiv:2503.16777v3 Announce Type: replace \nAbstract: Physics-informed machine learning offers a promising framework for solving complex partial differential equations (PDEs) by integrating observational data with governing physical laws. However, learning PDEs with varying parameters and changing initial conditions and boundary conditions (ICBCs) with theoretical guarantees remains an open challenge. In this paper, we propose physics-informed deep B-spline networks, a novel technique that approximates a family of PDEs with different parameters and ICBCs by learning B-spline control points through neural networks. The proposed B-spline representation reduces the learning task from predicting solution values over the entire domain to learning a compact set of control points, enforces strict compliance to initial and Dirichlet boundary conditions by construction, and enables analytical computation of derivatives for incorporating PDE residual losses. While existing approximation and generalization theories are not applicable in this setting - where solutions of parametrized PDE families are represented via B-spline bases - we fill this gap by showing that B-spline networks are universal approximators for such families under mild conditions. We also derive generalization error bounds for physics-informed learning in both elliptic and parabolic PDE settings, establishing new theoretical guarantees. Finally, we demonstrate in experiments that the proposed technique has improved efficiency-accuracy tradeoffs compared to existing techniques in a dynamical system problem with discontinuous ICBCs and can handle nonhomogeneous ICBCs and non-rectangular domains.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2503.16777",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2503.16777v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517946"
+}

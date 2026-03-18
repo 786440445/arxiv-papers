@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14681v1",
+  "title": "\\texttt{BayesBreak}: Generalized Hierarchical Bayesian Segmentation with Irregular Designs, Multi-Sample Hierarchies, and Grouped/Latent-Group Designs",
+  "authors": "Omid Shams Solari",
+  "summary": "arXiv:2603.14681v1 Announce Type: new \nAbstract: Bayesian change-point and segmentation models provide uncertainty-aware piecewise-constant representations of ordered data, but exact inference is often tied to narrow likelihood classes, single-sequence settings, or index-uniform designs. We present \\texttt{BayesBreak}, a modular offline Bayesian segmentation framework built around a simple separation: each candidate block contributes a marginal likelihood and any required moment numerators, and a global dynamic program combines those block scores into posterior quantities over segment counts, boundary locations, and latent signals. For weighted exponential-family likelihoods with conjugate priors, block evidences and posterior moments are available in closed form from cumulative sufficient statistics, yielding exact sum-product inference for $P(y\\mid k)$, $P(k\\mid y)$, boundary marginals, and Bayes regression curves. We also distinguish these quantities from the \\emph{joint} MAP segmentation, which is recovered by a separate max-sum backtracking recursion.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14681",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14681v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516345"
+}

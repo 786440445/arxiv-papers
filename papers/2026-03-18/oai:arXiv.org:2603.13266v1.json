@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13266v1",
+  "title": "Multi-hop Reasoning and Retrieval in Embedding Space: Leveraging Large Language Models with Knowledge",
+  "authors": "Lihui Liu",
+  "summary": "arXiv:2603.13266v1 Announce Type: new \nAbstract: As large language models (LLMs) continue to grow in size, their abilities to tackle complex tasks have significantly improved. However, issues such as hallucination and the lack of up-to-date knowledge largely remain unresolved. Knowledge graphs (KGs), which serve as symbolic representations of real-world knowledge, offer a reliable source for enhancing reasoning. Integrating KG retrieval into LLMs can therefore strengthen their reasoning by providing dependable knowledge. Nevertheless, due to limited understanding of the underlying knowledge graph, LLMs may struggle with queries that have multiple interpretations. Additionally, the incompleteness and noise within knowledge graphs may result in retrieval failures. To address these challenges, we propose an embedding-based retrieval reasoning framework EMBRAG. In this approach, the model first generates multiple logical rules grounded in knowledge graphs based on the input query. These rules are then applied to reasoning in the embedding space, guided by the knowledge graph, ensuring more robust and accurate reasoning. A reranker model further interprets these rules and refines the results. Extensive experiments on two benchmark KGQA datasets demonstrate that our approach achieves the new state-of-the-art performance in KG reasoning tasks.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13266",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13266v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541184"
+}

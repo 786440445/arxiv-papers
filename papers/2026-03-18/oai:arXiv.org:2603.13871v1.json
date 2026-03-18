@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13871v1",
+  "title": "Evaluating Pretrained General-Purpose Audio Representations for Music Genre Classification",
+  "authors": "Kashish Rai, Mrinmoy Bhattacharjee",
+  "summary": "arXiv:2603.13871v1 Announce Type: new \nAbstract: This study investigates the use of self-supervised learning embeddings, particularly BYOL-A, in conjunction with a deep neural network classifier for Music Genre Classification. Our experiments demonstrate that BYOL-A embeddings outperform other pre-trained models, such as PANNs and VGGish, achieving an accuracy of 81.5% on the GTZAN dataset and 64.3% on FMA-Small. The proposed DNN classifier improved performance by 10-16% over linear classifiers. We explore the effects of contrastive and triplet loss and multitask training with optimized loss weights, achieving the highest accuracy. To address cross dataset challenges, we combined GTZAN and FMA-Small into a unified 18-class label space for joint training, resulting in slight performance drops on GTZAN but comparable results on FMA-Small. The scripts developed in this work are publicly available.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13871",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13871v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635127"
+}

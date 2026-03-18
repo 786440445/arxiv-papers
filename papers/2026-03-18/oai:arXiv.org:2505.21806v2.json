@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.21806v2",
+  "title": "Towards Operational Automated Greenhouse Gas Plume Detection and Delineation",
+  "authors": "Brian D. Bue, Jake H. Lee, Andrew K. Thorpe, Philip G. Brodrick, Daniel Cusworth, Alana Ayasse, Vassiliki Mancoridis, Anagha Satish, Shujun Xiong, Riley Duren",
+  "summary": "arXiv:2505.21806v2 Announce Type: replace \nAbstract: Operational deployment of a fully automated facility-scale greenhouse gas (GHG) plume detection system remains challenging for fine spatial resolution imaging spectrometers, despite recent advances in deep learning approaches. With the dramatic increase in data availability, however, automation continues to increase in importance for emissions monitoring. This work reviews and addresses several key obstacles in the field: data and label quality control, prevention of spatiotemporal biases, and correctly aligned modeling objectives. We demonstrate through rigorous experiments using multicampaign data from airborne and spaceborne instruments that convolutional neural networks (CNNs) are able to achieve operational detection performance when these obstacles are alleviated. We demonstrate that a multitask model that learns both instance detection and pixelwise segmentation simultaneously can successfully lead towards an operational pathway. We evaluate the model's plume detectability across emission source types and regions, identifying thresholds for operational deployment. Finally, we provide analysis-ready data, models, and source code for reproducibility, and work to define a set of best practices and validation standards to facilitate future contributions to the field.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.21806",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.21806v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518005"
+}

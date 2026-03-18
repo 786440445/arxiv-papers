@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13335v1",
+  "title": "Information-Theoretic Constraints for Continual Vision-Language-Action Alignment",
+  "authors": "Libang Zhao, Qixin Zeng, Hongyin Zhang, Donglin Wang",
+  "summary": "arXiv:2603.13335v1 Announce Type: cross \nAbstract: When deployed in open-ended robotic environments, Vision--Language--Action (VLA) models need to continually acquire new skills, yet suffer from severe catastrophic forgetting. We observe that this degradation is related to the deterioration of cross-modal information structure, where dependencies among visual observations, language instructions, and actions progressively diffuse during continual adaptation. But existing continual learning methods fail to preserve such cross-modal information dependencies. Thus, we propose Info-VLA, an information-preserving continual learning framework that maintains cross-modal information structure through two complementary constraints. Replay Anchor Contrastive Learning constructs stable alignment anchors from a frozen teacher model, preserving cross-modal alignment in the representation space. Cross-Modal Mutual Information Maximization further preserves dependency structure between visual and language representations through mutual information constraints. By jointly preserving historical alignment and cross-modal dependency information, Info-VLA balances stability and plasticity during continual learning. Furthermore, experiments on the LIBERO show that Info-VLA significantly outperforms existing methods in both task retention and adaptation.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13335",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13335v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541964"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13856v1",
+  "title": "OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis",
+  "authors": "Naaisha Agarwal, Yihan Wu, Yichang Jian, Yikuan Hu, Nishad Mansoor, Mohan Li, Yifei Peng, Wang-Zhou Dai, Yao-Xiang Ding, Emanuele Sansone",
+  "summary": "arXiv:2603.13856v1 Announce Type: new \nAbstract: Building AI systems that can plan, act, and create in the physical world requires more than pattern recognition. Such systems must understand the causal mechanisms and constraints governing physical processes in order to guide sequential decisions. This capability relies on internal representations, analogous to an internal language model, that relate observations, actions, and resulting environmental changes. However, many existing benchmarks treat visual perception and programmatic reasoning as separate problems, focusing either on visual recognition or on symbolic tasks. The domain of origami provides a natural testbed that integrates these modalities. Constructing shapes through folding operations requires visual perception, reasoning about geometric and physical constraints, and sequential planning, while remaining sufficiently structured for systematic evaluation. We introduce OrigamiBench, an interactive benchmark in which models iteratively propose folds and receive feedback on physical validity and similarity to a target configuration. Experiments with modern vision-language models show that scaling model size alone does not reliably produce causal reasoning about physical transformations. Models fail to generate coherent multi-step folding strategies, suggesting that visual and language representations remain weakly integrated.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13856",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13856v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515967"
+}

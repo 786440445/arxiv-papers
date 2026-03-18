@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14180v1",
+  "title": "Semi-Automatic Flute Robot and Its Acoustic Sensing",
+  "authors": "Hikari Kuriyama, Hiroaki Sonoda, Kouki Tomiyoshi, Gou Koutaki",
+  "summary": "arXiv:2603.14180v1 Announce Type: cross \nAbstract: Flute performance requires mastery of complex fingering combinations and register-dependent embouchure control, particularly jet offset adjustment for low-register production. Existing haptic and semi-automated systems do not address both aspects simultaneously through mechanical actuation. To our knowledge, no prior system fully automates fingering while mechanically assisting low-register tone production without requiring embouchure control. We developed a semi-automatic flute robot with an automatic fingering mechanism: fourteen servo motors actuate all keys via wire-based and rack-and-pinion drives in response to MIDI input, enabling performers to produce complete musical pieces through airflow alone. A jet offset assist mechanism rotates the head joint by a calibrated $22^\\circ$ during low-register passages, shifting the jet offset toward a low-register configuration without modifying the instrument or embouchure. Fundamental frequency estimation confirmed correct pitch production across the chromatic range (C4--C7) and during musical performance. All key and lever movements were completed within 77.50~ms, corresponding to tempo capacity exceeding standard requirements. Harmonic analysis ($\\Delta\\mathrm{SPL} = \\mathrm{SPL}_2 - \\mathrm{SPL}_3$) showed a consistent increase in $\\Delta$SPL for all low-register notes when activated, consistent with the intended jet offset shift. Head joint rotation completed within 40.00~ms. These results demonstrate mechanical feasibility of integrating automated fingering and register-dependent jet offset assistance under controlled conditions.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14180",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14180v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039740"
+}

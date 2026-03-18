@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14983v1",
+  "title": "Cepstral Smoothing of Binary Masks for Convolutive Blind Separation of Speech Mixtures",
+  "authors": "Ibrahim Missaoui, Zied Lachiri",
+  "summary": "arXiv:2603.14983v1 Announce Type: new \nAbstract: In this paper, we propose a novel separation system for extracting two speech signals from two microphone recordings. Our system combines the blind source separation technique with cepstral smoothing of binary time-frequency masks. The last is composed of two steps. First, the two binary masks are estimated from the separated output signals of BSS algorithm. In the second step, a cepstral smoothing is applied of these spectral masks in order to reduce musical noise typically produced by time-frequency masking. Experiments were carried out with both artificially mixed speech signals using simulated room model and two real recordings. The evaluation results are promising and have shown the effectiveness of our system.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14983",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14983v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039672"
+}

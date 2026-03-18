@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2404.12598v2",
+  "title": "Continuous-time Risk-sensitive Reinforcement Learning via Quadratic Variation Penalty",
+  "authors": "Yanwei Jia",
+  "summary": "arXiv:2404.12598v2 Announce Type: replace \nAbstract: This paper studies continuous-time risk-sensitive reinforcement learning (RL) under the entropy-regularized, exploratory diffusion process formulation with the exponential-form objective. The risk-sensitive objective arises either as the agent's risk attitude or as a distributionally robust approach against the model uncertainty. Owing to the martingale perspective in Jia and Zhou (J Mach Learn Res 24(161): 1--61, 2023) the risk-sensitive RL problem is shown to be equivalent to ensuring the martingale property of a process involving both the value function and the q-function, augmented by an additional penalty term: the quadratic variation of the value process, capturing the variability of the value-to-go along the trajectory. This characterization allows for the straightforward adaptation of existing RL algorithms developed for non-risk-sensitive scenarios to incorporate risk sensitivity by adding the realized variance of the value process. Additionally, I highlight that the conventional policy gradient representation is inadequate for risk-sensitive problems due to the nonlinear nature of quadratic variation; however, q-learning offers a solution and extends to infinite horizon settings. Finally, I prove the convergence of the proposed algorithm for Merton's investment problem and quantify the impact of temperature parameter on the behavior of the learning procedure. I also conduct simulation experiments to demonstrate how risk-sensitive RL improves the finite-sample performance in the linear-quadratic control problem.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2404.12598",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2404.12598v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517870"
+}

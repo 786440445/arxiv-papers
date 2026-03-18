@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13379v1",
+  "title": "A Hierarchical End-of-Turn Model with Primary Speaker Segmentation for Real-Time Conversational AI",
+  "authors": "Karim Helwani, Hoang Do, James Luan, Sriram Srinivasan",
+  "summary": "arXiv:2603.13379v1 Announce Type: cross \nAbstract: We present a real-time front-end for voice-based conversational AI to enable natural turn-taking in two-speaker scenarios by combining primary speaker segmentation with hierarchical End-of-Turn (EOT) detection. To operate robustly in multi-speaker environments, the system continuously identifies and tracks the primary user, ensuring that downstream EOT decisions are not confounded by background conversations. The tracked activity segments are fed to a hierarchical, causal EOT model that predicts the immediate conversational state by independently analyzing per-speaker speech features from both the primary speaker and the bot. Simultaneously, the model anticipates near-future states ($t{+}10/20/30$\\,ms) through probabilistic predictions that are aware of the conversation partner's speech. Task-specific knowledge distillation compresses wav2vec~2.0 representations (768\\,D) into a compact MFCC-based student (32\\,D) for efficient deployment. The system achieves 82\\% multi-class frame-level F1 and 70.6\\% F1 on Backchannel detection, with 69.3\\% F1 on a binary Final vs.\\ Others task. On an end-to-end turn-detection benchmark, our model reaches 87.7\\% recall vs.\\ 58.9\\% for Smart Turn~v3 while keeping a median detection latency of 36\\,ms versus 800--1300\\,ms. Despite using only 1.14\\,M parameters, the proposed model matches or exceeds transformer-based baselines while substantially reducing latency and memory footprint, making it suitable for edge deployment.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13379",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13379v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039706"
+}

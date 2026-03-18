@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13997v1",
+  "title": "Location Aware Embedding for Geotargeting in Sponsored Search Advertising",
+  "authors": "Jelena Gligorijevic, Djordje Gligorijevic, Aravindan Raghuveer, Mihajlo Grbovic, Zoran Obradovic",
+  "summary": "arXiv:2603.13997v1 Announce Type: cross \nAbstract: Web search has become an inevitable part of everyday life. Improving and monetizing web search has been a focus of major Internet players. Understanding the context of web search query is an important aspect of this task as it represents unobserved facts that add meaning to an otherwise incomplete query.The context of a query consists of user's location, local time, search history, behavioral segments, installed apps on their phone and so on. Queries that either explicitly use location context (eg: \"best hotels in New York City\") or implicitly refer to the user's physical location (e.g. \"coffee shops near me\") are becoming increasingly common on mobile devices. Understanding and representing the user's interest location and/or physical location is essential for providing a relevant user experience. In this study, we developed a simple and powerful neural embedding based framework to represent a user's query and their location in a single low-dimensional space. We show that this representation is able to capture the subtle interactions between the user's query intent and query/physical location, while improving the ad ranking and query-ad relevance scores over other location-unaware approaches and location-aware approaches.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13997",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13997v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517282"
+}

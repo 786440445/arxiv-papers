@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13447v1",
+  "title": "MGMAR: Metal-Guided Metal Artifact Reduction for X-ray Computed Tomography",
+  "authors": "Hyoung Suk Park, Kiwan Jeon",
+  "summary": "arXiv:2603.13447v1 Announce Type: cross \nAbstract: An X-ray computed tomography (CT), metal artifact reduction (MAR) remains a major challenge because metallic implants violate standard CT forward-model assumptions, producing severe streaking and shadowing artifacts that degrade diagnostic quality. We propose MGMAR, a metal-guided MAR method that explicitly leverages metal-related information throughout the reconstruction pipeline. MGMAR first generates a high-quality prior image by training a conditioned implicit neural representation (INR) using metal-unaffected projections, and then incorporates this prior into a normalized MAR (NMAR) framework for projection completion. To improve robustness under severe metal corruption, we pretrain the encoder-conditioned INR on paired metal-corrupted and artifact-free CT images, thereby embedding data-driven prior knowledge into the INR parameter space. This prior-embedded initialization reduces sensitivity to random initialization and accelerates convergence during measurement-specific refinement. The encoder takes a metal-corrupted reconstruction together with a recursively constructed metal artifact image, enabling the latent field to capture metal-dependent global artifact patterns. After projection completion using the INR prior, we further suppress residual artifacts using a metal-conditioned correction network, where the metal mask modulates intermediate features via adaptive instance normalization to target metal-dependent secondary artifacts while preserving anatomical structures. Experiments on the public AAPM-MAR benchmark demonstrate that MGMAR achieves state-of-the-art performance, attaining an average final score of 0.89 on 29 clinical test cases.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13447",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13447v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542213"
+}

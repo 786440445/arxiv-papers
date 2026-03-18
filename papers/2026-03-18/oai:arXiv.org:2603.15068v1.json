@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15068v1",
+  "title": "Generative Semantic HARQ: Latent-Space Text Retransmission and Combining",
+  "authors": "Bin Han, Yulin Hu, Hans D. Schotten",
+  "summary": "arXiv:2603.15068v1 Announce Type: cross \nAbstract: Semantic communication conveys meaning rather than raw bits, but reliability at the semantic level remains an open challenge. We propose a semantic-level hybrid automatic repeat request (HARQ) framework for text communication, in which a Transformer-variational autoencoder (VAE) codec operates as a lightweight overlay on the conventional protocol stack. The stochastic encoder inherently generates diverse latent representations across retransmissions-providing incremental knowledge (IK) from a single model without dedicated protocol design. On the receiver side, a soft quality estimator triggers retransmissions and a quality-aware combiner merges the received latent vectors within a consistent latent space. We systematically benchmark six semantic quality metrics and four soft combining strategies under hybrid semantic distortion that mixes systematic bias with additive noise. The results suggest combining Weighted-Average or MRC-Inspired combining with self-consistency-based HARQ triggering for the best performance.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15068",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15068v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517710"
+}

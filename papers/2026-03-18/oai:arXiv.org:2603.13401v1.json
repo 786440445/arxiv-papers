@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13401v1",
+  "title": "MAD: Microenvironment-Aware Distillation -- A Pretraining Strategy for Virtual Spatial Omics from Microscopy",
+  "authors": "Jiashu Han, Kunzan Liu, Yeojin Kim, Saurabh Sinha, Sixian You",
+  "summary": "arXiv:2603.13401v1 Announce Type: cross \nAbstract: Bridging microscopy and omics would allow us to read molecular states from images-at single-cell resolution and tissue scale-without the cost and throughput limits of omics technologies. Self-supervised pretraining offers a scalable approach with minimal labels, yet how to encode single-cell identity within tissue environments-and the extent of biological information such models can capture-remains an open question. Here, we introduce MAD (microenvironment-aware distillation), a pretraining strategy that learns cell-centric embeddings by jointly self-distilling the morphology view and the microenvironment view of the same indexed cell into a unified embedding space. Across diverse tissues and imaging modalities, MAD achieves state-of-the-art prediction performance on downstream tasks including cell subtyping, transcriptomic prediction, and bioinformatic inference. MAD even outperforms foundation models with a similar number of model parameters that have been trained on substantially larger datasets. These results demonstrate that MAD's dual-view joint self-distillation effectively captures the complexity and diversity of cells within tissues. Together, this establishes MAD as a general tool for representation learning in microscopy, enabling virtual spatial omics and biological insights from vast microscopy datasets.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13401",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13401v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542097"
+}

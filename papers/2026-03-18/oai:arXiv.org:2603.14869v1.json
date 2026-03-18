@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14869v1",
+  "title": "A Self-Evolving Defect Detection Framework for Industrial Photovoltaic Systems",
+  "authors": "Haoyu He, Yu Duan, Wenzhen Liu, Hanyuan Hang, Qiantu Tuo, Xiaoke Yang, Rui Li",
+  "summary": "arXiv:2603.14869v1 Announce Type: new \nAbstract: Reliable photovoltaic (PV) power generation requires timely detection of module defects that may reduce energy yield, accelerate degradation, and increase lifecycle operation and maintenance costs during field operation. Electroluminescence (EL) imaging has therefore been widely adopted for PV module inspection. However, automated defect detection in real operational environments remains challenging due to heterogeneous module geometries, low-resolution imaging conditions, subtle defect morphology, long-tailed defect distributions, and continual data shifts introduced by evolving inspection and labeling processes. These factors significantly limit the robustness and long-term maintainability of conventional deep-learning inspection pipelines. To address these challenges, this paper proposes SEPDD, a Self-Evolving Photovoltaic Defect Detection framework designed for evolving industrial PV inspection scenarios. SEPDD integrates automated model optimization with a continual self-evolving learning mechanism, enabling the inspection system to progressively adapt to distribution shifts and newly emerging defect patterns during long-term deployment. Experiments conducted on both a public PV defect benchmark and a private industrial EL dataset demonstrate the effectiveness of the proposed framework. Both datasets exhibit severe class imbalance and significant domain shift. SEPDD achieves a leading mAP50 of 91.4% on the public dataset and 49.5% on the private dataset. It surpasses the autonomous baseline by 14.8% and human experts by 4.7% on the public dataset, and by 4.9% and 2.5%, respectively, on the private dataset.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14869",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14869v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541533"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13685v1",
+  "title": "Evaluating Compositional Structure in Audio Representations",
+  "authors": "Chuyang Chen, Bea Steers, Brian McFee, Juan Bello",
+  "summary": "arXiv:2603.13685v1 Announce Type: new \nAbstract: We propose a benchmark for evaluating compositionality in audio representations. Audio compositionality refers to representing sound scenes in terms of constituent sources and attributes, and combining them systematically. While central to auditory perception, this property is largely absent from current evaluation protocols. Our framework adapts ideas from vision and language to audio through two tasks: A-COAT, which tests consistency under additive transformations, and A-TRE, which probes reconstructibility from attribute-level primitives. Both tasks are supported by large synthetic datasets with controlled variation in acoustic attributes, providing the first benchmark of compositional structure in audio embeddings.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13685",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13685v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039603"
+}

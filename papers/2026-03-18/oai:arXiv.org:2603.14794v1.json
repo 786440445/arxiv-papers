@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14794v1",
+  "title": "Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling",
+  "authors": "Ernie Chu, Vishal M. Patel",
+  "summary": "arXiv:2603.14794v1 Announce Type: cross \nAbstract: Modeling the reactive tempo of human conversation remains difficult because most audio-visual datasets portray isolated speakers delivering short monologues. We introduce \\textbf{Face-to-Face with Jimmy Fallon (F2F-JF)}, a 70-hour, 14k-clip dataset of two-person talk-show exchanges that preserves the sequential dependency between a guest turn and the host's response. A semi-automatic pipeline combines multi-person tracking, speech diarization, and lightweight human verification to extract temporally aligned host/guest tracks with tight crops and metadata that are ready for downstream modeling. We showcase the dataset with a reactive, speech-driven digital avatar task in which the host video during $[t_1,t_2]$ is generated from their audio plus the guest's preceding video during $[t_0,t_1]$. Conditioning a MultiTalk-style diffusion model on this cross-person visual context yields small but consistent Emotion-FID and FVD gains while preserving lip-sync quality relative to an audio-only baseline. The dataset, preprocessing recipe, and baseline together provide an end-to-end blueprint for studying dyadic, sequential behavior, which we expand upon throughout the paper. Dataset and code will be made publicly available.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14794",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14794v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517590"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15553v1",
+  "title": "Self-Distillation of Hidden Layers for Self-Supervised Representation Learning",
+  "authors": "Scott C. Lowe, Anthony Fuller, Sageev Oore, Evan Shelhamer, Graham W. Taylor",
+  "summary": "arXiv:2603.15553v1 Announce Type: cross \nAbstract: The landscape of self-supervised learning (SSL) is currently dominated by generative approaches (e.g., MAE) that reconstruct raw low-level data, and predictive approaches (e.g., I-JEPA) that predict high-level abstract embeddings. While generative methods provide strong grounding, they are computationally inefficient for high-redundancy modalities like imagery, and their training objective does not prioritize learning high-level, conceptual features. Conversely, predictive methods often suffer from training instability due to their reliance on the non-stationary targets of final-layer self-distillation. We introduce Bootleg, a method that bridges this divide by tasking the model with predicting latent representations from multiple hidden layers of a teacher network. This hierarchical objective forces the model to capture features at varying levels of abstraction simultaneously. We demonstrate that Bootleg significantly outperforms comparable baselines (+10% over I-JEPA) on classification of ImageNet-1K and iNaturalist-21, and semantic segmentation of ADE20K and Cityscapes.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15553",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15553v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517825"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13686v1",
+  "title": "$\\tau$-Voice: Benchmarking Full-Duplex Voice Agents on Real-World Domains",
+  "authors": "Soham Ray, Keshav Dhandhania, Victor Barres, Karthik Narasimhan",
+  "summary": "arXiv:2603.13686v1 Announce Type: new \nAbstract: Full-duplex voice agents--systems that listen and speak simultaneously--are rapidly moving from research to production. However, existing evaluations address conversational dynamics and task completion in isolation. We introduce $\\tau$-voice, a benchmark for evaluating voice agents on grounded tasks with real-world complexity: agents must navigate complex multi-turn conversations, adhere to domain policies, and interact with the environment. The framework extends $\\tau^2$-bench into a novel voice agent benchmark combining verifiable completion of complex grounded tasks, full-duplex interaction, and realistic audio--enabling direct comparison between voice and text performance. A controllable and realistic voice user simulator provides diverse accents, realistic audio environments, and rich turn-taking dynamics; by decoupling simulation from wall-clock time, the user simulator can use the most capable LLM without real-time constraints. We evaluate task completion (pass@1) and voice interaction quality across 278 tasks: while GPT-5 (reasoning) achieves 85%, voice agents reach only 31--51% under clean conditions and 26--38% under realistic conditions with noise and diverse accents--retaining only 30--45% of text capability; qualitative analysis confirms 79--90% of failures stem from agent behavior, suggesting that observed failures primarily reflect agent behavior under our evaluation setup. $\\tau$-voice provides a reproducible testbed for measuring progress toward voice agents that are natural, conversational, and reliable.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13686",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13686v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039608"
+}

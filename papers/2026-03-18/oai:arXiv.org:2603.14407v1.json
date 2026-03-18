@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14407v1",
+  "title": "Towards One-for-All Anomaly Detection for Tabular Data",
+  "authors": "Shiyuan Li, Yixin Liu, Yu Zheng, Xiaofeng Cao, Shirui Pan, Heng Tao Shen",
+  "summary": "arXiv:2603.14407v1 Announce Type: new \nAbstract: Tabular anomaly detection (TAD) aims to identify samples that deviate from the majority in tabular data and is critical in many real-world applications. However, existing methods follow a ``one model for one dataset (OFO)'' paradigm, which relies on dataset-specific training and thus incurs high computational cost and yields limited generalization to unseen domains. To address these limitations, we propose OFA-TAD, a generalist one-for-all (OFA) TAD framework that only requires one-time training on multiple source datasets and can generalize to unseen datasets from diverse domains on-the-fly. To realize one-for-all tabular anomaly detection, OFA-TAD extracts neighbor-distance patterns as transferable cues, and introduces multi-view neighbor-distance representations from multiple transformation-induced metric spaces to mitigate the transformation sensitivity of distance profiles. To adaptively combine multi-view distance evidence, a Mixture-of-Experts (MoE) scoring network is employed for view-specific anomaly scoring and entropy-regularized gated fusion, with a multi-strategy anomaly synthesis mechanism to support training under the one-class constraint. Extensive experiments on 34 datasets from 14 domains demonstrate that OFA-TAD achieves superior anomaly detection performance and strong cross-domain generalizability under the strict OFA setting.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14407",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14407v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516227"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13261v1",
+  "title": "Deep Convolutional Architectures for EEG Classification: A Comparative Study with Temporal Augmentation and Confidence-Based Voting",
+  "authors": "Aryan Patodiya, Hubert Cecotti",
+  "summary": "arXiv:2603.13261v1 Announce Type: cross \nAbstract: Electroencephalography (EEG) classification plays a key role in brain-computer interface (BCI) systems, yet it remains challenging due to the low signal-to-noise ratio, temporal variability of neural responses, and limited data availability. In this paper, we present a comparative study of deep learning architectures for classifying event-related potentials (ERPs) in EEG signals. The preprocessing pipeline includes bandpass filtering, spatial filtering, and normalization. We design and compare three main pipelines: a 2D convolutional neural network (CNN) using Common Spatial Pattern (CSP), a second 2D CNN trained directly on raw data for a fair comparison, and a 3D CNN that jointly models spatiotemporal representations. To address ERP latency variations, we introduce a temporal shift augmentation strategy during training. At inference time, we employ a confidence-based test-time voting mechanism to improve prediction stability across shifted trials. An experimental evaluation on a stratified five-fold cross-validation protocol demonstrates that while CSP provides a benefit to the 2D architecture, the proposed 3D CNN significantly outperforms both 2D variants in terms of AUC and balanced accuracy. These findings highlight the effectiveness of temporal-aware architectures and augmentation strategies for robust EEG signal classification.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13261",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13261v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516913"
+}

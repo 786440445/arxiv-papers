@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.20629v3",
+  "title": "Unified Text-Image-to-Video Generation: A Training-Free Approach to Flexible Visual Conditioning",
+  "authors": "Bolin Lai, Sangmin Lee, Xu Cao, Xiang Li, James M. Rehg",
+  "summary": "arXiv:2505.20629v3 Announce Type: replace-cross \nAbstract: Text-image-to-video (TI2V) generation is a critical problem for controllable video generation using both semantic and visual conditions. Most existing methods typically add visual conditions to text-to-video (T2V) foundation models by finetuning, which is costly in resources and only limited to a few pre-defined conditioning settings. To tackle these constraints, we introduce a unified formulation for TI2V generation with flexible visual conditioning. Furthermore, we propose an innovative training-free approach, dubbed FlexTI2V, that can condition T2V foundation models on an arbitrary amount of images at arbitrary positions. Specifically, we firstly invert the condition images to noisy representation in a latent space. Then, in the denoising process of T2V models, our method uses a novel random patch swapping strategy to incorporate visual features into video representations through local image patches. To balance creativity and fidelity, we use a dynamic control mechanism to adjust the strength of visual conditioning to each video frame. Extensive experiments validate that our method surpasses previous training-free image conditioning methods by a notable margin. Our method can also generalize to both UNet-based and transformer-based architectures.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.20629",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.20629v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518734"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13349v1",
+  "title": "MURE: Hierarchical Multi-Resolution Encoding via Vision-Language Models for Visual Document Retrieval",
+  "authors": "Fengbin Zhu, Zijing Cai, Yuzhe Wang, Pengyang Shao, Wenjie Wang, Fuli Feng, Richang Hong, Tat-Seng Chua",
+  "summary": "arXiv:2603.13349v1 Announce Type: cross \nAbstract: Visual Document Retrieval (VDR) requires representations that capture both fine-grained visual details and global document structure to ensure retrieval efficacy while maintaining computational efficiency. Existing VDR models struggle to balance effectiveness and efficiency when processing high-resolution documents: they often either lose fine-grained information or generate an excessive number of visual tokens, resulting in significant indexing overhead and high retrieval latency. In this work, we rethink the visual encoding mechanism and propose a new X-VisEmb paradigm that progresses from multi-resolution sampling and encoding, through cross-granularity feature fusion, to adaptive representation distillation. A preliminary study validates its feasibility and effectiveness in capturing complementary visual cues at varying scales. Building on the insights, we develop MURE, a novel framework that employs VLMs as a hierarchical multi-resolution encoder, integrates resolution-level Matryoshka representation learning (RMRL) for effective feature fusion, and applies a semantic-aware hierarchical clustering mechanism for visual token compression. Experiments on two widely used VDR benchmarks show that our MURE framework consistently beats strong baselines. Furthermore, it significantly outperforms ColPali with only 50% of its visual token budget.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13349",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13349v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542005"
+}

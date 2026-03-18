@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15001v1",
+  "title": "How Log-Barrier Helps Exploration in Policy Optimization",
+  "authors": "Leonardo Cesani, Matteo Papini, Marcello Restelli",
+  "summary": "arXiv:2603.15001v1 Announce Type: new \nAbstract: Recently, it has been shown that the Stochastic Gradient Bandit (SGB) algorithm converges to a globally optimal policy with a constant learning rate. However, these guarantees rely on unrealistic assumptions about the learning process, namely that the probability of the optimal action is always bounded away from zero. We attribute this to the lack of an explicit exploration mechanism in SGB. To address these limitations, we propose to regularize the SGB objective with a log-barrier on the parametric policy, structurally enforcing a minimal amount of exploration. We prove that Log-Barrier Stochastic Gradient Bandit (LB-SGB) matches the sample complexity of SGB, but also converges (at a slower rate) without any assumptions on the learning process. We also show a connection between the log-barrier regularization and Natural Policy Gradient, as both exploit the geometry of the policy space by controlling the Fisher information. We validate our theoretical findings through numerical simulations, showing the benefits of the log-barrier regularization.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15001",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15001v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516518"
+}

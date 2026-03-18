@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14405v1",
+  "title": "ES-Merging: Biological MLLM Merging via Embedding Space Signals",
+  "authors": "Wonbin Lee, Dongki Kim, Sung Ju Hwang",
+  "summary": "arXiv:2603.14405v1 Announce Type: new \nAbstract: Biological multimodal large language models (MLLMs) have emerged as powerful foundation models for scientific discovery. However, existing models are specialized to a single modality, limiting their ability to solve inherently cross-modal scientific problems. While model merging is an efficient method to combine the different modalities into a unified MLLM, existing methods rely on input-agnostic parameter space heuristics that fail to faithfully capture modality specialization. To overcome this limitation, we propose a representation-aware merging framework that estimates merging coefficients from embedding space signals. We first design a probe input that consists of different modality tokens and forward it through each specialized MLLM to obtain layer-wise embedding responses that reflect modality-specific representation changes. We then estimate complementary merging coefficients at two granularities from the embedding space: layer-wise coefficients from coarse-grained signals and element-wise coefficients from fine-grained signals, which are jointly combined for robust coefficient estimation. Experiments on interactive effect prediction benchmarks show that our method outperforms existing merging methods and even surpasses task-specific fine-tuned models, establishing that embedding space signals provide a principled and effective foundation for cross-modal MLLM merging.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14405",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14405v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516217"
+}

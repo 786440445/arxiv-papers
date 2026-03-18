@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.05110v2",
+  "title": "BLINK: Behavioral Latent Modeling of NK Cell Cytotoxicity",
+  "authors": "Iman Nematollahi, Jose Francisco Villena-Ossa, Alina Moter, Kiana Farhadyar, Gabriel Kalweit, Abhinav Valada, Toni Cathomen, Evelyn Ullrich, Maria Kalweit",
+  "summary": "arXiv:2603.05110v2 Announce Type: replace-cross \nAbstract: Machine learning models of cellular interaction dynamics hold promise for understanding cell behavior. Natural killer (NK) cell cytotoxicity is a prominent example of such interaction dynamics and is commonly studied using time-resolved multi-channel fluorescence microscopy. Although tumor cell death events can be annotated at single frames, NK cytotoxic outcome emerges over time from cellular interactions and cannot be reliably inferred from frame-wise classification alone. We introduce BLINK, a trajectory-based recurrent state-space model that serves as a cell world model for NK-tumor interactions. BLINK learns latent interaction dynamics from partially observed NK-tumor interaction sequences and predicts apoptosis increments that accumulate into cytotoxic outcomes. Experiments on long-term time-lapse NK-tumor recordings show improved cytotoxic outcome detection and enable forecasting of future outcomes, together with an interpretable latent representation that organizes NK trajectories into coherent behavioral modes and temporally structured interaction phases. BLINK provides a unified framework for quantitative evaluation and structured modeling of NK cytotoxic behavior at the single-cell level.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.05110",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.05110v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.519064"
+}

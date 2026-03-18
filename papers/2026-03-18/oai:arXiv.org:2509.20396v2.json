@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.20396v2",
+  "title": "Data-Efficient ASR Personalization for Non-Normative Speech Using an Uncertainty-Based Phoneme Difficulty Score for Guided Sampling",
+  "authors": "Niclas Pokel, Pehu\\'en Moure, Roman B\\\"ohringer, Yingqiang Gao",
+  "summary": "arXiv:2509.20396v2 Announce Type: replace-cross \nAbstract: ASR systems struggle with non-normative speech due to high acoustic variability and data scarcity. We propose a data-efficient method using phoneme-level uncertainty to guide fine-tuning for personalization. Instead of computationally expensive ensembles, we leverage Variational Low-Rank Adaptation (VI LoRA) to estimate epistemic uncertainty in foundation models. These estimates form a composite Phoneme Difficulty Score (PhDScore) that drives a targeted oversampling strategy. Evaluated on English and German datasets, including a longitudinal analysis against two clinical reports taken one year apart, we demonstrate that: (1) VI LoRA-based uncertainty aligns better with expert clinical assessments than standard entropy; (2) PhDScore captures stable, persistent articulatory difficulties; and (3) uncertainty-guided sampling significantly improves ASR accuracy for impaired speech.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.20396",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.20396v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039850"
+}

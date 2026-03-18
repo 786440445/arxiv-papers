@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.20432v2",
+  "title": "Self Voice Conversion as an Attack against Neural Audio Watermarking",
+  "authors": "Yigitcan \\\"Ozer, Wanying Ge, Zhe Zhang, Xin Wang, Junichi Yamagishi",
+  "summary": "arXiv:2601.20432v2 Announce Type: replace \nAbstract: Audio watermarking embeds auxiliary information into speech while maintaining speaker identity, linguistic content, and perceptual quality. Although recent advances in neural and digital signal processing-based watermarking methods have improved imperceptibility and embedding capacity, robustness is still primarily assessed against conventional distortions such as compression, additive noise, and resampling. However, the rise of deep learning-based attacks introduces novel and significant threats to watermark security. In this work, we investigate self voice conversion as a universal, content-preserving attack against audio watermarking systems. Self voice conversion remaps a speaker's voice to the same identity while altering acoustic characteristics through a voice conversion model. We demonstrate that this attack severely degrades the reliability of state-of-the-art watermarking approaches and highlight its implications for the security of modern audio watermarking techniques.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.20432",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.20432v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039815"
+}

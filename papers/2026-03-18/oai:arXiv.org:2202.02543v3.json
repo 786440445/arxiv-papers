@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2202.02543v3",
+  "title": "Unsupervised Point Cloud Pre-Training via Contrasting and Clustering",
+  "authors": "Guofeng Mei, Xiaoshui Huang, Juan Liu, Jian Zhang, Qiang Wu",
+  "summary": "arXiv:2202.02543v3 Announce Type: replace-cross \nAbstract: Annotating large-scale point clouds is highly time-consuming and often infeasible for many complex real-world tasks. Point cloud pre-training has therefore become a promising strategy for learning discriminative representations without labeled data. In this paper, we propose a general unsupervised pre-training framework, termed ConClu, which jointly integrates contrasting and clustering. The contrasting objective maximizes the similarity between feature representations extracted from two augmented views of the same point cloud, while the clustering objective simultaneously partitions the data and enforces consistency between cluster assignments across augmentations. Experimental results on multiple downstream tasks show that our method outperforms state-of-the-art approaches, demonstrating the effectiveness of the proposed framework. Code is available at https://github.com/gfmei/conclu.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2202.02543",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2202.02543v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.543821"
+}

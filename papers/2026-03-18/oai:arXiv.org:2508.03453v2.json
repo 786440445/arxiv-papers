@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.03453v2",
+  "title": "Cropping outperforms dropout as an augmentation strategy for self-supervised training of text embeddings",
+  "authors": "Rita Gonz\\'alez-M\\'arquez, Philipp Berens, Dmitry Kobak",
+  "summary": "arXiv:2508.03453v2 Announce Type: replace-cross \nAbstract: Text embeddings, i.e. vector representations of entire texts, play an important role in many NLP applications, such as retrieval-augmented generation, clustering, or visualizing collections of texts for data exploration. Currently, top-performing embedding models are derived from pre-trained language models via supervised contrastive fine-tuning. This fine-tuning strategy relies on an external notion of similarity and annotated data for generation of positive pairs. Here we study self-supervised fine-tuning and systematically compare the two most well-known augmentation strategies used for fine-tuning text embeddings models. We assess embedding quality on MTEB and additional in-domain evaluations and show that cropping augmentation strongly outperforms the dropout-based approach. We find that on out-of-domain data, the quality of resulting embeddings is substantially below the supervised state-of-the-art models, but for in-domain data, self-supervised fine-tuning can produce high-quality text embeddings after very short fine-tuning. Finally, we show that representation quality increases towards the last transformer layers, which undergo the largest change during fine-tuning; and that fine-tuning only those last layers is sufficient to reach similar embedding quality.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.03453",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.03453v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518797"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14832v1",
+  "title": "Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis",
+  "authors": "Tuan-Anh Yang, Bao V. Q. Bui, Chanh-Quang Vo-Van, Truong-Son Hy",
+  "summary": "arXiv:2603.14832v1 Announce Type: cross \nAbstract: We propose a deep learning framework for COVID-19 detection and disease classification from chest CT scans that integrates both 2.5D and 3D representations to capture complementary slice-level and volumetric information. The 2.5D branch processes multi-view CT slices (axial, coronal, sagittal) using a DINOv3 vision transformer to extract robust visual features, while the 3D branch employs a ResNet-18 architecture to model volumetric context and is pretrained with Variance Risk Extrapolation (VREx) followed by supervised contrastive learning to improve cross-source robustness. Predictions from both branches are combined through logit-level ensemble inference. Experiments on the PHAROS-AIF-MIH benchmark demonstrate the effectiveness of the proposed approach: for binary COVID-19 detection, the ensemble achieves 94.48% accuracy and a 0.9426 Macro F1-score, outperforming both individual models, while for multi-class disease classification the 2.5D DINOv3 model achieves the best performance with 79.35% accuracy and a 0.7497 Macro F1-score. These results highlight the benefit of combining pretrained slice-based representations with volumetric modeling for robust multi-source medical imaging analysis. Code is available at https://github.com/HySonLab/PHAROS-AIF-MIH",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14832",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14832v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517614"
+}

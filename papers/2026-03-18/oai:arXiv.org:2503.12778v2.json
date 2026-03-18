@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2503.12778v2",
+  "title": "Adaptive Deep Learning for Breast Cancer Subtype Prediction Via Misprediction Risk Analysis",
+  "authors": "Gul Sheeraz, Qun Chen, Liu Feiyu, Zhou Fengjin",
+  "summary": "arXiv:2503.12778v2 Announce Type: replace-cross \nAbstract: Breast cancer remains a leading cause of cancer-related mortality worldwide. Early detection is critical, yet manual histopathology analysis is complex and subject to inter-observer variability. While deep neural network-based diagnostic systems have advanced binary tasks, they struggle with multiclass subtype prediction due to inter-class similarity, class imbalance, and domain shifts, resulting in frequent mispredictions. This study proposes MultiRisk, an adaptive learning framework that quantifies and mitigates misprediction risk in breast cancer subtype prediction from histopathology images. MultiRisk employs a multiclass misprediction risk analysis model that ranks misprediction likelihood using interpretable features derived from heterogeneous DNN representations, with a dedicated risk model trained to capture multiclass risk patterns. Building on this, we introduce a risk-based adaptive learning strategy that fine-tunes prediction models based on dataset-specific characteristics, effectively reducing misprediction risk and improving adaptability to diverse workloads. The framework is evaluated on multiple histopathological image datasets, achieving AUROCs of 78.1%, 75.6%, and 76.3% for risk analysis. Risk-based adaptive training further improves F1-scores to 61.15%, 65.98%, and 80.53%, demonstrating effectiveness across resolutions and domain shifts. By combining misprediction risk analysis with adaptive fine-tuning, MultiRisk improves predictive accuracy, mitigates errors under limited labeled data, and generalizes across domains, cancer types, and model architectures, supporting reliable clinical decision-making. Code: https://github.com/SheerazNWPU/MultiRisk",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2503.12778",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2503.12778v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.543928"
+}

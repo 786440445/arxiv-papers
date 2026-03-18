@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2409.01763v5",
+  "title": "FC-KAN: Function Combinations in Kolmogorov-Arnold Networks",
+  "authors": "Hoang-Thang Ta, Duy-Quy Thai, Abu Bakar Siddiqur Rahman, Grigori Sidorov, Alexander Gelbukh",
+  "summary": "arXiv:2409.01763v5 Announce Type: replace \nAbstract: In this paper, we introduce FC-KAN, a Kolmogorov-Arnold Network (KAN) that leverages combinations of popular mathematical functions such as B-splines, wavelets, and radial basis functions on low-dimensional data through element-wise operations. We explore several methods for combining the outputs of these functions, including sum, element-wise product, the addition of sum and element-wise product, representations of quadratic and cubic functions, concatenation, linear transformation of the concatenated output, and others. In our experiments, we compare FC-KAN with a multi-layer perceptron network (MLP) and other existing KANs, such as BSRBF-KAN, EfficientKAN, FastKAN, and FasterKAN, on the MNIST and Fashion-MNIST datasets. Two variants of FC-KAN, which use a combination of outputs from B-splines and Derivative of Gaussians (DoG) and from B-splines and linear transformations in the form of a quadratic function, outperformed overall other models on the average of 5 independent training runs. We expect that FC-KAN can leverage function combinations to design future KANs. Our repository is publicly available at: https://github.com/hoangthangta/FC_KAN.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2409.01763",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2409.01763v5.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517890"
+}

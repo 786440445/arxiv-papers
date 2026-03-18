@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13367v1",
+  "title": "Multimodal Deep Learning for Dynamic and Static Neuroimaging: Integrating MRI and fMRI for Alzheimer Disease Analysis",
+  "authors": "Anima Kujur, Zahra Monfared",
+  "summary": "arXiv:2603.13367v1 Announce Type: cross \nAbstract: Magnetic Resonance Imaging (MRI) provides detailed structural information, while functional MRI (fMRI) captures temporal brain activity. In this work, we present a multimodal deep learning framework that integrates MRI and fMRI for multi-class classification of Alzheimer Disease (AD), Mild Cognitive Impairment, and Normal Cognitive State. Structural features are extracted from MRI using 3D convolutional neural networks, while temporal features are learned from fMRI sequences using recurrent architectures. These representations are fused to enable joint spatial-temporal learning. Experiments were conducted on a small paired MRI-fMRI dataset (29 subjects), both with and without data augmentation. Results show that data augmentation substantially improves classification stability and generalization, particularly for the multimodal 3DCNN-LSTM model. In contrast, augmentation was found to be ineffective for a large-scale single-modality MRI dataset. These findings highlight the importance of dataset size and modality when designing augmentation strategies for neuroimaging-based AD classification.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13367",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13367v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517002"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.16988v3",
+  "title": "CARE: Contrastive Alignment for ADL Recognition from Event-Triggered Sensor Streams",
+  "authors": "Junhao Zhao, Zishuai Liu, Ruili Fang, Jin Lu, Linghan Zhang, Fei Dou",
+  "summary": "arXiv:2510.16988v3 Announce Type: replace-cross \nAbstract: The recognition of Activities of Daily Living (ADLs) from event-triggered ambient sensors is an essential task in Ambient Assisted Living, yet existing methods remain constrained by representation-level limitations. Sequence-based approaches preserve temporal order of sensor activations but are sensitive to noise and lack spatial awareness, while image-based approaches capture global patterns and implicit spatial correlations but compress fine-grained temporal dynamics and distort sensor layouts. Naive fusion (e.g., feature concatenation) fails to enforce alignment between sequence- and image-based representation views, underutilizing their complementary strengths. We propose Contrastive Alignment for ADL Recognition from Event-Triggered Sensor Streams (CARE), an end-to-end framework that jointly optimizes representation learning via Sequence-Image Contrastive Alignment (SICA) and classification via cross-entropy, ensuring both cross-representation alignment and task-specific discriminability. CARE integrates (i) time-aware, noise-resilient sequence encoding with (ii) spatially-informed and frequency-sensitive image representations, and employs (iii) a joint contrastive-classification objective for end-to-end learning of aligned and discriminative embeddings. Evaluated on three CASAS datasets, CARE achieves state-of-the-art performance (89.8% on Milan, 88.9% on Cairo, and 73.3% on Kyoto7) and demonstrates robustness to sensor malfunctions and layout variability, highlighting its potential for reliable ADL recognition in smart homes. We release our code at https://github.com/Jhziiiig/CARE.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.16988",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.16988v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.544265"
+}

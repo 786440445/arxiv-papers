@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14456v1",
+  "title": "PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark",
+  "authors": "Mohammad Javad Ranjbar Kalahroodi, Mohammad Amini, Parmis Bathayan, Heshaam Faili, Azadeh Shakery",
+  "summary": "arXiv:2603.14456v1 Announce Type: cross \nAbstract: Persian poses unique audio understanding challenges through its classical poetry, traditional music, and pervasive code-switching - none captured by existing benchmarks. We introduce PARSA-Bench (Persian Audio Reasoning and Speech Assessment Benchmark), the first benchmark for evaluating large audio-language models on Persian language and culture, comprising 16 tasks and over 8,000 samples across speech understanding, paralinguistic analysis, and cultural audio understanding. Ten tasks are newly introduced, including poetry meter and style detection, traditional Persian music understanding, and code-switching detection. Text-only baselines consistently outperform audio counterparts, suggesting models may not leverage audio-specific information beyond what transcription alone provides. Culturally-grounded tasks expose a qualitatively distinct failure mode: all models perform near random chance on vazn detection regardless of scale, suggesting prosodic perception remains beyond the reach of current models. The dataset is publicly available at https://huggingface.co/datasets/MohammadJRanjbar/PARSA-Bench",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14456",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14456v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039754"
+}

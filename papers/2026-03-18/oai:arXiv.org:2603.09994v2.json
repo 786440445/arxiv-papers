@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09994v2",
+  "title": "Evaluating Adjective-Noun Compositionality in LLMs: Functional vs Representational Perspectives",
+  "authors": "Ruchira Dhar, Qiwei Peng, Anders S{\\o}gaard",
+  "summary": "arXiv:2603.09994v2 Announce Type: replace-cross \nAbstract: Compositionality is considered central to language abilities. As performant language systems, how do large language models (LLMs) do on compositional tasks? We evaluate adjective-noun compositionality in LLMs using two complementary setups: prompt-based functional assessment and a representational analysis of internal model states. Our results reveal a striking divergence between task performance and internal states. While LLMs reliably develop compositional representations, they fail to translate consistently into functional task success across model variants. Consequently, we highlight the importance of contrastive evaluation for obtaining a more complete understanding of model capabilities.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09994",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09994v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.544736"
+}

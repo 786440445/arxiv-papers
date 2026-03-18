@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2408.01180v2",
+  "title": "Nested Music Transformer: Sequentially Decoding Compound Tokens in Symbolic Music and Audio Generation",
+  "authors": "HaeJun Yoo, Hao-Wen Dong, Jongmin Jung, Dasaem Jeong",
+  "summary": "arXiv:2408.01180v2 Announce Type: replace \nAbstract: Representing symbolic music with compound tokens, where each token consists of several different sub-tokens representing a distinct musical feature or attribute, offers the advantage of reducing sequence length. While previous research has validated the efficacy of compound tokens in music sequence modeling, predicting all sub-tokens simultaneously can lead to suboptimal results as it may not fully capture the interdependencies between them. We introduce the Nested Music Transformer (NMT), an architecture tailored for decoding compound tokens autoregressively, similar to processing flattened tokens, but with low memory usage. The NMT consists of two transformers: the main decoder that models a sequence of compound tokens and the sub-decoder for modeling sub-tokens of each compound token. The experiment results showed that applying the NMT to compound tokens can enhance the performance in terms of better perplexity in processing various symbolic music datasets and discrete audio tokens from the MAESTRO dataset.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2408.01180",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2408.01180v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039763"
+}

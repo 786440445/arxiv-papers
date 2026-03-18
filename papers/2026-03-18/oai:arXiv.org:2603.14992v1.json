@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14992v1",
+  "title": "Exposing Cross-Modal Consistency for Fake News Detection in Short-Form Videos",
+  "authors": "Chong Tian, Yu Wang, Chenxu Yang, Junyi Guan, Zheng Lin, Yuhan Liu, Xiuying Chen, Qirong Ho",
+  "summary": "arXiv:2603.14992v1 Announce Type: new \nAbstract: Short-form video platforms are major channels for news but also fertile ground for multimodal misinformation where each modality appears plausible alone yet cross-modal relationships are subtly inconsistent, like mismatched visuals and captions. On two benchmark datasets, FakeSV (Chinese) and FakeTT (English), we observe a clear asymmetry: real videos exhibit high text-visual but moderate text-audio consistency, while fake videos show the opposite pattern. Moreover, a single global consistency score forms an interpretable axis along which fake probability and prediction errors vary smoothly. Motivated by these observations, we present MAGIC3 (Modal-Adversarial Gated Interaction and Consistency-Centric Classifier), a detector that explicitly models and exposes cross-tri-modal consistency signals at multiple granularities. MAGIC3 combines explicit pairwise and global consistency modeling with token- and frame-level consistency signals derived from cross-modal attention, incorporates multi-style LLM rewrites to obtain style-robust text representations, and employs an uncertainty-aware classifier for selective VLM routing. Using pre-extracted features, MAGIC3 consistently outperforms the strongest non-VLM baselines on FakeSV and FakeTT. While matching VLM-level accuracy, the two-stage system achieves 18-27x higher throughput and 93% VRAM savings, offering a strong cost-performance tradeoff.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14992",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14992v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541553"
+}

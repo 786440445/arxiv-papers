@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14531v1",
+  "title": "Emotional Cost Functions for AI Safety: Teaching Agents to Feel the Weight of Irreversible Consequences",
+  "authors": "Pandurang Mopgar",
+  "summary": "arXiv:2603.14531v1 Announce Type: new \nAbstract: Humans learn from catastrophic mistakes not through numerical penalties, but through qualitative suffering that reshapes who they are. Current AI safety approaches replicate none of this. Reward shaping captures magnitude, not meaning. Rule-based alignment constrains behaviour, but does not change it.\n  We propose Emotional Cost Functions, a framework in which agents develop Qualitative Suffering States, rich narrative representations of irreversible consequences that persist forward and actively reshape character. Unlike numerical penalties, qualitative suffering states capture the meaning of what was lost, the specific void it creates, and how it changes the agent's relationship to similar future situations. Our four-component architecture - Consequence Processor, Character State, Anticipatory Scan, and Story Update is grounded in one principle. Actions cannot be undone and agents must live with what they have caused. Anticipatory dread operates through two pathways. Experiential dread arises from the agent's own lived consequences. Pre-experiential dread is acquired without direct experience, through training or inter-agent transmission. Together they mirror how human wisdom accumulates across experience and culture.\n  Ten experiments across financial trading, crisis support, and content moderation show that qualitative suffering produces specific wisdom rather than generalised paralysis. Agents correctly engage with moderate opportunities at 90-100% while numerical baselines over-refuse at 90%. Architecture ablation confirms the mechanism is necessary. The full system generates ten personal grounding phrases per probe vs. zero for a vanilla LLM. Statistical validation (N=10) confirms reproducibility at 80-100% consistency.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14531",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14531v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541449"
+}

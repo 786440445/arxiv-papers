@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13751v1",
+  "title": "Manifold-Orthogonal Dual-spectrum Extrapolation for Parameterized Physics-Informed Neural Networks",
+  "authors": "Zhangyong Liang, Ji Zhang",
+  "summary": "arXiv:2603.13751v1 Announce Type: new \nAbstract: Physics-informed neural networks (PINNs) have achieved notable success in modeling dynamical systems governed by partial differential equations (PDEs). To avoid computationally expensive retraining under new physical conditions, parameterized PINNs (P$^2$INNs) commonly adapt pre-trained operators using singular value decomposition (SVD) for out-of-distribution (OOD) regimes. However, SVD-based fine-tuning often suffers from rigid subspace locking and truncation of important high-frequency spectral modes, limiting its ability to capture complex physical transitions. While parameter-efficient fine-tuning (PEFT) methods appear to be promising alternatives, applying conventional adapters such as LoRA to P$^2$INNs introduces a severe Pareto trade-off, as additive updates increase parameter overhead and disrupt the structured physical manifolds inherent in operator representations. To address these limitations, we propose Manifold-Orthogonal Dual-spectrum Extrapolation (MODE), a lightweight micro-architecture designed for physics operator adaptation. MODE decomposes physical evolution into complementary mechanisms including principal-spectrum dense mixing that enables cross-modal energy transfer within frozen orthogonal bases, residual-spectrum awakening that activates high-frequency spectral components through a single trainable scalar, and affine Galilean unlocking that explicitly isolates spatial translation dynamics. Experiments on challenging PDE benchmarks including the 1D Convection--Diffusion--Reaction equation and the 2D Helmholtz equation demonstrate that MODE achieves strong out-of-distribution generalization while preserving the minimal parameter complexity of native SVD and outperforming existing PEFT-based baselines.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13751",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13751v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515909"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14033v1",
+  "title": "What Counts as Real? Speech Restoration and Voice Quality Conversion Pose New Challenges to Deepfake Detection",
+  "authors": "Shree Harsha Bokkahalli Satish, Harm Lameris, Joakim Gustafson, \\'Eva Sz\\'ekely",
+  "summary": "arXiv:2603.14033v1 Announce Type: new \nAbstract: Audio anti-spoofing systems are typically formulated as binary classifiers distinguishing bona fide from spoofed speech. This assumption fails under layered generative processing, where benign transformations introduce distributional shifts that are misclassified as spoofing. We show that phonation-modifying voice conversion and speech restoration are treated as out-of-distribution despite preserving speaker authenticity. Using a multi-class setup separating bona fide, converted, spoofed, and converted-spoofed speech, we analyse model behaviour through self-supervised learning (SSL) embeddings and acoustic correlates. The benign transformations induce a drift in the SSL space, compressing bona fide and spoofed speech and reducing classifier separability. Reformulating anti-spoofing as a multi-class problem improves robustness to benign shifts while preserving spoof detection, suggesting binary systems model the distribution of raw speech rather than authenticity itself.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14033",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14033v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039633"
+}

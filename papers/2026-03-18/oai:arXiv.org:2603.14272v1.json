@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14272v1",
+  "title": "Learning in Function Spaces: An Unified Functional Analytic View of Supervised and Unsupervised Learning",
+  "authors": "K. Lakshmanan",
+  "summary": "arXiv:2603.14272v1 Announce Type: new \nAbstract: Many machine learning algorithms can be interpreted as procedures for estimating functions defined on the data distribution. In this paper we present a conceptual framework that formulates a wide range of learning problems as variational optimization over function spaces induced by the data distribution. Within this framework the data distribution defines operators that capture structural properties of the data, such as similarity relations or statistical dependencies. Learning algorithms can then be viewed as estimating functions expressed in bases determined by these operators.\n  This perspective provides a unified way to interpret several learning paradigms. In supervised learning the objective functional is defined using labeled data and typically corresponds to minimizing prediction risk, whereas unsupervised learning relies on structural properties of the input distribution and leads to objectives based on similarity or smoothness constraints. From this viewpoint, the distinction between learning paradigms arises primarily from the choice of the functional being optimized rather than from the underlying function space.\n  We illustrate this framework by discussing connections with kernel methods, spectral clustering, and manifold learning, highlighting how operators induced by data distributions naturally define function representations used by learning algorithms. The goal of this work is not to introduce a new algorithm but to provide a conceptual framework that clarifies the role of function spaces and operators in modern machine learning.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14272",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14272v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516146"
+}

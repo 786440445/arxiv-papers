@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13334v1",
+  "title": "Lipschitz-Based Robustness Certification Under Floating-Point Execution",
+  "authors": "Toby Murray",
+  "summary": "arXiv:2603.13334v1 Announce Type: new \nAbstract: Sensitivity-based robustness certification has emerged as a practical approach for certifying neural network robustness, including in settings that require verifiable guarantees. A key advantage of these methods is that certification is performed by concrete numerical computation (rather than symbolic reasoning) and scales efficiently with network size. However, as with the vast majority of prior work on robustness certification and verification, the soundness of these methods is typically proved with respect to a semantic model that assumes exact real arithmetic. In reality deployed neural network implementations execute using floating-point arithmetic. This mismatch creates a semantic gap between certified robustness properties and the behaviour of the executed system.\n  As motivating evidence, we exhibit concrete counterexamples showing that real arithmetic robustness guarantees can fail under floating-point execution, even for previously verified certifiers, with discrepancies becoming pronounced at lower-precision formats such as float16. We then develop a formal, compositional theory relating real arithmetic Lipschitz-based sensitivity bounds to the sensitivity of floating-point execution under standard rounding-error models, specialised to feed-forward neural networks with ReLU activations. We derive sound conditions for robustness under floating-point execution, including bounds on certificate degradation and sufficient conditions for the absence of overflow. We formalize the theory and its main soundness results, and implement an executable certifier based on these principles, which we empirically evaluate to demonstrate its practicality.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13334",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13334v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515713"
+}

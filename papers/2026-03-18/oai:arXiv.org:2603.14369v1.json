@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14369v1",
+  "title": "From Specification to Architecture: A Theory Compiler for Knowledge-Guided Machine Learning",
+  "authors": "Asela Hevapathige, Yu Xia, Sachith Seneviratne, Saman Halgamuge",
+  "summary": "arXiv:2603.14369v1 Announce Type: new \nAbstract: Theory-guided machine learning has demonstrated that including authentic domain knowledge directly into model design improves performance, sample efficiency and out-of-distribution generalisation. Yet the process by which a formal domain theory is translated into architectural constraints remains entirely manual, specific to each domain formalism, and devoid of any formal correctness guarantee. This translation is non-transferable between domains, not verified, and does not scale. We propose the Theory Compiler: a system that accepts a typed, machine-readable domain theory as input and automatically produces an architecture whose function space is provably constrained to be consistent with that theory by construction, not by regularisation. We identify three foundational open problems whose resolution defines our research agenda: (1) designing a universal theory formalisation language with decidable type-checking; (2) constructing a compositionally correct compilation algorithm from theory primitives to architectural modules; and (3) establishing soundness and completeness criteria for formal verification. We further conjecture that compiled architectures match or exceed manually-designed counterparts in generalisation performance while requiring substantially less training data, a claim we ground in classical statistical learning theory. We argue that recent advances in formal machine learning theory, large language models, and the growth of an interdisciplinary research community have made this paradigm achievable for the first time.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14369",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14369v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516197"
+}

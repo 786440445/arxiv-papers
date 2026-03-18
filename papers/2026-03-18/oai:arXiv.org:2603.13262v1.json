@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13262v1",
+  "title": "Evaluation of Audio Language Models for Fairness, Safety, and Security",
+  "authors": "Ranya Aloufi, Srishti Gupta, Soumya Shaw, Battista Biggio, Lea Sch\\\"onherr",
+  "summary": "arXiv:2603.13262v1 Announce Type: new \nAbstract: Audio large language models (ALLMs) have recently advanced spoken interaction by integrating speech processing with large language models. However, existing evaluations of fairness, safety, and security (FSS) remain fragmented, largely because ALLMs differ fundamentally in how acoustic information is represented and where semantic reasoning occurs. Differences that are rarely made explicit. As a result, evaluations often conflate structurally distinct systems, obscuring the relationship between model design and observed FSS behavior. In this work, we introduce a structural taxonomy (system-level and representational) of ALLMs that categorizes systems along two axes: the form of audio input representation (e.g., discrete vs. continuous) and the locus of semantic reasoning (e.g., cascaded, multimodal, or audio-native). Building on the taxonomy, we propose a unified evaluation framework that assesses semantic invariance under paralinguistic variation, refusal and toxicity behavior under unsafe prompts, and robustness to adversarial audio perturbations. We apply this framework to two representative systems and observe systematic differences in refusal rates, attack success, and toxicity between audio and text inputs. Our findings demonstrate that FSS behavior is tightly coupled to how acoustic information is integrated into semantic reasoning, underscoring the need for structure-aware evaluation of audio language models.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13262",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13262v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039581"
+}

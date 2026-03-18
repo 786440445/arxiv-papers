@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13488v1",
+  "title": "Understanding the strengths and weaknesses of SSL models for audio deepfake model attribution",
+  "authors": "Gabriel P\\^irlogeanu, Adriana Stan, Horia Cucu",
+  "summary": "arXiv:2603.13488v1 Announce Type: new \nAbstract: Audio deepfake model attribution aims to mitigate the misuse of synthetic speech by identifying the source model responsible for generating a given audio sample, enabling accountability and informing vendors. The task is challenging, but self-supervised learning (SSL)-derived acoustic features have demonstrated state-of-the-art attribution capabilities, yet the underlying factors driving their success and the limits of their discriminative power remain unclear. In this paper, we systematically investigate how SSL-derived features capture architectural signatures in audio deepfakes. By controlling multiple dimensions of the audio generation process we reveal how subtle perturbations in model checkpoints, text prompts, vocoders, or speaker identity influence attribution. Our results provide new insights into the robustness, biases, and limitations of SSL-based deepfake attribution, highlighting both its strengths and vulnerabilities in realistic scenarios.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13488",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13488v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635111"
+}

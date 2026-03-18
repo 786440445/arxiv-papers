@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.12442v2",
+  "title": "Room Impulse Response Completion Using Signal-Prediction Diffusion Models Conditioned on Simulated Early Reflections",
+  "authors": "Zeyu Xu, Andreas Brendel, Albert G. Prinn, Emanu\\\"el A. P. Habets",
+  "summary": "arXiv:2603.12442v2 Announce Type: replace \nAbstract: Room impulse responses (RIRs) are fundamental to audio data augmentation, acoustic signal processing, and immersive audio rendering. While geometric simulators such as the image source method (ISM) can efficiently generate early reflections, they lack the realism of measured RIRs due to missing acoustic wave effects. We propose a diffusion-based RIR completion method using signal-prediction conditioned on ISM-simulated direct-path and early reflections. Unlike state-of-the-art methods, our approach imposes no fixed duration constraint on the input early reflections. We further incorporate classifier-free guidance to steer generation toward a target distribution learned from physically realistic RIRs simulated with the Treble SDK. Objective evaluation demonstrates that the proposed method outperforms a state-of-the-art baseline in early RIR completion and energy decay curve reconstruction.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.12442",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.12442v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635277"
+}

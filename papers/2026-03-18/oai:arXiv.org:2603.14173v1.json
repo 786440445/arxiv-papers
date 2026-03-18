@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14173v1",
+  "title": "Hybrid Intent-Aware Personalization with Machine Learning and RAG-Enabled Large Language Models for Financial Services Marketing",
+  "authors": "Akhil Chandra Shanivendra",
+  "summary": "arXiv:2603.14173v1 Announce Type: new \nAbstract: Personalized marketing in financial services requires models that can both predict customer behavior and generate compliant, context-appropriate content. This paper presents a hybrid architecture that integrates classical machine learning for segmentation, latent intent modeling, and personalization prediction with retrieval-augmented large language models for grounded content generation. A synthetic, reproducible dataset is constructed to reflect temporal customer behavior, product interactions, and marketing responses. The proposed framework incorporates temporal encoders, latent representations, and multi-task classification to estimate segment membership, customer intent, and product-channel recommendations. A retrieval-augmented generation layer then produces customer-facing messages constrained by retrieved domain documents. Experiments show that temporal modeling and intent features improve personalization accuracy, while citation-based retrieval reduces unsupported generation and supports auditability in regulated settings. The contribution is primarily architectural, demonstrating how predictive modeling and RAG-based generation can be combined into a transparent, explainable pipeline for financial services personalization.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14173",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14173v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516101"
+}

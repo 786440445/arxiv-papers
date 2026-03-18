@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13849v1",
+  "title": "Exploring the Dimensions of a Variational Neuron",
+  "authors": "Yves Ruffenach",
+  "summary": "arXiv:2603.13849v1 Announce Type: new \nAbstract: We introduce EVE (Elemental Variational Expanse), a variational distributional neuron formulated as a local probabilistic computational unit with an explicit prior, an amortized posterior, and unit-level variational regularization. In most modern architectures, uncertainty is modeled through global latent variables or parameter uncertainty, while the computational unit itself remains scalar. EVE instead relocates probabilistic structure to the neuron level, making it locally observable and controllable.\n  In this paper, the term dimensions refers primarily to the neuron's internal latent dimensionality, denoted by k. We study how varying k, from the atomic case k = 1 to higher-dimensional latent spaces, changes the neuron's learned operating regime. We then examine how this main axis interacts with two additional structural properties: local capacity control and temporal persistence through a neuron-level autoregressive extension.\n  To support this study, EVE is instrumented with internal diagnostics and constraints, including effective KL, a target band on mu^2, out-of-band fractions, and indicators of drift and collapse. Across selected forecasting and tabular settings, we show that latent dimensionality, control, and temporal extension shape the neuron's internal regime, and that some neuron-level variables are measurable, informative, and related to downstream behavior. Overall, the paper provides an experimentally grounded first map of the design space opened by a variational neuron.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13849",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13849v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515956"
+}

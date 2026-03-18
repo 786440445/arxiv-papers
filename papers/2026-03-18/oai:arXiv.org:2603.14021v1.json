@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14021v1",
+  "title": "EI-Part: Explode for Completion and Implode for Refinement",
+  "authors": "Wanhu Sun, Zhongjin Luo, Heliang Zheng, Jiahao Chang, Chongjie Ye, Huiang He, Shengchu Zhao, Rongfei Jia, Xiaoguang Han",
+  "summary": "arXiv:2603.14021v1 Announce Type: cross \nAbstract: Part-level 3D generation is crucial for various downstream applications, including gaming, film production, and industrial design. However, decomposing a 3D shape into geometrically plausible and meaningful components remains a significant challenge. Previous part-based generation methods often struggle to produce well-constructed parts, exhibiting poor structural coherence, geometric implausibility, inaccuracy, or inefficiency.\n  To address these challenges, we introduce EI-Part, a novel framework specifically designed to generate high-quality 3D shapes with components, characterized by strong structural coherence, geometric plausibility, geometric fidelity, and generation efficiency. We propose utilizing distinct representations at different stages: an Explode state for part completion and an Implode state for geometry refinement. This strategy fully leverages spatial resolution, enabling flexible part completion and fine geometric detail generation. To maintain structural coherence between parts, a self-attention mechanism is incorporated in both exploded and imploded states, facilitating effective information perception and feature fusion among components during generation.\n  Extensive experiments on multiple benchmarks demonstrate that EI-Part efficiently produces semantically meaningful and structurally coherent parts with fine-grained geometric details, achieving state-of-the-art performance in part-level 3D generation.\n  Project page: https://cvhadessun.github.io/EI-Part/",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14021",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14021v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542565"
+}

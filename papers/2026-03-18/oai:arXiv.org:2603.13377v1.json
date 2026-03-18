@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13377v1",
+  "title": "Deep Learning for BioImaging: What Are We Learning?",
+  "authors": "Ivan Svatko, Maxime Sanchez, Ihab Bendidi, Gilles Cottrell, Auguste Genovesio",
+  "summary": "arXiv:2603.13377v1 Announce Type: cross \nAbstract: Representation learning has driven major advances in natural image analysis by enabling models to acquire high-level semantic features. In microscopy imaging, however, it remains unclear what current representation learning methods actually learn. In this work, we conduct a systematic study of representation learning for the two most widely used and broadly available microscopy data types, representing critical scales in biology: cell culture and tissue imaging. To this end, we introduce a set of simple yet revealing baselines on curated benchmarks, including untrained models and simple structural representations of cellular tissue. Our results show that, surprisingly, state-of-the-art methods perform comparably to these baselines. We further show that, in contrast to natural images, existing models fail to consistently acquire high-level, biologically meaningful features. Moreover, we demonstrate that commonly used benchmark metrics are insufficient to assess representation quality and often mask this limitation. In addition, we investigate how detailed comparisons with these benchmarks provide ways to interpret the strengths and weaknesses of models for further improvements. Together, our results suggest that progress in microscopy image representation learning requires not only stronger models, but also more diagnostic benchmarks that measure what is actually learned.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13377",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13377v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517031"
+}

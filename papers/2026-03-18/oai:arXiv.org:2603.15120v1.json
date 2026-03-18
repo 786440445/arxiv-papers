@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15120v1",
+  "title": "How Attention Shapes Emotion: A Comparative Study of Attention Mechanisms for Speech Emotion Recognition",
+  "authors": "Marc Casals-Salvador, Federico Costa, Rodolfo Zevallos, Javier Hernando",
+  "summary": "arXiv:2603.15120v1 Announce Type: new \nAbstract: Speech Emotion Recognition (SER) plays a key role in advancing human-computer interaction. Attention mechanisms have become the dominant approach for modeling emotional speech due to their ability to capture long-range dependencies and emphasize salient information. However, standard self-attention suffers from quadratic computational and memory complexity, limiting its scalability. In this work, we present a systematic benchmark of optimized attention mechanisms for SER, including RetNet, LightNet, GSA, FoX, and KDA. Experiments on both MSP-Podcast benchmark versions show that while standard self-attention achieves the strongest recognition performance across test sets, efficient attention variants dramatically improve scalability, reducing inference latency and memory usage by up to an order of magnitude. These results highlight a critical trade-off between accuracy and efficiency, providing practical insights for designing scalable SER systems.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15120",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15120v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635168"
+}

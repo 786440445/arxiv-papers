@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.00557v2",
+  "title": "A Language-Agnostic Hierarchical LoRA-MoE Architecture for CTC-based Multilingual ASR",
+  "authors": "Yuang Zheng, Dongxu Chen, Yuxiang Mei, Dongxing Xu, Jie Chen, Yanhua Long",
+  "summary": "arXiv:2601.00557v2 Announce Type: replace-cross \nAbstract: Large-scale multilingual ASR (mASR) models such as Whisper achieve strong performance but incur high computational and latency costs, limiting their deployment on resource-constrained edge devices. In this study, we propose a lightweight and language-agnostic multilingual ASR system based on a CTC architecture with domain adaptation. Specifically, we introduce a Language-agnostic Hierarchical LoRA-MoE (HLoRA) framework integrated into an mHuBERT-CTC model, enabling end-to-end decoding via LID-posterior-driven LoRA routing. The hierarchical design consists of a multilingual shared LoRA for learning language-invariant acoustic representations and language-specific LoRA experts for modeling language-dependent characteristics. The proposed routing mechanism removes the need for prior language identity information or explicit language labels during inference, achieving true language-agnostic decoding. Experiments on MSR-86K and the MLC-SLM 2025 Challenge datasets demonstrate that HLoRA achieves comparable performance to two-stage inference approaches while reducing RTF by 11.7% and 8.2%, respectively, leading to improved decoding efficiency for low-resource mASR applications.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.00557",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.00557v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039870"
+}

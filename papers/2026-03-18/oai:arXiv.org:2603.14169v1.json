@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14169v1",
+  "title": "Beyond Means: Topological Causal Effects under Persistent-Homology Ignorability",
+  "authors": "Amir Saki, Usef Faghihi",
+  "summary": "arXiv:2603.14169v1 Announce Type: cross \nAbstract: Average treatment effects (ATE) and conditional average treatment effects (CATE) are foundational causal estimands, but they target changes in expected outcomes and can miss treatment-induced changes in the shape of outcome distributions. A canonical failure mode occurs when control outcomes are unimodal, treated outcomes become bimodal, and both distributions have the same mean. In such cases mean-based causal estimands are zero even though the geometry and topology of the outcome law change substantially. This paper develops a topological causal framework based on persistent homology. We formalize a persistent-homology ignorability condition, define topological analogues of CATE and ATE, and prove that these estimands are identifiable up to an explicit error bound under approximate topological ignorability. We also clarify a subtle but important point: a marginal persistence-diagram effect is not identified from conditional topological ignorability alone because persistent homology does not in general commute with mixtures over covariates. To preserve the original intuition while ensuring scientific correctness, we retain the marginal effect as a motivating quantity, but place the mathematically sound conditional estimands at the center of the theory. A synthetic experiment with mean-preserving topology change shows that mean-based causal estimands remain near zero while the proposed topological effect increases sharply and remains recoverable after adjustment for confounding.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14169",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14169v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542624"
+}

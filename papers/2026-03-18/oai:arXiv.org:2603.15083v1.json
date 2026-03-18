@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15083v1",
+  "title": "ReactMotion: Generating Reactive Listener Motions from Speaker Utterance",
+  "authors": "Cheng Luo, Bizhu Wu, Bing Li, Jianfeng Ren, Ruibin Bai, Rong Qu, Linlin Shen, Bernard Ghanem",
+  "summary": "arXiv:2603.15083v1 Announce Type: cross \nAbstract: In this paper, we introduce a new task, Reactive Listener Motion Generation from Speaker Utterance, which aims to generate naturalistic listener body motions that appropriately respond to a speaker's utterance. However, modeling such nonverbal listener behaviors remains underexplored and challenging due to the inherently non-deterministic nature of human reactions. To facilitate this task, we present ReactMotionNet, a large-scale dataset that pairs speaker utterances with multiple candidate listener motions annotated with varying degrees of appropriateness. This dataset design explicitly captures the one-to-many nature of listener behavior and provides supervision beyond a single ground-truth motion. Building on this dataset design, we develop preference-oriented evaluation protocols tailored to evaluate reactive appropriateness, where conventional motion metrics focusing on input-motion alignment ignore. We further propose ReactMotion, a unified generative framework that jointly models text, audio, emotion, and motion, and is trained with preference-based objectives to encourage both appropriate and diverse listener responses. Extensive experiments show that ReactMotion outperforms retrieval baselines and cascaded LLM-based pipelines, generating more natural, diverse, and appropriate listener motions.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15083",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15083v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039759"
+}

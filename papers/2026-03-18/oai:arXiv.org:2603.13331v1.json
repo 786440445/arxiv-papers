@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13331v1",
+  "title": "Why Grokking Takes So Long: A First-Principles Theory of Representational Phase Transitions",
+  "authors": "Truong Xuan Khanh, Truong Quynh Hoa, Luu Duc Trung, Phan Thanh Duc",
+  "summary": "arXiv:2603.13331v1 Announce Type: cross \nAbstract: Grokking is the sudden generalization that appears long after a model has perfectly memorized its training data. Although this phenomenon has been widely observed, there is still no quantitative theory explaining the length of the delay between memorization and generalization. Prior work has noted that weight decay plays an important role, but no result derives tight bounds for the delay or explains its scaling behavior.\n  We present a first-principles theory showing that grokking arises from a norm-driven representational phase transition in regularized training dynamics. Training first converges to a high-norm memorization solution and only later contracts toward a lower-norm structured representation that generalizes.\n  Our main result establishes a scaling law for the delay:\n  T_grok - T_mem = Theta((1 / gamma_eff) * log(||theta_mem||^2 / ||theta_post||^2)),\n  where gamma_eff is the effective contraction rate of the optimizer (gamma_eff = eta * lambda for SGD and gamma_eff >= eta * lambda for AdamW). The upper bound follows from a discrete Lyapunov contraction argument, and the matching lower bound arises from dynamical constraints of regularized first-order optimization.\n  Across 293 training runs spanning modular addition, modular multiplication, and sparse parity tasks, we confirm three predictions: inverse scaling with weight decay, inverse scaling with learning rate, and logarithmic dependence on the norm ratio (R^2 > 0.97). We further find that grokking requires an optimizer that can decouple memorization from contraction: SGD fails under hyperparameters where AdamW reliably groks.\n  These results show that grokking is a predictable consequence of norm separation between competing interpolating representations and provide the first quantitative scaling law for the delay of grokking.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13331",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13331v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516967"
+}

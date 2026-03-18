@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2410.21328v2",
+  "title": "Deconfounded Time Series Forecasting: A Causal Inference Approach",
+  "authors": "Wentao Gao, Xiaojing Du, Wenjun Yu, Xiongren Chen, Yifan Guo, Feiyu Yang",
+  "summary": "arXiv:2410.21328v2 Announce Type: replace \nAbstract: Time series forecasting is a critical task in various domains, where accurate predictions can drive informed decision-making. Traditional forecasting methods often rely on current observations of variables to predict future outcomes, typically overlooking the influence of latent confounders, unobserved variables that simultaneously affect both the predictors and the target outcomes. This oversight can introduce bias and degrade the performance of predictive models. In this study, we address this challenge by proposing an enhanced forecasting approach that incorporates representations of latent confounders derived from historical data. By integrating these confounders into the predictive process, our method aims to improve the accuracy and robustness of time series forecasts. The proposed approach is demonstrated through its application to climate science data, showing significant improvements over traditional methods that do not account for confounders.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2410.21328",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2410.21328v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517900"
+}

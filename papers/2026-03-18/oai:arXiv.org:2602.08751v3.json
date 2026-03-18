@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.08751v3",
+  "title": "Central Dogma Transformer II: An AI Microscope for Understanding Cellular Regulatory Mechanisms",
+  "authors": "Nobuyuki Ota",
+  "summary": "arXiv:2602.08751v3 Announce Type: replace \nAbstract: Current biological AI models lack interpretability -- their internal representations do not correspond to biological relationships that researchers can\n  examine. Understanding gene regulation requires models whose learned structure can be directly interrogated to generate experimentally testable\n  hypotheses. CDT-II mirrors the central dogma in its architecture -- DNA self-attention, RNA self-attention, and cross-attention for transcriptional\n  control -- requiring only genomic embeddings and raw per-cell expression. Applied to K562 CRISPRi data with five genes held out entirely, CDT-II predicts\n  perturbation effects (per-gene mean r = 0.84), recovers the GFI1B regulatory network (6.6-fold enrichment, P = 3.5 x 10^{-17}), and shows that\n  cross-attention focuses on ENCODE regulatory elements including CTCF sites (mean 7.67x across 28 targets, P < 0.001). Gradient-based attribution\n  accurately predicts downstream consequences of perturbing therapeutic targets (mean r = 0.82). Applied to TFRC, the target of the anti-TfR1 antibody\n  PPMX-T003, gradient analysis identifies genes involved in erythrocyte structure, iron-dependent DNA synthesis, and oxidative stress -- pathways that align\n  with anemia and reticulocyte decrease reported in Phase 1 trials and ferroptosis demonstrated in preclinical studies, without any clinical data as input,\n  establishing CDT-II as an AI microscope that reveals clinically relevant regulatory structure from perturbation experiments alone.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.08751",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.08751v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518328"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14074v1",
+  "title": "Self-Supervised Uncertainty Estimation For Super-Resolution of Satellite Images",
+  "authors": "Zhe Zheng, Val\\'ery Dewil, Pablo Arias",
+  "summary": "arXiv:2603.14074v1 Announce Type: cross \nAbstract: Super-resolution (SR) of satellite imagery is challenging due to the lack of paired low-/high-resolution data. Recent self-supervised SR methods overcome this limitation by exploiting the temporal redundancy in burst observations, but they lack a mechanism to quantify uncertainty in the reconstruction. In this work, we introduce a novel self-supervised loss that allows to estimate uncertainty in image super-resolution without ever accessing the ground-truth high-resolution data. We adopt a decision-theoretic perspective and show that minimizing the corresponding Bayesian risk yields the posterior mean and variance as optimal estimators. We validate our approach on a synthetic SkySat L1B dataset and demonstrate that it produces calibrated uncertainty estimates comparable to supervised methods. Our work bridges self-supervised restoration with uncertainty quantification, making a practical framework for uncertainty-aware image reconstruction.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14074",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14074v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517331"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13272v1",
+  "title": "CAMEL-CLIP: Channel-aware Multimodal Electroencephalography-text Alignment for Generalizable Brain Foundation Models",
+  "authors": "Hanseul Choi, Jinyeong Park, Seongwon Jin, Sungho Park, Jibum Kim",
+  "summary": "arXiv:2603.13272v1 Announce Type: new \nAbstract: Electroencephalography (EEG) foundation models have shown promise for learning generalizable representations, yet they remain sensitive to channel heterogeneity, such as changes in channel composition or ordering. We propose channel-aware multimodal EEG-text alignment contrastive language-image pretraining (CAMEL-CLIP), a contrastive EEG-text multimodal foundation model designed to be robust to heterogeneous channel configurations and widely applicable to diverse downstream tasks. CAMEL-CLIP introduces three key components: (1) channel attribute-based positional encoding, which identifies channels through semantic information; (2) dynamic channel projection, which generates variable-length embeddings by independently projecting each channel without feature compression; and (3) dual-level contrastive learning, which jointly performs channel-level and sample-level contrastive learning to capture both channel-specific and global signal characteristics. Experimental results demonstrate that CAMEL-CLIP achieves state-of-the-art performance under linear-probing and outperforms existing foundation models that rely on full-finetuning.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13272",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13272v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515532"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.17512v2",
+  "title": "AWARE: Audio Watermarking with Adversarial Resistance to Edits",
+  "authors": "Kosta Pavlovi\\'c, Lazar Stanarevi\\'c, Petar Nedi\\'c, Elena Ne\\v{s}ovi\\'c Slavko Kova\\v{c}evi\\'c, Igor Djurovi\\'c",
+  "summary": "arXiv:2510.17512v2 Announce Type: replace \nAbstract: Prevailing practice in learning-based audio watermarking is to pursue robustness by expanding the set of simulated distortions during training. However, such surrogates are narrow and prone to overfitting. This paper presents AWARE (Audio Watermarking with Adversarial Resistance to Edits), an alternative approach that avoids reliance on attack-simulation stacks and handcrafted differentiable distortions. Embedding is obtained through adversarial optimization in the time-frequency domain under a level-proportional perceptual budget. Detection employs a time-order-agnostic detector with a Bitwise Readout Head (BRH) that aggregates temporal evidence into one score per watermark bit, enabling reliable watermark decoding even under desynchronization and temporal cuts. Empirically, AWARE attains high audio quality and speech intelligibility (PESQ/STOI) and consistently low BER across various audio edits, often surpassing representative state-of-the-art learning-based systems.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.17512",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.17512v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-18T11:00:14.039791"
+}

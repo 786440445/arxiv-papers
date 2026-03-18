@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13303v1",
+  "title": "PolyMon: A Unified Framework for Polymer Property Prediction",
+  "authors": "Gaopeng Ren, Yijie Yang, Jiajun Zhou, Kim E. Jelfs",
+  "summary": "arXiv:2603.13303v1 Announce Type: cross \nAbstract: Accurate prediction of polymer properties is essential for materials design, but remains challenging due to data scarcity, diverse polymer representations, and the lack of systematic evaluation across modelling choices. Here, we present PolyMon, a unified and accessible framework that integrates multiple polymer representations, machine learning methods, and training strategies within a single, accessible platform. PolyMon supports various descriptors and graph construction strategies for polymer representations, and includes a wide range of models, from tabular models to graph neural networks, along with flexible training strategies including multi-fidelity learning, {\\Delta}-learning, active learning, and ensemble learning. Using five key polymer properties as benchmarks, we perform systematic evaluations to assess how representations and models affect predictive performance. These case studies further illustrate how different training strategies can be applied within a consistent workflow to leverage limited data and incorporate physical model derived information. Overall, PolyMon provides a comprehensive and extensible foundation for benchmarking and advancing machine learning-based polymer property prediction. The code is available at github.com/fate1997/polymon.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13303",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13303v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.516933"
+}

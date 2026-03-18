@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.09894v2",
+  "title": "Beyond AlphaEarth: Toward Human-Centered Geospatial Foundation Models via POI-Guided Contrastive Learning",
+  "authors": "Junyuan Liu, Quan Qin, Guangsheng Dong, Xinglei Wang, Jiazhuang Feng, Zichao Zeng, Tao Cheng",
+  "summary": "arXiv:2510.09894v2 Announce Type: replace-cross \nAbstract: Recent geospatial foundation models (GFMs) produce spatially extensive representations of the Earth's surface that capture rich physical and environmental patterns. Among them, the AlphaEarth Foundation (AE) represents a major step, generating 10 m embeddings from multi-source Earth Observation (EO) data that include diverse environmental and spectral characteristics. However, such EO-driven representations primarily encode physical and spectral patterns rather than human activities or urban semantics, limiting their ability to capture the functional dimensions of cities and making the learned representations difficult to interpret or query using natural language. We introduce AETHER (AlphaEarth-POI Enriched Representation Learning), a lightweight framework that aligns AlphaEarth with human-centered urban analysis through multimodal alignment guided by Points of Interest (POIs). By enforcing both cross-modal AE-POI alignment and intra-modal multi-scale consistency, AETHER integrates functional urban semantics with EO-driven representations and grounds the embedding space in natural language. The resulting representations support both urban mapping tasks and natural language-conditioned spatial retrieval. Experiments across four downstream tasks in Greater London and Singapore demonstrate consistent state-of-the-art performance, with relative improvements ranging from 4.5% to 21.9%. Furthermore, the aligned embedding space enables spatial localization through natural language queries. By aligning EO-based foundation models with human-centered semantics, AETHER improves the interpretability of geospatial representations and advances geospatial representation learning toward human-centered, language-accessible geospatial foundation models.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.09894",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.09894v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.518864"
+}

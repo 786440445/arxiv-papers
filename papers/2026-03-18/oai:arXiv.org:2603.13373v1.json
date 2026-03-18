@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13373v1",
+  "title": "Ethical Fairness without Demographics in Human-Centered AI",
+  "authors": "Shaily Roy, Harshit Sharma, Asif Salekin",
+  "summary": "arXiv:2603.13373v1 Announce Type: cross \nAbstract: Computational models are increasingly embedded in human-centered domains such as healthcare, education, workplace analytics, and digital well-being, where their predictions directly influence individual outcomes and collective welfare. In such contexts, achieving high accuracy alone is insufficient; models must also act ethically and equitably across diverse populations. However, fair AI approaches that rely on demographic attributes are impractical, as such information is often unavailable, privacy-sensitive, or restricted by regulatory frameworks. Moreover, conventional parity-based fairness approaches, while aiming for equity, can inadvertently violate core ethical principles by trading off subgroup performance or stability. To address this challenge, we present Flare (Fisher-guided LAtent-subgroup learning with do-no-harm REgularization), the first demographic-agnostic framework that aligns algorithmic fairness with ethical principles through the geometry of optimization. Flare leverages Fisher Information to regularize curvature, uncovering latent disparities in model behavior without access to demographic or sensitive attributes. By integrating representation, loss, and curvature signals, it identifies hidden performance strata and adaptively refines them through collaborative but do-no-harm optimization, enhancing each subgroup's performance while preserving global stability and ethical balance. We also introduce BHE (Beneficence-Harm Avoidance-Equity), a novel metric suite that operationalizes ethical fairness evaluation beyond statistical parity. Extensive evaluations across diverse physiological (EDA), behavioral (IHS), and clinical (OhioT1DM) datasets show that Flare consistently enhances ethical fairness compared to state-of-the-art baselines.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13373",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13373v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517017"
+}

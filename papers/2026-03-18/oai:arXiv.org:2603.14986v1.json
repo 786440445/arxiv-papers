@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.14986v1",
+  "title": "Deep Filter Estimation from Inter-Frame Correlations for Monaural Speech Dereverberation",
+  "authors": "Ui-Hyeop Shin, Jun Hyung Kim, Jangyeon Kim, Wooseok Kim, Hyung-Min Park",
+  "summary": "arXiv:2603.14986v1 Announce Type: new \nAbstract: Speech dereverberation in distant-microphone scenarios remains challenging due to the high correlation between reverberation and target signals, often leading to poor generalization in real-world environments. We propose IF-CorrNet, a correlation-to-filter architecture designed for robustness against acoustic variability. Unlike conventional black-box mapping methods that directly estimate complex spectra, IF-CorrNet explicitly exploits inter-frame STFT correlations to estimate multi-frame deep filters for each time-frequency bin. By shifting the learning objective from direct mapping to filter estimation, the network effectively constrains the solution space, which simplifies the training process and mitigates overfitting to synthetic data. Experimental results on the REVERB Challenge dataset demonstrate that IF-CorrNet achieves a substantial gain in the SRMR metric on RealData, confirming its robustness in suppressing reverberation and noise in practical, non-synthetic environments.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.14986",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.14986v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-18T11:00:15.635158"
+}

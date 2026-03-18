@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13846v1",
+  "title": "Is Seeing Believing? Evaluating Human Sensitivity to Synthetic Video",
+  "authors": "David Wegmann, Emil Stevnsborg, S{\\o}ren Knudsen, Luca Rossi, Aske Mottelson",
+  "summary": "arXiv:2603.13846v1 Announce Type: cross \nAbstract: Advances in machine learning have enabled the creation of realistic synthetic videos known as deepfakes. As deepfakes proliferate, concerns about rapid spread of disinformation and manipulation of public perception are mounting. Despite the alarming implications, our understanding of how individuals perceive synthetic media remains limited, obstructing the development of effective mitigation strategies. This paper aims to narrow this gap by investigating human responses to visual and auditory distortions of videos and deepfake-generated visuals and narration. In two between-subjects experiments, we study whether audio-visual distortions affect cognitive processing, such as subjective credibility assessment and objective learning outcomes. A third study reveals that artifacts from deepfakes influence credibility. The three studies show that video distortions and deepfake artifacts can reduce credibility. Our research contributes to the ongoing exploration of the cognitive processes involved in the evaluation and perception of synthetic videos, and underscores the need for further theory development concerning deepfake exposure.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13846",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13846v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.542454"
+}

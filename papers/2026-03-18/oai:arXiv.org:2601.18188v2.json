@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.18188v2",
+  "title": "\\textsc{NaVIDA}: Vision-Language Navigation with Inverse Dynamics Augmentation",
+  "authors": "Weiye Zhu, Zekai Zhang, Xiangchen Wang, Hewei Pan, Teng Wang, Tiantian Geng, Rongtao Xu, Feng Zheng",
+  "summary": "arXiv:2601.18188v2 Announce Type: replace-cross \nAbstract: Vision-and-Language Navigation (VLN) requires agents to interpret natural language instructions and act coherently in visually rich environments. However, most existing methods rely on reactive state-action mappings without explicitly action-grounded visual dynamics modeling. Lacking awareness of how actions transform subsequent visual observations, agents cannot plan actions rationally, leading to unstable behaviors, weak generalization, and cumulative error along trajectory. To address these issues, we introduce \\textsc{NaVIDA} (\\textbf{Nav}igation with \\textbf{I}nverse \\textbf{D}ynamics \\textbf{A}ugmentation), a lightweight VLN framework that incorporates inverse dynamics supervision (IDS) as an explicit objective to embed action-grounded visual dynamics into policy learning. By jointly optimizing this visual dynamics with instruction-conditioned action prediction in a shared representation and action space, \\textsc{NaVIDA} provides additional structured supervision that regularizes learning and leads to more stable and consistent navigation. To structure this supervision and extend the effective planning range, \\textsc{NaVIDA} employs hierarchical probabilistic action chunking (HPAC), which organizes trajectories into multi-step chunks and provides discriminative, longer-range visual-change cues. Extensive experiments show that \\textsc{NaVIDA} achieves superior navigation performance compared to state-of-the-art methods with fewer parameters (3B vs. 8B). Real-world robot evaluations further validate the practical feasibility and effectiveness of our approach.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.18188",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.18188v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.544474"
+}

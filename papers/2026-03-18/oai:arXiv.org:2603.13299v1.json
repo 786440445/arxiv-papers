@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13299v1",
+  "title": "DreamReader: An Interpretability Toolkit for Text-to-Image Models",
+  "authors": "Nirmalendu Prakash, Narmeen Oozeer, Michael Lan, Luka Samkharadze, Phillip Howard, Roy Ka-Wei Lee, Dhruv Nathawani, Shivam Raval, Amirali Abdullah",
+  "summary": "arXiv:2603.13299v1 Announce Type: new \nAbstract: Despite the rapid adoption of text-to-image (T2I) diffusion models, causal and representation-level analysis remains fragmented and largely limited to isolated probing techniques. To address this gap, we introduce DreamReader: a unified framework that formalizes diffusion interpretability as composable representation operators spanning activation extraction, causal patching, structured ablations, and activation steering across modules and timesteps. DreamReader provides a model-agnostic abstraction layer enabling systematic analysis and intervention across diffusion architectures. Beyond consolidating existing methods, DreamReader introduces three novel intervention primitives for diffusion models: (1) representation fine-tuning (LoReFT) for subspace-constrained internal adaptation; (2) classifier-guided gradient steering using MLP probes trained on activations; and (3) component-level cross-model mapping for systematic study of transferability of representations across modalities. These mechanisms allows us to do lightweight white-box interventions on T2I models by drawing inspiration from interpretability techniques on LLMs.\n  We demonstrate DreamReader through controlled experiments that (i) perform activation stitching between two models, and (ii) apply LoReFT to steer multiple activation units, reliably injecting a target concept into the generated images. Experiments are specified declaratively and executed in controlled batched pipelines to enable reproducible large-scale analysis. Across multiple case studies, we show that techniques adapted from language model interpretability yield promising and controllable interventions in diffusion models. DreamReader is released as an open source toolkit for advancing research on T2I interpretability.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13299",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13299v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.515633"
+}

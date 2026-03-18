@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13696v1",
+  "title": "Repetition Without Exclusivity: Scale Sensitivity of Referential Mechanisms in Child-Scale Language Models",
+  "authors": "Jon-Paul Cacioli",
+  "summary": "arXiv:2603.13696v1 Announce Type: cross \nAbstract: We present the first systematic evaluation of mutual exclusivity (ME) -- the bias to map novel words to novel referents -- in text-only language models trained on child-directed speech. We operationalise ME as referential suppression: when a familiar object is relabelled in a two-referent discourse context, ME predicts decreased probability of the labelled noun at a subsequent completion position. Three pilot findings motivate a pre-registered scale-sensitivity experiment: (1) a masked language model (BabyBERTa) is entirely insensitive to multi-sentence referential context; (2) autoregressive models show robust repetition priming -- the opposite of ME -- when familiar nouns are re-labelled; and (3) a novel context-dependence diagnostic reveals that apparent ME-like patterns with nonce tokens are fully explained by embedding similarity, not referential disambiguation. In the confirmatory experiment, we train 45 GPT-2-architecture models (2.9M, 8.9M, and 33.5M parameters; 5, 10, and 20 epochs on AO-CHILDES; 5 seeds each) and evaluate on a pre-registered ME battery. Anti-ME repetition priming is significant in all 9 cells (85-100% of items; all p < 2.4 x 10^-13). Priming attenuates with improved language modelling (Spearman rho = -0.533, p = 0.0002) but never crosses zero across a 3.8x perplexity range. The context-dependence diagnostic replicates in all 9 cells, and dose-response priming increases with repetitions in 8/9 cells (all trend p < 0.002). These findings indicate that distributional learning on child-directed speech produces repetition-based reference tracking rather than lexical exclusivity. We connect this to the grounded cognition literature and argue that referential grounding may be a necessary ingredient for ME -- an empirical claim about required input structure, not a nativist one.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13696",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13696v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-18T11:00:17.517179"
+}

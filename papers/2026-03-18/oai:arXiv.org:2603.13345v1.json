@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13345v1",
+  "title": "DDS-UDA: Dual-Domain Synergy for Unsupervised Domain Adaptation in Joint Segmentation of Optic Disc and Optic Cup",
+  "authors": "Yusong Xiao, Yuxuan Wu, Li Xiao, Gang Qu, Haiye Huo, Yu-Ping Wang",
+  "summary": "arXiv:2603.13345v1 Announce Type: cross \nAbstract: Convolutional neural networks (CNNs) have achieved exciting performance in joint segmentation of optic disc and optic cup on single-institution datasets. However, their clinical translation is hindered by two major challenges: limited availability of large-scale, high-quality annotations and performance degradation caused by domain shift during deployment across heterogeneous imaging protocols and acquisition platforms. While unsupervised domain adaptation (UDA) provides a way to mitigate these limitations, most existing approaches do not address cross-domain interference and intra-domain generalization within a unified framework. In this paper, we present the Dual-Domain Synergy UDA (DDS-UDA), a novel UDA framework that comprises two key modules. First, a bi-directional cross-domain consistency regularization module is enforced to mitigate cross-domain interference through feature-level semantic information exchange guided by a coarse-to-fine dynamic mask generator, suppressing noise propagation while preserving structural coherence. Second, a frequency-driven intra-domain pseudo label learning module is used to enhance intra-domain generalization by synthesizing spectral amplitude-mixed supervision signals, which ensures high-fidelity feature alignment across domains. Implemented within a teacher-student architecture, DDS-UDA disentangles domain-specific biases from domain-invariant feature-level representations, thereby achieving robust adaptation to heterogeneous imaging environments. We conduct a comprehensive evaluation of our proposed method on two multi-domain fundus image datasets, demonstrating that it outperforms several existing UDA based methods and therefore providing an effective way for optic disc and optic cup segmentation.",
+  "published": "Tue, 17 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13345",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13345v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-18T11:00:19.541990"
+}

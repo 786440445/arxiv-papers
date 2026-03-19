@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.02869v2",
+  "title": "Representing Beauty: Towards a Participatory but Objective Latent Aesthetics",
+  "authors": "Alexander Michael Rusnak",
+  "summary": "arXiv:2510.02869v2 Announce Type: replace-cross \nAbstract: What does it mean for a machine to recognize beauty? While beauty remains a culturally and experientially compelling but philosophically elusive concept, deep learning systems increasingly appear capable of modeling aesthetic judgment. In this paper, we explore the capacity of neural networks to represent beauty despite the immense formal diversity of objects for which the term applies. By drawing on recent work on cross-model representational convergence, we show how aesthetic content produces more similar and aligned representations between models which have been trained on distinct data and modalities - while unaesthetic images do not produce more aligned representations. This finding implies that the formal structure of beautiful images has a realist basis - rather than only as a reflection of socially constructed values. Furthermore, we propose that these realist representations exist because of a joint grounding of aesthetic form in physical and cultural substance. We argue that human perceptual and creative acts play a central role in shaping these the latent spaces of deep learning systems, but that a realist basis for aesthetics shows that machines are not mere creative parrots but can produce novel creative insights from the unique vantage point of scale. Our findings suggest that human-machine co-creation is not merely possible, but foundational - with beauty serving as a teleological attractor in both cultural production and machine perception.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.02869",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.02869v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094884"
+}

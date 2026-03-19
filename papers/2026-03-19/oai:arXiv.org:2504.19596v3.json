@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2504.19596v3",
+  "title": "Towards Robust Multimodal Physiological Foundation Models: Handling Arbitrary Missing Modalities",
+  "authors": "Wei-Bang Jiang, Xi Fu, Yi Ding, Cuntai Guan",
+  "summary": "arXiv:2504.19596v3 Announce Type: replace-cross \nAbstract: Multimodal physiological signals, such as EEG, ECG, EOG, and EMG, are crucial for healthcare and brain-computer interfaces. While existing methods rely on specialized architectures and dataset-specific fusion strategies, they struggle to learn universal representations that generalize across datasets and handle missing modalities at inference time. To address these issues, we propose PhysioOmni, a foundation model for multimodal physiological signal analysis that models both homogeneous and heterogeneous features to decouple multimodal signals and extract generic representations while maintaining compatibility with arbitrary missing modalities. PhysioOmni trains a decoupled multimodal tokenizer, enabling masked signal pre-training via modality-invariant and modality-specific objectives. To ensure adaptability to diverse and incomplete modality combinations, the pre-trained encoders undergo resilient fine-tuning with prototype alignment on downstream datasets. Extensive experiments on four downstream tasks, emotion recognition, sleep stage classification, motor prediction, and mental workload detection, demonstrate that PhysioOmni achieves state-of-the-art performance while maintaining strong robustness to missing modalities. Our code and model weights will be released.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2504.19596",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2504.19596v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583406"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15650v1",
+  "title": "How to Achieve Prototypical Birth and Death for OOD Detection?",
+  "authors": "Ningkang Peng, Qianfeng Yu, Xiaoqian Peng, Linjing Qian, Yafei Liu, Canran Xiao, Xinyu Lu, Tingyu Lu, Zhichao Zheng, Yanhui Gu",
+  "summary": "arXiv:2603.15650v1 Announce Type: new \nAbstract: Out-of-Distribution (OOD) detection is crucial for the secure deployment of machine learning models, and prototype-based learning methods are among the mainstream strategies for achieving OOD detection. Existing prototype-based learning methods generally rely on a fixed number of prototypes. This static assumption fails to adapt to the inherent complexity differences across various categories. Currently, there is still a lack of a mechanism that can adaptively adjust the number of prototypes based on data complexity. Inspired by the processes of cell birth and death in biology, we propose a novel method named PID (Prototype bIrth and Death) to adaptively adjust the prototype count based on data complexity. This method relies on two dynamic mechanisms during the training process: prototype birth and prototype death. The birth mechanism instantiates new prototypes in data regions with insufficient representation by identifying the overload level of existing prototypes, thereby meticulously capturing intra-class substructures. Conversely, the death mechanism reinforces the decision boundary by pruning prototypes with ambiguous class boundaries through evaluating their discriminability. Through birth and death, the number of prototypes can be dynamically adjusted according to the data complexity, leading to the learning of more compact and better-separated In-Distribution (ID) embeddings, which significantly enhances the capability to detect OOD samples. Experiments demonstrate that our dynamic method, PID, significantly outperforms existing methods on benchmarks such as CIFAR-100, achieving State-of-the-Art (SOTA) performance, especially on the FPR95 metric.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15650",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15650v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582213"
+}

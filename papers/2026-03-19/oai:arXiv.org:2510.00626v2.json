@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.00626v2",
+  "title": "When Silence Matters: The Impact of Irrelevant Audio on Text Reasoning in Large Audio-Language Models",
+  "authors": "Chen-An Li, Tzu-Han Lin, Hung-yi Lee",
+  "summary": "arXiv:2510.00626v2 Announce Type: replace \nAbstract: Large audio-language models (LALMs) unify speech and text processing, but their robustness in noisy real-world settings remains underexplored. We investigate how irrelevant audio, such as silence, synthetic noise, and environmental sounds, affects text reasoning tasks where audio is unnecessary. Across three text-based benchmarks, we find that even non-informative audio reduces accuracy and increases prediction volatility; the severity of interference scales with longer durations, higher amplitudes, and elevated decoding temperatures. Silence, often assumed neutral, destabilizes outputs as strongly as synthetic noise. While larger models show greater resilience, vulnerabilities persist across all evaluated systems. We further test mitigation strategies and find that prompting shows limited effectiveness, whereas self-consistency improves stability at the cost of increased computation. Our results reveal cross-modal interference as a key robustness challenge and highlight the need for efficient fusion strategies that preserve reasoning performance in the presence of irrelevant inputs.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.00626",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.00626v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-19T11:00:09.120961"
+}

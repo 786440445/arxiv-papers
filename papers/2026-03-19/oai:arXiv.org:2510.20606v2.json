@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.20606v2",
+  "title": "Strategic Costs of Perceived Bias in Fair Selection",
+  "authors": "L. Elisa Celis, Lingxiao Huang, Milind Sohoni, Nisheeth K. Vishnoi",
+  "summary": "arXiv:2510.20606v2 Announce Type: replace-cross \nAbstract: Meritocratic systems, from admissions to hiring, aim to impartially reward skill and effort. Yet persistent disparities across race, gender, and class challenge this ideal. Some attribute these gaps to structural inequality; others to individual choice. We develop a game-theoretic model in which candidates from different socioeconomic groups differ in their perceived post-selection value--shaped by social context and, increasingly, by AI-powered tools offering personalized career or salary guidance. Each candidate strategically chooses effort, balancing its cost against expected reward; effort translates into observable merit, and selection is based solely on merit. We characterize the unique Nash equilibrium in the large-agent limit and derive explicit formulas showing how valuation disparities and institutional selectivity jointly determine effort, representation, social welfare, and utility. We further propose a cost-sensitive optimization framework that quantifies how modifying selectivity or perceived value can reduce disparities without compromising institutional goals. Our analysis reveals a perception-driven bias: when perceptions of post-selection value differ across groups, these differences translate into rational differences in effort, propagating disparities backward through otherwise \"fair\" selection processes. While the model is static, it captures one stage of a broader feedback cycle linking perceptions, incentives, and outcome--bridging rational-choice and structural explanations of inequality by showing how techno-social environments shape individual incentives in meritocratic systems.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.20606",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.20606v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583486"
+}

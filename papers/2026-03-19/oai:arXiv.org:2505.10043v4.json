@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.10043v4",
+  "title": "Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights",
+  "authors": "Yifan Wu, Lutao Yan, Yizhang Zhu, Yenchi Tseng, Yinan Mei, Yong Wang, Jiannan Wang, Nan Tang, Yuyu Luo",
+  "summary": "arXiv:2505.10043v4 Announce Type: replace-cross \nAbstract: Text-to-chart retrieval, enabling users to find relevant charts via natural language queries, has gained significant attention. However, evaluating models in real-world business intelligence (BI) scenarios is challenging, as current benchmarks fail to simulate realistic user queries or test for deep semantic understanding with static chart images.To address this gap, we introduce CRBench, the first real-world BI-sourced benchmark comprising 21,862 charts and 326 queries, utilizing a Target-and-Distractor paradigm to evaluate discriminative retrieval among highly similar candidates. Testing on CRBench reveals that existing methods, which rely primarily on visual features, perform poorly and fail to capture the rich analytical semantics of charts. To address this performance bottleneck, we propose a semantic insights synthesis pipeline that automatically generates three hierarchical levels of insights for charts: visual patterns, statistical properties, and practical applications. Using this pipeline, we produced 207,498 semantic insights for 69,166 charts as training data. By leveraging this data to bridge the gap between natural language query intent and latent visual representations via multi-level semantic supervision, we develop ChartFinder, a specialized model capable of deep cross-model reasoning. Experimental results show ChartFinder significantly outperforms state-of-the-art methods on CRBench, achieving up to 66.9% NDCG@10 for precise queries (an 11.58% improvement) and an average increase of 5% across nearly all metrics for fuzzy queries. This work provides the community with a much-needed benchmark for realistic evaluation and demonstrates a powerful data synthesis paradigm for enhancing a model's semantic understanding of charts.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.10043",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.10043v4.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094779"
+}

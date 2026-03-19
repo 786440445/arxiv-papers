@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16020v1",
+  "title": "IRAM-Omega-Q: A Computational Architecture for Uncertainty Regulation in Artificial Agents",
+  "authors": "Veronique Ziegler",
+  "summary": "arXiv:2603.16020v1 Announce Type: new \nAbstract: Artificial agents can achieve strong task performance while remaining opaque with respect to internal regulation, uncertainty management, and stability under stochastic perturbation. We present IRAM-Omega-Q, a computational architecture that models internal regulation as closed-loop control over a quantum-like state representation. The framework uses density matrices instrumentally as abstract state descriptors, enabling direct computation of entropy, purity, and coherence-related metrics without invoking physical quantum processes. A central adaptive gain is updated continuously to maintain a target uncertainty regime under noise. Using systematic parameter sweeps, fixed-seed publication-mode simulations, and susceptibility-based phase-diagram analysis, we identify reproducible critical boundaries in regulation-noise space. We further show that alternative control update orderings, interpreted as perception-first and action-first architectures, induce distinct stability regimes under identical external conditions. These results support uncertainty regulation as a concrete architectural principle for artificial agents and provide a formal setting for studying stability, control, and order effects in cognitively inspired AI systems. The framework is presented as a technical model of adaptive regulation dynamics in artificial agents. It makes no claims regarding phenomenological consciousness, and the quantum-like formalism is used strictly as a mathematical representation for structured uncertainty and state evolution.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16020",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16020v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.093405"
+}

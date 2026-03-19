@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.00170v3",
+  "title": "A Novel Evolutionary Method for Automated Skull-Face Overlay in Computer-Aided Craniofacial Superimposition",
+  "authors": "Pr\\'axedes Mart\\'inez-Moreno, Andrea Valsecchi, Pablo Mesejo, Pilar Navarro-Ram\\'irez, Valentino Lugli, Sergio Damas",
+  "summary": "arXiv:2603.00170v3 Announce Type: replace-cross \nAbstract: Craniofacial Superimposition is a forensic technique for identifying skeletal remains by comparing a post-mortem skull with ante-mortem facial photographs. A critical step in this process is Skull-Face Overlay (SFO). This stage involves aligning a 3D skull model with a 2D facial image, typically guided by cranial and facial landmarks' correspondence. However, its accuracy is undermined by individual variability in soft-tissue thickness, introducing significant uncertainty into the overlay. This paper introduces Lilium, an automated evolutionary method to enhance the accuracy and robustness of SFO. Lilium explicitly models soft-tissue variability using a 3D cone-based representation whose parameters are optimized via a Differential Evolution algorithm. The method enforces anatomical, morphological, and photographic plausibility through a combination of constraints: landmark matching, camera parameter consistency, head pose alignment, skull containment within facial boundaries, and region parallelism. This emulation of the usual forensic practitioners' approach leads Lilium to outperform the state-of-the-art method in terms of both accuracy and robustness.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.00170",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.00170v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.095074"
+}

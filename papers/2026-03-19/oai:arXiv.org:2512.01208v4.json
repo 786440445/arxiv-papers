@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.01208v4",
+  "title": "Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks",
+  "authors": "Alper Y{\\i}ld{\\i}r{\\i}m, \\.Ibrahim Y\\\"uceda\\u{g}",
+  "summary": "arXiv:2512.01208v4 Announce Type: replace \nAbstract: The role of phase in neural sequence models remains poorly understood. To isolate this question, we introduce PRISM, a complex-valued encoder that enforces a unit-norm constraint ($|z| = 1$) and replaces attention with gated spectral filtering. Under this constraint, the model cannot use activation magnitude to distinguish signal from noise, and must instead rely on phase angles. We find that semantic relationships correlate with measurable phase structure: synonym pairs exhibit significantly higher phase coherence than random pairs ($R = 0.198$ vs.\\ $0.072$, $p < 0.001$), and the model resolves lexical ambiguity via layer-specific phase rotations while maintaining near-unit gain. These phase representations are robust to scalar attenuation, retaining $97\\%$ of translation quality when signal magnitude is uniformly reduced. We also identify a spectral density threshold: the model fails to generate coherent output from isolated tokens, requiring minimum sequence length to produce the interference patterns that support its computation. Finally, we show that a hybrid architecture (Wave-Particle Transformer) combining a phase-based encoder with standard attention matches Transformer baselines at $33$M parameters with fewer non-embedding parameters, though we do not claim this generalizes to larger scales. Our findings provide controlled evidence that phase angles can encode semantic information in complex-valued networks, and characterize the conditions under which this encoding succeeds and fails.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.01208",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.01208v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583201"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15862v1",
+  "title": "Self-supervised Disentanglement of Disease Effects from Aging in 3D Medical Shapes",
+  "authors": "Jakaria Rabbi, Nilanjan Ray, Dana Cobzas",
+  "summary": "arXiv:2603.15862v1 Announce Type: cross \nAbstract: Disentangling pathological changes from physiological aging in 3D medical shapes is crucial for developing interpretable biomarkers and patient stratification. However, this separation is challenging when diagnosis labels are limited or unavailable, since disease and aging often produce overlapping effects on shape changes, obscuring clinically relevant shape patterns. To address this challenge, we propose a two-stage framework combining unsupervised disease discovery with self-supervised disentanglement of implicit shape representations. In the first stage, we train an implicit neural model with signed distance functions to learn stable shape embeddings. We then apply clustering on the shape latent space, which yields pseudo disease labels without using ground-truth diagnosis during discovery. In the second stage, we disentangle factors in a compact variational space using pseudo disease labels discovered in the first stage and the ground truth age labels available for all subjects. We enforce separation and controllability with a multi-objective disentanglement loss combining covariance and a supervised contrastive loss. On ADNI hippocampus and OAI distal femur shapes, we achieve near-supervised performance, improving disentanglement and reconstruction over state-of-the-art unsupervised baselines, while enabling high-fidelity reconstruction, controllable synthesis, and factor-based explainability. Code and checkpoints are available at https://github.com/anonymous-submission01/medical-shape-disentanglement",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15862",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15862v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582816"
+}

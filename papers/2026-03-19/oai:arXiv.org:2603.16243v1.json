@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16243v1",
+  "title": "RASLF: Representation-Aware State Space Model for Light Field Super-Resolution",
+  "authors": "Zeqiang Wei, Kai Jin, Kuan Song, Xiuzhuang Zhou, Wenlong Chen, Min Xu",
+  "summary": "arXiv:2603.16243v1 Announce Type: cross \nAbstract: Current SSM-based light field super-resolution (LFSR) methods often fail to fully leverage the complementarity among various LF representations, leading to the loss of fine textures and geometric misalignments across views. To address these issues, we propose RASLF, a representation-aware state-space framework that explicitly models structural correlations across multiple LF representations. Specifically, a Progressive Geometric Refinement (PGR) block is created that uses a panoramic epipolar representation to explicitly encode multi-view parallax differences, thereby enabling integration across different LF representations. Furthermore, we introduce a Representation Aware Asymmetric Scanning (RAAS) mechanism that dynamically adjusts scanning paths based on the physical properties of different representation spaces, optimizing the balance between performance and efficiency through path pruning. Additionally, a Dual-Anchor Aggregation (DAA) module improves hierarchical feature flow, reducing redundant deeplayer features and prioritizing important reconstruction information. Experiments on various public benchmarks show that RASLF achieves the highest reconstruction accuracy while remaining highly computationally efficient.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16243",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16243v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094180"
+}

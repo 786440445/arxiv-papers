@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15980v1",
+  "title": "Standardizing Medical Images at Scale for AI",
+  "authors": "Callen MacPhee, Yiming Zhou, Koichiro Kishima, Bahram Jalali",
+  "summary": "arXiv:2603.15980v1 Announce Type: cross \nAbstract: Deep learning has achieved remarkable success in medical image analysis, yet its performance remains highly sensitive to the heterogeneity of clinical data. Differences in imaging hardware, staining protocols, and acquisition conditions produce substantial domain shifts that degrade model generalization across institutions. Here we present a physics-based data preprocessing framework based on the PhyCV (Physics-Inspired Computer Vision) family of algorithms, which standardizes medical images through deterministic transformations derived from optical physics. The framework models images as spatially varying optical fields that undergo a virtual diffractive propagation followed by coherent phase detection. This process suppresses non-semantic variability such as color and illumination differences while preserving diagnostically relevant texture and structural features. When applied to histopathological images from the Camelyon17-WILDS benchmark, PhyCV preprocessing improves out-of-distribution breast-cancer classification accuracy from 70.8% (Empirical Risk Minimization baseline) to 90.9%, matching or exceeding data-augmentation and domain-generalization approaches at negligible computational cost. Because the transform is physically interpretable, parameterizable, and differentiable, it can be deployed as a fixed preprocessing stage or integrated into end-to-end learning. These results establish PhyCV as a generalizable data refinery for medical imaging-one that harmonizes heterogeneous datasets through first-principles physics, improving robustness, interpretability, and reproducibility in clinical AI systems.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15980",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15980v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.093976"
+}

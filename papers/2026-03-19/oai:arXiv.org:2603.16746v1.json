@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16746v1",
+  "title": "Data-driven forced response analysis with min-max representations of nonlinear restoring forces",
+  "authors": "Akira Saito, Hiromu Fujita",
+  "summary": "arXiv:2603.16746v1 Announce Type: cross \nAbstract: This paper discusses a novel data-driven nonlinearity identification method for mechanical systems with nonlinear restoring forces such as polynomial, piecewise-linear, and general displacement-dependent nonlinearities. The proposed method is built upon the universal approximation theorem that states that a nonlinear function can be approximated by a linear combination of activation functions in artificial neural network framework. The proposed approach utilizes piecewise linear springs with initial gaps to act as the activation functions of the neurons of artificial neural networks. A library of piecewise linear springs with initial gaps are constructed, and the contributions of the springs on the nonlinear restoring force are determined by solving the linear regression problems. The piecewise linear springs are realized by combinations of min and max functions with biases. The proposed method is applied to a Duffing oscillator with cubic stiffness, and a piecewise linear oscillator with a gap and their nonlinearities are successfully determined from their free responses. The obtained models are then used for conducting forced response analysis and the results match well with those of the original system. The method is then applied to experimentally-obtained free response data of a cantilevered plate that is subjected to magnetic restoring force, and successfully finds the piecewise linear representation of the magnetic force. It is also shown that the obtained model is capable of accurately capturing the steady-state response of the system subject to harmonic base excitation.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16746",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16746v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582980"
+}

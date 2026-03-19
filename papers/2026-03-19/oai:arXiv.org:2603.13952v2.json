@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.13952v2",
+  "title": "LLM-Guided Reinforcement Learning for Audio-Visual Speech Enhancement",
+  "authors": "Chih-Ning Chen, Jen-Cheng Hou, Hsin-Min Wang, Shao-Yi Chien, Yu Tsao, Fan-Gang Zeng",
+  "summary": "arXiv:2603.13952v2 Announce Type: replace \nAbstract: In existing Audio-Visual Speech Enhancement (AVSE) methods, objectives such as Scale-Invariant Signal-to-Noise Ratio (SI-SNR) and Mean Squared Error (MSE) are widely used; however, they often correlate poorly with perceptual quality and provide limited interpretability for optimization. This work proposes a reinforcement learning-based AVSE framework with a Large Language Model (LLM)-based interpretable reward model. An audio LLM generates natural language descriptions of enhanced speech, which are converted by a sentiment analysis model into a 1-5 rating score serving as the PPO reward for fine-tuning a pretrained AVSE model. Compared with scalar metrics, LLM-generated feedback is semantically rich and explicitly describes improvements in speech quality. Experiments on the 4th COG-MHEAR AVSE Challenge (AVSEC-4) dataset show that the proposed method outperforms a supervised baseline and a DNSMOS-based RL baseline in PESQ, STOI, neural quality metrics, and subjective listening tests.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.13952",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.13952v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-19T11:00:09.120972"
+}

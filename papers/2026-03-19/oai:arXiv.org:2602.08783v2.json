@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.08783v2",
+  "title": "Dynamics Within Latent Chain-of-Thought: An Empirical Study of Causal Structure",
+  "authors": "Zirui Li, Xuefeng Bai, Kehai Chen, Yizhi Li, Jian Yang, Chenghua Lin, Min Zhang",
+  "summary": "arXiv:2602.08783v2 Announce Type: replace \nAbstract: Latent or continuous chain-of-thought methods replace explicit textual rationales with a number of internal latent steps, but these intermediate computations are difficult to evaluate beyond correlation-based probes. In this paper, we view latent chain-of-thought as a manipulable causal process in representation space by modeling latent steps as variables in a structural causal model (SCM) and analyzing their effects through step-wise $\\mathrm{do}$-interventions. We study two representative paradigms (i.e., Coconut and CODI) on both mathematical and general reasoning tasks to investigate three key questions: (1) which steps are causally necessary for correctness and when answers become decidable early; (2) how does influence propagate across steps, and how does this structure compare to explicit CoT; and (3) do intermediate trajectories retain competing answer modes, and how does output-level commitment differ from representational commitment across steps. We find that latent-step budgets behave less like homogeneous extra depth and more like staged functionality with non-local routing, and we identify a persistent gap between early output bias and late representational commitment. These results motivate mode-conditional and stability-aware analyses -- and corresponding training/decoding objectives -- as more reliable tools for interpreting and improving latent reasoning systems. Code is available at https://github.com/J1mL1/causal-latent-cot.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.08783",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.08783v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094641"
+}

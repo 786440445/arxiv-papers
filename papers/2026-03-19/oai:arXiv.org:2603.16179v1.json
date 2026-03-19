@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16179v1",
+  "title": "360{\\deg} Image Perception with MLLMs: A Comprehensive Benchmark and a Training-Free Method",
+  "authors": "Huyen T. T. Tran, Van-Quang Nguyen, Farros Alferro, Kang-Jun Liu, Takayuki Okatani",
+  "summary": "arXiv:2603.16179v1 Announce Type: cross \nAbstract: Multimodal Large Language Models (MLLMs) have shown impressive abilities in understanding and reasoning over conventional images. However, their perception of 360{\\deg} images remains largely underexplored. Unlike conventional images, 360{\\deg} images capture the entire surrounding environment, enabling holistic spatial reasoning but introducing challenges such as geometric distortion and complex spatial relations. To comprehensively assess MLLMs' capabilities to perceive 360{\\deg} images, we introduce 360Bench, a Visual Question Answering (VQA) benchmark featuring 7K-resolution 360{\\deg} images, seven representative (sub)tasks with annotations carefully curated by human annotators. Using 360Bench, we systematically evaluate seven MLLMs and six enhancement methods, revealing their shortcomings in 360{\\deg} image perception. To address these challenges, we propose Free360, a training-free scene-graph-based framework for high-resolution 360{\\deg} VQA. Free360 decomposes the reasoning process into modular steps, applies adaptive spherical image transformations to 360{\\deg} images tailored to each step, and seamlessly integrates the resulting information into a unified graph representation for answer generation. Experiments show that Free360 consistently improves its base MLLM and provides a strong training-free solution for 360{\\deg} VQA tasks. The source code and dataset will be publicly released upon acceptance.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16179",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16179v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094150"
+}

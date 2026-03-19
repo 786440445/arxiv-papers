@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16070v1",
+  "title": "SEAHateCheck: Functional Tests for Detecting Hate Speech in Low-Resource Languages of Southeast Asia",
+  "authors": "Ri Chi Ng, Aditi Kumaresan, Yujia Hu, Roy Ka-Wei Lee",
+  "summary": "arXiv:2603.16070v1 Announce Type: cross \nAbstract: Hate speech detection relies heavily on linguistic resources, which are primarily available in high-resource languages such as English and Chinese, creating barriers for researchers and platforms developing tools for low-resource languages in Southeast Asia, where diverse socio-linguistic contexts complicate online hate moderation. To address this, we introduce SEAHateCheck, a pioneering dataset tailored to Indonesia, Thailand, the Philippines, and Vietnam, covering Indonesian, Tagalog, Thai, and Vietnamese. Building on HateCheck's functional testing framework and refining SGHateCheck's methods, SEAHateCheck provides culturally relevant test cases, augmented by large language models and validated by local experts for accuracy. Experiments with state-of-the-art and multilingual models revealed limitations in detecting hate speech in specific low-resource languages. In particular, Tagalog test cases showed the lowest model accuracy, likely due to linguistic complexity and limited training data. In contrast, slang-based functional tests proved the hardest, as models struggled with culturally nuanced expressions. The diagnostic insights of SEAHateCheck further exposed model weaknesses in implicit hate detection and models' struggles with counter-speech expression. As the first functional test suite for these Southeast Asian languages, this work equips researchers with a robust benchmark, advancing the development of practical, culturally attuned hate speech detection tools for inclusive online content moderation.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16070",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16070v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094036"
+}

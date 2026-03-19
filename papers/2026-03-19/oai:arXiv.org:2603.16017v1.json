@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16017v1",
+  "title": "Understanding Moral Reasoning Trajectories in Large Language Models: Toward Probing-Based Explainability",
+  "authors": "Fan Huang, Haewoon Kwak, Jisun An",
+  "summary": "arXiv:2603.16017v1 Announce Type: cross \nAbstract: Large language models (LLMs) increasingly participate in morally sensitive decision-making, yet how they organize ethical frameworks across reasoning steps remains underexplored. We introduce \\textit{moral reasoning trajectories}, sequences of ethical framework invocations across intermediate reasoning steps, and analyze their dynamics across six models and three benchmarks. We find that moral reasoning involves systematic multi-framework deliberation: 55.4--57.7\\% of consecutive steps involve framework switches, and only 16.4--17.8\\% of trajectories remain framework-consistent. Unstable trajectories remain 1.29$\\times$ more susceptible to persuasive attacks ($p=0.015$). At the representation level, linear probes localize framework-specific encoding to model-specific layers (layer 63/81 for Llama-3.3-70B; layer 17/81 for Qwen2.5-72B), achieving 13.8--22.6\\% lower KL divergence than the training-set prior baseline. Lightweight activation steering modulates framework integration patterns (6.7--8.9\\% drift reduction) and amplifies the stability--accuracy relationship. We further propose a Moral Representation Consistency (MRC) metric that correlates strongly ($r=0.715$, $p<0.0001$) with LLM coherence ratings, whose underlying framework attributions are validated by human annotators (mean cosine similarity $= 0.859$).",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16017",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16017v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094011"
+}

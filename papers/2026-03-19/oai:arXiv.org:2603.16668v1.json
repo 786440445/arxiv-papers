@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16668v1",
+  "title": "HRTF-guided Binaural Target Speaker Extraction with Real-World Validation",
+  "authors": "Yoav Ellinson, Sharon Gannot",
+  "summary": "arXiv:2603.16668v1 Announce Type: cross \nAbstract: This paper presents a Head-Related Transfer Function (HRTF)-guided framework for binaural Target Speaker Extraction (TSE) from mixtures of concurrent sources. Unlike conventional TSE methods based on Direction of Arrival (DOA) estimation or enrollment signals, which often distort perceived spatial location, the proposed approach leverages the listener's HRTF as an explicit spatial prior. The proposed framework is built upon a multi-channel deep blind source separation backbone, adapted to the binaural TSE setting. It is trained on measured HRTFs from a diverse population, enabling cross-listener generalization rather than subject-specific tuning. By conditioning the extraction on HRTF-derived spatial information, the method preserves binaural cues while enhancing speech quality and intelligibility. The performance of the proposed framework is validated through simulations and real recordings obtained from a head and torso simulator (HATS).",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16668",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16668v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-19T11:00:09.120955"
+}

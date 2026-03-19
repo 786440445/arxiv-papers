@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.13798v2",
+  "title": "CFM: Language-aligned Concept Foundation Model for Vision",
+  "authors": "Kai Wittenmayer, Sukrut Rao, Amin Parchami-Araghi, Bernt Schiele, Jonas Fischer",
+  "summary": "arXiv:2601.13798v2 Announce Type: replace-cross \nAbstract: Language-aligned vision foundation models perform strongly across diverse downstream tasks. Yet, their learned representations remain opaque, making interpreting their decision-making difficult. Recent work decompose these representations into human-interpretable concepts, but provide poor spatial grounding and are limited to image classification tasks. In this work, we propose CFM, a language-aligned concept foundation model for vision that provides fine-grained concepts, which are human-interpretable and spatially grounded in the input image. When paired with a foundation model with strong semantic representations, we get explanations for any of its downstream tasks. Examining local co-occurrence dependencies of concepts allows us to define concept relationships through which we improve concept naming and obtain richer explanations. On benchmark data, we show that CFM provides performance on classification, segmentation, and captioning that is competitive with opaque foundation models while providing fine-grained, high quality concept-based explanations. Code at https://github.com/kawi19/CFM.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.13798",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.13798v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583532"
+}

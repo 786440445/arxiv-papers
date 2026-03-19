@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16088v1",
+  "title": "RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems",
+  "authors": "Hui Wang, Tianzhu Hu, Mingming Li, Xi Zhou, Chun Gan, Jiao Dai, Jizhong Han, Songlin Hu, Tao Guo",
+  "summary": "arXiv:2603.16088v1 Announce Type: cross \nAbstract: Recommender systems are inherently dynamic feedback loops where prolonged local interactions accumulate into macroscopic structural degradation such as information cocoons. Existing representation learning paradigms are universally constrained by the assumption of a single flat space, forcing topologically grounded user associations and semantically driven historical interactions to be fitted within the same vector space. This excessive coupling of heterogeneous information renders it impossible for researchers to mechanistically distinguish and identify the sources of systemic bias. To overcome this theoretical bottleneck, we introduce Fiber Bundle from modern differential geometry and propose a novel geometric analysis paradigm for recommender systems. This theory naturally decouples the system space into two hierarchical layers: the base manifold formed by user interaction networks, and the fibers attached to individual user nodes that carry their dynamic preferences. Building upon this, we construct RecBundle, a framework oriented toward next-generation recommender systems that formalizes user collaboration as geometric connection and parallel transport on the base manifold, while mapping content evolution to holonomy transformations on fibers. From this foundation, we identify future application directions encompassing quantitative mechanisms for information cocoons and evolutionary bias, geometric meta-theory for adaptive recommendation, and novel inference architectures integrating large language models (LLMs). Empirical analysis on real-world MovieLens and Amazon Beauty datasets validates the effectiveness of this geometric framework.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16088",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16088v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094051"
+}

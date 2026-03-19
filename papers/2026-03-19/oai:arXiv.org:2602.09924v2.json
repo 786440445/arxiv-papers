@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.09924v2",
+  "title": "LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations",
+  "authors": "William Lugoloobi, Thomas Foster, William Bankes, Chris Russell",
+  "summary": "arXiv:2602.09924v2 Announce Type: replace-cross \nAbstract: Running LLMs with extended reasoning on every problem is expensive, but determining which inputs actually require additional compute remains challenging. We investigate whether their own likelihood of success is recoverable from their internal representations before generation, and if this signal can guide more efficient inference. We train linear probes on pre-generation activations to predict policy-specific success on math and coding tasks, substantially outperforming surface features such as question length and TF-IDF. Using E2H-AMC, which provides both human and model performance on identical problems, we show that models encode a model-specific notion of difficulty that is distinct from human difficulty, and that this distinction increases with extended reasoning. Leveraging these probes, we demonstrate that routing queries across a pool of models can exceed the best-performing model whilst reducing inference cost by up to 70\\% on MATH, showing that internal representations enable practical efficiency gains even when they diverge from human intuitions about difficulty. Our code is available at: https://github.com/KabakaWilliam/llms_know_difficulty",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.09924",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.09924v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583547"
+}

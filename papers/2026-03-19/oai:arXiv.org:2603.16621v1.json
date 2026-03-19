@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16621v1",
+  "title": "Simplex-to-Euclidean Bijection for Conjugate and Calibrated Multiclass Gaussian Process",
+  "authors": "Bernardo Williams, Harsha Vardhan Tetali, Arto Klami, Marcelo Hartmann",
+  "summary": "arXiv:2603.16621v1 Announce Type: new \nAbstract: We propose a conjugate and calibrated Gaussian process (GP) model for multi-class classification by exploiting the geometry of the probability simplex. Our approach uses Aitchison geometry to map simplex-valued class probabilities to an unconstrained Euclidean representation, turning classification into a GP regression problem with fewer latent dimensions than standard multi-class GP classifiers. This yields conjugate inference and reliable predictive probabilities without relying on distributional approximations in the model construction. The method is compatible with standard sparse GP regression techniques, enabling scalable inference on larger datasets. Empirical results show well-calibrated and competitive performance across synthetic and real-world datasets.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16621",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16621v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582592"
+}

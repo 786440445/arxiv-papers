@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.00965v3",
+  "title": "Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning",
+  "authors": "F\\'elix Lefebvre, Ga\\\"el Varoquaux",
+  "summary": "arXiv:2507.00965v3 Announce Type: replace \nAbstract: Many machine learning tasks can benefit from external knowledge. Large knowledge graphs store such knowledge, and embedding methods can be used to distill it into ready-to-use vector representations for downstream applications. For this purpose, current models have however two limitations: they are primarily optimized for link prediction, via local contrastive learning, and their application to the largest graphs requires significant engineering effort due to GPU memory limits. To address these, we introduce SEPAL: a Scalable Embedding Propagation ALgorithm for large knowledge graphs designed to produce high-quality embeddings for downstream tasks at scale. The key idea of SEPAL is to ensure global embedding consistency by optimizing embeddings only on a small core of entities, and then propagating them to the rest of the graph with message passing. We evaluate SEPAL on 7 large-scale knowledge graphs and 46 downstream machine learning tasks. Our results show that SEPAL significantly outperforms previous methods on downstream tasks. In addition, SEPAL scales up its base embedding model, enabling fitting huge knowledge graphs on commodity hardware.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2507.00965",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.00965v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583121"
+}

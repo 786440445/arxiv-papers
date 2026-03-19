@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16239v1",
+  "title": "Neural Pushforward Samplers for the Fokker-Planck Equation on Embedded Riemannian Manifolds",
+  "authors": "Andrew Qing He, Wei Cai",
+  "summary": "arXiv:2603.16239v1 Announce Type: cross \nAbstract: We extend the Weak Adversarial Neural Pushforward (WANPF) Method to the Fokker--Planck equation posed on a compact, smoothly embedded Riemannian manifold M in $R^n$. The key observation is that the weak formulation of the Fokker--Planck equation, together with the ambient-space representation of the Laplace--Beltrami operator via the tangential projection $P(x)$ and the mean-curvature vector $H(x)$, permits all integrals to be evaluated as expectations over samples lying on M, using test functions defined globally on $R^n$. A neural pushforward map is constrained to map the support of a base distribution into M at all times through a manifold retraction, so that probability conservation and manifold membership are enforced by construction. Adversarial ambient plane-wave test functions are chosen, and their Laplace--Beltrami operators are derived in closed form, enabling autodiff-free, mesh-free training. We present both a steady-state and a time-dependent formulation, derive explicit Laplace--Beltrami formulae for the sphere $S^{n-1}$ and the flat torus $T^n$, and demonstrate the method numerically on a double-well steady-state Fokker--Planck equation on $S^2$.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16239",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16239v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582905"
+}

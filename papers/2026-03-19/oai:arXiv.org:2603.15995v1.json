@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15995v1",
+  "title": "AILive Mixer: A Deep Learning based Zero Latency Automatic Music Mixer for Live Music Performances",
+  "authors": "Devansh Zurale, Iris Lorente, Michael Lester, Alex Mitchell",
+  "summary": "arXiv:2603.15995v1 Announce Type: new \nAbstract: In this work, we present a deep learning-based automatic multitrack music mixing system catered towards live performances. In a live performance, channels are often corrupted with acoustic bleeds of co-located instruments. Moreover, audio-visual synchronization is of critical importance thus putting a tight constraint on the audio latency. In this work we primarily tackle these two challenges of handling bleeds in the input channels to produce the music mix with zero latency. Although there have been several developments in the field of automatic music mixing in recent times, most or all previous works focus on offline production for isolated instrument signals and to the best of our knowledge, this is the first end-to-end deep learning system developed for live music performances. Our proposed system currently predicts mono gains for a multitrack input, but its design along with the precedent set in past works, allows for easy adaptation to future work of predicting other relevant music mixing parameters.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15995",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15995v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-19T11:00:10.219587"
+}

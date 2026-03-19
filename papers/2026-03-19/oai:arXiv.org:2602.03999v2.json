@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.03999v2",
+  "title": "Functional Stochastic Localization",
+  "authors": "Anming Gu, Bobby Shi, Kevin Tian",
+  "summary": "arXiv:2602.03999v2 Announce Type: replace-cross \nAbstract: Eldan's stochastic localization is a probabilistic construction that has proved instrumental to modern breakthroughs in high-dimensional geometry and the design of sampling algorithms. Motivated by sampling under non-Euclidean geometries and the mirror descent algorithm in optimization, we develop a functional generalization of Eldan's process that replaces Gaussian regularization with regularization by any positive integer multiple of a log-Laplace transform. We further give a mixing time bound on the Markov chain induced by our localization process, which holds if our target distribution satisfies a functional Poincar\\'e inequality. Finally, we apply our framework to differentially private convex optimization in $\\ell_p$ norms for $p \\in [1, 2)$, where we improve state-of-the-art query complexities in a zeroth-order model.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.03999",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.03999v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583542"
+}

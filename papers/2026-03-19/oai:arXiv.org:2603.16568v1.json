@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16568v1",
+  "title": "Manifold-Matching Autoencoders",
+  "authors": "Laurent Cheret, Vincent L\\'etourneau, Isar Nejadgholi, Chris Drummond, Hussein Al Osman, Maia Fraser",
+  "summary": "arXiv:2603.16568v1 Announce Type: new \nAbstract: We study a simple unsupervised regularization scheme for autoencoders called Manifold-Matching (MMAE): we align the pairwise distances in the latent space to those of the input data space by minimizing mean squared error. Because alignment occurs on pairwise distances rather than coordinates, it can also be extended to a lower-dimensional representation of the data, adding flexibility to the method. We find that this regularization outperforms similar methods on metrics based on preservation of nearest-neighbor distances and persistent homology-based measures. We also observe that MMAE provides a scalable approximation of Multi-Dimensional Scaling (MDS).",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16568",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16568v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582571"
+}

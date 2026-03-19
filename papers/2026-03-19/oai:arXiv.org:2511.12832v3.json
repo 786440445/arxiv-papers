@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.12832v3",
+  "title": "From Passive to Persuasive: Localized Activation Injection for Empathy and Negotiation",
+  "authors": "Niranjan Chebrolu, Kokil Jaidka, Gerard Christopher Yeo",
+  "summary": "arXiv:2511.12832v3 Announce Type: replace-cross \nAbstract: Complex social behaviors, such as empathy and strategic politeness, are widely assumed to resist the directional decomposition that makes activation steering effective for coarse attributes like sentiment or toxicity. We present STAR: Steering via Attribution and Representation, which tests this assumption by using attribution patching to identify the layer--token positions where each behavioral trait causally originates, then injecting contrastive activation vectors at precisely those locations. Evaluated on emotional dialogue and negotiation in both single- and multi-turn settings, localized injection consistently outperforms global steering and instruction priming; human evaluation confirms that gains reflect genuine improvements in perceived quality rather than lexical surface change. Our results suggest that complex interpersonal behaviors are encoded as localized, approximately linear directions in LLM activation space, and that behavioral alignment is fundamentally a localization problem.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.12832",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.12832v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094972"
+}

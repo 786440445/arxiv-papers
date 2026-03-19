@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16110v1",
+  "title": "VIGIL: Towards Edge-Extended Agentic AI for Enterprise IT Support",
+  "authors": "Sarthak Ahuja, Neda Kordjazi, Evren Yortucboylu, Vishaal Kapoor, Mariam Dundua, Yiming Li, Derek Ho, Vaibhavi Padala, Jennifer Whitted, Rebecca Steinert",
+  "summary": "arXiv:2603.16110v1 Announce Type: new \nAbstract: Enterprise IT support is constrained by heterogeneous devices, evolving policies, and long-tail failure modes that are difficult to resolve centrally. We present VIGIL, an edge-extended agentic AI system that deploys desktop-resident agents to perform situated diagnosis, retrieval over enterprise knowledge, and policy-governed remediation directly on user devices with explicit consent and end-to-end observability. In a 10-week pilot of VIGIL's operational loop on 100 resource-constrained endpoints, VIGIL reduces interaction rounds by 39%, achieves at least 4 times faster diagnosis, and supports self-service resolution in 82% of matched cases. Users report excellent usability, high trust, and low cognitive workload across four validated instruments, with qualitative feedback highlighting transparency as critical for trust. Notably, users rated the system higher when no historical matches were available, suggesting on-device diagnosis provides value independent of knowledge base coverage. This pilot establishes safety and observability foundations for fleet-wide continuous improvement.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16110",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16110v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.093441"
+}

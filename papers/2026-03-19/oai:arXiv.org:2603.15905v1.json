@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15905v1",
+  "title": "INSTRUMENTAL: Automatic Synthesizer Parameter Recovery from Audio via Evolutionary Optimization",
+  "authors": "Philipp Bogdan",
+  "summary": "arXiv:2603.15905v1 Announce Type: new \nAbstract: Existing audio-to-MIDI tools extract notes but discard the timbral characteristics that define an instrument's identity. We present Instrumental, a system that recovers continuous synthesizer parameters from audio by coupling a differentiable 28-parameter subtractive synthesizer with CMA-ES, a derivative-free evolutionary optimizer. We optimize a composite perceptual loss combining mel-scaled STFT, spectral centroid, and MFCC divergence, achieving a matching loss of 2.09 on real recorded audio. We systematically evaluate eight hypotheses for improving convergence and find that only parametric EQ boosting yields meaningful improvement. Our results show that CMA-ES outperforms gradient descent on this non-convex landscape, that more parameters do not monotonically improve matching, and that spectral analysis initialization accelerates convergence over random starts.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15905",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15905v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-19T11:00:09.120897"
+}

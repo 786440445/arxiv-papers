@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.04427v2",
+  "title": "Thin Keys, Full Values: Reducing KV Cache via Low-Dimensional Attention Selection",
+  "authors": "Hengshuai Yao, Xing Chen, Ahmed Murtadha, Guan Wang",
+  "summary": "arXiv:2603.04427v2 Announce Type: replace \nAbstract: Standard transformer attention uses identical dimensionality for queries, keys, and values, yet these components serve\n  different roles: queries and keys produce scalar attention weights (selection), while values carry rich representations\n  (value transfer). We show that selection requires only $O(\\log N)$ dimensions to distinguish among $N$ relevant token\n  categories (e.g., syntactic roles, semantic clusters, positional patterns) -- far fewer than value transfer needs.\n  We introduce factored keys, which exploit this asymmetry to physically shrink the KV cache of any pretrained model without\n  retraining from scratch -- unlike GQA and MLA, which must be designed into the architecture before pretraining. We factorize\n  each key projection $W_K \\approx A_{d \\times r} B_{r \\times d}$ via truncated SVD (where $r = d_{\\text{select}}$), set $W_K'\n  = A$ as the new key projection producing compact $r$-dimensional keys for the cache, and absorb $B^\\top$ into the query\n  projection ($W_Q' = W_Q B^\\top$) at zero cost -- since queries are never cached. At 7B scale, training from scratch with $r =\n  d_{\\text{model}}/4$ matches full-attention perplexity (9.2 vs 9.3 PPL after 20B tokens) while using 12% fewer parameters and\n  training 8% faster. For existing models, SVD + QK fine-tuning (3 epochs, less than 1% of pretraining data) achieves 75% key\n  cache savings at approximately 2% quality cost on both GPT-2 and Mistral-7B. The approach composes with GQA and quantization\n  for up to $16\\times$ combined key cache compression. For a 7B model serving 128K context, factored keys save 25 GB of KV\n  cache per user, enabling approximately 60% more concurrent users on identical hardware.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.04427",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.04427v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583253"
+}

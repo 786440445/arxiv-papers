@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16682v1",
+  "title": "A Semantic Timbre Dataset for the Electric Guitar",
+  "authors": "Joseph Cameron, Alan Blackwell",
+  "summary": "arXiv:2603.16682v1 Announce Type: new \nAbstract: Understanding and manipulating timbre is central to audio synthesis, yet this remains under-explored in machine learning due to a lack of annotated datasets linking perceptual timbre dimensions to semantic descriptors. We present the Semantic Timbre Dataset, a curated collection of monophonic electric guitar sounds, each labeled with one of 19 semantic timbre descriptors and corresponding magnitudes. These descriptors were derived from a qualitative analysis of physical and virtual guitar effect units and applied systematically to clean guitar tones. The dataset bridges perceptual timbre and machine learning representations, supporting learning for timbre control and semantic audio generation. We validate the dataset by training a variational autoencoder (VAE) on its latent space and evaluating it using human perceptual judgments and descriptor classifiers. Results show that the VAE captures timbral structure and enables smooth interpolation across descriptors. We release the dataset, code, and evaluation protocols to support timbre-aware generative AI research.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16682",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16682v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-19T11:00:09.120917"
+}

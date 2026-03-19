@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16281v1",
+  "title": "Laya: A LeJEPA Approach to EEG via Latent Prediction over Reconstruction",
+  "authors": "Saarang Panchavati, Uddhav Panchavati, Corey Arnold, William Speier",
+  "summary": "arXiv:2603.16281v1 Announce Type: new \nAbstract: Electroencephalography (EEG) is a widely used tool for studying brain function, with applications in clinical neuroscience, diagnosis, and brain-computer interfaces (BCIs). Recent EEG foundation models trained on large unlabeled corpora aim to learn transferable representations, but their effectiveness remains unclear; reported improvements over smaller task-specific models are often modest, sensitive to downstream adaptation and fine-tuning strategies, and limited under linear probing. We hypothesize that one contributing factor is the reliance on signal reconstruction as the primary self-supervised learning (SSL) objective, which biases representations toward high-variance artifacts rather than task-relevant neural structure. To address this limitation, we explore an SSL paradigm based on Joint Embedding Predictive Architectures (JEPA), which learn by predicting latent representations instead of reconstructing raw signals. While earlier JEPA-style methods often rely on additional heuristics to ensure training stability, recent advances such as LeJEPA provide a more principled and stable formulation. We introduce Laya, the first EEG foundation model based on LeJEPA. Across a range of EEG benchmarks, Laya demonstrates improved performance under linear probing compared to reconstruction-based baselines, suggesting that latent predictive objectives offer a promising direction for learning transferable, high-level EEG representations.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16281",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16281v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582495"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.06122v2",
+  "title": "PolyGraph Discrepancy: a classifier-based metric for graph generation",
+  "authors": "Markus Krimmel, Philip Hartout, Karsten Borgwardt, Dexiong Chen",
+  "summary": "arXiv:2510.06122v2 Announce Type: replace \nAbstract: Existing methods for evaluating graph generative models primarily rely on Maximum Mean Discrepancy (MMD) metrics based on graph descriptors. While these metrics can rank generative models, they do not provide an absolute measure of performance. Their values are also highly sensitive to extrinsic parameters, namely kernel and descriptor parametrization, making them incomparable across different graph descriptors. We introduce PolyGraph Discrepancy (PGD), a new evaluation framework that addresses these limitations. It approximates the Jensen-Shannon distance of graph distributions by fitting binary classifiers to distinguish between real and generated graphs, featurized by these descriptors. The data log-likelihood of these classifiers approximates a variational lower bound on the JS distance between the two distributions. Resulting metrics are constrained to the unit interval [0,1] and are comparable across different graph descriptors. We further derive a theoretically grounded summary metric that combines these individual metrics to provide a maximally tight lower bound on the distance for the given descriptors. Thorough experiments demonstrate that PGD provides a more robust and insightful evaluation compared to MMD metrics. The PolyGraph framework for benchmarking graph generative models is made publicly available at https://github.com/BorgwardtLab/polygraph-benchmark.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.06122",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.06122v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.583151"
+}

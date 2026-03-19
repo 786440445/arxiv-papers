@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16143v1",
+  "title": "Structure-Aware Multimodal LLM Framework for Trustworthy Near-Field Beam Prediction",
+  "authors": "Mengyuan Li, Qianfan Lu, Jiachen Tian, Hongjun Hu, Yu Han, Xiao Li, Chao-kai Wen, Shi Jin",
+  "summary": "arXiv:2603.16143v1 Announce Type: cross \nAbstract: In near-field extremely large-scale multiple-input multiple-output (XL-MIMO) systems, spherical wavefront propagation expands the traditional beam codebook into the joint angular-distance domain, rendering conventional beam training prohibitively inefficient, especially in complex 3-dimensional (3D) low-altitude environments. Furthermore, since near-field beam variations are deeply coupled not only with user positions but also with the physical surroundings, precise beam alignment demands profound environmental understanding capabilities. To address this, we propose a large language model (LLM)-driven multimodal framework that fuses historical GPS data, RGB image, LiDAR data, and strategically designed task-specific textual prompts. By utilizing the powerful emergent reasoning and generalization capabilities of the LLM, our approach learns complex spatial dynamics to achieve superior environmental comprehension...",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16143",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16143v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094115"
+}

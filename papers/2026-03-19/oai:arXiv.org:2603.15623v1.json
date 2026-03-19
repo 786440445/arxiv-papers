@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15623v1",
+  "title": "Finder: A Multimodal AI-Powered Search Framework for Pharmaceutical Data Retrieval",
+  "authors": "Suyash Mishra, Srikanth Patil, Satyanarayan Pati, Sagar Sahu, Baddu Narendra",
+  "summary": "arXiv:2603.15623v1 Announce Type: cross \nAbstract: AI is transforming pharmaceutical search, where traditional systems struggle with multimodal content and manual curation. Finder is a scalable AI-powered framework that unifies retrieval across text, images, audio, and video using hybrid vector search, combining sparse lexical and dense semantic models. Its modular pipeline ingests diverse formats, enriches metadata, and stores content in a vector-native backend. Finder supports reasoning-aware natural language search, improving precision and contextual relevance. The system has processed over 291,400 documents, 31,070 videos, and 1,192 audio files in 98 languages. Techniques like hybrid fusion, chunking, and metadata-aware routing enable intelligent access across regulatory, research, and commercial domains.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15623",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15623v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.093656"
+}

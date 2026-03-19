@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.15665v1",
+  "title": "QV May Be Enough: Toward the Essence of Attention in LLMs",
+  "authors": "Zhang Edward",
+  "summary": "arXiv:2603.15665v1 Announce Type: new \nAbstract: Starting from first principles and a linguistic perspective centered on part-of-speech (POS) and syntactic analysis, this paper explores and derives the underlying essence of the Query-Key-Value (QKV) mechanism within the Transformer architecture. Based on this theoretical foundation, we provide a unified explanatory framework for the efficacy of contemporary architectures, including MQA, GQA, and MLA, while identifying their inherent trade-offs and potential optimization trajectories. We introduce the QV paradigm and provide empirical evidence for its validity. Building upon this, we propose the QV-Ka optimization scheme, which is further substantiated through experimental validation. The interpretable theoretical analysis of the QKV mechanism presented in this work establishes a robust foundation for the future evolution of large language model architectures.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.15665",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.15665v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.093274"
+}

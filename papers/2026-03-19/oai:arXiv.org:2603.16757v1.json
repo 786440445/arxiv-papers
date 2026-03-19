@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16757v1",
+  "title": "pADAM: A Plug-and-Play All-in-One Diffusion Architecture for Multi-Physics Learning",
+  "authors": "Amirhossein Mollaali, Bongseok Kim, Christian Moya, Guang Lin",
+  "summary": "arXiv:2603.16757v1 Announce Type: new \nAbstract: Generalizing across disparate physical laws remains a fundamental challenge for artificial intelligence in science. Existing deep-learning solvers are largely confined to single-equation settings, limiting transfer across physical regimes and inference tasks. Here we introduce pADAM, a unified generative framework that learns a shared probabilistic prior across heterogeneous partial differential equation families. Through a learned joint distribution of system states and, where applicable, physical parameters, pADAM supports forward prediction and inverse inference within a single architecture without retraining. Across benchmarks ranging from scalar diffusion to nonlinear Navier--Stokes equations, pADAM achieves accurate inference even under sparse observations. Combined with conformal prediction, it also provides reliable uncertainty quantification with coverage guarantees. In addition, pADAM performs probabilistic model selection from only two sparse snapshots, identifying governing laws through its learned generative representation. These results highlight the potential of generative multi-physics modeling for unified and uncertainty-aware scientific inference.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16757",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16757v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-19T11:00:11.582660"
+}

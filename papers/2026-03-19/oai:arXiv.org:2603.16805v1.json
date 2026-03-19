@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.16805v1",
+  "title": "Making Separation-First Multi-Stream Audio Watermarking Feasible via Joint Training",
+  "authors": "Houmin Sun, Zi Hu, Linxi Li, Yechen Wang, Liwei Jin, Ming Li",
+  "summary": "arXiv:2603.16805v1 Announce Type: new \nAbstract: Modern audio is created by mixing stems from different sources, raising the question: can we independently watermark each stem and recover all watermarks after separation? We study a separation-first, multi-stream watermarking framework-embedding distinct information into stems using unique keys but a shared structure, mixing, separating, and decoding from each output. A naive pipeline (robust watermarking + off-the-shelf separation) yields poor bit recovery, showing robustness to generic distortions does not ensure robustness to separation artifacts. To enable this, we jointly train the watermark system and the separator in an end-to-end manner, encouraging the separator to preserve watermark cues while adapting embedding to separation-specific distortions. Experiments on speech+music and vocal+accompaniment mixtures show substantial gains in post-separation recovery while maintaining perceptual quality.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.16805",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.16805v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-19T11:00:09.120929"
+}

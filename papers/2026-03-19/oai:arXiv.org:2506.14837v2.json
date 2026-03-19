@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.14837v2",
+  "title": "Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction",
+  "authors": "Chengzhi Xu, Yuyang Wang, Lai Wei, Lichao Sun, Weiran Huang",
+  "summary": "arXiv:2506.14837v2 Announce Type: replace-cross \nAbstract: Recently, multimodal large language models (MLLMs) have attracted increasing research attention due to their powerful visual understanding capabilities. While they have achieved impressive results on various vision tasks, their performance on chart-to-code generation remains suboptimal. This task requires MLLMs to generate executable code that can reproduce a given chart, demanding not only precise visual understanding but also accurate translation of visual elements into structured code. Directly prompting MLLMs to perform this complex task often yields unsatisfactory results. To address this challenge, we propose {ChartIR}, an iterative refinement method based on structured instruction. First, we distinguish two tasks: visual understanding and code translation. To accomplish the visual understanding component, we design two types of structured instructions: description and difference. The description instruction captures the visual elements of the reference chart, while the difference instruction characterizes the discrepancies between the reference chart and the generated chart. These instructions effectively transform visual features into language representations, thereby facilitating the subsequent code translation process. Second, we decompose the overall chart generation pipeline into two stages: initial code generation and iterative refinement, enabling progressive enhancement of the final output. Experimental results show that, compared to other method, our method achieves superior performance on both the open-source model Qwen2-VL and the closed-source model GPT-4o.",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.14837",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.14837v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.094819"
+}

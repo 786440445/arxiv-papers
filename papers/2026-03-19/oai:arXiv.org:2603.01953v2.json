@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.01953v2",
+  "title": "Closed-Loop Action Chunks with Dynamic Corrections for Training-Free Diffusion Policy",
+  "authors": "Pengyuan Wu, Pingrui Zhang, Zhigang Wang, Dong Wang, Bin Zhao, Xuelong Li",
+  "summary": "arXiv:2603.01953v2 Announce Type: replace-cross \nAbstract: Diffusion-based policies have achieved remarkable results in robotic manipulation but often struggle to adapt rapidly in dynamic scenarios, leading to delayed responses or task failures. We present DCDP, a Dynamic Closed-Loop Diffusion Policy framework that integrates chunk-based action generation with real-time correction. DCDP integrates a self-supervised dynamic feature encoder, cross-attention fusion, and an asymmetric action encoder-decoder to inject environmental dynamics before action execution, achieving real-time closed-loop action correction and enhancing the system's adaptability in dynamic scenarios. In dynamic PushT simulations, DCDP improves adaptability by 19\\% without retraining while requiring only 5\\% additional computation. Its modular design enables plug-and-play integration, achieving both temporal coherence and real-time responsiveness in dynamic robotic scenarios, including real-world manipulation tasks. The project page is at: https://github.com/wupengyuan/dcdp",
+  "published": "Wed, 18 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.01953",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.01953v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-19T11:00:13.095083"
+}

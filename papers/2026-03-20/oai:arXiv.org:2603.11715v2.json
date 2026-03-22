@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11715v2",
+  "title": "Affect Decoding in Phonated and Silent Speech Production from Surface EMG",
+  "authors": "Simon Pistrosch, Kleanthis Avramidis, Zhao Ren, Tiantian Feng, Jihwan Lee, Monica Gonzalez-Machorro, Anton Batliner, Tanja Schultz, Shrikanth Narayanan, Bj\\\"orn W. Schuller",
+  "summary": "arXiv:2603.11715v2 Announce Type: replace-cross \nAbstract: The expression of affect is integral to spoken communication, yet, its link to underlying articulatory execution remains unclear. Measures of articulatory muscle activity such as EMG could reveal how speech production is modulated by emotion alongside acoustic speech analyses. We investigate affect decoding from facial and neck surface electromyography (sEMG) during phonated and silent speech production. For this purpose, we introduce a dataset comprising 2,780 utterances from 12 participants across 3 tasks, on which we evaluate both intra- and inter-subject decoding using a range of features and model embeddings. Our results reveal that EMG representations reliably discriminate frustration with up to 0.845 AUC, and generalize well across articulation modes. Our ablation study further demonstrates that affective signatures are embedded in facial motor activity and persist in the absence of phonation, highlighting the potential of EMG sensing for affect-aware silent speech interfaces.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11715",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11715v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-20T12:17:07.474555"
+}

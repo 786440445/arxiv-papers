@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18612v1",
+  "title": "DiscoPhon: Benchmarking the Unsupervised Discovery of Phoneme Inventories With Discrete Speech Units",
+  "authors": "Maxime Poli, Manel Khentout, Angelo Ortiz Tandazo, Ewan Dunbar, Emmanuel Chemla, Emmanuel Dupoux",
+  "summary": "arXiv:2603.18612v1 Announce Type: cross \nAbstract: We introduce DiscoPhon, a multilingual benchmark for evaluating unsupervised phoneme discovery from discrete speech units. DiscoPhon covers 6 dev and 6 test languages, chosen to span a wide range of phonemic contrasts. Given only 10 hours of speech in a previously unseen language, systems must produce discrete units that are mapped to a predefined phoneme inventory, through either a many-to-one or a one-to-one assignment. The resulting sequences are evaluated for unit quality, recognition and segmentation. We provide four pretrained multilingual HuBERT and SpidR baselines, and show that phonemic information is available enough in current models for derived units to correlate well with phonemes, though with variations across languages.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18612",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18612v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-20T12:17:07.474499"
+}

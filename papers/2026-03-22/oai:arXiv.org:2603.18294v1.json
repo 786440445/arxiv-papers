@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18294v1",
+  "title": "The Validity Gap in Health AI Evaluation: A Cross-Sectional Analysis of Benchmark Composition",
+  "authors": "Alvin Rajkomar, Pavan Sudarshan, Angela Lai, Lily Peng",
+  "summary": "arXiv:2603.18294v1 Announce Type: new \nAbstract: Background: Clinical trials rely on transparent inclusion criteria to ensure generalizability. In contrast, benchmarks validating health-related large language models (LLMs) rarely characterize the \"patient\" or \"query\" populations they contain. Without defined composition, aggregate performance metrics may misrepresent model readiness for clinical use.\n  Methods: We analyzed 18,707 consumer health queries across six public benchmarks using LLMs as automated coding instruments to apply a standardized 16-field taxonomy profiling context, topic, and intent.\n  Results: We identified a structural \"validity gap.\" While benchmarks have evolved from static retrieval to interactive dialogue, clinical composition remains misaligned with real-world needs. Although 42% of the corpus referenced objective data, this was polarized toward wellness-focused wearable signals (17.7%); complex diagnostic inputs remained rare, including laboratory values (5.2%), imaging (3.8%), and raw medical records (0.6%). Safety-critical scenarios were effectively absent: suicide/self-harm queries comprised <0.7% of the corpus and chronic disease management only 5.5%. Benchmarks also neglected vulnerable populations (pediatrics/older adults <11%) and global health needs.\n  Conclusions: Evaluation benchmarks remain misaligned with real-world clinical needs, lacking raw clinical artifacts, adequate representation of vulnerable populations, and longitudinal chronic care scenarios. The field must adopt standardized query profiling--analogous to clinical trial reporting--to align evaluation with the full complexity of clinical practice.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18294",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18294v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.307770"
+}

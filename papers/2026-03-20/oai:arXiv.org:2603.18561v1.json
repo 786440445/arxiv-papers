@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18561v1",
+  "title": "CausalVAD: De-confounding End-to-End Autonomous Driving via Causal Intervention",
+  "authors": "Jiacheng Tang, Zhiyuan Zhou, Zhuolin He, Jia Zhang, Kai Zhang, Jian Pu",
+  "summary": "arXiv:2603.18561v1 Announce Type: cross \nAbstract: Planning-oriented end-to-end driving models show great promise, yet they fundamentally learn statistical correlations instead of true causal relationships. This vulnerability leads to causal confusion, where models exploit dataset biases as shortcuts, critically harming their reliability and safety in complex scenarios. To address this, we introduce CausalVAD, a de-confounding training framework that leverages causal intervention. At its core, we design the sparse causal intervention scheme (SCIS), a lightweight, plug-and-play module to instantiate the backdoor adjustment theory in neural networks. SCIS constructs a dictionary of prototypes representing latent driving contexts. It then uses this dictionary to intervene on the model's sparse vectorized queries. This step actively eliminates spurious associations induced by confounders, thereby eliminating spurious factors from the representations for downstream tasks. Extensive experiments on benchmarks like nuScenes show CausalVAD achieves state-of-the-art planning accuracy and safety. Furthermore, our method demonstrates superior robustness against both data bias and noisy scenarios configured to induce causal confusion.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18561",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18561v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.692567"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.03415v2",
+  "title": "Farther the Shift, Sparser the Representation: Analyzing OOD Mechanisms in LLMs",
+  "authors": "Mingyu Jin, Yutong Yin, Jingcheng Niu, Qingcheng Zeng, Wujiang Xu, Mengnan Du, Wei Cheng, Zhaoran Wang, Tianlong Chen, Dimitris N. Metaxas",
+  "summary": "arXiv:2603.03415v2 Announce Type: replace-cross \nAbstract: In this work, we investigate how Large Language Models (LLMs) adapt their internal representations when encountering inputs of increasing difficulty, quantified as the degree of out-of-distribution (OOD) shift. We reveal a consistent and quantifiable phenomenon: as task difficulty increases, whether through harder reasoning questions, longer contexts, or adding answer choices, the last hidden states of LLMs become substantially sparser. In short, \\textbf{\\textit{the farther the shift, the sparser the representations}}. This sparsity--difficulty relation is observable across diverse models and domains, suggesting that language models respond to unfamiliar or complex inputs by concentrating computation into specialized subspaces in the last hidden state. Through a series of controlled analyses with a learning dynamic explanation, we demonstrate that this sparsity is not incidental but an adaptive mechanism for stabilizing reasoning under OOD. Leveraging this insight, we design \\textit{Sparsity-Guided Curriculum In-Context Learning (SG-ICL)}, a strategy that explicitly uses representation sparsity to schedule few-shot demonstrations, leading to considerable performance enhancements. Our study provides new mechanistic insights into how LLMs internalize OOD challenges. The source code is available at the URL: https://github.com/MingyuJ666/sparsityLLM.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.03415",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.03415v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-20T12:17:21.268226"
+}

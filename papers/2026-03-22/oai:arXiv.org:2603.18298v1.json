@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18298v1",
+  "title": "Sparse3DTrack: Monocular 3D Object Tracking Using Sparse Supervision",
+  "authors": "Nikhil Gosala, B. Ravi Kiran, Senthil Yogamani, Abhinav Valada",
+  "summary": "arXiv:2603.18298v1 Announce Type: cross \nAbstract: Monocular 3D object tracking aims to estimate temporally consistent 3D object poses across video frames, enabling autonomous agents to reason about scene dynamics. However, existing state-of-the-art approaches are fully supervised and rely on dense 3D annotations over long video sequences, which are expensive to obtain and difficult to scale. In this work, we address this fundamental limitation by proposing the first sparsely supervised framework for monocular 3D object tracking. Our approach decomposes the task into two sequential sub-problems: 2D query matching and 3D geometry estimation. Both components leverage the spatio-temporal consistency of image sequences to augment a sparse set of labeled samples and learn rich 2D and 3D representations of the scene. Leveraging these learned cues, our model automatically generates high-quality 3D pseudolabels across entire videos, effectively transforming sparse supervision into dense 3D track annotations. This enables existing fully-supervised trackers to effectively operate under extreme label sparsity. Extensive experiments on the KITTI and nuScenes datasets demonstrate that our method significantly improves tracking performance, achieving an improvement of up to 15.50 p.p. while using at most four ground truth annotations per track.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18298",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18298v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.308572"
+}

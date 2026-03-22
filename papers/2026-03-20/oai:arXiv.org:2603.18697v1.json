@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18697v1",
+  "title": "OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation",
+  "authors": "Chen Sun, Beilin Xu, Boheng Tan, Jiacheng Wang, Yuefeng Sun, Rite Bo, Ying He, Yaqiang Zang, Pinghua Gong",
+  "summary": "arXiv:2603.18697v1 Announce Type: new \nAbstract: In industrial commodity recommendation systems, the representation quality of Item-Id vocabularies directly impacts the scalability and generalization ability of recommendation models. A key challenge is that traditional Item-Id vocabularies, when subjected to sparse scaling, suffer from low-frequency information interference, which restricts their expressive power for massive item sets and leads to representation collapse. To address this issue, we propose an Orthogonal Constrained Projection method to optimize embedding representation. By enforcing orthogonality, the projection constrains the backpropagation manifold, aligning the singular value spectrum of the learned embeddings with the orthogonal basis. This alignment ensures high singular entropy, thereby preserving isotropic generalized features while suppressing spurious correlations and overfitting to rare items. Empirical results demonstrate that OCP accelerates loss convergence and enhances the model's scalability; notably, it enables consistent performance gains when scaling up dense layers. Large-scale industrial deployment on JD.com further confirms its efficacy, yielding a 12.97% increase in UCXR and an 8.9% uplift in GMV, highlighting its robust utility for scaling up both sparse vocabularies and dense architectures.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18697",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18697v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.690705"
+}

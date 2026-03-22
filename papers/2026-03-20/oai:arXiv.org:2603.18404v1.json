@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18404v1",
+  "title": "Multi-Domain Causal Empirical Bayes Under Linear Mixing",
+  "authors": "Bohan Wu, Julius von K\\\"ugelgen, David M. Blei",
+  "summary": "arXiv:2603.18404v1 Announce Type: cross \nAbstract: Causal representation learning (CRL) aims to learn low-dimensional causal latent variables from high-dimensional observations. While identifiability has been extensively studied for CRL, estimation has been less explored. In this paper, we explore the use of empirical Bayes (EB) to estimate causal representations. In particular, we consider the problem of learning from data from multiple domains, where differences between domains are modeled by interventions in a shared underlying causal model. Multi-domain CRL naturally poses a simultaneous inference problem that EB is designed to tackle. Here, we propose an EB $f$-modeling algorithm that improves the quality of learned causal variables by exploiting invariant structure within and across domains. Specifically, we consider a linear measurement model and interventional priors arising from a shared acyclic SCM. When the graph and intervention targets are known, we develop an EM-style algorithm based on causally structured score matching. We further discuss EB $\\rmg$-modeling in the context of existing CRL approaches. In experiments on synthetic data, our proposed method achieves more accurate estimation than other methods for CRL.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18404",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18404v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.692275"
+}

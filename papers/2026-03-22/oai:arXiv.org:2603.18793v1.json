@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18793v1",
+  "title": "Functional Subspace Watermarking for Large Language Models",
+  "authors": "Zikang Ding, Junhao Li, Suling Wu, Junchi Yao, Hongbo Liu, Lijie Hu",
+  "summary": "arXiv:2603.18793v1 Announce Type: cross \nAbstract: Model watermarking utilizes internal representations to protect the ownership of large language models (LLMs). However, these features inevitably undergo complex distortions during realistic model modifications such as fine-tuning, quantization, or knowledge distillation, making reliable extraction extremely challenging. Despite extensive research on model-side watermarking, existing methods still lack sufficient robustness against parameter-level perturbations. To address this gap, we propose \\texttt{\\textbf{Functional Subspace Watermarking (FSW)}}, a framework that anchors ownership signals into a low-dimensional functional backbone. Specifically, we first solve a generalized eigenvalue problem to extract a stable functional subspace for watermark injection, while introducing an adaptive spectral truncation strategy to achieve an optimal balance between robustness and model utility. Furthermore, a vector consistency constraint is incorporated to ensure that watermark injection does not compromise the original semantic performance. Extensive experiments across various LLM architectures and datasets demonstrate that our method achieves superior detection accuracy and statistical verifiability under multiple model attacks, maintaining robustness that outperforms existing state-of-the-art (SOTA) methods.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18793",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18793v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.308955"
+}

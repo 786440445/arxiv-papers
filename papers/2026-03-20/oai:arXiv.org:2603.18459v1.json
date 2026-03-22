@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18459v1",
+  "title": "HypeMed: Enhancing Medication Recommendations with Hypergraph-Based Patient Relationships",
+  "authors": "Xiangxu Zhang, Xiao Zhou, Hongteng Xu, Jianxun Lian",
+  "summary": "arXiv:2603.18459v1 Announce Type: cross \nAbstract: Medication recommendations aim to generate safe and effective medication sets from health records. However, accurately recommending medications hinges on inferring a patient's latent clinical condition from sparse and noisy observations, which requires both (i) preserving the visit-level combinatorial semantics of co-occurring entities and (ii) leveraging informative historical references through effective, visit-conditioned retrieval. Most existing methods fall short in one of both aspects: graph-based modeling often fragments higher-order intra-visit patterns into pairwise relations, while inter-visit augmentation methods commonly exhibit an imbalance between learning a globally stable representation space and performing dynamic retrieval within it. To address these limitations, this paper proposes HypeMed, a two-stage hypergraph-based framework unifying intra-visit coherence modeling and inter-visit augmentation. HypeMed consists of two core modules: MedRep for representation pre-training, and SimMR for similarity-enhanced recommendation. In the first stage, MedRep encodes clinical visits as hyperedges via knowledge-aware contrastive pre-training, creating a globally consistent, retrieval-friendly embedding space. In the second stage, SimMR performs dynamic retrieval within this space, fusing retrieved references with the patient's longitudinal data to refine medication prediction. Evaluation on real-world benchmarks shows that HypeMed outperforms state-of-the-art baselines in both recommendation precision and DDI reduction, simultaneously enhancing the effectiveness and safety of clinical decision support.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18459",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18459v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-20T12:17:21.264335"
+}

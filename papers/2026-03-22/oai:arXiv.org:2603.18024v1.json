@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18024v1",
+  "title": "ProKWS: Personalized Keyword Spotting via Collaborative Learning of Phonemes and Prosody",
+  "authors": "Jianan Pan, Yuanming Zhang, Kejie Huang",
+  "summary": "arXiv:2603.18024v1 Announce Type: cross \nAbstract: Current keyword spotting systems primarily use phoneme-level matching to distinguish confusable words but ignore user-specific pronunciation traits like prosody (intonation, stress, rhythm). This paper presents ProKWS, a novel framework integrating fine-grained phoneme learning with personalized prosody modeling. We design a dual-stream encoder where one stream derives robust phonemic representations through contrastive learning, while the other extracts speaker-specific prosodic patterns. A collaborative fusion module dynamically combines phonemic and prosodic information, enhancing adaptability across acoustic environments. Experiments show ProKWS delivers highly competitive performance, comparable to state-of-the-art models on standard benchmarks and demonstrates strong robustness for personalized keywords with tone and intent variations.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18024",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18024v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.308276"
+}

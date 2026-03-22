@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18041v1",
+  "title": "Quotient Geometry and Persistence-Stable Metrics for Swarm Configurations",
+  "authors": "Mark M. Bailey",
+  "summary": "arXiv:2603.18041v1 Announce Type: new \nAbstract: Swarm and constellation reconfiguration can be viewed as motion of an unordered point configuration in an ambient space. Here, we provide persistence-stable, symmetry-invariant geometric representations for comparing and monitoring multi-agent configuration data. We introduce a quotient formation space $\\mathcal{S}_n(M,G)=M^n/(G\\times S_n)$ and a formation matching metric $d_{M,G}$ obtained by optimizing a worst-case assignment error over ambient symmetries $g\\in G$ and relabelings $\\sigma\\in S_n$. This metric is a structured, physically interpretable relaxation of Gromov--Hausdorff distance: the induced inter-agent metric spaces satisfy $d_{\\mathrm{GH}}(X_x,X_y)\\le d_{M,G}([x],[y])$. Composing this bound with stability of Vietoris--Rips persistence yields $d_B(\\Phi_k([x]),\\Phi_k([y]))\\le d_{M,G}([x],[y])$, providing persistence-stable signatures for reconfiguration monitoring. We analyze the metric geometry of $(\\mathcal{S}_n(M,G),d_{M,G})$: under compactness/completeness assumptions on $M$ and compact $G$ it is compact/complete and the metric induces the quotient topology; if $M$ is geodesic then the quotient is geodesic and exhibits stratified singularities along collision and symmetry strata, relating it to classical configuration spaces. We study expressivity of the signatures, identifying symmetry-mismatch and persistence-compression mechanisms for non-injectivity. Finally, in a phase-circle model we prove a conditional inverse theorem: under semicircle support and a gap-labeling margin, the $H_0$ signature is locally bi-Lipschitz to $d_{M,G}$ up to an explicit factor, yielding two-sided control. Examples on $\\mathbb{S}^2$ and $\\mathbb{T}^m$ illustrate satellite-constellation and formation settings.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18041",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18041v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.689510"
+}

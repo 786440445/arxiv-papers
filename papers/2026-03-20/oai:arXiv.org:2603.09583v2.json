@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09583v2",
+  "title": "Nonparametric Variational Differential Privacy via Embedding Parameter Clipping",
+  "authors": "Dina El Zein, Shashi Kumar, James Henderson",
+  "summary": "arXiv:2603.09583v2 Announce Type: replace \nAbstract: The nonparametric variational information bottleneck (NVIB) provides the foundation for nonparametric variational differential privacy (NVDP), a framework for building privacy-preserving language models. However, the learned latent representations can drift into regions with high information content, leading to poor privacy guarantees, but also low utility due to numerical instability during training. In this work, we introduce a principled parameter clipping strategy to directly address this issue. Our method is mathematically derived from the objective of minimizing the R\\'enyi Divergence (RD) upper bound, yielding specific, theoretically grounded constraints on the posterior mean, variance, and mixture weight parameters. We apply our technique to an NVIB based model and empirically compare it against an unconstrained baseline. Our findings demonstrate that the clipped model consistently achieves tighter RD bounds, implying stronger privacy, while simultaneously attaining higher performance on several downstream tasks. This work presents a simple yet effective method for improving the privacy-utility trade-off in variational models, making them more robust and practical.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09583",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09583v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.711563"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18508v1",
+  "title": "Foundations and Architectures of Artificial Intelligence for Motor Insurance",
+  "authors": "Teerapong Panboonyuen",
+  "summary": "arXiv:2603.18508v1 Announce Type: cross \nAbstract: This handbook presents a systematic treatment of the foundations and architectures of artificial intelligence for motor insurance, grounded in large-scale real-world deployment. It formalizes a vertically integrated AI paradigm that unifies perception, multimodal reasoning, and production infrastructure into a cohesive intelligence stack for automotive risk assessment and claims processing. At its core, the handbook develops domain-adapted transformer architectures for structured visual understanding, relational vehicle representation learning, and multimodal document intelligence, enabling end-to-end automation of vehicle damage analysis, claims evaluation, and underwriting workflows. These components are composed into a scalable pipeline operating under practical constraints observed in nationwide motor insurance systems in Thailand. Beyond model design, the handbook emphasizes the co-evolution of learning algorithms and MLOps practices, establishing a principled framework for translating modern artificial intelligence into reliable, production-grade systems in high-stakes industrial environments.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18508",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18508v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-20T12:17:21.264464"
+}

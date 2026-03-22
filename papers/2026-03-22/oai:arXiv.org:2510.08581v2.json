@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.08581v2",
+  "title": "Evaluating Hallucinations in Audio-Visual Multimodal LLMs with Spoken Queries under Diverse Acoustic Conditions",
+  "authors": "Hansol Park, Hoseong Ahn, Junwon Moon, Yejin Lee, Kyuhong Shim",
+  "summary": "arXiv:2510.08581v2 Announce Type: replace-cross \nAbstract: Hallucinations in multimodal models have been extensively studied using benchmarks that probe reliability in image-text query settings. However, the effect of spoken queries on multimodal hallucinations remains largely unexplored, despite the growing role of voice interfaces. In this paper, we introduce a systematic pipeline that converts existing multimodal hallucination benchmarks into spoken-query versions while preserving the original tasks and labels. We instantiate this pipeline on RePOPE and release RePOPE-Spk, where all queries are provided as spoken audio under diverse input conditions. Experimental results show that hallucinations escalate when queries are spoken rather than written: error rates increase by 3-6% with clean speech and by up to 30% under environmental noise. Furthermore, many-shot prompting and chain-of-thought reasoning provide only partial mitigation. Our findings motivate new directions for building reliable voice interface systems and evaluations.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.08581",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.08581v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.309691"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18485v1",
+  "title": "ARTT: Augmented Reverberant-Target Training for Unsupervised Monaural Speech Dereverberation",
+  "authors": "Siqi Song, Fulin Wu, Zhong-Qiu Wang",
+  "summary": "arXiv:2603.18485v1 Announce Type: new \nAbstract: Due to the absence of clean reference signals and spatial cues, monaural unsupervised speech dereverberation is a challenging ill-posed inverse problem. To realize it, we propose augmented reverberant-target training (ARTT), which consists of two stages. In the first stage, reverberant-target training (RTT) is proposed to first further reverberate the observed reverberant mixture signal, and then train a deep neural network (DNN) to recover the observed reverberant mixture via discriminative training. Although the target signal to fit is reverberant, we find that the resulting DNN can effectively reduce reverberation. In the second stage, an online self-distillation mechanism based on the mean-teacher algorithm is proposed to further improve dereverberation. Evaluation results demonstrate that ARTT achieves strong unsupervised dereverberation performance, significantly outperforming previous baselines.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18485",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18485v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-20T12:17:08.835607"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18123v1",
+  "title": "Understanding Task Aggregation for Generalizable Ultrasound Foundation Models",
+  "authors": "Fangyijie Wang, Tanya Akumu, Vien Ngoc Dang, Amelia Jim\\'nez-S\\'anchez, Jieyun Bai, Gu\\'enol\\'e Silvestre, Karim Lekadir, Kathleen M. Curran",
+  "summary": "arXiv:2603.18123v1 Announce Type: cross \nAbstract: Foundation models promise to unify multiple clinical tasks within a single framework, but recent ultrasound studies report that unified models can underperform task-specific baselines. We hypothesize that this degradation arises not from model capacity limitations, but from task aggregation strategies that ignore interactions between task heterogeneity and available training data scale. In this work, we systematically analyze when heterogeneous ultrasound tasks can be jointly learned without performance loss, establishing practical criteria for task aggregation in unified clinical imaging models. We introduce M2DINO, a multi-organ, multi-task framework built on DINOv3 with task-conditioned Mixture-of-Experts blocks for adaptive capacity allocation. We systematically evaluate 27 ultrasound tasks spanning segmentation, classification, detection, and regression under three paradigms: task-specific, clinically-grouped, and all-task unified training. Our results show that aggregation effectiveness depends strongly on training data scale. While clinically-grouped training can improve performance in data-rich settings, it may induce substantial negative transfer in low-data settings. In contrast, all-task unified training exhibits more consistent performance across clinical groups. We further observe that task sensitivity varies by task type in our experiments: segmentation shows the largest performance drops compared with regression and classification. These findings provide practical guidance for ultrasound foundation models, emphasizing that aggregation strategies should jointly consider training data availability and task characteristics rather than relying on clinical taxonomy alone.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18123",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18123v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-20T12:17:21.263443"
+}

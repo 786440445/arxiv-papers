@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18042v1",
+  "title": "A Novel Framework using Intuitionistic Fuzzy Logic with U-Net and U-Net++ Architecture: A case Study of MRI Bain Image Segmentation",
+  "authors": "Hanuman Verma, Kiho Im, Akshansh Gupta, M. Tanveer",
+  "summary": "arXiv:2603.18042v1 Announce Type: cross \nAbstract: Accurate segmentation of brain images from magnetic resonance imaging (MRI) scans plays a pivotal role in brain image analysis and the diagnosis of neurological disorders. Deep learning algorithms, particularly U-Net and U-Net++, are widely used for image segmentation. However, it finds difficult to deal with uncertainty in images. To address this challenge, this work integrates intuitionistic fuzzy logic into U-Net and U-Net++, propose a novel framework, named as IFS U-Net and IFS U-Net++. These models accept input data in an intuitionistic fuzzy representation to manage uncertainty arising from vague ness and imprecise data. This approach effectively handles tissue ambiguity caused by the partial volume effect and boundary uncertainties. To evaluate the effectiveness of IFS U-Net and IFS U-Net++, experiments are conducted on two publicly available MRI brain datasets: the Internet Brain Segmentation Repository (IBSR) and the Open Access Series of Imaging Studies (OASIS). Segmentation performance is quantitatively assessed using Accuracy, Dice Coefficient, and Intersection over Union (IoU). The results demonstrate that the proposed architectures consistently improve segmentation performance by effectively addressing uncertainty",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18042",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18042v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.691677"
+}

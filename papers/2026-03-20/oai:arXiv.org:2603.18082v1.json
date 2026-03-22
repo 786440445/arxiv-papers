@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18082v1",
+  "title": "EgoAdapt: Enhancing Robustness in Egocentric Interactive Speaker Detection Under Missing Modalities",
+  "authors": "Xinyuan Qian, Xinjia Zhu, Alessio Brutti, Dong Liang",
+  "summary": "arXiv:2603.18082v1 Announce Type: cross \nAbstract: TTM (Talking to Me) task is a pivotal component in understanding human social interactions, aiming to determine who is engaged in conversation with the camera-wearer. Traditional models often face challenges in real-world scenarios due to missing visual data, neglecting the role of head orientation, and background noise. This study addresses these limitations by introducing EgoAdapt, an adaptive framework designed for robust egocentric \"Talking to Me\" speaker detection under missing modalities. Specifically, EgoAdapt incorporates three key modules: (1) a Visual Speaker Target Recognition (VSTR) module that captures head orientation as a non-verbal cue and lip movement as a verbal cue, allowing a comprehensive interpretation of both verbal and non-verbal signals to address TTM, setting it apart from tasks focused solely on detecting speaking status; (2) a Parallel Shared-weight Audio (PSA) encoder for enhanced audio feature extraction in noisy environments; and (3) a Visual Modality Missing Awareness (VMMA) module that estimates the presence or absence of each modality at each frame to adjust the system response dynamically.Comprehensive evaluations on the TTM benchmark of the Ego4D dataset demonstrate that EgoAdapt achieves a mean Average Precision (mAP) of 67.39% and an Accuracy (Acc) of 62.01%, significantly outperforming the state-of-the-art method by 4.96% in Accuracy and 1.56% in mAP.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18082",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18082v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-20T12:17:07.474480"
+}

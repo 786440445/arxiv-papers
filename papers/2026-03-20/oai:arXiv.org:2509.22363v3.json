@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.22363v3",
+  "title": "Investigating Faithfulness in Large Audio Language Models",
+  "authors": "Pooneh Mousavi, Lovenya Jain, Mirco Ravanelli, Cem Subakan",
+  "summary": "arXiv:2509.22363v3 Announce Type: replace-cross \nAbstract: Large Audio Language Models (LALMs) integrate audio encoders with pretrained Large Language Models to perform complex multimodal reasoning tasks. While these models can generate Chain-of-Thought (CoT) explanations, the faithfulness of these reasoning chains remains unclear. In this work, we propose a systematic framework to evaluate CoT faithfulness in LALMs with respect to both the input audio and the final model prediction. We define three criteria for audio faithfulness: hallucination-free, holistic, and attentive listening. We also introduce a benchmark based on both audio and CoT interventions to assess faithfulness. Experiments on Audio Flamingo 3 and Qwen2.5-Omni suggest a potential multimodal disconnect: reasoning often aligns with the final prediction but is not always strongly grounded in the audio and can be vulnerable to hallucinations or adversarial perturbations.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.22363",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.22363v3.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-20T12:17:08.835820"
+}

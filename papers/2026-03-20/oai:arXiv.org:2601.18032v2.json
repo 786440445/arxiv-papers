@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.18032v2",
+  "title": "Multimodal Machine Learning for Soft High-k Elastomers under Data Scarcity",
+  "authors": "Brijesh FNU, Viet Thanh Duy Nguyen, Ashima Sharma, Md Harun Rashid Molla, Chengyi Xu, Truong-Son Hy",
+  "summary": "arXiv:2601.18032v2 Announce Type: replace \nAbstract: Dielectric materials are critical building blocks for modern electronics such as sensors, actuators, and transistors. With rapid advances in soft and stretchable electronics for emerging human- and robot-interfacing applications, there is a growing need for high-performance dielectric elastomers. However, developing soft elastomers that simultaneously exhibit high dielectric constants (k) and low Young's moduli (E) remains a major challenge. Although individual elastomer designs have been reported, structured datasets that systematically integrate molecular sequence, dielectric, and mechanical properties are largely unavailable. To address this gap, we curate a compact, high-quality dataset of acrylate-based dielectric elastomers by aggregating experimental results from the past decade. Building on this dataset, we propose a multimodal learning framework leveraging large-scale pretrained polymer representations. These pretrained embeddings transfer chemical and structural knowledge from vast polymer corpora, enabling accurate few-shot prediction of dielectric and mechanical properties and accelerating data-efficient discovery of soft high-$k$ dielectric elastomers. Our data and implementation are publicly available at: https://github.com/HySonLab/Polymers",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.18032",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.18032v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.711144"
+}

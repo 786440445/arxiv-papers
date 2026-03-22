@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.19165v1",
+  "title": "Rigorous Error Certification for Neural PDE Solvers: From Empirical Residuals to Solution Guarantees",
+  "authors": "Amartya Mukherjee, Maxwell Fitzsimmons, David C. Del Rey Fern\\'andez, Jun Liu",
+  "summary": "arXiv:2603.19165v1 Announce Type: new \nAbstract: Uncertainty quantification for partial differential equations is traditionally grounded in discretization theory, where solution error is controlled via mesh/grid refinement. Physics-informed neural networks fundamentally depart from this paradigm: they approximate solutions by minimizing residual losses at collocation points, introducing new sources of error arising from optimization, sampling, representation, and overfitting. As a result, the generalization error in the solution space remains an open problem.\n  Our main theoretical contribution establishes generalization bounds that connect residual control to solution-space error. We prove that when neural approximations lie in a compact subset of the solution space, vanishing residual error guarantees convergence to the true solution. We derive deterministic and probabilistic convergence results and provide certified generalization bounds translating residual, boundary, and initial errors into explicit solution error guarantees.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.19165",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.19165v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.691397"
+}

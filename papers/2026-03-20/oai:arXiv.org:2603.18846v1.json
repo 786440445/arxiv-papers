@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18846v1",
+  "title": "Towards Interpretable Foundation Models for Retinal Fundus Images",
+  "authors": "Samuel Ofosu Mensah, Maria Camila Roa Carvajal, Kerol Djoumessi, Philipp Berens",
+  "summary": "arXiv:2603.18846v1 Announce Type: cross \nAbstract: Foundation models are used to extract transferable representations from large amounts of unlabeled data, typically via self-supervised learning (SSL). However, many of these models rely on architectures that offer limited interpretability, which is a critical issue in high-stakes domains such as medical imaging. We propose Dual-IFM, a foundation model that is interpretable-by-design in two ways: First, it provides local interpretability for individual images through class evidence maps that are faithful to the decision-making process. Second, it provides global interpretability for entire datasets through a 2D projection layer that allows for direct visualization of the model's representation space. We trained our model on over 800,000 color fundus photography from various sources to learn generalizable, interpretable representations for different downstream tasks. Our results show that our model reaches a performance range similar to that of state-of-the-art foundation models with up to $16\\times$ the number of parameters, while providing interpretable predictions on out-of-distribution data. Our results suggest that large-scale SSL pretraining paired with inherent interpretability can lead to robust representations for retinal imaging.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18846",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18846v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.692797"
+}

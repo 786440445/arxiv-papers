@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2309.08945v2",
+  "title": "Inverse classification with logistic and softmax classifiers: efficient optimization",
+  "authors": "Miguel \\'A. Carreira-Perpi\\~n\\'an, Suryabhan Singh Hada",
+  "summary": "arXiv:2309.08945v2 Announce Type: replace \nAbstract: In recent years, a certain type of problems have become of interest where one wants to query a trained classifier. Specifically, one wants to find the closest instance to a given input instance such that the classifier's predicted label is changed in a desired way. Examples of these \"inverse classification\" problems are counterfactual explanations, adversarial examples and model inversion. All of them are fundamentally optimization problems over the input instance vector involving a fixed classifier, and it is of interest to achieve a fast solution for interactive or real-time applications. We focus on solving this problem efficiently with the squared Euclidean distance for two of the most widely used classifiers: logistic regression and softmax classifier. Owing to special properties of these models, we show that the optimization can be solved in closed form for logistic regression, and iteratively but extremely fast for the softmax classifier. This allows us to solve either case exactly (to nearly machine precision) in a runtime of milliseconds to around a second even for very high-dimensional instances and many classes.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2309.08945",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2309.08945v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.693574"
+}

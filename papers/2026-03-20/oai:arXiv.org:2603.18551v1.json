@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18551v1",
+  "title": "Learning Decision-Sufficient Representations for Linear Optimization",
+  "authors": "Yuhan Ye, Saurabh Amin, Asuman Ozdauglar",
+  "summary": "arXiv:2603.18551v1 Announce Type: cross \nAbstract: We study how to construct compressed datasets that suffice to recover optimal decisions in linear programs with an unknown cost vector $c$ lying in a prior set $\\mathcal{C}$. Recent work by Bennouna et al. provides an exact geometric characterization of sufficient decision datasets (SDDs) via an intrinsic decision-relevant dimension $d^\\star$. However, their algorithm for constructing minimum-size SDDs requires solving mixed-integer programs. In this paper, we establish hardness results showing that computing $d^\\star$ is NP-hard and deciding whether a dataset is globally sufficient is coNP-hard, thereby resolving a recent open problem posed by Bennouna et al. To address this worst-case intractability, we introduce pointwise sufficiency, a relaxation that requires sufficiency for an individual cost vector. Under nondegeneracy, we provide a polynomial-time cutting-plane algorithm for constructing pointwise-sufficient decision datasets. In a data-driven regime with i.i.d.\\ costs, we further propose a cumulative algorithm that aggregates decision-relevant directions across samples, yielding a stable compression scheme of size at most $d^\\star$. This leads to a distribution-free PAC guarantee: with high probability over the training sample, the pointwise sufficiency failure probability on a fresh draw is at most $\\tilde{O}(d^\\star/n)$, and this rate is tight up to logarithmic factors. Finally, we apply decision-sufficient representations to contextual linear optimization, obtaining compressed predictors with generalization bounds scaling as $\\tilde{O}(\\sqrt{d^\\star/n})$ rather than $\\tilde{O}(\\sqrt{d/n})$, where $d$ is the ambient cost dimension.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18551",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18551v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.692545"
+}

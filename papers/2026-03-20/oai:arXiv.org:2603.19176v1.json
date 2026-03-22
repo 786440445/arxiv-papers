@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.19176v1",
+  "title": "Few-shot Acoustic Synthesis with Multimodal Flow Matching",
+  "authors": "Amandine Brunetto",
+  "summary": "arXiv:2603.19176v1 Announce Type: new \nAbstract: Generating audio that is acoustically consistent with a scene is essential for immersive virtual environments. Recent neural acoustic field methods enable spatially continuous sound rendering but remain scene-specific, requiring dense audio measurements and costly training for each environment. Few-shot approaches improve scalability across rooms but still rely on multiple recordings and, being deterministic, fail to capture the inherent uncertainty of scene acoustics under sparse context. We introduce flow-matching acoustic generation (FLAC), a probabilistic method for few-shot acoustic synthesis that models the distribution of plausible room impulse responses (RIRs) given minimal scene context. FLAC leverages a diffusion transformer trained with a flow-matching objective to generate RIRs at arbitrary positions in novel scenes, conditioned on spatial, geometric, and acoustic cues. FLAC outperforms state-of-the-art eight-shot baselines with one-shot on both the AcousticRooms and Hearing Anything Anywhere datasets. To complement standard perceptual metrics, we further introduce AGREE, a joint acoustic-geometry embedding, enabling geometry-consistent evaluation of generated RIRs through retrieval and distributional metrics. This work is the first to apply generative flow matching to explicit RIR synthesis, establishing a new direction for robust and data-efficient acoustic synthesis.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.19176",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.19176v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-20T12:17:07.474454"
+}

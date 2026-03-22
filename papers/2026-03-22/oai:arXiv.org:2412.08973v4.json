@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2412.08973v4",
+  "title": "Is Contrastive Distillation Enough for Learning Comprehensive 3D Representations?",
+  "authors": "Yifan Zhang, Junhui Hou",
+  "summary": "arXiv:2412.08973v4 Announce Type: replace-cross \nAbstract: Cross-modal contrastive distillation has recently been explored for learning effective 3D representations. However, existing methods focus primarily on modality-shared features, neglecting the modality-specific features during the pre-training process, which leads to suboptimal representations. In this paper, we theoretically analyze the limitations of current contrastive methods for 3D representation learning and propose a new framework, namely CMCR (Cross-Modal Comprehensive Representation Learning), to address these shortcomings. Our approach improves upon traditional methods by better integrating both modality-shared and modality-specific features. Specifically, we introduce masked image modeling and occupancy estimation tasks to guide the network in learning more comprehensive modality-specific features. Furthermore, we propose a novel multi-modal unified codebook that learns an embedding space shared across different modalities. Besides, we introduce geometry-enhanced masked image modeling to further boost 3D representation learning. Extensive experiments demonstrate that our method mitigates the challenges faced by traditional approaches and consistently outperforms existing image-to-LiDAR contrastive distillation methods in downstream tasks. Code will be available at https://github.com/Eaphan/CMCR.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2412.08973",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2412.08973v4.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.309501"
+}

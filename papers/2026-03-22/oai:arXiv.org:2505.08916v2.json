@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.08916v2",
+  "title": "A New Tractable Description Logic under Categorical Semantics",
+  "authors": "Chan Le Duc, Ludovic Brieulle",
+  "summary": "arXiv:2505.08916v2 Announce Type: replace-cross \nAbstract: Biomedical ontologies contain numerous concept or role names involving negative knowledge such as lacks_part, absence_of. Such a representation with labels rather than logical constructors would not allow a reasoner to interpret lacks_part as a kind of negation of has_part. It is known that adding negation to the tractable Description Logic (DL) EL allowing for conjunction, existential restriction and concept inclusion makes it intractable since the obtained logic includes implicitly disjunction and universal restriction which interact with other constructors. In this paper, we propose a new extension of EL with a weakened negation allowing to represent negative knowledge while retaining tractability. To this end, we introduce categorical semantics of all logical constructors of the DL SH including EL with disjunction, negation, universal restriction, role inclusion and transitive roles. The categorical semantics of a logical constructor is usually described as a set of categorical properties referring to several objects without using set membership. To restore tractability, we have to weaken semantics of disjunction and universal restriction by identifying \\emph{independent} categorical properties that are responsible for intractability, and dropping them from the set of categorical properties. We show that the logic resulting from weakening semantics is more expressive than EL with the bottom concept, transitive roles and role inclusion.",
+  "published": "Sat, 21 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.08916",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.08916v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-22T11:00:47.309557"
+}

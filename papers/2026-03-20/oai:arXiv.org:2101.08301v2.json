@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2101.08301v2",
+  "title": "Exploring AI in Fashion: A Review of Aesthetics, Personalization, Virtual Try-On, and Forecasting",
+  "authors": "Laila Khalid, Wei Gong",
+  "summary": "arXiv:2101.08301v2 Announce Type: replace-cross \nAbstract: Fashion-focused artificial intelligence has rapidly advanced in recent years, driven by deep learning and its deployment in recommender systems, detection, retrieval, and analytics. Yet several consumer-facing domains remain comparatively under-surveyed despite their practical impact. This work provides a comprehensive review of methods, datasets, and evaluation metrics across four such domains: aesthetics, personalization, virtual try-on, and forecasting. We synthesize technical approaches spanning representation learning, preference modeling, image transformation, and time-series analysis; relate them to downstream recommender systems and user experience; and highlight cross-domain dependencies (e.g., aesthetics-informed personalization, trend-informed recommendations). We also catalog commonly used datasets and metrics, including those from object detection and image segmentation pipelines, where relevant to try-on and visual understanding. Finally, we identify open challenges and promising directions for integrated AI-driven fashion systems.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2101.08301",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2101.08301v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.711753"
+}

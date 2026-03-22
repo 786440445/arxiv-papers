@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18111v1",
+  "title": "BoundAD: Boundary-Aware Negative Generation for Time Series Anomaly Detection",
+  "authors": "Xiancheng Wang, Lin Wang, Zhibo Zhang, Rui Wang, Minghang Zhao",
+  "summary": "arXiv:2603.18111v1 Announce Type: new \nAbstract: Contrastive learning methods for time series anomaly detection (TSAD) heavily depend on the quality of negative sample construction. However, existing strategies based on random perturbations or pseudo-anomaly injection often struggle to simultaneously preserve temporal semantic consistency and provide effective decision-boundary supervision. Most existing methods rely on prior anomaly injection, while overlooking the potential of generating hard negatives near the data manifold boundary directly from normal samples themselves. To address this issue, we propose a reconstruction-driven boundary negative generation framework that automatically constructs hard negatives through the reconstruction process of normal samples. Specifically, the method first employs a reconstruction network to capture normal temporal patterns, and then introduces a reinforcement learning strategy to adaptively adjust the optimization update magnitude according to the current reconstruction state. In this way, boundary-shifted samples close to the normal data manifold can be induced along the reconstruction trajectory and further used for subsequent contrastive representation learning. Unlike existing methods that depend on explicit anomaly injection, the proposed framework does not require predefined anomaly patterns, but instead mines more challenging boundary negatives from the model's own learning dynamics. Experimental results show that the proposed method effectively improves anomaly representation learning and achieves competitive detection performance on the current dataset.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18111",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18111v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.689728"
+}

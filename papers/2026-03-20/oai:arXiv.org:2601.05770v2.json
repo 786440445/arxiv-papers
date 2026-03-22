@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.05770v2",
+  "title": "Weights to Code: Extracting Interpretable Algorithms from the Discrete Transformer",
+  "authors": "Yifan Zhang, Wei Bi, Kechi Zhang, Dongming Jin, Jie Fu, Zhi Jin",
+  "summary": "arXiv:2601.05770v2 Announce Type: replace \nAbstract: Algorithm extraction aims to synthesize executable programs directly from models trained on algorithmic tasks, enabling de novo algorithm discovery without relying on human-written code. However, applying this paradigm to Transformer is hindered by representation entanglement (e.g., superposition), where entangled features encoded in overlapping directions obstruct the recovery of symbolic expressions. We propose the Discrete Transformer, an architecture explicitly designed to bridge the gap between continuous representations and discrete symbolic logic. By injecting discreteness through temperature-annealed sampling, our framework effectively leverages hypothesis testing and symbolic regression to extract human-readable programs. Empirically, the Discrete Transformer achieves performance comparable to RNN-based methods while extending interpretability to continuous variable domains, and the annealing dynamics exhibit a clear exploration-to-exploitation transition. Finally, we show that architectural inductive biases provide fine-grained control over synthesized programs, establishing the Discrete Transformer as a robust framework for demonstration-free algorithm discovery and Transformer interpretability.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.05770",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.05770v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.711074"
+}

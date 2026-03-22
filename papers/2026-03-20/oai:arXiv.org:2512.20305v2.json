@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.20305v2",
+  "title": "A Structured Nonparametric Framework for Nonlinear Accelerated Failure Time Models (KAN-AFT)",
+  "authors": "Mebin Jose, Jisha Francis, Sudheesh Kumar Kattumannil",
+  "summary": "arXiv:2512.20305v2 Announce Type: replace-cross \nAbstract: Accelerated failure time (AFT) models provide a direct and interpretable time-scale description of covariate effects in lifetime data analysis, but classical formulations rely on linear predictors and are therefore limited in their ability to represent nonlinear relationships. Moreover, in heterogeneous clinical settings with complex covariate structures and varying censoring mechanisms, standard survival models such as the Cox proportional hazards model or AFT formulations may be inadequate due to restrictive structural assumptions.\n  We propose a structured nonparametric extension of the AFT framework in which the regression function governing log-survival time is an unknown smooth function represented through Kolmogorov--Arnold representations. We formalize the nonlinear AFT estimand under independent right-censoring and show that the proposed function class strictly contains the classical linear AFT model as a special case. Estimation is carried out through a unified framework that accommodates several censoring-adjusted losses such as Buckley--James, inverse probability of censoring weight and transformation methods. Structural regularization and pruning promote parsimony, and symbolic approximation yields analytic representations of learned component functions. Simulation studies show that the method recovers linear structure when appropriate and captures nonlinear effects when present. Applications to multiple clinical datasets demonstrate competitive predictive performance and transparent covariate-effect estimation.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.20305",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.20305v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.712392"
+}

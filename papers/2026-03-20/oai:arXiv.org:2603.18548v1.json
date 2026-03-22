@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18548v1",
+  "title": "SINDy-KANs: Sparse identification of non-linear dynamics through Kolmogorov-Arnold networks",
+  "authors": "Amanda A. Howard, Nicholas Zolman, Bruno Jacob, Steven L. Brunton, Panos Stinis",
+  "summary": "arXiv:2603.18548v1 Announce Type: new \nAbstract: Kolmogorov-Arnold networks (KANs) have arisen as a potential way to enhance the interpretability of machine learning. However, solutions learned by KANs are not necessarily interpretable, in the sense of being sparse or parsimonious. Sparse identification of nonlinear dynamics (SINDy) is a complementary approach that allows for learning sparse equations for dynamical systems from data; however, learned equations are limited by the library. In this work, we present SINDy-KANs, which simultaneously train a KAN and a SINDy-like representation to increase interpretability of KAN representations with SINDy applied at the level of each activation function, while maintaining the function compositions possible through deep KANs. We apply our method to a number of symbolic regression tasks, including dynamical systems, to show accurate equation discovery across a range of systems.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18548",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18548v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.690478"
+}

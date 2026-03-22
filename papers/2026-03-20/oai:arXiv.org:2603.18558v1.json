@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.18558v1",
+  "title": "HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering",
+  "authors": "Dan Ben-Ami, Gabriele Serussi, Kobi Cohen, Chaim Baskin",
+  "summary": "arXiv:2603.18558v1 Announce Type: cross \nAbstract: Long-form video question answering requires reasoning over extended temporal contexts, making frame selection critical for large vision-language models (LVLMs) bound by finite context windows. Existing methods face a sharp trade-off: similarity-based selectors are fast but collapse compositional queries into a single dense vector, losing sub-event ordering and cross-modal bindings; agent-based methods recover this structure through iterative LVLM inference, but at prohibitive cost. We introduce HiMu, a training-free framework that bridges this gap. A single text-only LLM call decomposes the query into a hierarchical logic tree whose leaves are atomic predicates, each routed to a lightweight expert spanning vision (CLIP, open-vocabulary detection, OCR) and audio (ASR, CLAP). The resulting signals are normalized, temporally smoothed to align different modalities, and composed bottom-up through fuzzy-logic operators that enforce temporal sequencing and adjacency, producing a continuous satisfaction curve. Evaluations on Video-MME, LongVideoBench and HERBench-Lite show that HiMu advances the efficiency-accuracy Pareto front: at 16 frames with Qwen3-VL 8B it outperforms all competing selectors, and with GPT-4o it surpasses agentic systems operating at 32-512 frames while requiring roughly 10x fewer FLOPs.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.18558",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.18558v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-20T12:17:21.264631"
+}

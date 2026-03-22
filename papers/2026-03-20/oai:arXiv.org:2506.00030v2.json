@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.00030v2",
+  "title": "Modality Equilibrium Matters: Minor-Modality-Aware Adaptive Alternating for Cross-Modal Memory Enhancement",
+  "authors": "Xiang Shi, Rui Zhang, Jiawei Liu, Yinpeng Liu, Qikai Cheng, Wei Lu",
+  "summary": "arXiv:2506.00030v2 Announce Type: replace \nAbstract: Multimodal fusion is susceptible to modality imbalance, where dominant modalities overshadow weak ones, easily leading to biased learning and suboptimal fusion, especially for incomplete modality conditions. To address this problem, we propose a Shapley-guided alternating training framework that adaptively prioritizes minor modalities to balance and thus enhance the fusion. Our method leverages Shapley Value-based scheduling to improve the training sequence adaptively, ensuring that under-optimized modalities receive sufficient learning. Additionally, we introduce the memory module to refine and inherit modality-specific representations with a cross-modal mapping mechanism to align features at both the feature and sample levels. To further validate the adaptability of the proposed approach, the encoder module empirically adopts both conventional and LLM-based backbones. With building up a novel multimodal equilibrium metric, namely, equilibrium deviation metric (EDM), we evaluate the performance in both balance and accuracy across four multimodal benchmark datasets, where our method achieves state-of-the-art (SOTA) results. Meanwhile, robustness analysis under missing modalities highlights its strong generalization capabilities. Accordingly, our findings reveal the untapped potential of alternating training, demonstrating that strategic modality prioritization fundamentally balances and promotes multimodal learning, offering a new paradigm for optimizing multimodal training dynamics.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.00030",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.00030v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.710617"
+}

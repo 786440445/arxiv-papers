@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.07400v2",
+  "title": "Heads collapse, features stay: Why Replay needs big buffers",
+  "authors": "Giulia Lanzillotta, Damiano Meier, Thomas Hofmann",
+  "summary": "arXiv:2512.07400v2 Announce Type: replace \nAbstract: A persistent paradox in continual learning (CL) is that neural networks often retain linearly separable representations of past tasks even when their output predictions fail. We formalize this distinction as the gap between deep (feature-space) and shallow (classifier-level) forgetting. We reveal a critical asymmetry in Experience Replay: while minimal buffers successfully anchor feature geometry and prevent deep forgetting, mitigating shallow forgetting typically requires substantially larger buffer capacities. To explain this, we extend the Neural Collapse framework to the sequential setting. We characterize deep forgetting as a geometric drift toward out-of-distribution subspaces and prove that any non-zero replay fraction asymptotically guarantees the retention of linear separability. Conversely, we identify that the ``strong collapse'' induced by small buffers leads to rank-deficient covariances and inflated class means, effectively blinding the classifier to true population boundaries. By unifying CL with out-of-distribution detection, our work challenges the prevailing reliance on large buffers, suggesting that explicitly correcting these statistical artifacts could unlock robust performance with minimal replay.",
+  "published": "Fri, 20 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.07400",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.07400v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-20T12:17:12.711033"
+}

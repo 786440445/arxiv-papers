@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21095v1",
+  "title": "Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment",
+  "authors": "Dina Salama, Mohamed Mahmoud, Nourhan Bayasi, David Liu, Ilker Hacihaliloglu",
+  "summary": "arXiv:2603.21095v1 Announce Type: cross \nAbstract: Thyroid ultrasound is the first-line exam for assessing thyroid nodules and determining whether biopsy is warranted. In routine reporting, radiologists produce two coupled outputs: a nodule contour for measurement and a TI-RADS risk category based on sonographic criteria. Yet both contouring style and risk grading vary across readers, creating inconsistent supervision that can degrade standard learning pipelines. In this paper, we address this workflow with a clinically guided multitask framework that jointly predicts the nodule mask and TI-RADS category within a single model. To ground risk prediction in clinically meaningful evidence, we guide the classification embedding using a compact TI-RADS aligned radiomics target during training, while preserving complementary deep features for discriminative performance. However, under annotator variability, naive multitask optimization often fails not because the tasks are unrelated, but because their gradients compete within the shared representation. To make this competition explicit and controllable, we introduce RLAR, a representation-level adversarial gradient regularizer. Rather than performing parameter-level gradient surgery, RLAR uses each task's normalized adversarial direction in latent space as a geometric probe of task sensitivity and penalizes excessive angular alignment between task-specific adversarial directions. On a public TI-RADS dataset, our clinically guided multitask model with RLAR consistently improves risk stratification while maintaining segmentation quality compared to single-task training and conventional multitask baselines. Code and pretrained models will be released.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21095",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21095v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086418"
+}

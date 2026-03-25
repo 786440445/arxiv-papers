@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20365v1",
+  "title": "Comprehensive Description of Uncertainty in Measurement for Representation and Propagation with Scalable Precision",
+  "authors": "Ali Darijani, J\\\"urgen Beyerer, Zahra Sadat Hajseyed Nasrollah, Luisa Hoffmann, Michael Heizmann",
+  "summary": "arXiv:2603.20365v1 Announce Type: cross \nAbstract: Probability theory has become the predominant framework for quantifying uncertainty across scientific and engineering disciplines, with a particular focus on measurement and control systems. However, the widespread reliance on simple Gaussian assumptions--particularly in control theory, manufacturing, and measurement systems--can result in incomplete representations and multistage lossy approximations of complex phenomena, including inaccurate propagation of uncertainty through multi stage processes.\n  This work proposes a comprehensive yet computationally tractable framework for representing and propagating quantitative attributes arising in measurement systems using Probability Density Functions (PDFs). Recognizing the constraints imposed by finite memory in software systems, we advocate for the use of Gaussian Mixture Models (GMMs), a principled extension of the familiar Gaussian framework, as they are universal approximators of PDFs whose complexity can be tuned to trade off approximation accuracy against memory and computation. From both mathematical and computational perspectives, GMMs enable high performance and, in many cases, closed form solutions of essential operations in control and measurement.\n  The paper presents practical applications within manufacturing and measurement contexts especially circular factory, demonstrating how the GMMs framework supports accurate representation and propagation of measurement uncertainty and offers improved accuracy--compared to the traditional Gaussian framework--while keeping the computations tractable.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20365",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20365v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411605"
+}

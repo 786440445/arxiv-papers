@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.13340v4",
+  "title": "Latent Policy Steering with Embodiment-Agnostic Pretrained World Models",
+  "authors": "Yiqi Wang, Mrinal Verghese, Jeff Schneider",
+  "summary": "arXiv:2507.13340v4 Announce Type: replace-cross \nAbstract: The performance of learned robot visuomotor policies is heavily dependent on the size and quality of the training dataset. Although large-scale robot and human datasets are increasingly available, embodiment gaps and mismatched action spaces make them difficult to leverage. Our main insight is that skills performed across different embodiments produce visual similarities in motions that can be captured using off-the-shelf action representations such as optical flow. Moreover, World Models (WMs) can leverage sub-optimal data since they focus on modeling dynamics.\n  In this work, we aim to improve visuomotor policies in low-data regimes by first pretraining a WM using optical flow as an embodiment-agnostic action representation to leverage accessible or easily collected data from multiple embodiments (robots, humans). Given a small set of demonstrations on a target embodiment, we finetune the WM on this data to better align the WM predictions, train a base policy, and learn a robust value function. Using our finetuned WM and value function, our approach evaluates action candidates from the base policy and selects the best one to improve performance. Our approach, which we term Latent Policy Steering (LPS), improves behavior-cloned policies by 10.6% on average across four Robomimic tasks, even though most of the pretraining data comes from the real world. In the real-world experiments, LPS achieves larger gains: 70% relative improvement with 30-50 target-embodiment demonstrations, and 44% relative improvement with 60-100 demonstrations, compared to a behavior-cloned baseline. Qualitative results can be found on the website: https://yiqiwang8177.github.io/LatentPolicySteering/.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2507.13340",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.13340v4.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412922"
+}

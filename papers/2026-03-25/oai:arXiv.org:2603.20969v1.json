@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20969v1",
+  "title": "Understanding Contextual Recall in Transformers: How Finetuning Enables In-Context Reasoning over Pretraining Knowledge",
+  "authors": "Bhavya Vasudeva, Puneesh Deora, Alberto Bietti, Vatsal Sharan, Christos Thrampoulidis",
+  "summary": "arXiv:2603.20969v1 Announce Type: new \nAbstract: Transformer-based language models excel at in-context learning (ICL), where they can adapt to new tasks based on contextual examples, without parameter updates. In a specific form of ICL, which we refer to as \\textit{contextual recall}, models pretrained on open-ended text leverage pairwise examples to recall specific facts in novel prompt formats. We investigate whether contextual recall emerges from pretraining alone, what finetuning is required, and what mechanisms drive the necessary representations. For this, we introduce a controlled synthetic framework where pretraining sequences consist of subject-grammar-attribute tuples, with attribute types tied to grammar statistics. We demonstrate that while such pretraining successfully yields factual knowledge, it is insufficient for contextual recall: models fail to implicitly infer attribute types when the grammar statistics are removed in ICL prompts. However, we show that finetuning on tasks requiring implicit inference, distinct from the ICL evaluation, using a subset of subjects, triggers the emergence of contextual recall across all subjects. This transition is accompanied by the formation of low-dimensional latent encodings of the shared attribute type. For mechanistic insight, we derive a construction for an attention-only transformer that replicates the transition from factual to contextual recall, corroborated by empirical validation.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20969",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20969v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410919"
+}

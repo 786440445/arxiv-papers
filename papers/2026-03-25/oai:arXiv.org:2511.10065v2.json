@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.10065v2",
+  "title": "RadHiera: Semantic Hierarchical Reinforcement Learning for Medical Report Generation",
+  "authors": "Bodong Du, Honglong Yang, Xiaomeng Li",
+  "summary": "arXiv:2511.10065v2 Announce Type: replace \nAbstract: Vision-language models have shown promising results in radiology report generation. However, most existing methods generate reports as flat text and do not explicitly model the semantic dependency between the Findings and Impression sections, which can lead to inconsistencies between clinical observations and diagnostic conclusions. In this paper, we propose RadHiera, a semantic hierarchical reinforcement learning framework for radiology report generation. RadHiera follows the semantic organization of radiology reports by first optimizing overall report quality, then improving the diagnostic accuracy of the Impression section, and finally enforcing consistency between Findings and Impression so that diagnostic conclusions are supported by clinical evidence. Specifically, we begin with a base reward that combines linguistic quality and medical factuality to provide supervision on the whole report. On this basis, we introduce a severity-aware reward for the Impression section that places greater emphasis on errors involving clinically critical conditions, thereby reducing both missed diagnoses and overstatement. We further enforce cross-section consistency using Expert Model-derived label sets, with subset constraints and hallucination penalties to ensure that impressions remain faithful to the findings. Experiments on three public chest X-ray benchmarks show that RadHiera consistently improves diagnostic accuracy and inter-section consistency over state-of-the-art methods, while also demonstrating good adaptability to report generation in ultrasound report generation.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.10065",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.10065v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087102"
+}

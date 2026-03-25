@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21684v1",
+  "title": "LipsAM: Lipschitz-Continuous Amplitude Modifier for Audio Signal Processing and its Application to Plug-and-Play Dereverberation",
+  "authors": "Kazuki Matsumoto, Ren Uchida, Kohei Yatabe",
+  "summary": "arXiv:2603.21684v1 Announce Type: new \nAbstract: The robustness of deep neural networks (DNNs) can be certified through their Lipschitz continuity, which has made the construction of Lipschitz-continuous DNNs an active research field. However, DNNs for audio processing have not been a major focus due to their poor compatibility with existing results. In this paper, we consider the amplitude modifier (AM), a popular architecture for handling audio signals, and propose its Lipschitz-continuous variants, which we refer to as LipsAM. We prove a sufficient condition for an AM to be Lipschitz continuous and propose two architectures as examples of LipsAM. The proposed architectures were applied to a Plug-and-Play algorithm for speech dereverberation, and their improved stability is demonstrated through numerical experiments.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21684",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21684v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527847"
+}

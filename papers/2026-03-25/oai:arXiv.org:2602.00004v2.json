@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.00004v2",
+  "title": "C$^2$-Cite: Contextual-Aware Citation Generation for Attributed Large Language Models",
+  "authors": "Yue Yu, Ting Bai, HengZhi Lan, Li Qian, Li Peng, Jie Wu, Wei Liu, Jian Luan, Chuan Shi",
+  "summary": "arXiv:2602.00004v2 Announce Type: replace-cross \nAbstract: The attribution technique enhances the credibility of LLMs by adding citations to the generated sentences, enabling users to trace back to the original sources and verify the reliability of the output. However, existing instruction-tuned attributed LLMs often fail to properly interpret the contextual semantics of citation symbols (e.g., [i]) during text generation. This shortcoming arises from their insufficient awareness of the context information surrounding citation markers, which in turn leads to disjointed references and poor integration of retrieved knowledge into the generated content. To address this issue, we propose a novel \\textbf{C}ontextual-aware \\textbf{C}itation generation framework (\\textbf{C$^2$}-\\textbf{Cite}) that explicitly integrates the semantic relationships between citation markers and their referenced content. Specifically, a contextual citation alignment mechanism is adopted: it first encodes the retrieved document contexts into the symbol representation of citations, then aligns the marker numbers by decoding information from a citation router function. This mechanism enables the transformation of citation markers from generic placeholders into active knowledge pointers that link to the referenced source information. Experimental results on the ALCE benchmark across three datasets validate our framework C$^2$-Cite++: it outperforms the SOTA baseline by an average of 5.8\\% in citation quality and 17.4\\% in response correctness. The implementation is publicly available at https://github.com/BAI-LAB/c2cite",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.00004",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.00004v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.413091"
+}

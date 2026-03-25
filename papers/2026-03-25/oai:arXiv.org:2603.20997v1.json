@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20997v1",
+  "title": "When Does Content-Based Routing Work? Representation Requirements for Selective Attention in Hybrid Sequence Models",
+  "authors": "Abhinaba Basu",
+  "summary": "arXiv:2603.20997v1 Announce Type: new \nAbstract: We identify a routing paradox in hybrid recurrent-attention architectures: content-based routing - deciding which tokens deserve expensive attention - requires exactly the pairwise computation that routing is designed to avoid. Through 20+ controlled experiments across three tasks (a synthetic diagnostic, the Zoology MQAR benchmark, and HotpotQA), we map the routing landscape exhaustively. One layer of softmax attention creates a latent ~34-dimensional subspace enabling 98.4% routing precision; zero layers yield 1.2%. This subspace is invisible to cosine similarity, destroyed by random projections (98.4% to 2.6%), and cannot be created by contrastive pretraining - proving attention's role is writing pairwise match results into representations, not merely computing them. Twelve alternative mechanisms all cluster at 15-29%. Non-learned indices (Bloom filter: 90.9%; BM25 on HotpotQA: 82.7%) bypass the bottleneck entirely. The result is a sharp two-regime hierarchy with an empty middle ground. These findings provide the mechanistic explanation for the empirical observation that recurrent models fail at associative recall, and reframe attention as a representation constructor rather than merely a computation mechanism.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20997",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20997v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410954"
+}

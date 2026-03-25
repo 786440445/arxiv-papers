@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.00431v2",
+  "title": "Taxonomy-Aware Representation Alignment for Hierarchical Visual Recognition with Large Multimodal Models",
+  "authors": "Hulingxiao He, Zhi Tan, Yuxin Peng",
+  "summary": "arXiv:2603.00431v2 Announce Type: replace-cross \nAbstract: A high-performing, general-purpose visual understanding model should map visual inputs to a taxonomic tree of labels, identify novel categories beyond the training set for which few or no publicly available images exist. Large Multimodal Models (LMMs) have achieved remarkable progress in fine-grained visual recognition (FGVR) for known categories. However, they remain limited in hierarchical visual recognition (HVR) that aims at predicting consistent label paths from coarse to fine categories, especially for novel categories. To tackle these challenges, we propose Taxonomy-Aware Representation Alignment (TARA), a simple yet effective strategy to inject taxonomic knowledge into LMMs. TARA leverages representations from biology foundation models (BFMs) that encode rich biological relationships through hierarchical contrastive learning. By aligning the intermediate representations of visual features with those of BFMs, LMMs are encouraged to extract discriminative visual cues well structured in the taxonomy tree. Additionally, we align the representations of the first answer token with the ground-truth label, flexibly bridging the gap between contextualized visual features and categories of varying granularity according to user intent. Experiments demonstrate that TARA consistently enhances LMMs' hierarchical consistency and leaf node accuracy, enabling reliable recognition of both known and novel categories within complex biological taxonomies. Code is available at https://github.com/PKU-ICST-MIPL/TARA_CVPR2026.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.00431",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.00431v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087827"
+}

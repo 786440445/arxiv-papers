@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.03385v3",
+  "title": "SIGMA: Scalable Spectral Insights for LLM Model Collapse",
+  "authors": "Yi Gu, Lingyou Pang, Xiangkun Ye, Tianyu Wang, Jianyu Lin, Carey E. Priebe, Alexander Aue",
+  "summary": "arXiv:2601.03385v3 Announce Type: replace \nAbstract: The rapid adoption of synthetic data for training Large Language Models (LLMs) has introduced the technical challenge of \"model collapse\"-a degenerative process where recursive training on model-generated content leads to a contraction of distributional variance and representational quality. While the phenomenology of collapse is increasingly evident, rigorous methods to quantify and predict its onset in high-dimensional spaces remain elusive. In this paper, we introduce SIGMA (Spectral Inequalities for Gram Matrix Analysis), a unified framework that benchmarks model collapse through the spectral lens of the embedding Gram matrix. By deriving and utilizing deterministic and stochastic bounds on the matrix's spectrum, SIGMA provides a mathematically grounded metric to track the contraction of the representation space. Crucially, our stochastic formulation enables scalable estimation of these bounds, making the framework applicable to large-scale foundation models where full eigendecomposition is intractable. We demonstrate that SIGMA effectively captures the transition towards degenerate states, offering both theoretical insights into the mechanics of collapse and a practical, scalable tool for monitoring the health of recursive training pipelines.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.03385",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.03385v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412560"
+}

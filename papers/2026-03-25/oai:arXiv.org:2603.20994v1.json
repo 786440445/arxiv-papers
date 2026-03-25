@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20994v1",
+  "title": "The Intelligent Disobedience Game: Formulating Disobedience in Stackelberg Games and Markov Decision Processes",
+  "authors": "Benedikt Hornig, Reuth Mirsky",
+  "summary": "arXiv:2603.20994v1 Announce Type: cross \nAbstract: In shared autonomy, a critical tension arises when an automated assistant must choose between obeying a human's instruction and deliberately overriding it to prevent harm. This safety-critical behavior is known as intelligent disobedience. To formalize this dynamic, this paper introduces the Intelligent Disobedience Game (IDG), a sequential game-theoretic framework based on Stackelberg games that models the interaction between a human leader and an assistive follower operating under asymmetric information. It characterizes optimal strategies for both agents across multi-step scenarios, identifying strategic phenomena such as ``safety traps,'' where the system indefinitely avoids harm but fails to achieve the human's goal. The IDG provides a needed mathematical foundation that enables both the algorithmic development of agents that can learn safe non-compliance and the empirical study of how humans perceive and trust disobedient AI. The paper further translates the IDG into a shared control Multi-Agent Markov Decision Process representation, forming a compact computational testbed for training reinforcement learning agents.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20994",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20994v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411808"
+}

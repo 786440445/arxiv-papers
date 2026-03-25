@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21244v1",
+  "title": "Amortized Variational Inference for Logistic Regression with Missing Covariates",
+  "authors": "M. Cherifi, Aude Sportisse, Xujia Zhu, Mohammed Nabil El Korso, A. Mesloub",
+  "summary": "arXiv:2603.21244v1 Announce Type: new \nAbstract: Missing covariate data pose a significant challenge to statistical inference and machine learning, particularly for classification tasks like logistic regression. Classical iterative approaches (EM, multiple imputation) are often computationally intensive, sensitive to high missingness rates, and limited in uncertainty propagation. Recent deep generative models based on VAEs show promise but rely on complex latent representations.\n  We propose Amortized Variational Inference for Logistic Regression (AV-LR), a unified end-to-end framework for binary logistic regression with missing covariates. AV-LR integrates a probabilistic generative model with a simple amortized inference network, trained jointly by maximizing the evidence lower bound. Unlike competing methods, AV-LR performs inference directly in the space of missing data without additional latent variables, using a single inference network and a linear layer that jointly estimate regression parameters and the missingness mechanism.\n  AV-LR achieves estimation accuracy comparable to or better than state-of-the-art EM-like algorithms, with significantly lower computational cost. It naturally extends to missing-not-at-random settings by explicitly modeling the missingness mechanism. Empirical results on synthetic and real-world datasets confirm its effectiveness and efficiency across various missing-data scenarios.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21244",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21244v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411066"
+}

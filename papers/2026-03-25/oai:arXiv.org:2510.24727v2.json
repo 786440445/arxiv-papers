@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.24727v2",
+  "title": "Stiff Circuit System Modeling via Transformer",
+  "authors": "Weiman Yan, Yi-Chia Chang, Wanyu Zhao",
+  "summary": "arXiv:2510.24727v2 Announce Type: replace-cross \nAbstract: Accurate and efficient circuit behavior modeling is a cornerstone of modern electronic design automation. Among different types of circuits, stiff circuits are challenging to model using previous frameworks. In this work, we propose a new approach using Crossformer, which is a current state-of-the-art Transformer model for time-series prediction tasks, combined with Kolmogorov-Arnold Networks (KANs), to model stiff circuit transient behavior. By leveraging the Crossformer's temporal representation capabilities and the enhanced feature extraction of KANs, our method achieves improved fidelity in predicting circuit responses to a wide range of input conditions. Experimental evaluations on datasets generated through SPICE simulations of analog-to-digital converter (ADC) circuits demonstrate the effectiveness of our approach, with significant reductions in training time and error rates.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.24727",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.24727v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.413005"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20103v2",
+  "title": "Spectral Alignment in Forward-Backward Representations via Temporal Abstraction",
+  "authors": "Seyed Mahdi B. Azad, Jasper Hoffmann, Iman Nematollahi, Hao Zhu, Abhinav Valada, Joschka Boedecker",
+  "summary": "arXiv:2603.20103v2 Announce Type: replace \nAbstract: Forward-backward (FB) representations provide a powerful framework for learning the successor representation (SR) in continuous spaces by enforcing a low-rank factorization. However, a fundamental spectral mismatch often exists between the high-rank transition dynamics of continuous environments and the low-rank bottleneck of the FB architecture, making accurate low-rank representation learning difficult. In this work, we analyze temporal abstraction as a mechanism to mitigate this mismatch. By characterizing the spectral properties of the transition operator, we show that temporal abstraction acts as a low-pass filter that suppresses high-frequency spectral components. This suppression reduces the effective rank of the induced SR while preserving a formal bound on the resulting value function error. Empirically, we show that this alignment is a key factor for stable FB learning, particularly at high discount factors where bootstrapping becomes error-prone. Our results identify temporal abstraction as a principled mechanism for shaping the spectral structure of the underlying MDP and enabling effective long-horizon representations in continuous control.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20103",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20103v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412725"
+}

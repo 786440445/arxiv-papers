@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21708v1",
+  "title": "Compensating Visual Insufficiency with Stratified Language Guidance for Long-Tail Class Incremental Learning",
+  "authors": "Xi Wang, Xu Yang, Donghao Sun, Cheng Deng",
+  "summary": "arXiv:2603.21708v1 Announce Type: new \nAbstract: Long-tail class incremental learning (LT CIL) remains highly challenging because the scarcity of samples in tail classes not only hampers their learning but also exacerbates catastrophic forgetting under continuously evolving and imbalanced data distributions. To tackle these issues, we exploit the informativeness and scalability of language knowledge. Specifically, we analyze the LT CIL data distribution to guide large language models (LLMs) in generating a stratified language tree that hierarchically organizes semantic information from coarse to fine grained granularity. Building upon this structure, we introduce stratified adaptive language guidance, which leverages learnable weights to merge multi-scale semantic representations, thereby enabling dynamic supervisory adjustment for tail classes and alleviating the impact of data imbalance. Furthermore, we introduce stratified alignment language guidance, which exploits the structural stability of the language tree to constrain optimization and reinforce semantic visual alignment, thereby alleviating catastrophic forgetting. Extensive experiments on multiple benchmarks demonstrate that our method achieves state of the art performance.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21708",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21708v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.085595"
+}

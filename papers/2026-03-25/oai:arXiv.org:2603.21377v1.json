@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21377v1",
+  "title": "HamVision: Hamiltonian Dynamics as Inductive Bias for Medical Image Analysis",
+  "authors": "Mohamed A Mabrok",
+  "summary": "arXiv:2603.21377v1 Announce Type: cross \nAbstract: We present HamVision, a framework for medical image analysis that uses the damped harmonic oscillator, a fundamental building block of signal processing, as a structured inductive bias for both segmentation and classification tasks. The oscillator's phase-space decomposition yields three functionally distinct representations: position~$q$ (feature content), momentum~$p$ (spatial gradients that encode boundary and texture information), and energy $H = \\tfrac{1}{2}|z|^2$ (a parameter-free saliency map). These representations emerge from the dynamics, not from supervision, and can be exploited by different task-specific heads without any modification to the oscillator itself. For segmentation, energy gates the skip connections while momentum injects boundary information at every decoder level (HamSeg). For classification, the three representations are globally pooled and concatenated into a phase-space feature vector (HamCls). We evaluate HamVision across ten medical imaging benchmarks spanning five imaging modalities. On segmentation, HamSeg achieves state-of-the-art Dice scores on ISIC\\,2018 (89.38\\%), ISIC\\,2017 (88.40\\%), TN3K (87.05\\%), and ACDC (92.40\\%), outperforming most baselines with only 8.57M parameters. On classification, HamCls achieves state-of-the-art accuracy on BloodMNIST (98.85\\%) and PathMNIST (96.65\\%), and competitive results on the remaining MedMNIST datasets against MedMamba and MedViT. Diagnostic analysis confirms that the oscillator's momentum consistently encodes an interior$\\,{>}\\,$boundary$\\,{>}\\,$exterior gradient for segmentation and that the energy map correlates with discriminative regions for classification, properties that emerge entirely from the Hamiltonian dynamics. Code is available at https://github.com/Minds-R-Lab/hamvision.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21377",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21377v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411949"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.12984v2",
+  "title": "VoroLight: Learning Voronoi Surface Meshes via Sphere Intersection",
+  "authors": "Jiayin Lu, Ying Jiang, Yumeng He, Yin Yang, Chenfanfu Jiang",
+  "summary": "arXiv:2512.12984v2 Announce Type: replace-cross \nAbstract: Voronoi diagrams naturally produce convex, watertight, and topologically consistent cells, making them an appealing representation for 3D shape reconstruction. However, standard differentiable Voronoi approaches typically optimize generator positions in stable configurations, which can lead to locally uneven surface geometry. We present VoroLight, a differentiable framework that promotes controlled Voronoi degeneracy for smooth surface reconstruction. Instead of optimizing generator positions alone, VoroLight associates each Voronoi surface vertex with a trainable sphere and introduces a sphere--intersection loss that encourages higher-order equidistance among face-incident generators. This formulation improves surface regularity while preserving intrinsic Voronoi properties such as watertightness and convexity. Because losses are defined directly on surface vertices, VoroLight supports multimodal shape supervision from implicit fields, point clouds, meshes, and multi--view images. By introducing additional interior generators optimized under a centroidal Voronoi tessellation objective, the framework naturally extends to volumetric Voronoi meshes with consistent surface--interior topology. Across diverse input modalities, VoroLight achieves competitive reconstruction fidelity while producing smoother and more geometrically regular Voronoi surfaces. Project page: https://jiayinlu19960224.github.io/vorolight/",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.12984",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.12984v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.413042"
+}

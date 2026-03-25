@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22278v1",
+  "title": "The Dual Mechanisms of Spatial Reasoning in Vision-Language Models",
+  "authors": "Kelly Cui, Nikhil Prakash, Ayush Raina, David Bau, Antonio Torralba, Tamar Rott Shaham",
+  "summary": "arXiv:2603.22278v1 Announce Type: cross \nAbstract: Many multimodal tasks, such as image captioning and visual question answering, require vision-language models (VLMs) to associate objects with their properties and spatial relations. Yet it remains unclear where and how such associations are computed within VLMs. In this work, we show that VLMs rely on two concurrent mechanisms to represent such associations. In the language model backbone, intermediate layers represent content-independent spatial relations on top of visual tokens corresponding to objects. However, this mechanism plays only a secondary role in shaping model predictions. Instead, the dominant source of spatial information originates in the vision encoder, whose representations encode the layout of objects and are directly exploited by the language model backbone. Notably, this spatial signal is distributed globally across visual tokens, extending beyond object regions into surrounding background areas. We show that enhancing these vision-derived spatial representations globally across all image tokens improves spatial reasoning performance on naturalistic images. Together, our results clarify how spatial association is computed within VLMs and highlight the central role of vision encoders in enabling spatial reasoning.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22278",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22278v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412172"
+}

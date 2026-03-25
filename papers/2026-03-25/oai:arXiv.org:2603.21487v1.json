@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21487v1",
+  "title": "GaussianSSC: Triplane-Guided Directional Gaussian Fields for 3D Semantic Completion",
+  "authors": "Ruiqi Xian, Jing Liang, He Yin, Xuewei Qi, Dinesh Manocha",
+  "summary": "arXiv:2603.21487v1 Announce Type: cross \nAbstract: We present \\emph{GaussianSSC}, a two-stage, grid-native and triplane-guided approach to semantic scene completion (SSC) that injects the benefits of Gaussians without replacing the voxel grid or maintaining a separate Gaussian set. We introduce \\emph{Gaussian Anchoring}, a sub-pixel, Gaussian-weighted image aggregation over fused FPN features that tightens voxel--image alignment and improves monocular occupancy estimation. We further convert point-like voxel features into a learned per-voxel Gaussian field and refine triplane features via a triplane-aligned \\emph{Gaussian--Triplane Refinement} module that combines \\emph{local gathering} (target-centric) and \\emph{global aggregation} (source-centric). This directional, anisotropic support captures surface tangency, scale, and occlusion-aware asymmetry while preserving the efficiency of triplane representations. On SemanticKITTI~\\cite{behley2019semantickitti}, GaussianSSC improves Stage~1 occupancy by +1.0\\% Recall, +2.0\\% Precision, and +1.8\\% IoU over state-of-the-art baselines, and improves Stage~2 semantic prediction by +1.8\\% IoU and +0.8\\% mIoU.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21487",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21487v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411983"
+}

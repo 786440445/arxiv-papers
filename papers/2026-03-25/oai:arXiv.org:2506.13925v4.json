@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.13925v4",
+  "title": "Segmenting Visuals With Querying Words: Language Anchors For Semi-Supervised Image Segmentation",
+  "authors": "Numair Nadeem, Saeed Anwar, Muhammad Hamza Asad, Abdul Bais",
+  "summary": "arXiv:2506.13925v4 Announce Type: replace-cross \nAbstract: Vision Language Models (VLMs) provide rich semantic priors but are underexplored in Semi supervised Semantic Segmentation. Recent attempts to integrate VLMs to inject high level semantics overlook the semantic misalignment between visual and textual representations that arises from using domain invariant text embeddings without adapting them to dataset and image specific contexts. This lack of domain awareness, coupled with limited annotations, weakens the model semantic understanding by preventing effective vision language alignment. As a result, the model struggles with contextual reasoning, shows weak intra class discrimination, and confuses similar classes. To address these challenges, we propose Hierarchical Vision Language transFormer (HVLFormer), which achieves domain aware and domain robust alignment between visual and textual representations within a mask transformer architecture. Firstly, we transform text embeddings from pretrained VLMs into textual object queries, enabling the generation of multi scale, dataset aware queries that capture class semantics from coarse to fine granularity and enhance contextual reasoning. Next, we refine these queries by injecting image specific visual context to align textual semantics with local scene structures and enhance class discrimination. Finally, to achieve domain robustness, we introduce cross view and modal consistency regularization, which enforces prediction consistency within mask-transformer architecture across augmented views. Moreover, it ensures stable vision language alignment during decoding. With less than 1% training data, HVLFormer outperforms state of the art methods on Pascal VOC, COCO, ADE20K, and Cityscapes. Our code and results will be available on GitHub.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.13925",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.13925v4.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087405"
+}

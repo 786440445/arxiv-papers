@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20818v1",
+  "title": "PlanaReLoc: Camera Relocalization in 3D Planar Primitives via Region-Based Structure Matching",
+  "authors": "Hanqiao Ye, Yuzhou Liu, Yangdong Liu, Shuhan Shen",
+  "summary": "arXiv:2603.20818v1 Announce Type: cross \nAbstract: While structure-based relocalizers have long strived for point correspondences when establishing or regressing query-map associations, in this paper, we pioneer the use of planar primitives and 3D planar maps for lightweight 6-DoF camera relocalization in structured environments. Planar primitives, beyond being fundamental entities in projective geometry, also serve as region-based representations that encapsulate both structural and semantic richness. This motivates us to introduce PlanaReLoc, a streamlined plane-centric paradigm where a deep matcher associates planar primitives across the query image and the map within a learned unified embedding space, after which the 6-DoF pose is solved and refined under a robust framework. Through comprehensive experiments on the ScanNet and 12Scenes datasets across hundreds of scenes, our method demonstrates the superiority of planar primitives in facilitating reliable cross-modal structural correspondences and achieving effective camera relocalization without requiring realistically textured/colored maps, pose priors, or per-scene training. The code and data are available at https://github.com/3dv-casia/PlanaReLoc .",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20818",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20818v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086211"
+}

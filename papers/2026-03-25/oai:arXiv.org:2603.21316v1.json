@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21316v1",
+  "title": "HELIX: Scaling Raw Audio Understanding with Hybrid Mamba-Attention Beyond the Quadratic Limit",
+  "authors": "Khushiyant, Param Thakkar",
+  "summary": "arXiv:2603.21316v1 Announce Type: new \nAbstract: Audio representation learning typically evaluates design choices such as input frontend, sequence backbone, and sequence length in isolation. We show that these axes are coupled, and conclusions from one setting often do not transfer to others. We introduce HELIX, a controlled framework comparing pure Mamba, pure attention, and a minimal hybrid with a single attention bottleneck. All models are parameter-matched at about 8.3M parameters to isolate architectural effects. Across six datasets, we find that the preferred input representation depends on the backbone, and that attention hurts performance on short, stationary audio but becomes important at longer sequence lengths. On a 5-minute speaker identification task with 30,000 tokens, pure attention fails with out-of-memory errors, while HELIX closes an 11.5-point gap over pure Mamba.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21316",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21316v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527838"
+}

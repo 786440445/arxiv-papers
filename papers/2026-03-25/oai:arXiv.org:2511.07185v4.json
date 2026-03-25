@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.07185v4",
+  "title": "Neural Directional Filtering Using a Compact Microphone Array",
+  "authors": "Weilong Huang, Srikanth Raj Chetupalli, Mhd Modar Halimeh, Oliver Thiergart, Emanu\\\"el A. P. Habets",
+  "summary": "arXiv:2511.07185v4 Announce Type: replace \nAbstract: Beamforming with desired directivity patterns using compact microphone arrays is essential in many audio applications. Directivity patterns achievable using traditional beamformers depend on the number of microphones and the array aperture. Generally, their effectiveness degrades for compact arrays. To overcome these limitations, we propose a neural directional filtering (NDF) approach that leverages deep neural networks to enable sound capture with a predefined directivity pattern. The NDF computes a single-channel complex mask from the microphone array signals, which is then applied to a reference microphone to produce an output that approximates a virtual directional microphone with the desired directivity pattern. We introduce training strategies and propose data-dependent metrics to evaluate the directivity pattern and directivity factor. We show that the proposed method: i) achieves a frequency-invariant directivity pattern even above the spatial aliasing frequency, ii) can approximate diverse and higher-order patterns, iii) can steer the pattern in different directions, and iv) generalizes to unseen conditions. Lastly, experimental comparisons demonstrate superior performance over conventional beamforming and parametric approaches.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.07185",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.07185v4.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-25T11:00:24.781909"
+}

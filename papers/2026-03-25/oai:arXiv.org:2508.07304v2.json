@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.07304v2",
+  "title": "From Knowledge to Conjectures: A Modal Framework for Reasoning about Hypotheses",
+  "authors": "Fabio Vitali",
+  "summary": "arXiv:2508.07304v2 Announce Type: replace-cross \nAbstract: This paper introduces a new family of cognitive modal logics designed to formalize conjectural reasoning: modal systems in which cognitive contexts extend known facts with hypothetical assumptions in order to explore their consequences. Unlike traditional doxastic and epistemic systems, conjectural logics rely on a principle, called Axiom \\textbf{C} ($\\varphi \\rightarrow \\Box\\varphi$), through which established facts are preserved across conjectural layers. While Axiom \\textbf{C} has often been treated with suspicion because of its association with modal collapse, we show that collapse does not arise from \\textbf{C} alone, but requires either the presence of Axiom \\textbf{T} or a concretely bivalent base logic. Accordingly, we avoid \\textbf{T} and adopt a non-bivalent semantic framework, such as supervaluation-style semantics, Weak Kleene logic, or Description Logic, in which undefined propositions may coexist with modal assertions. This prevents modal collapse and preserves a distinction between factual and conjectural statements. Within this framework we define the modal systems $\\mathbf{KC}$ and $\\mathbf{KDC}$, show that Axiom \\textbf{C} directly implies \\textbf{4} and \\textbf{5}, and prove that these systems are non-trivial, sound, and complete. An inclusion theorem links reality, doxastic states, epistemic states, and conjectural states via set-theoretic inclusion among valuations, providing a unified account of how these layers relate. Finally, we introduce a dynamic operator, $\\mathsf{settle}(p)$, which formalizes the transition by which a conjectural extension becomes designated reality, thereby motivating a corresponding Conjectural Dynamic Logic.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.07304",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.07304v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087452"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21317v1",
+  "title": "Stream separation improves Bregman conditioning in transformers",
+  "authors": "James Clayton Kerce",
+  "summary": "arXiv:2603.21317v1 Announce Type: new \nAbstract: Linear methods for steering transformer representations, including probing, activation engineering, and concept erasure, implicitly assume the geometry of representation space is Euclidean. Park et al. [Park et al., 2026] showed that softmax induces a curved Bregman geometry whose metric tensor is the Hessian of the log-normalizer, $H({\\lambda}) = Cov[{\\gamma} | {\\lambda}]$. Ignoring this curvature causes Euclidean steering to leak probability mass to unintended tokens. Their analysis applies at the output layer. We measure this Hessian at intermediate layers in a controlled 2x2 design crossing stream separation with per-layer supervision (vocabulary decoding loss at each layer), all at matched vocabulary and parameter count. In standard single-stream transformers, H is severely degenerate at intermediate layers (effective rank 8 in 516 dimensions). Stream separation improves conditioning by up to 22 in effective rank, even without auxiliary supervision. Per-layer supervision helps, but less. The cosine similarity between primal and dual concept directions predicts per-layer steering effectiveness on downstream tasks, with a threshold near 0.3. These results bear on the reliability of linear safety interventions, which depend on the geometry being well-conditioned at the layer where they are applied.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21317",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21317v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411095"
+}

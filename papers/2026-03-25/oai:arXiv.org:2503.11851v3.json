@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2503.11851v3",
+  "title": "Interpretable Deep Learning Framework for Improved Disease Classification in Medical Imaging",
+  "authors": "Jutika Borah, Hidam Kumarjit Singh",
+  "summary": "arXiv:2503.11851v3 Announce Type: replace-cross \nAbstract: Deep learning models have gained increasing adoption in medical image analysis. However, these models often produce overconfident predictions, which can compromise clinical accuracy and reliability. Bridging the gap between high-performance and awareness of uncertainty remains a crucial challenge in biomedical imaging applications. This study focuses on developing a unified deep learning framework for enhancing feature integration, interpretability, and reliability in prediction. We introduced a cross-guided channel spatial attention architecture that fuses feature representations extracted from EfficientNetB4 and ResNet34. Bidirectional attention approach enables the exchange of information across networks with differing receptive fields, enhancing discriminative and contextual feature learning. For quantitative predictive uncertainty assessment, Monte Carlo (MC)-Dropout is integrated with conformal prediction. This provides statistically valid prediction sets with entropy-based uncertainty visualization. The framework is evaluated on four medical imaging benchmark datasets: chest X-rays of COVID-19, Tuberculosis, Pneumonia, and retinal Optical Coherence Tomography (OCT) images. The proposed framework achieved strong classification performance with an AUC of 99.75% for COVID-19, 100% for Tuberculosis, 99.3% for Pneumonia chest X-rays, and 98.69% for retinal OCT images. Uncertainty-aware inference yields calibrated prediction sets with interpretable examples of uncertainty, showing transparency. The results demonstrate that bidirectional cross-attention with uncertainty quantification can improve performance and transparency in medical image classification.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2503.11851",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2503.11851v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412851"
+}

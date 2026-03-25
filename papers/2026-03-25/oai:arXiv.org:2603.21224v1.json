@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21224v1",
+  "title": "Emotion-Aware Quantization for Discrete Speech Representations: An Analysis of Emotion Preservation",
+  "authors": "Haoguang Zhou, Siyi Wang, Jingyao Wu, James Bailey, Ting Dang",
+  "summary": "arXiv:2603.21224v1 Announce Type: new \nAbstract: Modern speech systems increasingly use discretized self-supervised speech representations for compression and integration with token-based models, yet their impact on emotional information remains unclear. We study how residual vector quantization (RVQ) reshapes emotional information in discrete speech representations from both representation- and task-level perspectives. Our analysis shows that aggressive compression disproportionately degrades emotion, with uneven loss across emotion classes and model architectures. To address this, we introduce emotion-aware quantization using emotion-specific and emotion-biased codebooks, improving the preservation of both hard and soft emotion perception. We further propose Emo-Q, a lightweight routed quantization method that selects emotion-specialized codebooks, improving emotion recognition performance at lower bitrates. These results highlight the importance of emotion-aware discretization for robust affective speech processing.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21224",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21224v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527834"
+}

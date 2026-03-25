@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20825v1",
+  "title": "Cross-Granularity Representations for Biological Sequences: Insights from ESM and BiGCARP",
+  "authors": "Hanlin Xiao, Rainer Breitling, Eriko Takano, Mauricio A. \\'Alvarez",
+  "summary": "arXiv:2603.20825v1 Announce Type: new \nAbstract: Recent advances in general-purpose foundation models have stimulated the development of large biological sequence models. While natural language shows symbolic granularity (characters, words, sentences), biological sequences exhibit hierarchical granularity whose levels (nucleotides, amino acids, protein domains, genes) further encode biologically functional information. In this paper, we investigate the integration of cross-granularity knowledge from models through a case study of BiGCARP, a Pfam domain-level model for biosynthetic gene clusters, and ESM, an amino acid-level protein language model. Using representation analysis tools and a set of probe tasks, we first explain why a straightforward cross-model embedding initialization fails to improve downstream performance in BiGCARP, and show that deeper-layer embeddings capture a more contextual and faithful representation of the model's learned knowledge. Furthermore, we demonstrate that representations at different granularities encode complementary biological knowledge, and that combining them yields measurable performance gains in intermediate-level prediction tasks. Our findings highlight cross-granularity integration as a promising strategy for improving both the performance and interpretability of biological foundation models.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20825",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20825v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410851"
+}

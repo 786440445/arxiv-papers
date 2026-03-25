@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20275v1",
+  "title": "Understanding Pruning Regimes in Vision-Language Models Through Domain-Aware Layer Selection",
+  "authors": "Saeed Khaki, Nima Safaei, Kamal Ginotra",
+  "summary": "arXiv:2603.20275v1 Announce Type: cross \nAbstract: Transformer-based vision-language models (VLMs) contain substantial depth redundancy, yet the effect of removing specific decoder layers remains poorly understood, especially for domains that require tight coupling between perception and multi-step reasoning. We study structured decoder layer pruning through the lens of domain-aware activation similarity, measuring how strongly each layer transforms representations for math versus non-math inputs. This yields simple math-aware, non-math-aware, and mixed ranking criteria that identify layers whose input-output activations change least within a target domain. Across two state-of-the-art VLMs and a broad suite of math and general multimodal benchmarks, we uncover a consistent three-regime structure: at low pruning budgets, performance is highly sensitive to which layers are removed; at moderate budgets, methods converge as structural damage accumulates; and at high budgets, structural continuity dominates, favoring spacing-aware strategies. Our domain-aware rankings achieve the strongest stability in the ranking-sensitive regime, while matching or exceeding structure-aware baselines at larger budgets. These results provide a clearer picture of how depth contributes to domain-specific behavior in VLMs and offer a practical, interpretable approach to reducing model depth without sacrificing essential mathematical or general vision-language capabilities.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20275",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20275v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.085813"
+}

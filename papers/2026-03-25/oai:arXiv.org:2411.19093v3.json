@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2411.19093v3",
+  "title": "Monitoring access to piped water and sanitation infrastructure in Africa at disaggregated scales using satellite imagery and self-supervised learning",
+  "authors": "Othmane Echchabi, Aya Lahlou, Nizar Talty, Josh Malcolm Manto, Tongshu Zheng, Ka Leung Lam",
+  "summary": "arXiv:2411.19093v3 Announce Type: replace-cross \nAbstract: Clean water and sanitation are essential for health, well-being, and sustainable development, yet significant global disparities persist. Although the United Nations' Sustainable Development Goal (SDG) 6 clearly defines targets for universal access to clean water and sanitation, limitations in data coverage and openness impede accurate tracking of progress in many countries. To bridge these gaps, this study integrates Afrobarometer survey data, satellite imagery from Sentinel-2, and advanced deep learning techniques using Meta's self-supervised Distillation with No Labels (DINO) model to develop a modeling framework for evaluating access to piped water and sewage systems across diverse African regions. The modeling framework achieved notable accuracy, with over 84% for piped water and 87% for sewage system access classification. When combined with geospatial population data, validation against official statistics from the United Nations Joint Monitoring Program demonstrated high concordance at the national scale (R2 of 0.92 for piped water access and R2 of 0.72 for sewage system access). The national-level estimates can represent SDG Indicators 6.1.1 and 6.2.1. This approach provides policymakers and stakeholders with an effective, scalable, and cost-efficient tool to pinpoint underserved areas requiring targeted intervention. The methodology developed herein can be adapted for assessing other infrastructure-related SDGs, promoting enhanced monitoring and informed decision-making towards achieving global sustainability objectives.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2411.19093",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2411.19093v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412828"
+}

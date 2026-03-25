@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.05549v2",
+  "title": "Logical Guidance for the Exact Composition of Diffusion Models",
+  "authors": "Francesco Alesiani, Jonathan Warrell, Tanja Bien, Henrik Christiansen, Matheus Ferraz, Mathias Niepert",
+  "summary": "arXiv:2602.05549v2 Announce Type: replace \nAbstract: We propose LOGDIFF (Logical Guidance for the Exact Composition of Diffusion Models), a guidance framework for diffusion models that enables principled constrained generation with complex logical expressions at inference time. We study when exact score-based guidance for complex logical formulas can be obtained from guidance signals associated with atomic properties. First, we derive an exact Boolean calculus that provides a sufficient condition for exact logical guidance. Specifically, if a formula admits a circuit representation in which conjunctions combine conditionally independent subformulas and disjunctions combine subformulas that are either conditionally independent or mutually exclusive, exact logical guidance is achievable. In this case, the guidance signal can be computed exactly from atomic scores and posterior probabilities using an efficient recursive algorithm. Moreover, we show that, for commonly encountered classes of distributions, any desired Boolean formula is compilable into such a circuit representation. Second, by combining atomic guidance scores with posterior probability estimates, we introduce a hybrid guidance approach that bridges classifier guidance and classifier-free guidance, applicable to both compositional logical guidance and standard conditional generation. We demonstrate the effectiveness of our framework on multiple image and protein structure generation tasks.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.05549",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.05549v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412589"
+}

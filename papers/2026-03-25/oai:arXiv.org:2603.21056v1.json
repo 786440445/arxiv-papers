@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21056v1",
+  "title": "Semi-Supervised Learning with Balanced Deep Representation Distributions",
+  "authors": "Changchun Li, Ximing Li, Bingjie Zhang, Wenting Wang, Jihong Ouyang",
+  "summary": "arXiv:2603.21056v1 Announce Type: new \nAbstract: Semi-Supervised Text Classification (SSTC) mainly works under the spirit of self-training. They initialize the deep classifier by training over labeled texts; and then alternatively predict unlabeled texts as their pseudo-labels and train the deep classifier over the mixture of labeled and pseudo-labeled texts. Naturally, their performance is largely affected by the accuracy of pseudo-labels for unlabeled texts. Unfortunately, they often suffer from low accuracy because of the margin bias problem caused by the large difference between representation distributions of labels in SSTC. To alleviate this problem, we apply the angular margin loss, and perform several Gaussian linear transformations to achieve balanced label angle variances, i.e., the variance of label angles of texts within the same label. More accuracy of predicted pseudo-labels can be achieved by constraining all label angle variances balanced, where they are estimated over both labeled and pseudo-labeled texts during self-training loops. With this insight, we propose a novel SSTC method, namely Semi-Supervised Text Classification with Balanced Deep representation Distributions (S2TC-BDD). We implement both multi-class classification and multi-label classification versions of S2TC-BDD by introducing some pseudo-labeling tricks and regularization terms. To evaluate S2 TC-BDD, we compare it against the state-of-the-art SSTC methods. Empirical results demonstrate the effectiveness of S2 TC-BDD, especially when the labeled texts are scarce.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21056",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21056v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410989"
+}

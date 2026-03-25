@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2212.07826v2",
+  "title": "Hybrid Quantum Generative Adversarial Networks for Molecular Simulation and Drug Discovery",
+  "authors": "Prateek Jain, Param Pathak, Krishna Bhatia, Shalini Devendrababu, Srinjoy Ganguly",
+  "summary": "arXiv:2212.07826v2 Announce Type: replace-cross \nAbstract: In molecular research, the modelling and analysis of molecules through simulation is an important part that has a direct influence on medical development, material science and drug discovery. The processing power required to design protein chains with hundreds of peptides is huge. Classical computing techniques, including state-of-the-art machine learning models being deployed on classical computing machines, have proven to be inefficient in this task, though they have been successful in a limited way. Moreover, current practical implementations, as opposed to purely theoretical modelling, are often infeasible in terms of both time and cost. One of the major areas where quantum machine learning is expected to have a profound advantage over classical algorithms is drug discovery. Quantum generative models have given some promising benefits in recent studies. This paper introduces three novel quantum generative adversarial network (QGAN) architecture variants resulting from different configurations, various quantum circuit layers and patched ansatz. A quantum simulator from Xanadu's PennyLane was utilized for executing the QGAN models trained on the QM9 dataset. Upon evaluation, one of the models, namely the QWGAN-HG-GP (Wasserstein distance with gradient penalty) model, outperformed the other QGAN models in different drug molecule property metrics.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2212.07826",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2212.07826v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412759"
+}

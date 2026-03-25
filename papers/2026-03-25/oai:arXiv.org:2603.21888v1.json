@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21888v1",
+  "title": "Adaptive Federated Fine-Tuning of Self-Supervised Speech Representations",
+  "authors": "Xin Guo, Chunrui Zhao, Hong Jia, Ting Dang, Gongping Huang, Xianrui Zheng, Yan Gao",
+  "summary": "arXiv:2603.21888v1 Announce Type: new \nAbstract: Integrating Federated Learning (FL) with self-supervised learning (SSL) enables privacy-preserving fine-tuning for speech tasks. However, federated environments exhibit significant heterogeneity: clients differ in computational capacity, causing straggler effects under unified fine-tuning, while diverse downstream tasks require different representation depths, making full-model updates inefficient. To address these challenges, we propose an adaptive federated fine-tuning framework with early exits. Lightweight prediction heads are inserted at intermediate layers of the SSL backbone, allowing clients to terminate computation based on local constraints and task requirements. We further introduce a layer-wise, depth-aware partial aggregation strategy to better utilize representations from different network depths. Experiments show that the framework reduces edge overhead, supports heterogeneous hardware, and maintains competitive performance in resource-constrained federated environments.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21888",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21888v1.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-25T11:00:24.781838"
+}

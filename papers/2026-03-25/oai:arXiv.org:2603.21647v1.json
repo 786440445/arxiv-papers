@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21647v1",
+  "title": "FedCVU: Federated Learning for Cross-View Video Understanding",
+  "authors": "Shenghan Zhang, Run Ling, Ke Cao, Ao Ma, Zhanjie Zhang",
+  "summary": "arXiv:2603.21647v1 Announce Type: cross \nAbstract: Federated learning (FL) has emerged as a promising paradigm for privacy-preserving multi-camera video understanding. However, applying FL to cross-view scenarios faces three major challenges: (i) heterogeneous viewpoints and backgrounds lead to highly non-IID client distributions and overfitting to view-specific patterns, (ii) local distribution biases cause misaligned representations that hinder consistent cross-view semantics, and (iii) large video architectures incur prohibitive communication overhead. To address these issues, we propose FedCVU, a federated framework with three components: VS-Norm, which preserves normalization parameters to handle view-specific statistics; CV-Align, a lightweight contrastive regularization module to improve cross-view representation alignment; and SLA, a selective layer aggregation strategy that reduces communication without sacrificing accuracy. Extensive experiments on action understanding and person re-identification tasks under a cross-view protocol demonstrate that FedCVU consistently boosts unseen-view accuracy while maintaining strong seen-view performance, outperforming state-of-the-art FL baselines and showing robustness to domain heterogeneity and communication constraints.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21647",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21647v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412017"
+}

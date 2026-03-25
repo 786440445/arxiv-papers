@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21502v1",
+  "title": "Quotient Geometry, Effective Curvature, and Implicit Bias in Simple Shallow Neural Networks",
+  "authors": "Hang-Cheng Dong, Pengcheng Cheng",
+  "summary": "arXiv:2603.21502v1 Announce Type: new \nAbstract: Overparameterized shallow neural networks admit substantial parameter redundancy: distinct parameter vectors may represent the same predictor due to hidden-unit permutations, rescalings, and related symmetries. As a result, geometric quantities computed directly in the ambient Euclidean parameter space can reflect artifacts of representation rather than intrinsic properties of the predictor. In this paper, we develop a differential-geometric framework for analyzing simple shallow networks through the quotient space obtained by modding out parameter symmetries on a regular set. We first characterize the symmetry and quotient structure of regular shallow-network parameters and show that the finite-sample realization map induces a natural metric on the quotient manifold. This leads to an effective notion of curvature that removes degeneracy along symmetry orbits and yields a symmetry-reduced Hessian capturing intrinsic local geometry. We then study gradient flows on the quotient and show that only the horizontal component of parameter motion contributes to first-order predictor evolution, while the vertical component corresponds purely to gauge variation. Finally, we formulate an implicit-bias viewpoint at the quotient level, arguing that meaningful complexity should be assigned to predictor classes rather than to individual parameter representatives. Our experiments confirm that ambient flatness is representation-dependent, that local dynamics are better organized by quotient-level curvature summaries, and that in underdetermined regimes, implicit bias is most naturally described in quotient coordinates.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21502",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21502v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411160"
+}

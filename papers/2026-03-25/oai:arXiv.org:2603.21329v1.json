@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21329v1",
+  "title": "COINBench: Moving Beyond Individual Perspectives to Collective Intent Understanding",
+  "authors": "Xiaozhe Li, Tianyi Lyu, Siyi Yang, Yizhao Yang, Yuxi Gong, Jinxuan Huang, Ligao Zhang, Zhuoyi Huang, Qingwen Liu",
+  "summary": "arXiv:2603.21329v1 Announce Type: cross \nAbstract: Understanding human intent is a high-level cognitive challenge for Large Language Models (LLMs), requiring sophisticated reasoning over noisy, conflicting, and non-linear discourse. While LLMs excel at following individual instructions, their ability to distill Collective Intent - the process of extracting consensus, resolving contradictions, and inferring latent trends from multi-source public discussions - remains largely unexplored. To bridge this gap, we introduce COIN-BENCH, a dynamic, real-world, live-updating benchmark specifically designed to evaluate LLMs on collective intent understanding within the consumer domain. Unlike traditional benchmarks that focus on transactional outcomes, COIN-BENCH operationalizes intent as a hierarchical cognitive structure, ranging from explicit scenarios to deep causal reasoning. We implement a robust evaluation pipeline that combines a rule-based method with an LLM-as-the-Judge approach. This framework incorporates COIN-TREE for hierarchical cognitive structuring and retrieval-augmented verification (COIN-RAG) to ensure expert-level precision in analyzing raw, collective human discussions. An extensive evaluation of 20 state-of-the-art LLMs across four dimensions - depth, breadth, informativeness, and correctness - reveals that while current models can handle surface-level aggregation, they still struggle with the analytical depth required for complex intent synthesis. COIN-BENCH establishes a new standard for advancing LLMs from passive instruction followers to expert-level analytical agents capable of deciphering the collective voice of the real world. See our project page on COIN-BENCH.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21329",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21329v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086562"
+}

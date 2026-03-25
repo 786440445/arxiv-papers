@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20687v1",
+  "title": "Neuronal Self-Adaptation Enhances Capacity and Robustness of Representation in Spiking Neural Networks",
+  "authors": "Zhuobin Yang, Yeyao Bao, Liangfu Lv, Jian Zhang, Xiaohong Li, Yunliang Zang",
+  "summary": "arXiv:2603.20687v1 Announce Type: new \nAbstract: Spiking Neural Networks (SNNs) are promising for energy-efficient, real-time edge computing, yet their performance is often constrained by the limited adaptability of conventional leaky integrate-and-fire (LIF) neurons. Existing LIF models struggle with restricted information capacity and susceptibility to noise, leading to degraded accuracy and compromised robustness. Inspired by the dynamic self-regulation of biological potassium channels, we propose the Potassium-regulated LIF (KvLIF) neuron model. KvLIF introduces an auxiliary conductance state that integrates membrane potential and spiking history to adaptively modulate neuronal excitability and reset dynamics. This design extends the dynamic response range of neurons to varying input intensities and effectively suppresses noise-induced spikes. We extensively evaluate KvLIF on both static image and neuromorphic datasets, demonstrating consistent improvements in classification accuracy and superior robustness compared to existing LIF models. Our work bridges biological plausibility with computational efficiency, offering a neuron model that enhances SNN performance while maintaining suitability for low-power neuromorphic deployment.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20687",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20687v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410816"
+}

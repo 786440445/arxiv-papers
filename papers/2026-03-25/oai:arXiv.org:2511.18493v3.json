@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.18493v3",
+  "title": "SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation",
+  "authors": "Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho",
+  "summary": "arXiv:2511.18493v3 Announce Type: replace-cross \nAbstract: The significant variability in cell size and shape continues to pose a major obstacle in computer-assisted cancer detection on gigapixel Whole Slide Images (WSIs), due to cellular heterogeneity. Current CNN-Transformer hybrids use static computation graphs with fixed routing. This leads to extra computation and makes it harder to adapt to changes in input. We propose Shape-Adapting Gated Experts (SAGE), an input-adaptive framework that enables dynamic expert routing in heterogeneous visual networks. SAGE reconfigures static backbones into dynamically routed expert architectures via a dual-path design with hierarchical gating and a Shape-Adapting Hub (SA-Hub) that harmonizes feature representations across convolutional and transformer modules. Embodied as SAGE with ConvNeXt and Vision Transformer UNet (SAGE-ConvNeXt+ViT-UNet), our model achieves a Dice score of 95.23\\% on EBHI, 92.78\\%/91.42\\% DSC on GlaS Test A/Test B, and 91.26\\% DSC at the WSI level on DigestPath, while exhibiting robust generalization under distribution shifts by adaptively balancing local refinement and global context. SAGE establishes a scalable foundation for dynamic expert routing in visual networks, thereby facilitating flexible visual reasoning.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.18493",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.18493v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087598"
+}

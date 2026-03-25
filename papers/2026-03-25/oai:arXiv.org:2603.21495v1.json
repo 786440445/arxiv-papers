@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21495v1",
+  "title": "RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management",
+  "authors": "Lingzhe Zhang, Tong Jia, Weijie Hong, Mingyu Wang, Chiming Duan, Minghua He, Rongqian Wang, Xi Peng, Meiling Wang, Gong Zhang, Renhai Chen, Ying Li",
+  "summary": "arXiv:2603.21495v1 Announce Type: cross \nAbstract: Modern software systems operate at unprecedented scale and complexity, where effective failure management is critical yet increasingly challenging. Metrics, traces, and logs provide complementary views of system runtime behavior, but existing failure management approaches typically rely on task-oriented pipelines that tightly couple modality-specific preprocessing, representation learning, and downstream models, resulting in limited generalization across tasks and systems. To fill this gap, we propose RuntimeSlicer, a unified runtime state representation model towards generalizable failure management. RuntimeSlicer pre-trains a task-agnostic representation model that directly encodes metrics, traces, and logs into a single, aligned system-state embedding capturing the holistic runtime condition of the system. To train RuntimeSlicer, we introduce Unified Runtime Contrastive Learning, which integrates heterogeneous training data sources and optimizes complementary objectives for cross-modality alignment and temporal consistency. Building upon the learned system-state embeddings, we further propose State-Aware Task-Oriented Tuning, which performs unsupervised partitioning of runtime states and enables state-conditioned adaptation for downstream tasks. This design allows lightweight task-oriented models to be trained on top of the unified embedding without redesigning modality-specific encoders or preprocessing pipelines. Preliminary experiments on the AIOps 2022 dataset demonstrate the feasibility and effectiveness of RuntimeSlicer for system state modeling and failure management tasks.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21495",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21495v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086622"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21416v1",
+  "title": "Enterprise Sales Copilot: Enabling Real-Time AI Support with Automatic Information Retrieval in Live Sales Calls",
+  "authors": "Jielin Qiu, Liangwei Yang, Ming Zhu, Wenting Zhao, Zhiwei Liu, Juntao Tan, Zixiang Chen, Roshan Ram, Akshara Prabhakar, Rithesh Murthy, Shelby Heinecke, Caiming Xiong, Silvio Savarese, Huan Wang",
+  "summary": "arXiv:2603.21416v1 Announce Type: new \nAbstract: During live sales calls, customers frequently ask detailed product questions that require representatives to manually search internal databases and CRM systems. This process typically takes 25-65 seconds per query, creating awkward pauses that hurt customer experience and reduce sales efficiency. We present SalesCopilot, a real-time AI-powered assistant that eliminates this bottleneck by automatically detecting customer questions, retrieving relevant information from the product database, and displaying concise answers on the representative's dashboard in seconds. The system integrates streaming speech-to-text transcription, large language model (LLM)-based question detection, and retrieval-augmented generation (RAG) over a structured product database into a unified real-time pipeline. We demonstrate SalesCopilot on an insurance sales scenario with 50 products spanning 10 categories (2,490 FAQs, 290 coverage details, and 162 pricing tiers). In our benchmark evaluation, SalesCopilot achieves a measured mean response time of 2.8 seconds with 100% question detection rate, representing a 14xspeedup compared to manual CRM search in an internal study. The system is domain-agnostic and can be adapted to any enterprise sales domain by replacing the product database.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21416",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21416v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527843"
+}

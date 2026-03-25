@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21601v1",
+  "title": "Riemannian Geometry Speaks Louder Than Words: From Graph Foundation Model to Next-Generation Graph Intelligence",
+  "authors": "Philip S. Yu, Li Sun",
+  "summary": "arXiv:2603.21601v1 Announce Type: new \nAbstract: Graphs provide a natural description of the complex relationships among objects, and play a pivotal role in communications, transportation, social computing, the life sciences, etc. Currently, there is strong agreement that Graph Foundation Models (GFMs) are essential for advancing graph learning, yet considerable disagreement persists on how to build a powerful, general-purpose GFM analogous to Large Language Models (LLMs). Graph Neural Networks (GNNs) exhibit limitations in memory retention and principled interpretability when confronted with multi-domain pretraining and adaptation. The challenge of graph serialization hinders the direct application of LLMs, as the words struggle to capture the structural complexity and diversity inherent in graphs. In contrast, Riemannian geometry offers an elegant mathematical framework for modeling structures, while remaining compatible with graph semantic learning, even with LLMs. In this paper, we argue that, for graphs, Riemannian geometry speaks louder than words, and lay out the foundational principles for GFM. Reimagining with Riemannian geometry, we introduce a blue sky idea-Riemannian Foundation Model (RFM)-that opens a new pathway for capturing complex structural patterns and uncovering cross-domain generalities. RFM emphasizes intrinsic graph geometry and embodies endogenous capacities for structural inference and generation, moving beyond mere representation-space switching. Accordingly, we outline a progressive agenda that begins with universal structural understanding through intrinsic geometry, and then rebuilds LLM with a Riemannian engine for general-purpose graph modeling and beyond. Thus, RFM enables a paradigm shift from designing graph models to solving graph-structured applications with RFM agents, unlocking the next-generation graph intelligence.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21601",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21601v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411205"
+}

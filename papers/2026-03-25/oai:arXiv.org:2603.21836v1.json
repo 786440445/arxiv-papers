@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21836v1",
+  "title": "Instruction Set and Language for Symbolic Regression",
+  "authors": "Ezequiel Lopez-Rubio, Mario Pascual-Gonzalez",
+  "summary": "arXiv:2603.21836v1 Announce Type: cross \nAbstract: A fundamental but largely unaddressed obstacle in Symbolic regression (SR) is structural redundancy: every expression DAG with admits many distinct node-numbering schemes that all encode the same expression, each occupying a separate point in the search space and consuming fitness evaluations without adding diversity. We present IsalSR (Instruction Set and Language for Symbolic Regression), a representation framework that encodes expression DAGs as strings over a compact two-tier alphabet and computes a pruned canonical string -- a complete labeled-DAG isomorphism invariant -- that collapses all the equivalent representations into a single canonical form.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21836",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21836v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086818"
+}

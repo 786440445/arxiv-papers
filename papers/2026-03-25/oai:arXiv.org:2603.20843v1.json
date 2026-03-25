@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20843v1",
+  "title": "HiCI: Hierarchical Construction-Integration for Long-Context Attention",
+  "authors": "Xiangyu Zeng, Qi Xu, Yunke Wang, Chang Xu",
+  "summary": "arXiv:2603.20843v1 Announce Type: cross \nAbstract: Long-context language modeling is commonly framed as a scalability challenge of token-level attention, yet local-to-global information structuring remains largely implicit in existing approaches. Drawing on cognitive theories of discourse comprehension, we propose HiCI (Hierarchical Construction--Integration), a hierarchical attention module that constructs segment-level representations, integrates them into a shared global context, and broadcasts both to condition segment-level attention. We validate HiCI through parameter-efficient adaptation of LLaMA-2 with only <5.5% additional parameters, extending context from 4K to 100K tokens (7B) and 64K tokens (13B). Across language modeling, retrieval, and instruction-following benchmarks, HiCI yields consistent improvements over strong baselines, including matching proprietary models on topic retrieval and surpassing GPT-3.5-Turbo-16K on code comprehension. These results demonstrate the effectiveness of explicit hierarchical structuring as an inductive bias for long-context modeling.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20843",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20843v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411739"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.04831v2",
+  "title": "Missingness Bias Calibration in Feature Attribution Explanations",
+  "authors": "Shailesh Sridhar, Anton Xue, Eric Wong",
+  "summary": "arXiv:2603.04831v2 Announce Type: replace \nAbstract: Popular explanation methods often produce unreliable feature importance scores due to missingness bias, a systematic distortion that arises when models are probed with ablated, out-of-distribution inputs. Existing solutions treat this as a deep representational flaw that requires expensive retraining or architectural modifications. In this work, we challenge this assumption and show that missingness bias can be effectively treated as a superficial artifact of the model's output space. We introduce MCal, a lightweight post-hoc method that corrects this bias by fine-tuning a simple linear head on the outputs of a frozen base model. Surprisingly, we find this simple correction consistently reduces missingness bias and is competitive with, or even outperforms, prior heavyweight approaches across diverse medical benchmarks spanning vision, language, and tabular domains.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.04831",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.04831v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412641"
+}

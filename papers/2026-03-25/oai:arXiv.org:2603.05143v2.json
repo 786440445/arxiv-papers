@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.05143v2",
+  "title": "Feature Resemblance: Towards a Theoretical Understanding of Analogical Reasoning in Transformers",
+  "authors": "Ruichen Xu, Wenjing Yan, Ying-Jun Angela Zhang",
+  "summary": "arXiv:2603.05143v2 Announce Type: replace-cross \nAbstract: Understanding reasoning in large language models is complicated by evaluations that conflate multiple reasoning types. We isolate analogical reasoning (inferring shared properties between entities based on known similarities) and analyze its emergence in transformers. We theoretically prove three key results: (1) Joint training on similarity and attribution premises enables analogical reasoning through aligned representations; (2) Sequential training succeeds only when similarity structure is learned before specific attributes, revealing a necessary curriculum; (3) Two-hop reasoning ($a \\to b, b \\to c \\implies a \\to c$) reduces to analogical reasoning with identity bridges ($b = b$), which must appear explicitly in training data. These results reveal a unified mechanism: transformers encode entities with similar properties into similar representations, enabling property transfer through feature alignment. Experiments with architectures up to 1.5B parameters validate our theory and demonstrate how representational geometry shapes inductive reasoning capabilities.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.05143",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.05143v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.413149"
+}

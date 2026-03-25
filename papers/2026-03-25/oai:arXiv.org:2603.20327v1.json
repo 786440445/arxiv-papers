@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20327v1",
+  "title": "Probing the Latent World: Emergent Discrete Symbols and Physical Structure in Latent Representations",
+  "authors": "Liu hung ming",
+  "summary": "arXiv:2603.20327v1 Announce Type: new \nAbstract: Video world models trained with Joint Embedding Predictive Architectures (JEPA) acquire rich spatiotemporal representations by predicting masked regions in latent space rather than reconstructing pixels. This removes the visual verification pathway of generative models, creating a structural interpretability gap: the encoder has learned physical structure inaccessible in any inspectable form. Existing probing methods either operate in continuous space without a structured intermediate layer, or attach generative components whose parameters confound attribution of behavior to the encoder.\n  We propose the AI Mother Tongue (AIM) framework as a passive quantization probe: a lightweight, vocabulary-free probe that converts V-JEPA 2 continuous latent vectors into discrete symbol sequences without task-specific supervision or modifying the encoder. Because the encoder is kept completely frozen, any symbolic structure in the AIM codebook is attributable entirely to V-JEPA 2 pre-trained representations -- not to the probe.\n  We evaluate through category-contrast experiments on Kinetics-mini along three physical dimensions: grasp angle, object geometry, and motion temporal structure. AIM symbol distributions differ significantly across all three experiments (chi^2 p < 10^{-4}; MI 0.036--0.117 bits, NMI 1.2--3.9% of the 3-bit maximum; JSD up to 0.342; codebook active ratio 62.5%). The experiments reveal that V-JEPA 2 latent space is markedly compact: diverse action categories share a common representational core, with semantic differences encoded as graded distributional variations rather than categorical boundaries. These results establish Stage 1 of a four-stage roadmap toward an action-conditioned symbolic world model, demonstrating that structured symbolic manifolds are discoverable properties of frozen JEPA latent spaces.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20327",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20327v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410625"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20301v1",
+  "title": "Voice Privacy from an Attribute-based Perspective",
+  "authors": "Mehtab Ur Rahman, Martha Larson, Cristian Tejedor Garc\\'ia",
+  "summary": "arXiv:2603.20301v1 Announce Type: new \nAbstract: Voice privacy approaches that preserve the anonymity of speakers modify speech in an attempt to break the link with the true identity of the speaker. Current benchmarks measure speaker protection based on signal-to-signal comparisons. In this paper, we introduce an attribute-based perspective, where we measure privacy protection in terms of comparisons between sets of speaker attributes. First, we analyze privacy impact by calculating speaker uniqueness for ground truth attributes, attributes inferred on the original speech, and attributes inferred on speech protected with standard anonymization. Next, we examine a threat scenario involving only a single utterance per speaker and calculate attack error rates. Overall, we observe that inferred attributes still present a risk despite attribute inference errors. Our research points to the importance of considering both attribute-related threats and protection mechanisms in future voice privacy research.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20301",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20301v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527814"
+}

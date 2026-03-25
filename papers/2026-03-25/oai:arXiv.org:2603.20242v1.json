@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20242v1",
+  "title": "LL-SDR: Low-Latency Speech enhancement through Discrete Representations",
+  "authors": "Jingyi Li, Luca Della Libera, Mirco Ravanelli, Cem Subakan",
+  "summary": "arXiv:2603.20242v1 Announce Type: new \nAbstract: Many speech enhancement (SE) methods rely on continuous representations. Recently, discrete audio tokens have been explored to enable autoregressive generation for SE. However, it remains unclear whether discretization itself consistently improves SE performance. In this paper, we introduce LL-SDR, a token-based speech enhancement framework that explicitly leverages discretization to better separate speech and noise. Our first contribution is a Variance-Ordered Residual Vector Quantizer (VO-RVQ), designed to disentangle speech and noise distributions during tokenization. Second, we propose a latent-space discriminator to better align enhanced embeddings with semantic embeddings. Experiments show that LL-SDR outperforms continuous baselines and matches the performance of autoregressive token-based approaches, while enabling lightweight, low-latency speech enhancement in both reverberant and non-reverberant noisy environments. Demos and source code are available at our project websites.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20242",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20242v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527799"
+}

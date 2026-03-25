@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.09313v3",
+  "title": "Curveball Steering: The Right Direction To Steer Isn't Always Linear",
+  "authors": "Shivam Raval, Hae Jin Song, Linlin Wu, Abir Harrasse, Jeff M. Phillips, Fazl Barez, Amirali Abdullah",
+  "summary": "arXiv:2603.09313v3 Announce Type: replace \nAbstract: Activation steering is a widely used approach for controlling large language model (LLM) behavior by intervening on internal representations. Existing methods largely rely on the Linear Representation Hypothesis, assuming behavioral attributes can be manipulated using global linear directions. In practice, however, such linear interventions often behave inconsistently. We question this assumption by analyzing the intrinsic geometry of LLM activation spaces. Measuring geometric distortion via the ratio of geodesic to Euclidean distances, we observe substantial and concept-dependent distortions, indicating that activation spaces are not well-approximated by a globally linear geometry. Motivated by this, we propose \"Curveball steering\", a nonlinear steering method based on polynomial kernel PCA that performs interventions in a feature space, better respecting the learned activation geometry. Curveball steering consistently outperforms linear PCA-based steering, particularly in regimes exhibiting strong geometric distortion, suggesting that geometry-aware, nonlinear steering provides a principled alternative to global, linear interventions.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.09313",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.09313v3.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087181"
+}

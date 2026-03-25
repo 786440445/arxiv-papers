@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.26469v2",
+  "title": "DiVeQ: Differentiable Vector Quantization Using the Reparameterization Trick",
+  "authors": "Mohammad Hassan Vali, Tom B\\\"ackstr\\\"om, Arno Solin",
+  "summary": "arXiv:2509.26469v2 Announce Type: replace \nAbstract: Vector quantization is common in deep models, yet its hard assignments block gradients and hinder end-to-end training. We propose DiVeQ, which treats quantization as adding an error vector that mimics the quantization distortion, keeping the forward pass hard while letting gradients flow. We also present a space-filling variant (SF-DiVeQ) that assigns to a curve constructed by the lines connecting codewords, resulting in less quantization error and full codebook usage. Both methods train end-to-end without requiring auxiliary losses or temperature schedules. In VQ-VAE image compression, VQGAN image generation, and DAC speech coding tasks across various data sets, our proposed methods improve reconstruction and sample quality over alternative quantization approaches.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.26469",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.26469v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412434"
+}

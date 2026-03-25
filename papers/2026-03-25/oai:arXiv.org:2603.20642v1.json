@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20642v1",
+  "title": "Weber's Law in Transformer Magnitude Representations: Efficient Coding, Representational Geometry, and Psychophysical Laws in Language Models",
+  "authors": "Jon-Paul Cacioli",
+  "summary": "arXiv:2603.20642v1 Announce Type: cross \nAbstract: How do transformer language models represent magnitude? Recent work disagrees: some find logarithmic spacing, others linear encoding, others per-digit circular representations. We apply the formal tools of psychophysics to resolve this. Using four converging paradigms (representational similarity analysis, behavioural discrimination, precision gradients, causal intervention) across three magnitude domains in three 7-9B instruction-tuned models spanning three architecture families (Llama, Mistral, Qwen), we report three findings. First, representational geometry is consistently log-compressive: RSA correlations with a Weber-law dissimilarity matrix ranged from .68 to .96 across all 96 model-domain-layer cells, with linear geometry never preferred. Second, this geometry is dissociated from behaviour: one model produces a human-range Weber fraction (WF = 0.20) while the other does not, and both models perform at chance on temporal and spatial discrimination despite possessing logarithmic geometry. Third, causal intervention reveals a layer dissociation: early layers are functionally implicated in magnitude processing (4.1x specificity) while later layers where geometry is strongest are not causally engaged (1.2x). Corpus analysis confirms the efficient coding precondition (alpha = 0.77). These results suggest that training data statistics alone are sufficient to produce log-compressive magnitude geometry, but geometry alone does not guarantee behavioural competence.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20642",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20642v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086132"
+}

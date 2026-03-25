@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.14617v3",
+  "title": "HDC-X: Efficient Medical Data Classification for Embedded Devices",
+  "authors": "Jianglan Wei, Zhenyu Zhang, Pengcheng Wang, Mingjie Zeng, Zhigang Zeng",
+  "summary": "arXiv:2509.14617v3 Announce Type: replace \nAbstract: Energy-efficient medical data classification is essential for modern disease screening, particularly in home and field healthcare where embedded devices are prevalent. While deep learning models achieve state-of-the-art accuracy, their substantial energy consumption and reliance on GPUs limit deployment on such platforms. We present HDC-X, a lightweight classification framework designed for low-power devices. HDC-X encodes data into high-dimensional hypervectors, aggregates them into multiple cluster-specific prototypes, and performs classification through similarity search in hyperspace. We evaluate HDC-X across three medical classification tasks; on heart sound classification, HDC-X is $350\\times$ more energy-efficient than Bayesian ResNet with less than 1% accuracy difference. Moreover, HDC-X demonstrates exceptional robustness to noise, limited training data, and hardware error, supported by both theoretical analysis and empirical results, highlighting its potential for reliable deployment in real-world settings. Code is available at https://github.com/jianglanwei/HDC-X.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.14617",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.14617v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412410"
+}

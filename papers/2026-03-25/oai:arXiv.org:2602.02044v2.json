@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.02044v2",
+  "title": "Twinning Complex Networked Systems: Data-Driven Calibration of the mABCD Synthetic Graph Generator",
+  "authors": "Piotr Br\\'odka, Micha{\\l} Czuba, Bogumi{\\l} Kami\\'nski, {\\L}ukasz Krai\\'nski, Katarzyna Musial, Pawe{\\l} Pra{\\l}at, Mateusz Stolarski",
+  "summary": "arXiv:2602.02044v2 Announce Type: replace-cross \nAbstract: The increasing availability of relational data has contributed to a growing reliance on network-based representations of complex systems. Over time, these models have evolved to capture more nuanced properties, such as the heterogeneity of relationships, leading to the concept of multilayer networks. However, the analysis and evaluation of methods for these structures is often hindered by the limited availability of large-scale empirical data. As a result, graph generators are commonly used as a workaround, albeit at the cost of introducing systematic biases. In this paper, we address the inverse-generator problem by inferring the configuration parameters of a multilayer network generator, \\mABCD, from a real-world system. Our goal is to identify parameter settings that enable the generator to produce synthetic networks that act as digital twins of the original structure. We propose a method for estimating matching configurations and for quantifying the associated error. Our results demonstrate that this task is non-trivial, as strong interdependencies between configuration parameters weaken independent estimation and instead favour a joint-prediction approach.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.02044",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.02044v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.413100"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22279v1",
+  "title": "3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing",
+  "authors": "Haoyu Zhen, Xiaolong Li, Yilin Zhao, Han Zhang, Sifei Liu, Kaichun Mo, Chuang Gan, Subhashree Radhakrishnan",
+  "summary": "arXiv:2603.22279v1 Announce Type: cross \nAbstract: Large Language Models (LLMs) and Vision Language Models (VLMs) have shown impressive reasoning abilities, yet they struggle with spatial understanding and layout consistency when performing fine-grained visual editing. We introduce a Structured Reasoning framework that performs text-conditioned spatial layout editing via scene-graph reasoning. Given an input scene graph and a natural-language instruction, the model reasons over the graph to generate an updated scene graph that satisfies the text condition while maintaining spatial coherence. By explicitly guiding the reasoning process through structured relational representations, our approach improves both interpretability and control over spatial relationships. We evaluate our method on a new text-guided layout editing benchmark encompassing sorting, spatial alignment, and room-editing tasks. Our training paradigm yields an average 15% improvement in IoU and 25% reduction in center-distance error compared to Chain of Thought Fine-tuning (CoT-SFT) and vanilla GRPO baselines. Compared to SOTA zero-shot LLMs, our best models achieve up to 20% higher mIoU, demonstrating markedly improved spatial precision.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22279",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22279v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087021"
+}

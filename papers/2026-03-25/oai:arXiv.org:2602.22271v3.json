@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.22271v3",
+  "title": "Support Tokens, Stability Margins, and a New Foundation for Robust LLMs",
+  "authors": "Deepak Agarwal, Dhyey Dharmendrakumar Mavani, Suyash Gupta, Karthik Sethuraman, Tejas Dharamsi",
+  "summary": "arXiv:2602.22271v3 Announce Type: replace \nAbstract: Self-attention is usually described as a flexible, content-adaptive way to mix a token with information from its past. We reinterpret causal self-attention transformers, the backbone of modern foundation models, within a probabilistic framework, much as classical PCA is extended to probabilistic PCA. This reformulation reveals a key structural consequence of the underlying change of variables: a barrier constraint emerges on the parameters of self-attention. The resulting geometry exposes a degeneracy boundary where the attention-induced mapping becomes locally ill-conditioned, yielding a stability-margin interpretation analogous to the margin in support vector machines. This, in turn, naturally gives rise to the concept of support tokens.\n  We further show that causal transformers define a consistent stochastic process over infinite token sequences, providing a rigorous probabilistic foundation for sequence modeling. Building on this view, we derive a Bayesian MAP training objective that requires only a minimal modification to standard LLM training: adding a smooth log-barrier penalty to the usual cross-entropy loss. Empirically, the resulting training objective improves robustness to input perturbations and sharpens the margin geometry of the learned representations without sacrificing out-of-sample accuracy.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.22271",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.22271v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412627"
+}

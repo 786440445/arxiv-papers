@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21319v1",
+  "title": "Active Inference Agency Formalization, Metrics, and Convergence Assessments",
+  "authors": "Eduard Kapelko",
+  "summary": "arXiv:2603.21319v1 Announce Type: new \nAbstract: This paper addresses the critical challenge of mesa-optimization in AI safety by providing a formal definition of agency and a framework for its analysis. Agency is conceptualized as a Continuous Representation of accumulated experience that achieves autopoiesis through a dynamic balance between curiosity (minimizing prediction error to ensure non-computability and novelty) and empowerment (maximizing the control channel's information capacity to ensure subjectivity and goal-directedness). Empirical evidence suggests that this active inference-based model successfully accounts for classical instrumental goals, such as self-preservation and resource acquisition.\n  The analysis demonstrates that the proposed agency function is smooth and convex, possessing favorable properties for optimization. While agentic functions occupy a vanishingly small fraction of the total abstract function space, they exhibit logarithmic convergence in sparse environments. This suggests a high probability for the spontaneous emergence of agency during the training of modern, large-scale models.\n  To quantify the degree of agency, the paper introduces a metric based on the distance between the behavioral equivalents of a given system and an \"ideal\" agentic function within the space of canonicalized rewards (STARC). This formalization provides a concrete apparatus for classifying and detecting mesa-optimizers by measuring their proximity to an ideal agentic objective, offering a robust tool for analyzing and identifying undesirable inner optimization in complex AI systems.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21319",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21319v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.411100"
+}

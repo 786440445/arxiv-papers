@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.14922v2",
+  "title": "TRI-DEP: A Trimodal Comparative Study for Depression Detection Using Speech, Text, and EEG",
+  "authors": "Annisaa Fitri Nurfidausi, Eleonora Mancini, Paolo Torroni",
+  "summary": "arXiv:2510.14922v2 Announce Type: replace-cross \nAbstract: Depression is a widespread mental health disorder, yet its automatic detection remains challenging. Prior work has explored unimodal and multimodal approaches, with multimodal systems showing promise by leveraging complementary signals. However, existing studies are limited in scope, lack systematic comparisons of features, and suffer from inconsistent evaluation protocols. We address these gaps by systematically exploring feature representations and modelling strategies across EEG, together with speech and text. We evaluate handcrafted features versus pre-trained embeddings, assess the effectiveness of different neural encoders, compare unimodal, bimodal, and trimodal configurations, and analyse fusion strategies with attention to the role of EEG. Consistent subject-independent splits are applied to ensure robust, reproducible benchmarking. Our results show that (i) the combination of EEG, speech and text modalities enhances multimodal detection, (ii) pretrained embeddings outperform handcrafted features, and (iii) carefully designed trimodal models achieve state-of-the-art performance. Our work lays the groundwork for future research in multimodal depression detection.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.14922",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.14922v2.pdf",
+  "category": "eess.AS",
+  "fetched_at": "2026-03-25T11:00:24.781920"
+}

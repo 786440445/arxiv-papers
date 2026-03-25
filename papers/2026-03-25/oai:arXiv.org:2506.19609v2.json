@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.19609v2",
+  "title": "Beyond Static Models: Hypernetworks for Adaptive and Generalizable Forecasting in Complex Parametric Dynamical Systems",
+  "authors": "Pantelis R. Vlachas, Konstantinos Vlachas, Eleni Chatzi",
+  "summary": "arXiv:2506.19609v2 Announce Type: replace \nAbstract: Dynamical systems play a key role in modeling, forecasting, and decision-making across a wide range of scientific domains. However, variations in system parameters, also referred to as parametric variability, can lead to drastically different model behavior and output, posing challenges for constructing models that generalize across parameter regimes. In this work, we introduce the Parametric Hypernetwork for Learning Interpolated Networks (PHLieNet), a framework that simultaneously learns: (a) a global mapping from the parameter space to a nonlinear embedding and (b) a mapping from the inferred embedding to the weights of a dynamics propagation network. The learned embedding serves as a latent representation that modulates a base network, termed the hypernetwork, enabling it to generate the weights of a target network responsible for forecasting the system's state evolution conditioned on the previous time history. By interpolating in the space of models rather than observations, PHLieNet facilitates smooth transitions across parameterized system behaviors, enabling a unified model that captures the dynamic behavior across a broad range of system parameterizations. The performance of the proposed technique is validated in a series of dynamical systems with respect to its ability to extrapolate in time and interpolate and extrapolate in the parameter space, i.e., generalize to dynamics that were unseen during training. Our approach outperforms state-of-the-art baselines in both short-term forecast accuracy and in capturing long-term dynamical features such as attractor statistics.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.19609",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.19609v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412343"
+}

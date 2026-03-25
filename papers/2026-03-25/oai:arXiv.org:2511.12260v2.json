@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.12260v2",
+  "title": "Reinforcement Learning for Chemical Ordering in Alloy Nanoparticles",
+  "authors": "Jonas Elsborg, Emma L. Hovmand, Arghya Bhowmik",
+  "summary": "arXiv:2511.12260v2 Announce Type: replace-cross \nAbstract: We approach the search for optimal element ordering in bimetallic alloy nanoparticles (NPs) as a reinforcement learning (RL) problem and have built an RL agent that learns to perform such global optimization using the geometric graph representation of the NPs. To demonstrate the effectiveness, we train an RL agent to perform composition-conserving atomic swap actions on the icosahedral nanoparticle structure. Trained once on randomized $Ag_{X}Au_{309-X}$ compositions and orderings, the agent discovers previously established ground state structure. We show that this optimization is robust to differently ordered initialisations of the same NP compositions. We also demonstrate that a trained policy can extrapolate effectively to NPs of unseen size. However, the efficacy is limited when multiple alloying elements are involved. Our results demonstrate that RL with pre-trained equivariant graph encodings can navigate combinatorial ordering spaces at the nanoparticle scale, and offer a transferable optimization strategy with the potential to generalize across composition and reduce repeated individual search cost.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.12260",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.12260v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.413014"
+}

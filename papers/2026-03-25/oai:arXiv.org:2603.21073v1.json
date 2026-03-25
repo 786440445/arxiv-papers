@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21073v1",
+  "title": "SqueezeComposer: Temporal Speed-up is A Simple Trick for Long-form Music Composing",
+  "authors": "Jianyi Chen, Rongxiu Zhong, Shilei Zhang, Kun Qian, Jinglei Liu, Yike Guo, Wei Xue",
+  "summary": "arXiv:2603.21073v1 Announce Type: cross \nAbstract: Composing coherent long-form music remains a significant challenge due to the complexity of modeling long-range dependencies and the prohibitive memory and computational requirements associated with lengthy audio representations. In this work, we propose a simple yet powerful trick: we assume that AI models can understand and generate time-accelerated (speeded-up) audio at rates such as 2x, 4x, or even 8x. By first generating a high-speed version of the music, we greatly reduce the temporal length and resource requirements, making it feasible to handle long-form music that would otherwise exceed memory or computational limits. The generated audio is then restored to its original speed, recovering the full temporal structure. This temporal speed-up and slow-down strategy naturally follows the principle of hierarchical generation from abstract to detailed content, and can be conveniently applied to existing music generation models to enable long-form music generation. We instantiate this idea in SqueezeComposer, a framework that employs diffusion models for generation in the accelerated domain and refinement in the restored domain. We validate the effectiveness of this approach on two tasks: long-form music generation, which evaluates temporal-wise control (including continuation, completion, and generation from scratch), and whole-song singing accompaniment generation, which evaluates track-wise control. Experimental results demonstrate that our simple temporal speed-up trick enables efficient, scalable, and high-quality long-form music generation. Audio samples are available at https://SqueezeComposer.github.io/.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21073",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21073v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527874"
+}

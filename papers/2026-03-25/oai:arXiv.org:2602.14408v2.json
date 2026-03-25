@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.14408v2",
+  "title": "Feature Recalibration Based Olfactory-Visual Multimodal Model for Enhanced Rice Deterioration Detection",
+  "authors": "Rongqiang Zhao, Hengrui Hu, Yijing Wang, Mingchun Sun, Jie Liu",
+  "summary": "arXiv:2602.14408v2 Announce Type: replace-cross \nAbstract: Multimodal methods are widely used in rice deterioration detection, but they exhibit limited capability in representing and extracting fine-grained abnormal features. Moreover, these methods rely on devices such as hyperspectral cameras and mass spectrometers, which increase detection costs and prolong data acquisition time. To address these issues, we propose a feature recalibration based olfactory-visual multimodal model for enhanced rice deterioration detection. A fine-grained deterioration embedding constructor (FDEC) is proposed to reconstruct the labeled multimodal embedded feature dataset, thereby enhancing sample representation. A fine-grained deterioration recalibration attention network (FDRA-Net) is proposed to emphasize signal variations and improve sensitivity to fine-grained deterioration on the rice surface. Compared with SS-Net, the proposed method improves classification accuracy by 8.67%, with an average improvement of 11.51% over other traditional baseline models, while simultaneously simplifying the detection procedure. Furthermore, field detection results demonstrate advantages in both accuracy and operational simplicity. The proposed method can also be extended to other agrifood applications in agriculture and the food industry.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.14408",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.14408v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.087789"
+}

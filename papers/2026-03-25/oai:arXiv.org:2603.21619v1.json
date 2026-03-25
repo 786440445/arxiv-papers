@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.21619v1",
+  "title": "Efficient Zero-Shot AI-Generated Image Detection",
+  "authors": "Ryosuke Sonoda, Ramya Srinivasan",
+  "summary": "arXiv:2603.21619v1 Announce Type: cross \nAbstract: The rapid progress of text-to-image models has made AI-generated images increasingly realistic, posing significant challenges for accurate detection of generated content. While training-based detectors often suffer from limited generalization to unseen images, training-free approaches offer better robustness, yet struggle to capture subtle discrepancies between real and synthetic images. In this work, we propose a training-free AI-generated image detection method that measures representation sensitivity to structured frequency perturbations, enabling detection of minute manipulations. The proposed method is computationally lightweight, as perturbation generation requires only a single Fourier transform for an input image. As a result, it achieves one to two orders of magnitude faster inference than most training-free detectors.Extensive experiments on challenging benchmarks demonstrate the efficacy of our method over state-of-the-art (SoTA). In particular, on OpenFake benchmark, our method improves AUC by nearly $10\\%$ compared to SoTA, while maintaining substantially lower computational cost.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.21619",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.21619v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-25T11:00:28.086733"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.07077v2",
+  "title": "CALM: Class-Conditional Sparse Attention Vectors for Large Audio-Language Models",
+  "authors": "Videet Mehta, Liming Wang, Hilde Kuehne, Rogerio Feris, James R. Glass, M. Jehanzeb Mirza",
+  "summary": "arXiv:2602.07077v2 Announce Type: replace \nAbstract: Large audio-language models (LALMs) exhibit strong zero-shot capabilities in multiple downstream tasks, such as audio question answering (AQA) and abstract reasoning; however, these models still lag behind specialized models for certain discriminative tasks (e.g., audio classification). Recent studies show that sparse subsets of attention heads within an LALM can serve as strong discriminative feature extractors for downstream tasks such as classification via simple voting schemes. However, these methods assign uniform weights to all selected heads, implicitly assuming that each head contributes equally across all semantic categories. In this work, we propose Class-Conditional Sparse Attention Vectors for Large Audio-Language Models, a few-shot classification method that learns class-dependent importance weights over attention heads. This formulation allows individual heads to specialize in distinct semantic categories and to contribute to ensemble predictions proportionally to their estimated reliability. Experiments on multiple few-shot audio and audiovisual classification benchmarks and tasks demonstrate that our method consistently outperforms state-of-the-art uniform voting-based approaches by up to 14.52%, 1.53%, 8.35% absolute gains for audio classification, audio-visual classification, and spoofing detection respectively.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.07077",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.07077v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527912"
+}

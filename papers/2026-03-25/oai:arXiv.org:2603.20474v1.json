@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.20474v1",
+  "title": "From Data to Laws: Neural Discovery of Conservation Laws Without False Positives",
+  "authors": "Rahul D Ray",
+  "summary": "arXiv:2603.20474v1 Announce Type: new \nAbstract: Conservation laws are fundamental to understanding dynamical systems, but discovering them from data remains challenging due to parameter variation, non-polynomial invariants, local minima, and false positives on chaotic systems. We introduce NGCG, a neural-symbolic pipeline that decouples dynamics learning from invariant discovery and systematically addresses these challenges. A multi-restart variance minimiser learns a near-constant latent representation; system-specific symbolic extraction (polynomial Lasso, log-basis Lasso, explicit PDE candidates, and PySR) yields closed-form expressions; a strict constancy gate and diversity filter eliminate spurious laws. On a benchmark of nine diverse systems including Hamiltonian and dissipative ODEs, chaos, and PDEs, NGCG achieves consistent discovery (DR=1.0, FDR=0.0, F1=1.0) on all four systems with true conservation laws, with constancy two to three orders of magnitude lower than the best baseline. It is the only method that succeeds on the Lotka--Volterra system, and it correctly outputs no law on all five systems without invariants. Extensive experiments demonstrate robustness to noise ($\\sigma = 0.1$), sample efficiency (50--100 trajectories), insensitivity to hyperparameters, and runtime under one minute per system. A Pareto analysis shows that the method provides a range of candidate expressions, allowing users to trade complexity for constancy. NGCG achieves strong performance relative to prior methods for data-driven conservation-law discovery, combining high accuracy with interpretability.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.20474",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.20474v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.410706"
+}

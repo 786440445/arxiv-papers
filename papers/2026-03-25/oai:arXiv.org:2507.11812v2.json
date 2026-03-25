@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2507.11812v2",
+  "title": "A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction",
+  "authors": "Wei Huang, Yuqiang Huang, Yanan Wu, Tianhe Xu, Tingting Lyu, Hao Zhang",
+  "summary": "arXiv:2507.11812v2 Announce Type: replace \nAbstract: Sound speed profiles (SSPs) are essential parameters underwater that affects the propagation mode of underwater signals and has a critical impact on the energy efficiency of underwater acoustic communication and accuracy of underwater acoustic positioning. Traditionally, SSPs can be obtained by matching field processing (MFP), compressive sensing (CS), and deep learning (DL) methods. However, existing methods mainly rely on on-site underwater sonar observation data, which put forward strict requirements on the deployment of sonar observation systems. To achieve high-precision estimation of sound velocity distribution in a given sea area without on-site underwater data measurement, we propose a multi-modal data-fusion generative adversarial network model with residual attention block (MDF-RAGAN) for SSP construction. To improve the model's ability for capturing global spatial feature correlations, we embedded the attention mechanisms, and use residual modules for deeply capturing small disturbances in the deep ocean sound velocity distribution caused by changes of SST. Experimental results on real open dataset show that the proposed model outperforms other state-of-the-art methods, which achieves an accuracy with an error of less than 0.3m/s. Specifically, MDF-RAGAN not only outperforms convolutional neural network (CNN) and spatial interpolation (SITP) by nearly a factor of two, but also achieves about 65.8\\% root mean square error (RMSE) reduction compared to mean profile, which fully reflects the enhancement of overall profile matching by multi-source fusion and cross-modal attention.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2507.11812",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2507.11812v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-25T11:00:23.527903"
+}

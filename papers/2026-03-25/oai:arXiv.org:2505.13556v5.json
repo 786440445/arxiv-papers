@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.13556v5",
+  "title": "Learning collision risk proactively from naturalistic driving data at scale",
+  "authors": "Yiru Jiao, Simeon C. Calvert, Sander van Cranenburgh, Hans van Lint",
+  "summary": "arXiv:2505.13556v5 Announce Type: replace-cross \nAbstract: Accurately and proactively alerting drivers or automated systems to emerging collisions is crucial for road safety, particularly in highly interactive and complex urban environments. Existing methods either require labour-intensive annotation of sparse risk, struggle to consider varying contextual factors, or are tailored to limited scenarios. Here we present the Generalised Surrogate Safety Measure (GSSM), a data-driven approach that learns collision risk from naturalistic driving without the need for crash or risk labels. Trained over multiple datasets and evaluated on 2,591 real-world crashes and near-crashes, a basic GSSM using only instantaneous motion kinematics achieves an area under the precision-recall curve of 0.9, and secures a median time advance of 2.6 seconds to prevent potential collisions. Incorporating additional interaction patterns and contextual factors provides further performance gains. Across interaction scenarios such as rear-end, merging, and turning, GSSM consistently outperforms existing baselines in accuracy and timeliness. These results establish GSSM as a scalable, context-aware, and generalisable foundation to identify risky interactions before they become unavoidable, supporting proactive safety in autonomous driving systems and traffic incident management. Code and experiment data are openly accessible at https://github.com/Yiru-Jiao/GSSM.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.13556",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.13556v5.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412870"
+}

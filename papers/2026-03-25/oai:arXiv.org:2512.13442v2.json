@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.13442v2",
+  "title": "XNNTab -- Interpretable Neural Networks for Tabular Data using Sparse Autoencoders",
+  "authors": "Khawla Elhadri, J\\\"org Schl\\\"otterer, Christin Seifert",
+  "summary": "arXiv:2512.13442v2 Announce Type: replace \nAbstract: In data-driven applications relying on tabular data, where interpretability is key, machine learning models such as decision trees and linear regression are applied. Although neural networks can provide higher predictive performance, they are not used because of their blackbox nature. In this work, we present XNNTab, a neural architecture that combines the expressiveness of neural networks and interpretability. XNNTab first learns highly non-linear feature representations, which are decomposed into monosemantic features using a sparse autoencoder (SAE). These features are then assigned human-interpretable concepts, making the overall model prediction intrinsically interpretable. XNNTab outperforms interpretable predictive models, and achieves comparable performance to its non-interpretable counterparts.",
+  "published": "Tue, 24 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.13442",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.13442v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-25T11:00:26.412537"
+}

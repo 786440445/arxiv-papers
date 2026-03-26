@@ -25,12 +25,21 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: Run monitor
+    - name: Fetch papers
       env:
-        # 如果使用SSH key，确保密钥已添加到secrets
         GIT_SSH_COMMAND: 'ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no'
       run: |
         python arxiv_monitor.py
+
+    - name: Translate abstracts
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      run: |
+        python translate_papers.py today
+
+    - name: Render daily pages
+      run: |
+        python render_daily.py today
 
     - name: Commit and push changes
       run: |
@@ -40,7 +49,7 @@ jobs:
         if git status --porcelain | grep -q '^'; then
           git add .
           git commit -m "Automated daily update: $(date +%Y-%m-%d)" || echo "No changes"
-          git push origin main
+          git push origin master
         else
           echo "No new papers today"
         fi

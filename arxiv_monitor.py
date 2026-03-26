@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-arXiv Daily Monitor with Chinese Translation
-语音相关论文监控，自动翻译标题和摘要为中文
+arXiv Daily Monitor
+语音、音频、音乐相关论文抓取脚本
 """
 
 import os
@@ -198,14 +198,17 @@ class ArxivMonitor:
                     # 提取摘要
                     summary = getattr(entry, 'summary', '')
 
+                    authors = [a.name for a in getattr(entry, 'authors', [])]
                     paper = {
                         'id': paper_id,
                         'title': entry.title,
-                        'authors': [a.name for a in getattr(entry, 'authors', [])],
+                        'authors': ", ".join(authors),
                         'category': category,
                         'link': f"https://arxiv.org/abs/{paper_id}",
+                        'pdf': f"https://arxiv.org/pdf/{paper_id}.pdf",
                         'published': entry.published,
                         'summary': summary,
+                        'fetched_at': datetime.datetime.now(datetime.timezone.utc).isoformat(),
                     }
                     papers.append(paper)
                 except Exception as e:
@@ -222,33 +225,21 @@ class ArxivMonitor:
         date_dir.mkdir(parents=True, exist_ok=True)
 
         for p in papers:
-            # 翻译标题和摘要
-            p['title_zh'] = self.translate_text(p['title'])
-            p['summary_zh'] = self.translate_text(p['summary'])
+            normalized = {
+                'id': p['id'],
+                'title': p.get('title', ''),
+                'authors': p.get('authors', ''),
+                'summary': p.get('summary', ''),
+                'published': p.get('published', ''),
+                'link': p.get('link', ''),
+                'pdf': p.get('pdf') or f"https://arxiv.org/pdf/{p['id']}.pdf",
+                'category': p.get('category', ''),
+                'fetched_at': p.get('fetched_at') or datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            }
 
             json_path = date_dir / f"{p['id']}.json"
             with open(json_path, 'w', encoding='utf-8') as f:
-                json.dump(p, f, indent=2, ensure_ascii=False)
-
-        # 生成 README.md
-        readme_path = date_dir / "README.md"
-        with open(readme_path, 'w', encoding='utf-8') as f:
-            f.write(f"# arXiv Papers - {date_str}\n\n")
-            f.write(f"**论文数量**: {len(papers)}\n\n")
-            for i, p in enumerate(papers, 1):
-                f.write(f"## {i}. {p['title_zh']}\n\n")
-                f.write(f"**原标题**: {p['title']}\n\n")
-                f.write(f"**作者**: {', '.join(p['authors'][:5])}\n")
-                if len(p['authors']) > 5:
-                    f.write(f"（还有 {len(p['authors'])-5} 位作者）\n")
-                f.write(f"**分类**: {p['category']}\n")
-                f.write(f"**发布时间**: {p['published']}\n")
-                f.write(f"**链接**: {p['link']}\n\n")
-                if p['summary_zh']:
-                    f.write(f"**中文摘要**:\n> {p['summary_zh'][:800]}{'...' if len(p['summary_zh']) > 800 else ''}\n\n")
-                if p['summary']:
-                    f.write(f"**Original Abstract**:\n> {p['summary'][:800]}{'...' if len(p['summary']) > 800 else ''}\n\n")
-                f.write("---\n\n")
+                json.dump(normalized, f, indent=2, ensure_ascii=False)
 
         logger.info(f"Saved {len(papers)} papers to {date_dir}")
 
@@ -361,13 +352,13 @@ class ArxivMonitor:
         """主运行流程"""
         logger.info("Starting arXiv monitor...")
         papers = self.fetch_all_papers()
+        date_str = datetime.datetime.now().strftime('%Y-%m-%d')
         if not papers:
             logger.info("No new papers today!")
+            self.save_papers([], date_str)
             return
 
-        date_str = datetime.datetime.now().strftime('%Y-%m-%d')
         self.save_papers(papers, date_str)
-        self.git_push(date_str, len(papers))
         self.send_feishu_notification(papers)
 
         for p in papers:

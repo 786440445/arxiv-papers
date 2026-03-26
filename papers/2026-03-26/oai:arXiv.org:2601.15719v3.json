@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.15719v3",
+  "title": "U3-xi: Pushing the Boundaries of Speaker Recognition by Incorporating Uncertainty",
+  "authors": "Junjie Li, Kong Aik Lee",
+  "summary": "arXiv:2601.15719v3 Announce Type: replace \nAbstract: An utterance-level speaker embedding is typically obtained by aggregating a sequence of frame-level representations. However, in real-world scenarios, individual frames encode not only speaker-relevant information but also various nuisance factors. As a result, different frames contribute unequally to the final utterance-level speaker representation for Automatic Speaker Verification systems. To address this issue, we propose to estimate the inherent uncertainty of each frame and assign adaptive weights accordingly, where frames with higher uncertainty receive lower attention. Based on this idea, we present U3-xi, a comprehensive framework designed to produce more reliable and interpretable uncertainty estimates for speaker embeddings. Specifically, we introduce several strategies for uncertainty supervision. First, we propose speaker-level uncertainty supervision via a Stochastic Variance Loss, where the distance between an utterance embedding and its corresponding speaker centroid serves as a pseudo ground truth for uncertainty learning. Second, we incorporate global-level uncertainty supervision by injecting the predicted uncertainty into the sof tmax scale during training. This adaptive scaling mechanism adjusts the sharpness of the decision boundary according to sample difficulty, providing global guidance. Third, we redesign the uncertainty estimation module by integrating a Transformer encoder with multi-view self-attention, enabling the model to capture rich local and long-range temporal dependencies. Comprehensive experiments demonstrate that U3-xi is model-agnostic and can be seamlessly applied to various speaker encoders. In particular, when applied to ECAPA-TDNN, it achieves 21.1% and 15.57% relative improvements on the VoxCeleb1 test sets in terms of EER and minDCF, respectively.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.15719",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.15719v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524584"
+}

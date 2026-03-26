@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.18858v2",
+  "title": "Representational Homomorphism Predicts and Improves Compositional Generalization In Transformer Language Model",
+  "authors": "Zhiyu An, Wan Du",
+  "summary": "arXiv:2601.18858v2 Announce Type: replace \nAbstract: Compositional generalization-the ability to interpret novel combinations of familiar components-remains a persistent challenge for neural networks. Behavioral evaluations reveal \\emph{when} models fail but offer limited insight into \\emph{why} failures arise at the representational level. We introduce \\textit{Homomorphism Error} (HE), a structural metric that measures the inconsistency between a set of established rules for which words combine to form new meaning (linguistic syntax) and model's learned rules for which hidden states combine to form new states (semantic syntax). We formulate this inconsistency as deviations from approximate homomorphisms between the linguistic expression algebra and a model's hidden-state space. We designed experiments to test if i) HE predicts compositional generalization performance, and ii) will regularizing for low HE during training improve such performance. To avoid the effect of data spoilage, we train small decoder-only Transformers from scratch using an adapted version of established dataset, SCAN, for testing compositional generalization. Across controlled experiments, HE predicts out-of-distribution (OOD) compositional generalization under noise injection, achieving $R^2=0.73$ correlation between HE and OOD accuracy. Ablations show that model depth has minimal effect on either HE or OOD accuracy, training data coverage exhibits threshold effects, and randomly inserted noise tokens increase HE. Intervention experiment shows that HE-regularized training significantly reduces HE ($p=1.1\\times10^{-4}$) and yields a statistically significant improvement in OOD accuracy ($p=0.023$). Together, these results indicate the potential of HE to be both a diagnostic and an actionable training signal for improving compositional generalization.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.18858",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.18858v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881394"
+}

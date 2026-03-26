@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.11147v2",
+  "title": "Catalogue Grounded Multimodal Attribution for Museum Video under Resource and Regulatory Constraints",
+  "authors": "Minsak Nanang, Adrian Hilton, Armin Mustafa",
+  "summary": "arXiv:2603.11147v2 Announce Type: replace-cross \nAbstract: Audiovisual (AV) archives in museums and galleries are growing rapidly, but much of this material remains effectively locked away because it lacks consistent, searchable metadata. Existing method for archiving requires extensive manual effort. We address this by automating the most labour intensive part of the workflow: catalogue style metadata curation for in gallery video, grounded in an existing collection database. Concretely, we propose catalogue-grounded multimodal attribution for museum AV content using an open, locally deployable video language model. We design a multi pass pipeline that (i) summarises artworks in a video, (ii) generates catalogue style descriptions and genre labels, and (iii) attempts to attribute title and artist via conservative similarity matching to the structured catalogue. Early deployments on a painting catalogue suggest that this framework can improve AV archive discoverability while respecting resource constraints, data sovereignty, and emerging regulation, offering a transferable template for application-driven machine learning in other high-stakes domains.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.11147",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.11147v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881710"
+}

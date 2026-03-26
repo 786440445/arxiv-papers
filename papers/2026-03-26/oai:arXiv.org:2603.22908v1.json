@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22908v1",
+  "title": "Dual-Teacher Distillation with Subnetwork Rectification for Black-Box Domain Adaptation",
+  "authors": "Zhe Zhang, Jing Li, Wanli Xue, Xu Cheng, Jianhua Zhang, Qinghua Hu, Shengyong Chen",
+  "summary": "arXiv:2603.22908v1 Announce Type: cross \nAbstract: Assuming that neither source data nor the source model is accessible, black box domain adaptation represents a highly practical yet extremely challenging setting, as transferable information is restricted to the predictions of the black box source model, which can only be queried using target samples. Existing approaches attempt to extract transferable knowledge through pseudo label refinement or by leveraging external vision language models (ViLs), but they often suffer from noisy supervision or insufficient utilization of the semantic priors provided by ViLs, which ultimately hinder adaptation performance. To overcome these limitations, we propose a dual teacher distillation with subnetwork rectification (DDSR) model that jointly exploits the specific knowledge embedded in black box source models and the general semantic information of a ViL. DDSR adaptively integrates their complementary predictions to generate reliable pseudo labels for the target domain and introduces a subnetwork driven regularization strategy to mitigate overfitting caused by noisy supervision. Furthermore, the refined target predictions iteratively enhance both the pseudo labels and ViL prompts, enabling more accurate and semantically consistent adaptation. Finally, the target model is further optimized through self training with classwise prototypes. Extensive experiments on multiple benchmark datasets validate the effectiveness of our approach, demonstrating consistent improvements over state of the art methods, including those using source data or models.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22908",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22908v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881028"
+}

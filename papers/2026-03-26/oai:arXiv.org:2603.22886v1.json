@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22886v1",
+  "title": "Conditionally Identifiable Latent Representation for Multivariate Time Series with Structural Dynamics",
+  "authors": "Minkey Chang, Jae-Young Kim",
+  "summary": "arXiv:2603.22886v1 Announce Type: new \nAbstract: We propose the Identifiable Variational Dynamic Factor Model (iVDFM), which learns latent factors from multivariate time series with identifiability guarantees. By applying iVAE-style conditioning to the innovation process driving the dynamics rather than to the latent states, we show that factors are identifiable up to permutation and component-wise affine (or monotone invertible) transformations. Linear diagonal dynamics preserve this identifiability and admit scalable computation via companion-matrix and Krylov methods. We demonstrate improved factor recovery on synthetic data, stable intervention accuracy on synthetic SCMs, and competitive probabilistic forecasting on real-world benchmarks.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22886",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22886v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880683"
+}

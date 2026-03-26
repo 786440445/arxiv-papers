@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.11167v2",
+  "title": "Towards a general-purpose foundation model for fMRI analysis",
+  "authors": "Cheng Wang, Yu Jiang, Zhihao Peng, Chenxin Li, Changbae Bang, Lin Zhao, Wanyi Fu, Jinglei Lv, Jorge Sepulcre, Carl Yang, Lifang He, Tianming Liu, Xue-Jun Kong, Quanzheng Li, Daniel S. Barron, Anqi Qiu, Randy Hirschtick, Byung-Hoon Kim, Hongbin Han, Xiang Li, Yixuan Yuan",
+  "summary": "arXiv:2506.11167v2 Announce Type: replace-cross \nAbstract: Functional MRI (fMRI) is crucial for studying brain function and diagnosing neurological disorders. However, existing analysis methods suffer from reproducibility and transferability challenges due to complex preprocessing pipelines and task-specific model designs. In this work, we introduce NeuroSTORM (Neuroimaging Foundation Model with Spatial-Temporal Optimized Representation Modeling) that learns generalizable representations directly from 4D fMRI volumes and enables efficient transfer to diverse downstream applications. Specifically, NeuroSTORM is pre-trained on 28.65 million fMRI frames from over 50,000 subjects, spanning multiple centers and ages 5 to 100. It combines an efficient spatiotemporal modeling design and lightweight task adaptation to enable scalable pre-training and fast transfer to downstream applications. Here we show that NeuroSTORM consistently outperforms existing methods across five downstream tasks, including demographic prediction, phenotype prediction, disease diagnosis, re-identification, and state classification. On two multi-hospital clinical cohorts with 17 diagnoses, NeuroSTORM achieves the best diagnosis performance while remaining predictive of psychological and cognitive phenotypes. These results suggest that NeuroSTORM could become a standardized foundation model for reproducible and transferable fMRI analysis.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.11167",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.11167v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881611"
+}

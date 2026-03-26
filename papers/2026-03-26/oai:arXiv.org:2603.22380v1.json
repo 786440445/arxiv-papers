@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22380v1",
+  "title": "Symbolic Graph Networks for Robust PDE Discovery from Noisy Sparse Data",
+  "authors": "Xingyu Chen, Junxiu An, Jun Guo, Yuqian Zhou",
+  "summary": "arXiv:2603.22380v1 Announce Type: new \nAbstract: Data-driven discovery of partial differential equations (PDEs) offers a promising paradigm for uncovering governing physical laws from observational data. However, in practical scenarios, measurements are often contaminated by noise and limited by sparse sampling, which poses significant challenges to existing approaches based on numerical differentiation or integral formulations. In this work, we propose a Symbolic Graph Network (SGN) framework for PDE discovery under noisy and sparse conditions. Instead of relying on local differential approximations, SGN leverages graph message passing to model spatial interactions, providing a non-local representation that is less sensitive to high frequency noise. Based on this representation, the learned latent features are further processed by a symbolic regression module to extract interpretable mathematical expressions. We evaluate the proposed method on several benchmark systems, including the wave equation, convection-diffusion equation, and incompressible Navier-Stokes equations. Experimental results show that SGN can recover meaningful governing relations or solution forms under varying noise levels, and demonstrates improved robustness compared to baseline methods in sparse and noisy settings. These results suggest that combining graph-based representations with symbolic regression provides a viable direction for robust data-driven discovery of physical laws from imperfect observations. The code is available at https://github.com/CXY0112/SGN",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22380",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22380v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880535"
+}

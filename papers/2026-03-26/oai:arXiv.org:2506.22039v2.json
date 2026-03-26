@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2506.22039v2",
+  "title": "UniCA: Unified Covariate Adaptation for Time Series Foundation Model",
+  "authors": "Lu Han, Yu Liu, Lan Li, Qiwen Deng, Jian Jiang, Yinbo Sun, Zhe Yu, Binfeng Wang, Xingyu Lu, Lintao Ma, Han-Jia Ye, De-Chuan Zhan",
+  "summary": "arXiv:2506.22039v2 Announce Type: replace \nAbstract: Time Series Foundation Models (TSFMs) have achieved remarkable success through large-scale pretraining. However, their design primarily targets real-valued series, limiting their ability to handle general forecasting tasks involving diverse and often heterogeneous covariates -- such as categorical variables and multimodal data (e.g., images, text) -- which are typically task-specific and difficult to leverage during pretraining. To address this gap, we propose Unified Covariate Adaptation (UniCA), a framework to bridge TSFMs with general covariate-aware forecasting. UniCA first performs covariate homogenization to transform heterogeneous covariates into high-level homogeneous series representations and then fuses them via a unified attention-based fusion mechanism. UniCA is compatible and universal for adaptation with both homogeneous and heterogeneous covariates, incorporating extra covariate information while preserving the generalization ability of TSFMs.Extensive experiments on multiple unimodal and multimodal covariate-aware forecasting benchmarks demonstrate the superiority of UniCA, highlighting the promise of covariate-aware TSFM adaptation in real-world forecasting scenarios.Code: https://github.com/hanlu-nju/UniCA.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2506.22039",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2506.22039v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881283"
+}

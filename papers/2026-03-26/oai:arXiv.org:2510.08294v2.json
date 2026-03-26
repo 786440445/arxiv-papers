@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.08294v2",
+  "title": "Counterfactual Identifiability via Dynamic Optimal Transport",
+  "authors": "Fabio De Sousa Ribeiro, Ainkaran Santhirasekaram, Ben Glocker",
+  "summary": "arXiv:2510.08294v2 Announce Type: replace \nAbstract: We address the open question of counterfactual identification for high-dimensional multivariate outcomes from observational data. Pearl (2000) argues that counterfactuals must be identifiable (i.e., recoverable from the observed data distribution) to justify causal claims. A recent line of work on counterfactual inference shows promising results but lacks identification, undermining the causal validity of its estimates. To address this, we establish a foundation for multivariate counterfactual identification using continuous-time flows, including non-Markovian settings under standard criteria. We characterise the conditions under which flow matching yields a unique, monotone, and rank-preserving counterfactual transport map with tools from dynamic optimal transport, ensuring consistent inference. Building on this, we validate the theory in controlled scenarios with counterfactual ground-truth and demonstrate improvements in axiomatic counterfactual soundness on real images.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.08294",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.08294v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881325"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.12449v2",
+  "title": "MOON2.0: Dynamic Modality-balanced Multimodal Representation Learning for E-commerce Product Understanding",
+  "authors": "Zhanheng Nie, Chenghan Fu, Daoze Zhang, Junxian Wu, Wanxian Guan, Pengjie Wang, Jian Xu, Bo Zheng",
+  "summary": "arXiv:2511.12449v2 Announce Type: replace-cross \nAbstract: Recent Multimodal Large Language Models (MLLMs) have significantly advanced e-commerce product understanding. However, they still face three challenges: (i) the modality imbalance induced by modality mixed training; (ii) underutilization of the intrinsic alignment relationships among visual and textual information within a product; and (iii) limited handling of noise in e-commerce multimodal data. To address these, we propose MOON2.0, a dynamic modality-balanced MultimOdal representation learning framework for e-commerce prOduct uNderstanding. It comprises: (1) a Modality-driven Mixture-of-Experts (MoE) that adaptively processes input samples by their modality composition, enabling Multimodal Joint Learning to mitigate the modality imbalance; (2) a Dual-level Alignment method to better leverage semantic alignment properties inside individual products; and (3) an MLLM-based Image-text Co-augmentation strategy that integrates textual enrichment with visual expansion, coupled with Dynamic Sample Filtering to improve training data quality. We further release MBE2.0, a co-augmented Multimodal representation Benchmark for E-commerce representation learning and evaluation at https://huggingface.co/datasets/ZHNie/MBE2.0. Experiments show that MOON2.0 delivers state-of-the-art zero-shot performance on MBE2.0 and multiple public datasets. Furthermore, attention-based heatmap visualization provides qualitative evidence of improved multimodal alignment of MOON2.0.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.12449",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.12449v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881658"
+}

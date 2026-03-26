@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22621v1",
+  "title": "Transfer learning via interpolating structures",
+  "authors": "T. A. Dardeno, A. J. Hughes, L. A. Bull, R. S. Mills, N. Dervilis, K. Worden",
+  "summary": "arXiv:2603.22621v1 Announce Type: new \nAbstract: Despite recent advances in population-based structural health monitoring (PBSHM), knowledge transfer between highly-disparate structures (i.e., heterogeneous populations) remains a challenge. The current work proposes that heterogeneous transfer may be accomplished via intermediate structures that bridge the gap in information between the structures of interest. A key aspect of the technique is the idea that by varying parameters such as material properties and geometry, one structure can be continuously morphed into another. The approach is demonstrated via a case study involving the parameterisation of (and transfer between) simulated heterogeneous bridge designs (Case 1). Transfer between simplified physical representations of a 'bridge' and 'aeroplane' is then demonstrated in Case 2, via a chain of finite-element models. The facetious question 'When is a bridge not an aeroplane?' has been previously asked in the context of predicting positive transfer based on structural similarity. While the obvious answer to this question is 'Always,' the results presented in the current paper show that, in some cases, positive transfer can indeed be achieved between highly-disparate systems.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22621",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22621v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880592"
+}

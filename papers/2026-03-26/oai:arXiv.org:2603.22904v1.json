@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22904v1",
+  "title": "Separating Diagnosis from Control: Auditable Policy Adaptation in Agent-Based Simulations with LLM-Based Diagnostics",
+  "authors": "Shaoxin Zhong, Yuchen Su, Michael Witbrock",
+  "summary": "arXiv:2603.22904v1 Announce Type: new \nAbstract: Mitigating elderly loneliness requires policy interventions that achieve both adaptability and auditability. Existing methods struggle to reconcile these objectives: traditional agent-based models suffer from static rigidity, while direct large language model (LLM) controllers lack essential traceability. This work proposes a three-layer framework that separates diagnosis from control to achieve both properties simultaneously. LLMs operate strictly as diagnostic instruments that assess population state and generate structured risk evaluations, while deterministic formulas with explicit bounds translate these assessments into traceable parameter updates. This separation ensures that every policy decision can be attributed to inspectable rules while maintaining adaptive response to emergent needs. We validate the framework through systematic ablation across five experimental conditions in elderly care simulation. Results demonstrate that explicit control rules outperform end-to-end black-box LLM approaches by 11.7\\% while preserving full auditability, confirming that transparency need not compromise adaptive performance.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22904",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22904v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.120164"
+}

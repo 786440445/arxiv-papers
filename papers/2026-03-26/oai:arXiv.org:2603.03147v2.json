@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.03147v2",
+  "title": "Agentic AI-based Coverage Closure for Formal Verification",
+  "authors": "Sivaram Pothireddypalli, Ashish Raman, Deepak Narayan Gadde, Aman Kumar",
+  "summary": "arXiv:2603.03147v2 Announce Type: replace \nAbstract: Coverage closure is a critical requirement in Integrated Chip (IC) development process and key metric for verification sign-off. However, traditional exhaustive approaches often fail to achieve full coverage within project timelines. This study presents an agentic AI-driven workflow that utilizes Large Language Model (LLM)-enabled Generative AI (GenAI) to automate coverage analysis for formal verification, identify coverage gaps, and generate the required formal properties. The framework accelerates verification efficiency by systematically addressing coverage holes. Benchmarking open-source and internal designs reveals a measurable increase in coverage metrics, with improvements correlated to the complexity of the design. Comparative analysis validates the effectiveness of this approach. These results highlight the potential of agentic AI-based techniques to improve formal verification productivity and support comprehensive coverage closure.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.03147",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.03147v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.121160"
+}

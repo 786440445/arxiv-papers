@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22429v1",
+  "title": "Neural Structure Embedding for Symbolic Regression via Continuous Structure Search and Coefficient Optimization",
+  "authors": "Fateme Memar, Tao Zhe, Dongjie Wang",
+  "summary": "arXiv:2603.22429v1 Announce Type: new \nAbstract: Symbolic regression aims to discover human-interpretable equations that explain observational data. However, existing approaches rely heavily on discrete structure search (e.g., genetic programming), which often leads to high computational cost, unstable performance, and limited scalability to large equation spaces. To address these challenges, we propose SRCO, a unified embedding-driven framework for symbolic regression that transforms symbolic structures into a continuous, optimizable representation space. The framework consists of three key components: (1) structure embedding: we first generate a large pool of exploratory equations using traditional symbolic regression algorithms and train a Transformer model to compress symbolic structures into a continuous embedding space; (2) continuous structure search: the embedding space enables efficient exploration using gradient-based or sampling-based optimization, significantly reducing the cost of navigating the combinatorial structure space; and (3) coefficient optimization: for each discovered structure, we treat symbolic coefficients as learnable parameters and apply gradient optimization to obtain accurate numerical values. Experiments on synthetic and real-world datasets show that our approach consistently outperforms state-of-the-art methods in equation accuracy, robustness, and search efficiency. This work introduces a new paradigm for symbolic regression by bridging symbolic equation discovery with continuous embedding learning and optimization.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22429",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22429v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880545"
+}

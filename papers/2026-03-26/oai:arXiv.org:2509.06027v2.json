@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.06027v2",
+  "title": "DreamAudio: Customized Text-to-Audio Generation with Diffusion Models",
+  "authors": "Yi Yuan, Xubo Liu, Haohe Liu, Xiyuan Kang, Zhuo Chen, Yuxuan Wang, Mark D. Plumbley, Wenwu Wang",
+  "summary": "arXiv:2509.06027v2 Announce Type: replace \nAbstract: With the development of large-scale diffusion-based and language-modeling-based generative models, impressive progress has been achieved in text-to-audio generation. Despite producing high-quality outputs, existing text-to-audio models mainly aim to generate semantically aligned sound and fall short of controlling fine-grained acoustic characteristics of specific sounds. As a result, users who need specific sound content may find it difficult to generate the desired audio clips. In this paper, we present DreamAudio for customized text-to-audio generation (CTTA). Specifically, we introduce a new framework that is designed to enable the model to identify auditory information from user-provided reference concepts for audio generation. Given a few reference audio samples containing personalized audio events, our system can generate new audio samples that include these specific events. In addition, two types of datasets are developed for training and testing the proposed systems. The experiments show that DreamAudio generates audio samples that are highly consistent with the customized audio features and aligned well with the input text prompts. Furthermore, DreamAudio offers comparable performance in general text-to-audio tasks. We also provide a human-involved dataset containing audio events from real-world CTTA cases as the benchmark for customized generation tasks.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.06027",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.06027v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524578"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2512.19703v2",
+  "title": "ASK: Adaptive Self-improving Knowledge Framework for Audio Text Retrieval",
+  "authors": "Siyuan Fu, Xuchen Guo, Mingjun Liu, Hongxiang Li, Boyin Tan, Gongxi Zhu, Xianwei Zhuang, Jinghan Ru, Yuxin Xie, Yuguo Yin",
+  "summary": "arXiv:2512.19703v2 Announce Type: replace-cross \nAbstract: The dominant paradigm for Audio-Text Retrieval (ATR) relies on dual-encoder architectures optimized via mini-batch contrastive learning. However, restricting optimization to local in-batch samples creates a fundamental limitation we term the Gradient Locality Bottleneck (GLB), which prevents the resolution of acoustic ambiguities and hinders the learning of rare long-tail concepts. While external knowledge injection can break this bottleneck, it often triggers a problem called Representation-Drift Mismatch (RDM), where a static knowledge base becomes misaligned with evolving encoders, degrading guidance into noise. To address these intertwined challenges, we propose the Adaptive Self-improving Knowledge (ASK) framework. ASK breaks the GLB via multi-grained knowledge injection and mitigates RDM through a dynamic refinement strategy that synchronizes the knowledge base with the model. Additionally, an adaptive reliability weighting scheme is employed to filter retrieval noise based on cross-modal consistency. Extensive experiments across multiple benchmarks demonstrate that ASK consistently achieves new state-of-the-art performance across various backbones.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2512.19703",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2512.19703v2.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524612"
+}

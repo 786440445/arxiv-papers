@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.10827v2",
+  "title": "Happiness is Sharing a Vocabulary: A Study of Transliteration Methods",
+  "authors": "Haeji Jung, Jinju Kim, Kyungjin Kim, Youjeong Roh, David R. Mortensen",
+  "summary": "arXiv:2510.10827v2 Announce Type: replace-cross \nAbstract: Transliteration has emerged as a promising means to bridge the gap between various languages in multilingual NLP, showing promising results especially for languages using non-Latin scripts. We investigate the degree to which shared script, overlapping token vocabularies, and shared phonology contribute to performance of multilingual models. To this end, we conduct controlled experiments using three kinds of transliteration (romanization, phonemic transcription, and substitution ciphers) as well as orthography. We evaluate each model on three downstream tasks -- named entity recognition (NER), part-of-speech tagging (POS) and natural language inference (NLI) -- and find that romanization significantly outperforms other input types in 11 out of 12 evaluation settings, largely consistent with our hypothesis that it is the most effective approach. We further analyze how each factor contributed to the success, and suggest that having longer (subword) tokens shared with pre-trained languages leads to better utilization of the model.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.10827",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.10827v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.121359"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22752v1",
+  "title": "CLiGNet: Clinical Label-Interaction Graph Network for Medical Specialty Classification from Clinical Transcriptions",
+  "authors": "Pronob Kumar Barman, Pronoy Kumar Barman",
+  "summary": "arXiv:2603.22752v1 Announce Type: new \nAbstract: Automated classification of clinical transcriptions into medical specialties is essential for routing, coding, and clinical decision support, yet prior work on the widely used MTSamples benchmark suffers from severe data leakage caused by applying SMOTE oversampling before train test splitting. We first document this methodological flaw and establish a leakage free benchmark across 40 medical specialties (4966 records), revealing that the true task difficulty is substantially higher than previously reported.\n  We then introduce CLiGNet (Clinical Label Interaction Graph Network), a neural architecture that combines a Bio ClinicalBERT text encoder with a two layer Graph Convolutional Network operating on a specialty label graph constructed from semantic similarity and ICD 10 chapter priors. Per label attention gates fuse document and label graph representations, trained with focal binary cross entropy loss to handle extreme class imbalance (181 to 1 ratio).\n  Across seven baselines ranging from TF IDF classifiers to Clinical Longformer, CLiGNet without calibration achieves the highest macro F1 of 0.279, with an ablation study confirming that the GCN label graph provides the single largest component gain (increase of 0.066 macro F1). Adding per label Platt scaling calibration yields an expected calibration error of 0.007, demonstrating a principled trade off between ranking performance and probability reliability.\n  We provide comprehensive failure analysis covering pairwise specialty confusions, rare class behaviour, document length effects, and token level Integrated Gradients attribution, offering actionable insights for clinical NLP system deployment.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22752",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22752v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.120099"
+}

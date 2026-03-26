@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2302.10426v3",
+  "title": "An Accurate and Interpretable Framework for Trustworthy Process Monitoring",
+  "authors": "Hao Wang, Zhiyu Wang, Yunlong Niu, Zhaoran Liu, Haozhe Li, Yilin Liao, Yuxin Huang, Xinggao Liu",
+  "summary": "arXiv:2302.10426v3 Announce Type: replace-cross \nAbstract: Trustworthy process monitoring seeks to build an accurate and interpretable monitoring framework, which is critical for ensuring the safety of energy conversion plant (ECP) that operates under extreme working conditions such as high pressure and temperature. Contemporary self-attentive models, however, fall short in this domain for two main reasons. First, they rely on step-wise correlations that fail to involve physically meaningful semantics in ECP logs, resulting in suboptimal accuracy and interpretability. Second, attention matrices are frequently cluttered with spurious correlations that obscure physically meaningful ones, further impeding effective interpretation. To overcome these issues, we propose AttentionMixer, a framework aimed at improving both accuracy and interpretability of existing methods and establish a trustworthy ECP monitoring framework. Specifically, to tackle the first issue, we employ a spatial adaptive message passing block to capture variate-wise correlations. This block is coupled with a temporal adaptive message passing block through an \\textit{mixing} operator, yielding a multi-faceted representation of ECP logs accounting for both step-wise and variate-wise correlations. Concurrently, to tackle the second issue, we employ a sparse message passing regularizer to filter out spurious correlations. We validate the efficacy of AttentionMixer using two real-world datasets from the radiation monitoring network for Chinese nuclear power plants.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2302.10426",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2302.10426v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881507"
+}

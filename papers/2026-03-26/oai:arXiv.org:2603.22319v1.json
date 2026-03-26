@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22319v1",
+  "title": "Sparsely-Supervised Data Assimilation via Physics-Informed Schr\\\"odinger Bridge",
+  "authors": "Dohyun Bu, Chanho Kim, Seokun Choi, Jong-Seok Lee",
+  "summary": "arXiv:2603.22319v1 Announce Type: new \nAbstract: Data assimilation (DA) for systems governed by partial differential equations (PDE) aims to reconstruct full spatiotemporal fields from sparse high-fidelity (HF) observations while respecting physical constraints. While full-grid low-fidelity (LF) simulations provide informative priors in multi-fidelity settings, recovering an HF field consistent with both sparse observations and the governing PDE typically requires per-instance test-time optimization, which becomes a major bottleneck in time-critical applications. To alleviate this, amortized reconstruction using generative models has recently been proposed; however, such approaches rely on full-field HF supervision during training, which is often impractical in real-world settings. From a more realistic perspective, we propose the Physics-Informed Conditional Schr\\\"odinger Bridge (PICSB), which transports an informative LF prior toward an observation-conditioned HF posterior without any additional inference-time guidance. To enable learning without HF endpoints, PICSB employs an iterative surrogate-endpoint refresh scheme, and directly incorporates PDE residuals into the training objective while enforcing observations via hard conditioning throughout sampling. Experiments on fluid PDE benchmarks demonstrate that PICSB enables extremely fast spatiotemporal field reconstruction while maintaining competitive accuracy under sparse HF supervision.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22319",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22319v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880424"
+}

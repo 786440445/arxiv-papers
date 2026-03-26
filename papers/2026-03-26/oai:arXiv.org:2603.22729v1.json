@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22729v1",
+  "title": "Behavioral Heterogeneity as Quantum-Inspired Representation",
+  "authors": "Mohammad Elayan, Wissam Kontar",
+  "summary": "arXiv:2603.22729v1 Announce Type: new \nAbstract: Driver heterogeneity is often reduced to labels or discrete regimes, compressing what is inherently dynamic into static categories. We introduce quantum-inspired representation that models each driver as an evolving latent state, presented as a density matrix with structured mathematical properties. Behavioral observations are embedded via non-linear Random Fourier Features, while state evolution blends temporal persistence of behavior with context-dependent profile activation. We evaluate our approach on empirical driving data, Third Generation Simulation Data (TGSIM), showing how driving profiles are extracted and analyzed.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22729",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22729v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880630"
+}

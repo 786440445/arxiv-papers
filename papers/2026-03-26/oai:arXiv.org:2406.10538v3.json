@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2406.10538v3",
+  "title": "Addressing Large Action Spaces in 3D Floorplanning via Spatial Generalization",
+  "authors": "Fin Amin, Nirjhor Rouf, Tse-Han Pan, Sounak Dutta, Md Kamal Ibn Shafi, Paul D. Franzon",
+  "summary": "arXiv:2406.10538v3 Announce Type: replace \nAbstract: Many recent machine learning approaches to floorplanning represent placement decisions using discrete canvas coordinates, which creates scalability bottlenecks as the action space grows. In this work, we study the effect of learning a continuous action representation for 3D floorplanning. By reasoning in a continuous placement space and discretizing only at inference time, our method decouples the output structure from the canvas resolution, which makes learning and inference more tractable in large design spaces. A central idea in our approach is \\textit{$L$-action similarity}: actions that are close in the placement space often produce similar returns. This smoothness induces a useful structural bias that allows the model to generalize information from one decision to nearby decisions. As a case study, we show that this approach can learn to construct floorplans even when pre-trained only on random floorplans. Our results suggest that continuous decision spaces are a promising way to address the large-action-space challenge in floorplanning.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2406.10538",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2406.10538v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881196"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22589v1",
+  "title": "Velocity Potential Neural Field for Efficient Ambisonics Impulse Response Modeling",
+  "authors": "Yoshiki Masuyama, Francois G. Germain, Gordon Wichern, Chiori Hori, Jonathan Le Roux",
+  "summary": "arXiv:2603.22589v1 Announce Type: new \nAbstract: First-order Ambisonics (FOA) is a standard spatial audio format based on spherical harmonic decomposition. Its zeroth- and first-order components capture the sound pressure and particle velocity, respectively. Recently, physics-informed neural networks have been applied to the spatial interpolation of FOA signals, regularizing the network outputs based on soft penalty terms derived from physical principles, e.g., the linearized momentum equation. In this paper, we reformulate the task so that the predicted FOA signal automatically satisfies the linearized momentum equation. Our network approximates a scalar function called velocity potential, rather than the FOA signal itself. Then, the FOA signal can be readily recovered through the partial derivatives of the velocity potential with respect to the network inputs (i.e., time and microphone position) according to physics of sound propagation. By deriving the four channels of FOA from the single-channel velocity potential, the reconstructed signal follows the physical principle at any time and position by construction. Experimental results on room impulse response reconstruction confirm the effectiveness of the proposed framework.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22589",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22589v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524524"
+}

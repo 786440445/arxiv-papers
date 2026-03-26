@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22793v1",
+  "title": "Reliable Classroom AI via Neuro-Symbolic Multimodal Reasoning",
+  "authors": "Sina Bagheri Nezhad",
+  "summary": "arXiv:2603.22793v1 Announce Type: new \nAbstract: Classroom AI is rapidly expanding from low-level perception toward higher-level judgments about engagement, confusion, collaboration, and instructional quality. Yet classrooms are among the hardest real-world settings for multimodal vision: they are multi-party, noisy, privacy-sensitive, pedagogically diverse, and often multilingual. In this paper, we argue that classroom AI should be treated as a critical domain, where raw predictive accuracy is insufficient unless predictions are accompanied by verifiable evidence, calibrated uncertainty, and explicit deployment guardrails. We introduce NSCR, a neuro-symbolic framework that decomposes classroom analytics into four layers: perceptual grounding, symbolic abstraction, executable reasoning, and governance. NSCR adapts recent ideas from symbolic fact extraction and verifiable code generation to multimodal educational settings, enabling classroom observations from video, audio, ASR, and contextual metadata to be converted into typed facts and then composed by executable rules, programs, and policy constraints. Beyond the system design, we contribute a benchmark and evaluation protocol organized around five tasks: classroom state inference, discourse-grounded event linking, temporal early warning, collaboration analysis, and multilingual classroom reasoning. We further specify reliability metrics centered on abstention, calibration, robustness, construct alignment, and human usefulness. The paper does not report new empirical results; its contribution is a concrete framework and evaluation agenda intended to support more interpretable, privacy-aware, and pedagogically grounded multimodal AI for classrooms.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22793",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22793v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.120119"
+}

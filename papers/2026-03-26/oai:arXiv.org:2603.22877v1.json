@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22877v1",
+  "title": "Continuous Optimization for Satisfiability Modulo Theories on Linear Real Arithmetic",
+  "authors": "Yunuo Cen, Daniel Ebler, Xuanyao Fong",
+  "summary": "arXiv:2603.22877v1 Announce Type: new \nAbstract: Efficient solutions for satisfiability modulo theories (SMT) are integral in industrial applications such as hardware verification and design automation. Existing approaches are predominantly based on conflict-driven clause learning, which is structurally difficult to parallelize and therefore scales poorly. In this work, we introduce FourierSMT as a scalable and highly parallelizable continuous-variable optimization framework for SMT. We generalize the Walsh-Fourier expansion (WFE), called extended WFE (xWFE), from the Boolean domain to a mixed Boolean-real domain, which allows the use of gradient methods for SMT. This addresses the challenge of finding satisfying variable assignments to high-arity constraints by local updates of discrete variables. To reduce the evaluation complexity of xWFE, we present the extended binary decision diagram (xBDD) and map the constraints from xWFE to xBDDs. We then show that sampling the circuit-output probability (COP) of xBDDs under randomized rounding is equivalent to the expectation value of the xWFEs. This allows for efficient computation of the constraints. We show that the reduced problem is guaranteed to converge and preserves satisfiability, ensuring the soundness of the solutions. The framework is benchmarked for large-scale scheduling and placement problems with up to 10,000 variables and 700,000 constraints, achieving 8-fold speedups compared to state-of-the-art SMT solvers. These results pave the way for GPU-based optimization of SMTs with continuous systems.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22877",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22877v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.120159"
+}

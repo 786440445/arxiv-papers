@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22728v1",
+  "title": "The Interspeech 2026 Audio Encoder Capability Challenge for Large Audio Language Models",
+  "authors": "Heinrich Dinkel, Jiahao Zhou, Guanbo Wang, Yadong Niu, Junbo Zhang, Yufeng Hao, Ying Liu, Ke Li, Wenwu Wang, Zhiyong Wu, Jian Luan",
+  "summary": "arXiv:2603.22728v1 Announce Type: new \nAbstract: This paper presents the Interspeech 2026 Audio Encoder Capability Challenge, a benchmark specifically designed to evaluate and advance the performance of pre-trained audio encoders as front-end modules for Large Audio Language Models (LALMs). While LALMs have shown remarkable understanding of complex acoustic scenes, their performance depends on the semantic richness of the underlying audio encoder representations. This challenge addresses the integration gap by providing a unified generative evaluation framework, XARES-LLM, which assesses submitted encoders across a diverse suite of downstream classification and generation tasks. By decoupling encoder development from LLM fine-tuning, the challenge establishes a standardized protocol for general-purpose audio representations that can effectively be used for the next generation of multimodal language models.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22728",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22728v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524541"
+}

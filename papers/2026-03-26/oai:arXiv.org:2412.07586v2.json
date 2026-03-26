@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2412.07586v2",
+  "title": "Paired Wasserstein Autoencoders for Conditional Sampling",
+  "authors": "Moritz Piening, Matthias Chung",
+  "summary": "arXiv:2412.07586v2 Announce Type: replace \nAbstract: Generative autoencoders learn compact latent representations of data distributions through jointly optimized encoder--decoder pairs. In particular, Wasserstein autoencoders (WAEs) minimize a relaxed optimal transport (OT) objective, where similarity between distributions is measured through a cost-minimizing joint distribution (OT coupling). Beyond distribution matching, neural OT methods aim to learn mappings between two data distributions induced by an OT coupling. Building on the formulation of the WAE loss, we derive a novel loss that enables sampling from OT-type couplings via two paired WAEs with shared latent space. The resulting fully parametrized joint distribution yields (i) learned cost-optimal transport maps between the two data distributions via deterministic encoders. Under cost-consistency constraints, it further enables (ii) conditional sampling from an OT-type coupling through stochastic decoders. As a proof of concept, we use synthetic data with known and visualizable marginal and conditional distributions.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2412.07586",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2412.07586v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881218"
+}

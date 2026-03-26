@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.23194v1",
+  "title": "PhysSkin: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning",
+  "authors": "Yuanhang Lei, Tao Cheng, Xingxuan Li, Boming Zhao, Siyuan Huang, Ruizhen Hu, Peter Yichen Chen, Hujun Bao, Zhaopeng Cui",
+  "summary": "arXiv:2603.23194v1 Announce Type: cross \nAbstract: Achieving real-time physics-based animation that generalizes across diverse 3D shapes and discretizations remains a fundamental challenge. We introduce PhysSkin, a physics-informed framework that addresses this challenge. In the spirit of Linear Blend Skinning, we learn continuous skinning fields as basis functions lifting motion subspace coordinates to full-space deformation, with subspace defined by handle transformations. To generate mesh-free, discretization-agnostic, and physically consistent skinning fields that generalize well across diverse 3D shapes, PhysSkin employs a new neural skinning fields autoencoder which consists of a transformer-based encoder and a cross-attention decoder. Furthermore, we also develop a novel physics-informed self-supervised learning strategy that incorporates on-the-fly skinning-field normalization and conflict-aware gradient correction, enabling effective balancing of energy minimization, spatial smoothness, and orthogonality constraints. PhysSkin shows outstanding performance on generalizable neural skinning and enables real-time physics-based animation.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.23194",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.23194v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881109"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.15155v3",
+  "title": "Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields",
+  "authors": "Tianyu Xiong, Skylar Wurster, Han-Wei Shen",
+  "summary": "arXiv:2602.15155v3 Announce Type: replace \nAbstract: Implicit Neural Representations (INRs) have emerged as promising surrogates for large 3D scientific simulations due to their ability to continuously model spatial and conditional fields, yet they face a critical fidelity-speed dilemma: deep MLPs suffer from high inference cost, while efficient embedding-based models lack sufficient expressiveness. To resolve this, we propose the Decoupled Representation Refinement (DRR) architectural paradigm. DRR leverages a deep refiner network, alongside non-parametric transformations, in a one-time offline process to encode rich representations into a compact and efficient embedding structure. This approach decouples slow neural networks with high representational capacity from the fast inference path. We introduce DRR-Net, a simple network that validates this paradigm, and a novel data augmentation strategy, Variational Pairs (VP) for improving INRs under complex tasks like high-dimensional surrogate modeling. Experiments on several ensemble simulation datasets demonstrate that our approach achieves state-of-the-art fidelity, while being up to 27$\\times$ faster at inference than high-fidelity baselines and remaining competitive with the fastest models. The DRR paradigm offers an effective strategy for building powerful and practical neural field surrogates and INRs in broader applications, with a minimal compromise between speed and quality.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.15155",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.15155v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881411"
+}

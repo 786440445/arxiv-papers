@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22317v1",
+  "title": "Geometric Mixture-of-Experts with Curvature-Guided Adaptive Routing for Graph Representation Learning",
+  "authors": "Haifang Cao, Yu Wang, Timing Li, Xinjie Yao, Pengfei Zhu",
+  "summary": "arXiv:2603.22317v1 Announce Type: new \nAbstract: Graph-structured data typically exhibits complex topological heterogeneity, making it difficult to model accurately within a single Riemannian manifold. While emerging mixed-curvature methods attempt to capture such diversity, they often rely on implicit, task-driven routing that lacks fundamental geometric grounding. To address this challenge, we propose a Geometric Mixture-of-Experts framework (GeoMoE) that adaptively fuses node representations across diverse Riemannian spaces to better accommodate multi-scale topological structures. At its core, GeoMoE leverages Ollivier-Ricci Curvature (ORC) as an intrinsic geometric prior to orchestrate the collaboration of specialized experts. Specifically, we design a graph-aware gating network that assigns node-specific fusion weights, regularized by a curvature-guided alignment loss to ensure interpretable and geometry-consistent routing. Additionally, we introduce a curvature-aware contrastive objective that promotes geometric discriminability by constructing positive and negative pairs according to curvature consistency. Extensive experiments on six benchmark datasets demonstrate that GeoMoE outperforms state-of-the-art baselines across diverse graph types.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22317",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22317v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880414"
+}

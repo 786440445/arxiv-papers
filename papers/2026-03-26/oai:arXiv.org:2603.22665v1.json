@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22665v1",
+  "title": "Improving LLM Predictions via Inter-Layer Structural Encoders",
+  "authors": "Tom Ulanovski (Tel Aviv University), Eyal Blyachman (Tel Aviv University), Maya Bechler-Speicher (Meta)",
+  "summary": "arXiv:2603.22665v1 Announce Type: cross \nAbstract: The standard practice in Large Language Models (LLMs) is to base predictions on the final-layer token representations. Recent studies, however, show that intermediate layers encode substantial information, which may contain more task-relevant features than the final-layer representations alone. Importantly, it was shown that for different tasks, different layers may be optimal. In this work we introduce Inter-Layer Structural Encoders (ILSE), a powerful structural approach to learn one effective representation from the LLM's internal layer representations all together. Central to ILSE is Cayley-Encoder, a mathematically grounded geometric encoder that leverages expander Cayley graphs for efficient inter-layer information propagation. We evaluate ILSE across 13 classification and semantic similarity tasks with 9 pre-trained LLMs ranging from 14 million to 8 billion parameters. ILSE consistently outperforms baselines and existing approaches, achieving up to 44% improvement in accuracy and 25% in similarity metrics. We further show that ILSE is data-efficient in few-shot regimes and can make small LLMs competitive with substantially larger models.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22665",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22665v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880969"
+}

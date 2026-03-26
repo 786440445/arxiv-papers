@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2401.07390v3",
+  "title": "Knee or ROC",
+  "authors": "Veronica Wendt, Jacob Steiner, Byunggu Yu, Caleb Kelly, Justin Kim",
+  "summary": "arXiv:2401.07390v3 Announce Type: replace \nAbstract: Self-attention transformers have demonstrated accuracy for image classification with smaller data sets. However, a limitation is that tests to-date are based upon single class image detection with known representation of image populations. For instances where the input image classes may be greater than one and test sets that lack full information on representation of image populations, accuracy calculations must adapt. The Receiver Operating Characteristic (ROC) accuracy threshold can address the instances of multiclass input images. However, this approach is unsuitable in instances where image population representation is unknown. We then consider calculating accuracy using the knee method to determine threshold values on an ad-hoc basis. Results of ROC curve and knee thresholds for a multi-class data set, created from CIFAR-10 images, are discussed for multiclass image detection.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2401.07390",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2401.07390v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881176"
+}

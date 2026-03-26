@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.23159v1",
+  "title": "Conformal Cross-Modal Active Learning",
+  "authors": "Huy Hoang Nguyen, C\\'edric Jung, Shirin Salehi, Tobias Gl\\\"uck, Anke Schmeink, Andreas Kugi",
+  "summary": "arXiv:2603.23159v1 Announce Type: cross \nAbstract: Foundation models for vision have transformed visual recognition with powerful pretrained representations and strong zero-shot capabilities, yet their potential for data-efficient learning remains largely untapped. Active Learning (AL) aims to minimize annotation costs by strategically selecting the most informative samples for labeling, but existing methods largely overlook the rich multimodal knowledge embedded in modern vision-language models (VLMs). We introduce Conformal Cross-Modal Acquisition (CCMA), a novel AL framework that bridges vision and language modalities through a teacher-student architecture. CCMA employs a pretrained VLM as a teacher to provide semantically grounded uncertainty estimates, conformally calibrated to guide sample selection for a vision-only student model. By integrating multimodal conformal scoring with diversity-aware selection strategies, CCMA achieves superior data efficiency across multiple benchmarks. Our approach consistently outperforms state-of-the-art AL baselines, demonstrating clear advantages over methods relying solely on uncertainty or diversity metrics.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.23159",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.23159v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881100"
+}

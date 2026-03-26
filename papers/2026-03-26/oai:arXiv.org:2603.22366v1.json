@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22366v1",
+  "title": "Modeling Quantum Federated Autoencoder for Anomaly Detection in IoT Networks",
+  "authors": "Devashish Chaudhary, Sutharshan Rajasegarar, Shiva Raj Pokhrel",
+  "summary": "arXiv:2603.22366v1 Announce Type: cross \nAbstract: We propose a Quantum Federated Autoencoder for Anomaly Detection, a framework that leverages quantum federated learning for efficient, secure, and distributed processing in IoT networks. By harnessing quantum autoencoders for high-dimensional feature representation and federated learning for decentralized model training, the approach transforms localized learning on edge devices without requiring transmission of raw data, thereby preserving privacy and minimizing communication overhead. The model leverages quantum advantage in pattern recognition to enhance detection sensitivity, particularly in complex and dynamic IoT network traffic. Experiments on a real-world IoT dataset show that the proposed method delivers anomaly detection accuracy and robustness comparable to centralized approaches, while ensuring data privacy.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22366",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22366v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880901"
+}

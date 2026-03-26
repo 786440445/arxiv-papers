@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.23459v1",
+  "title": "CSTS: A Canonical Security Telemetry Substrate for AI-Native Cyber Detection",
+  "authors": "Abdul Rahman",
+  "summary": "arXiv:2603.23459v1 Announce Type: cross \nAbstract: AI-driven cybersecurity systems often fail under cross-environment deployment due to fragmented, event-centric telemetry representations. We introduce the Canonical Security Telemetry Substrate (CSTS), an entity-relational abstraction that enforces identity persistence, typed relationships, and temporal state invariants. Across heterogeneous environments, CSTS improves cross-topology transfer for identity-centric detection and prevents collapse under schema perturbation. For zero-day detection, CSTS isolates semantic orientation instability as a modeling, not schema, phenomenon, clarifying layered portability requirements.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.23459",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.23459v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881162"
+}

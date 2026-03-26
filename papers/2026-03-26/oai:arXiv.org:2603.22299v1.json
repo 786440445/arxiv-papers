@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22299v1",
+  "title": "Between the Layers Lies the Truth: Uncertainty Estimation in LLMs Using Intra-Layer Local Information Scores",
+  "authors": "Zvi N. Badash, Yonatan Belinkov, Moti Freiman",
+  "summary": "arXiv:2603.22299v1 Announce Type: new \nAbstract: Large language models (LLMs) are often confidently wrong, making reliable uncertainty estimation (UE) essential. Output-based heuristics are cheap but brittle, while probing internal representations is effective yet high-dimensional and hard to transfer.\n  We propose a compact, per-instance UE method that scores cross-layer agreement patterns in internal representations using a single forward pass.\n  Across three models, our method matches probing in-distribution, with mean diagonal differences of at most $-1.8$ AUPRC percentage points and $+4.9$ Brier score points. Under cross-dataset transfer, it consistently outperforms probing, achieving off-diagonal gains up to $+2.86$ AUPRC and $+21.02$ Brier points. Under 4-bit weight-only quantization, it remains robust, improving over probing by $+1.94$ AUPRC points and $+5.33$ Brier points on average.\n  Beyond performance, examining specific layer--layer interactions reveals differences in how disparate models encode uncertainty. Altogether, our UE method offers a lightweight, compact means to capture transferable uncertainty in LLMs.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22299",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22299v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880351"
+}

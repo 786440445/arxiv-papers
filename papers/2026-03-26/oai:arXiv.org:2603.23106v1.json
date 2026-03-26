@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.23106v1",
+  "title": "High-Resolution Tensor-Network Fourier Methods for Exponentially Compressed Non-Gaussian Aggregate Distributions",
+  "authors": "Juan Jos\\'e Rodr\\'iguez-Aldavero, Juan Jos\\'e Garc\\'ia-Ripoll",
+  "summary": "arXiv:2603.23106v1 Announce Type: cross \nAbstract: Characteristic functions of weighted sums of independent random variables exhibit low-rank structure in the quantized tensor train (QTT) representation, also known as matrix product states (MPS), enabling up to exponential compression of their fully non-Gaussian probability distributions. Under variable independence, the global characteristic function factorizes into local terms. Its low-rank QTT structure arises from intrinsic spectral smoothness in continuous models, or from spectral energy concentration as the number of components $D$ grows in discrete models. We demonstrate this on weighted sums of Bernoulli and lognormal random variables. In the former, despite an adversarial, incompressible small-$D$ regime, the characteristic function undergoes a sharp bond-dimension collapse for $D \\gtrsim 300$ components, enabling polylogarithmic time and memory scaling. In the latter, the approach reaches high-resolution discretizations of $N = 2^{30}$ frequency modes on standard hardware, far beyond the $N = 2^{24}$ ceiling of dense implementations. These compressed representations enable efficient computation of Value at Risk (VaR) and Expected Shortfall (ES), supporting applications in quantitative finance and beyond.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.23106",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.23106v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881091"
+}

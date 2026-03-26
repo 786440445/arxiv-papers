@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2601.13719v2",
+  "title": "Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search",
+  "authors": "Xinlei Yin, Xiulian Peng, Xiao Li, Zhiwei Xiong, Yan Lu",
+  "summary": "arXiv:2601.13719v2 Announce Type: replace-cross \nAbstract: Long video understanding presents significant challenges for vision-language models due to extremely long context windows. Existing solutions relying on naive chunking strategies with retrieval-augmented generation, typically suffer from information fragmentation and a loss of global coherence. We present HAVEN, a unified framework for long-video understanding that enables coherent and comprehensive reasoning by integrating audiovisual entity cohesion and hierarchical video indexing with agentic search. First, we preserve semantic consistency by integrating entity-level representations across visual and auditory streams, while organizing content into a structured hierarchy spanning global summary, scene, segment, and entity levels. Then we employ an agentic search mechanism to enable dynamic retrieval and reasoning across these layers, facilitating coherent narrative reconstruction and fine-grained entity tracking. Extensive experiments demonstrate that our method achieves good temporal coherence, entity consistency, and retrieval efficiency, establishing a new state-of-the-art with an overall accuracy of 84.1% on LVBench. Notably, it achieves outstanding performance in the challenging reasoning category, reaching 80.1%. These results highlight the effectiveness of structured, multimodal reasoning for comprehensive and context-consistent understanding of long-form videos.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2601.13719",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2601.13719v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.121449"
+}

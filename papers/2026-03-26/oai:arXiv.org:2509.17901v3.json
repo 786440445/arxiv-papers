@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2509.17901v3",
+  "title": "Do Modern Video-LLMs Need to Listen? A Benchmark Audit and Scalable Remedy",
+  "authors": "Geewook Kim, Minjoon Seo",
+  "summary": "arXiv:2509.17901v3 Announce Type: replace-cross \nAbstract: Speech and audio encoders developed over years of community effort are routinely excluded from video understanding pipelines -- not because they fail, but because benchmarks never required listening. We audit 10 video benchmarks and find items largely solvable from visual cues alone: a single-frame probe answers ~76% of AVQA without audio, suggesting poor measurement of audio-visual reasoning. Building on LLaVA-OneVision, we attach a speech/audio encoder and compare five compressor architectures under 25x token reduction (25 Hz to 1 Hz). Across 10 benchmarks -- with and without filtering -- audio yields clear gains on tasks requiring speech comprehension or cross-modal grounding, while vision-centric suites remain largely unaffected. Our results show that speech encoders play a larger role in video understanding than current benchmarks suggest. We will fully open-source our work at https://github.com/naver-ai/LLaVA-AV-SSM.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2509.17901",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2509.17901v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524595"
+}

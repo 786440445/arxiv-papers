@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.16051v2",
+  "title": "GUIrilla: A Scalable Framework for Automated Desktop UI Exploration",
+  "authors": "Sofiya Garkot, Maksym Shamrai, Ivan Synytsia, Mariya Hirna",
+  "summary": "arXiv:2510.16051v2 Announce Type: replace \nAbstract: The performance and generalization of foundation models for interactive systems critically depend on the availability of large-scale, realistic training data. While recent advances in large language models (LLMs) have improved GUI understanding, progress in desktop automation remains constrained by the scarcity of high-quality, publicly available desktop interaction data, particularly for macOS. We introduce GUIRILLA, a scalable data crawling framework for automated exploration of desktop GUIs. GUIRILLA is not an autonomous agent; instead, it systematically collects realistic interaction traces and accessibility metadata intended to support the training, evaluation, and stabilization of downstream foundation models and GUI agents. The framework targets macOS, a largely underrepresented platform in existing resources, and organizes explored interfaces into hierarchical MacApp Trees derived from accessibility states and user actions. As part of this work, we release these MacApp Trees as a reusable structural representation of macOS applications, enabling downstream analysis, retrieval, testing, and future agent training. We additionally release macapptree, an open-source library for reproducible accessibility-driven GUI data collection, along with the full framework implementation to support open research in desktop autonomy.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.16051",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.16051v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881344"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22536v1",
+  "title": "MSP-Conversation: A Corpus for Naturalistic, Time-Continuous Emotion Recognition",
+  "authors": "Luz Martinez-Lucas, Pravin Mote, Abinay Reddy Naini, Mohammed Abdelwahab, Carlos Busso",
+  "summary": "arXiv:2603.22536v1 Announce Type: cross \nAbstract: Affective computing aims to understand and model human emotions for computational systems. Within this field, speech emotion recognition (SER) focuses on predicting emotions conveyed through speech. While early SER systems relied on limited datasets and traditional machine learning models, recent deep learning approaches demand largescale, naturalistic emotional corpora. To address this need, we introduce the MSP-Conversation corpus: a dataset of more than 70 hours of conversational audio with time-continuous emotional annotations and detailed speaker diarizations. The time-continuous annotations capture the dynamic and contextdependent nature of emotional expression. The annotations in the corpus include fine-grained temporal traces of valence, arousal, and dominance. The audio data is sourced from publicly available podcasts and overlaps with a subset of the isolated speaking turns in the MSP-Podcast corpus to facilitate direct comparisons between annotation methods (i.e., in-context versus out-of-context annotations). The paper outlines the development of the corpus, annotation methodology, analyses of the annotations, and baseline SER experiments, establishing the MSP-Conversation corpus as a valuable resource for advancing research in dynamic SER in naturalistic settings.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22536",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22536v1.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524561"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2508.07494v2",
+  "title": "From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma",
+  "authors": "Mircea Lazar",
+  "summary": "arXiv:2508.07494v2 Announce Type: replace-cross \nAbstract: The generalization of the Koopman operator to systems with control input and the derivation of a nonlinear fundamental lemma are two open problems that play a key role in the development of data-driven control methods for nonlinear systems. In this paper we derive a novel solution to these problems based on basis functions expansion in a product Hilbert space constructed as the tensor product between the Hilbert spaces of the state and input observable functions, respectively. We identify relaxed invariance conditions that guarantee existence of a bounded linear operator, i.e., the generalized Koopman operator, from the constructed product Hilbert space to the Hilbert space corresponding to the lifted state propagated forward in time. Compared to classical Koopman invariance conditions, measure preservation is not required. Moreover, we derive a nonlinear fundamental lemma by exploiting the constructed exact infinite-dimensional bilinear Koopman representation and Hankel operators. The effectiveness of the developed generalized Koopman embedding is illustrated on the Van der Pol oscillator and in predictive control of a soft-robotic manipulator model.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2508.07494",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2508.07494v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.121307"
+}

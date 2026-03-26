@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22660v1",
+  "title": "Bounding Box Anomaly Scoring for simple and efficient Out-of-Distribution detection",
+  "authors": "Mohamed Bahi Yahiaoui, Geoffrey Daniel, Lo\\\"ic Giraldi, J\\'er\\'emie Bruyelle, Julyan Arbel",
+  "summary": "arXiv:2603.22660v1 Announce Type: new \nAbstract: Out-of-distribution (OOD) detection aims to identify inputs that differ from the training distribution in order to reduce unreliable predictions by deep neural networks. Among post-hoc feature-space approaches, OOD detection is commonly performed by approximating the in-distribution support in the representation space of a pretrained network. Existing methods often reflect a trade-off between compact parametric models, such as Mahalanobis-based scores, and more flexible but reference-based methods, such as k-nearest neighbors. Bounding-box abstraction provides an attractive intermediate perspective by representing in-distribution support through compact axis-aligned summaries of hidden activations. In this paper, we introduce Bounding Box Anomaly Scoring (BBAS), a post-hoc OOD detection method that leverages bounding-box abstraction. BBAS combines graded anomaly scores based on interval exceedances, monitoring variables adapted to convolutional layers, and decoupled clustering and box construction for richer and multi-layer representations. Experiments on image-classification benchmarks show that BBAS provides robust separation between in-distribution and out-of-distribution samples while preserving the simplicity, compactness, and updateability of the bounding-box approach.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22660",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22660v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880601"
+}

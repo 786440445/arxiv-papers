@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22871v1",
+  "title": "Dynamical Systems Theory Behind a Hierarchical Reasoning Model",
+  "authors": "Vasiliy A. Es'kin, Mikhail E. Smorkalov",
+  "summary": "arXiv:2603.22871v1 Announce Type: cross \nAbstract: Current large language models (LLMs) primarily rely on linear sequence generation and massive parameter counts, yet they severely struggle with complex algorithmic reasoning. While recent reasoning architectures, such as the Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM), demonstrate that compact recursive networks can tackle these tasks, their training dynamics often lack rigorous mathematical guarantees, leading to instability and representational collapse. We propose the Contraction Mapping Model (CMM), a novel architecture that reformulates discrete recursive reasoning into continuous Neural Ordinary and Stochastic Differential Equations (NODEs/NSDEs). By explicitly enforcing the convergence of the latent phase point to a stable equilibrium state and mitigating feature collapse with a hyperspherical repulsion loss, the CMM provides a mathematically grounded and highly stable reasoning engine. On the Sudoku-Extreme benchmark, a 5M-parameter CMM achieves a state-of-the-art accuracy of 93.7 %, outperforming the 27M-parameter HRM (55.0 %) and 5M-parameter TRM (87.4 %). Remarkably, even when aggressively compressed to an ultra-tiny footprint of just 0.26M parameters, the CMM retains robust predictive power, achieving 85.4 % on Sudoku-Extreme and 82.2 % on the Maze benchmark. These results establish a new frontier for extreme parameter efficiency, proving that mathematically rigorous latent dynamics can effectively replace brute-force scaling in artificial reasoning.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22871",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22871v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881019"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22326v1",
+  "title": "A Direct Classification Approach for Reliable Wind Ramp Event Forecasting under Severe Class Imbalance",
+  "authors": "Alejandro Morales-Hern\\'andez, Fabrizio De Caroa, Gian Marco Paldino, Pascal Tribel, Alfredo Vaccaro, Gianluca Bontempi",
+  "summary": "arXiv:2603.22326v1 Announce Type: new \nAbstract: Decision support systems are essential for maintaining grid stability in low-carbon power systems, such as wind power plants, by providing real-time alerts to control room operators regarding potential events, including Wind Power Ramp Events (WPREs). These early warnings enable the timely initiation of more detailed system stability assessments and preventive actions. However, forecasting these events is challenging due to the inherent class imbalance in WPRE datasets, where ramp events are less frequent (typically less than 15\\% of observed events) compared to normal conditions. Ignoring this characteristic undermines the performance of conventional machine learning models, which often favor the majority class. This paper introduces a novel methodology for WPRE forecasting as a multivariate time series classification task and proposes a data preprocessing strategy that extracts features from recent power observations and masks unavailable ramp information, making it integrable with traditional real-time ramp identification tools. Particularly, the proposed methodology combines majority-class undersampling and ensemble learning to enhance wind ramp event forecasting under class imbalance. Numerical simulations conducted on a real-world dataset demonstrate the superiority of our approach, achieving over 85% accuracy and 88% weighted F1 score, outperforming benchmark classifiers.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22326",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22326v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880453"
+}

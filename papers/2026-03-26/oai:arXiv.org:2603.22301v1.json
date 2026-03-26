@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22301v1",
+  "title": "Latent Semantic Manifolds in Large Language Models",
+  "authors": "Mohamed A. Mabrok",
+  "summary": "arXiv:2603.22301v1 Announce Type: new \nAbstract: Large Language Models (LLMs) perform internal computations in continuous vector spaces yet produce discrete tokens -- a fundamental mismatch whose geometric consequences remain poorly understood. We develop a mathematical framework that interprets LLM hidden states as points on a latent semantic manifold: a Riemannian submanifold equipped with the Fisher information metric, where tokens correspond to Voronoi regions partitioning the manifold. We define the expressibility gap, a geometric measure of the semantic distortion from vocabulary discretization, and prove two theorems: a rate-distortion lower bound on distortion for any finite vocabulary, and a linear volume scaling law for the expressibility gap via the coarea formula. We validate these predictions across six transformer architectures (124M-1.5B parameters), confirming universal hourglass intrinsic dimension profiles, smooth curvature structure, and linear gap scaling with slopes 0.87-1.12 (R^2 > 0.985). The margin distribution across models reveals a persistent hard core of boundary-proximal representations invariant to scale, providing a geometric decomposition of perplexity. We discuss implications for architecture design, model compression, decoding strategies, and scaling laws",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22301",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22301v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880361"
+}

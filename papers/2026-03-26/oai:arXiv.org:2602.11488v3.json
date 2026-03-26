@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2602.11488v3",
+  "title": "When Audio-LLMs Don't Listen: A Cross-Linguistic Study of Modality Arbitration",
+  "authors": "Jayadev Billa",
+  "summary": "arXiv:2602.11488v3 Announce Type: replace-cross \nAbstract: When audio and text conflict, speech-enabled language models follow text far more often than they do when arbitrating between two conflicting text sources, even under explicit instructions to trust the audio. We introduce ALME (Audio-LLM Modality Evaluation), a dataset of 57,602 controlled audio-text conflict stimuli across eight languages, together with Text Dominance Ratio (TDR), which measures how often a model follows conflicting text when instructed to follow audio. Gemini 2.0 Flash and GPT-4o show TDR 10--26$\\times$ higher than a baseline that replaces audio with its transcript under otherwise identical conditions (Gemini 2.0 Flash: 16.6% vs. 1.6%; GPT-4o: 23.2% vs. 0.9%). These results suggest that text dominance reflects not only information content, but also an asymmetry in arbitration accessibility, i.e., how easily the model can use competing representations at decision time. Framing the transcript as deliberately corrupted reduces TDR by 80%, whereas forcing explicit transcription increases it by 14%. A fine-tuning ablation further suggests that arbitration behavior depends more on LLM reasoning than on the audio input path alone. Across four audio-LLMs, we observe the same qualitative pattern with substantial cross-model and cross-linguistic variation.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2602.11488",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2602.11488v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524617"
+}

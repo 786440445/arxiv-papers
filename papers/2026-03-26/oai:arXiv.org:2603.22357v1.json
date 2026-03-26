@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22357v1",
+  "title": "Bridging neuroscience and AI: adaptive, culturally sensitive technologies transforming aphasia rehabilitation",
+  "authors": "Andreea I. Niculescu, Jochen Ehnes, Minghui Dong",
+  "summary": "arXiv:2603.22357v1 Announce Type: cross \nAbstract: Aphasia, a language impairment primarily resulting from stroke or brain injury, profoundly disrupts communication and everyday functioning. Despite advances in speech therapy, barriers such as limited therapist availability and the scarcity of personalized, culturally relevant tools continue to hinder optimal rehabilitation outcomes. This paper reviews recent developments in neurocognitive research and language technologies that contribute to the diagnosis and therapy of aphasia. Drawing on findings from our ethnographic field study, we introduce two digital therapy prototypes designed to reflect local linguistic diversity and enhance patient engagement. We also show how insights from neuroscience and the local context guided the design of these tools to better meet patient and therapist needs. Our work highlights the potential of adaptive, AI-enhanced assistive technologies to complement conventional therapy and broaden access to therapy. We conclude by outlining future research directions for advancing personalized and scalable aphasia rehabilitation.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22357",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22357v1.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.120481"
+}

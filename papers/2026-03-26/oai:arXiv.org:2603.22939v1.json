@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22939v1",
+  "title": "FixationFormer: Direct Utilization of Expert Gaze Trajectories for Chest X-Ray Classification",
+  "authors": "Daniel Beckmann, Benjamin Risse",
+  "summary": "arXiv:2603.22939v1 Announce Type: cross \nAbstract: Expert eye movements provide a rich, passive source of domain knowledge in radiology, offering a powerful cue for integrating diagnostic reasoning into computer-aided analysis. However, direct integration into CNN-based systems, which historically have dominated the medical image analysis domain, is challenging: gaze recordings are sequential, temporally dense yet spatially sparse, noisy, and variable across experts. As a consequence, most existing image-based models utilize reduced representations such as heatmaps. In contrast, gaze naturally aligns with transformer architectures, as both are sequential in nature and rely on attention to highlight relevant input regions. In this work, we introduce FixationFormer, a transformer-based architecture that represents expert gaze trajectories as sequences of tokens, thereby preserving their temporal and spatial structure. By modeling gaze sequences jointly with image features, our approach addresses sparsity and variability in gaze data while enabling a more direct and fine-grained integration of expert diagnostic cues through explicit cross-attention between the image and gaze token sequences. We evaluate our method on three publicly available benchmark chest X-ray datasets and demonstrate that it achieves state-of-the-art classification performance, highlighting the value of representing gaze as a sequence in transformer-based medical image analysis.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22939",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22939v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881033"
+}

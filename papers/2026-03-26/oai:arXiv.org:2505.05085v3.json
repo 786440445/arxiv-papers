@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.05085v3",
+  "title": "Learning dynamically inspired bases for Koopman and transfer operator approximation",
+  "authors": "Gary Froyland, Kevin K\\\"uhl",
+  "summary": "arXiv:2505.05085v3 Announce Type: replace-cross \nAbstract: Transfer and Koopman operator methods offer a framework for representing complex, nonlinear dynamical systems via linear transformations, enabling a deeper understanding of the underlying dynamics. The spectra of these operators provide important insights into system predictability and emergent behaviour, although efficiently estimating them from data can be challenging. We approach this issue through the lens of general operator and representational learning, in which we approximate these linear operators using efficient finite-dimensional representations. Specifically, we machine-learn orthonormal basis functions that are dynamically tailored to the system. This learned basis provides a particularly accurate approximation of the operator's action and enables efficient recovery of eigenfunctions and invariant measures. We illustrate our approach with examples that showcase the retrieval of spectral properties from the estimated operator, and emphasise the dynamically adaptive quality of the machine-learned basis.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.05085",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.05085v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881588"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2501.01921v3",
+  "title": "Structural and Statistical Audio Texture Knowledge Distillation for Acoustic Classification",
+  "authors": "Jarin Ritu, Amirmohammad Mohammadi, Davelle Carreiro, Alexandra Van Dine, Joshua Peeples",
+  "summary": "arXiv:2501.01921v3 Announce Type: replace \nAbstract: While knowledge distillation has shown success in various audio tasks, its application to environmental sound classification often overlooks essential low-level audio texture features needed to capture local patterns in complex acoustic environments. To address this gap, the Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) framework is proposed, which combines high-level contextual information with low-level structural and statistical audio textures extracted from intermediate layers. To evaluate its generalizability across diverse acoustic domains, SSATKD is tested on four datasets within the environmental sound classification domain, including two passive sonar datasets (DeepShip and Vessel Type Underwater Acoustic Data (VTUAD)) and two general environmental sound datasets (Environmental Sound Classification 50 (ESC-50) and Tampere University of Technology (TUT) Acoustic Scenes). Two teacher adaptation strategies are explored: classifier-head-only adaptation and full fine-tuning. The framework is further evaluated using various convolutional and transformer-based teacher models. Experimental results demonstrate consistent accuracy improvements across all datasets and settings, confirming the effectiveness and robustness of SSATKD in real-world sound classification tasks.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2501.01921",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2501.01921v3.pdf",
+  "category": "cs.SD",
+  "fetched_at": "2026-03-26T11:03:03.524573"
+}

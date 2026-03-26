@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2603.22328v1",
+  "title": "Beyond the Mean: Distribution-Aware Loss Functions for Bimodal Regression",
+  "authors": "Abolfazl Mohammadi-Seif, Carlos Soares, Rita P. Ribeiro, Ricardo Baeza-Yates",
+  "summary": "arXiv:2603.22328v1 Announce Type: new \nAbstract: Despite the strong predictive performance achieved by machine learning models across many application domains, assessing their trustworthiness through reliable estimates of predictive confidence remains a critical challenge. This issue arises in scenarios where the likelihood of error inferred from learned representations follows a bimodal distribution, resulting from the coexistence of confident and ambiguous predictions. Standard regression approaches often struggle to adequately express this predictive uncertainty, as they implicitly assume unimodal Gaussian noise, leading to mean-collapse behavior in such settings. Although Mixture Density Networks (MDNs) can represent different distributions, they suffer from severe optimization instability. We propose a family of distribution-aware loss functions integrating normalized RMSE with Wasserstein and Cram\\'er distances. When applied to standard deep regression models, our approach recovers bimodal distributions without the volatility of mixture models. Validated across four experimental stages, our results show that the proposed Wasserstein loss establishes a new Pareto efficiency frontier: matching the stability of standard regression losses like MSE in unimodal tasks while reducing Jensen-Shannon Divergence by 45% on complex bimodal datasets. Our framework strictly dominates MDNs in both fidelity and robustness, offering a reliable tool for aleatoric uncertainty estimation in trustworthy AI systems.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2603.22328",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2603.22328v1.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.880458"
+}

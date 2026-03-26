@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2511.09211v3",
+  "title": "Parameter-Free Clustering via Self-Supervised Consensus Maximization (Extended Version)",
+  "authors": "Lijun Zhang, Suyuan Liu, Siwei Wang, Shengju Yu, Xueling Zhu, Miaomiao Li, Xinwang Liu",
+  "summary": "arXiv:2511.09211v3 Announce Type: replace \nAbstract: Clustering is a fundamental task in unsupervised learning, but most existing methods heavily rely on hyperparameters such as the number of clusters or other sensitive settings, limiting their applicability in real-world scenarios. To address this long-standing challenge, we propose a novel and fully parameter-free clustering framework via Self-supervised Consensus Maximization, named SCMax. Our framework performs hierarchical agglomerative clustering and cluster evaluation in a single, integrated process. At each step of agglomeration, it creates a new, structure-aware data representation through a self-supervised learning task guided by the current clustering structure. We then introduce a nearest neighbor consensus score, which measures the agreement between the nearest neighbor-based merge decisions suggested by the original representation and the self-supervised one. The moment at which consensus maximization occurs can serve as a criterion for determining the optimal number of clusters. Extensive experiments on multiple datasets demonstrate that the proposed framework outperforms existing clustering approaches designed for scenarios with an unknown number of clusters.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2511.09211",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2511.09211v3.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881349"
+}

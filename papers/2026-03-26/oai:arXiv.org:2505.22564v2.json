@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2505.22564v2",
+  "title": "PRISM: Video Dataset Condensation with Progressive Refinement and Insertion for Sparse Motion",
+  "authors": "Jaehyun Choi, Jiwan Hur, Gyojin Han, Jaemyung Yu, Junmo Kim",
+  "summary": "arXiv:2505.22564v2 Announce Type: replace-cross \nAbstract: Video dataset condensation aims to reduce the immense computational cost of video processing. However, it faces a fundamental challenge regarding the inseparable interdependence between spatial appearance and temporal dynamics. Prior work follows a static/dynamic disentanglement paradigm where videos are decomposed into static content and auxiliary motion signals. This multi-stage approach often misrepresents the intrinsic coupling of real-world actions. We introduce Progressive Refinement and Insertion for Sparse Motion (PRISM), a holistic approach that treats the video as a unified and fully coupled spatiotemporal structure from the outset. To maximize representational efficiency, PRISM addresses the inherent temporal redundancy of video by avoiding fixed-frame optimization. It begins with minimal temporal anchors and progressively inserts key-frames only where linear interpolation fails to capture non-linear dynamics. These critical moments are identified through gradient misalignments. Such an adaptive process ensures that representational capacity is allocated precisely where needed, minimizing storage requirements while preserving complex motion. Extensive experiments demonstrate that PRISM achieves competitive performance across standard benchmarks while providing state-of-the-art storage efficiency through its sparse and holistically learned representation.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2505.22564",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2505.22564v2.pdf",
+  "category": "cs.LG",
+  "fetched_at": "2026-03-26T11:04:36.881597"
+}

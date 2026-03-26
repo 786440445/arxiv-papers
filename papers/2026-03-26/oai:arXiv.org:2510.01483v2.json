@@ -1,0 +1,11 @@
+{
+  "id": "oai:arXiv.org:2510.01483v2",
+  "title": "VL-KnG: Persistent Spatiotemporal Knowledge Graphs from Egocentric Video for Embodied Scene Understanding",
+  "authors": "Mohamad Al Mdfaa, Svetlana Lukina, Timur Akhtyamov, Arthur Nigmatzyanov, Dmitrii Nalberskii, Sergey Zagoruyko, Gonzalo Ferrer",
+  "summary": "arXiv:2510.01483v2 Announce Type: replace-cross \nAbstract: Vision-language models (VLMs) demonstrate strong image-level scene understanding but often lack persistent memory, explicit spatial representations, and computational efficiency when reasoning over long video sequences. We present VL-KnG, a training-free framework that constructs spatiotemporal knowledge graphs from monocular video, bridging fine-grained scene graphs and global topological graphs without 3D reconstruction. VL-KnG processes video in chunks, maintains persistent object identity via LLM-based Spatiotemporal Object Association (STOA), and answers queries via Graph-Enhanced Retrieval (GER), a hybrid of GraphRAG subgraph retrieval and SigLIP2 visual grounding. Once built, the knowledge graph eliminates the need to re-process video at query time, enabling constant-time inference regardless of video length. Evaluation across three benchmarks, OpenEQA, NaVQA, and WalkieKnowledge (our newly introduced benchmark), shows that VL-KnG matches or surpasses frontier VLMs on embodied scene understanding tasks at significantly lower query latency, with explainable, graph-grounded reasoning. Real-world robot deployment confirms practical applicability with constant-time scaling.",
+  "published": "Wed, 25 Mar 2026 00:00:00 -0400",
+  "link": "https://arxiv.org/abs/2510.01483",
+  "pdf": "https://arxiv.org/pdf/oai:arXiv.org:2510.01483v2.pdf",
+  "category": "cs.AI",
+  "fetched_at": "2026-03-26T11:05:14.121342"
+}
